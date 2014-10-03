@@ -19,6 +19,13 @@ vehicles
 		(13) Doors
 		(14) Engine
 		(15) Drive
+		(16) Cost
+		(17) Contact
+			(1) Name
+			(2) Type
+			(3) Phone
+			(4) Location
+			(5) Commission
 	(2) Motorcycle
 	(3) Boats
 	
