@@ -1,0 +1,24 @@
+vehicles
+	(1) Cars
+		(1) Year
+		(2) Name
+		(3) Make
+		(4) Miles
+			(1) Odometer Reader
+			(2) Miles since last user.
+		(5) Mileage
+		(6) Color
+			(1) Exterior Color
+			(2) Interior Color
+		(7) Location
+		(8) Number of Owners
+		(9) Body Style
+		(10) VIN
+		(11) Transmission type
+		(12) Fuel
+		(13) Doors
+		(14) Engine
+		(15) Drive
+	(2) Motorcycle
+	(3) Boats
+	
