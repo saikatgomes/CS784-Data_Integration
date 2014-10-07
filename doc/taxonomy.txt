@@ -12,12 +12,12 @@ vehicles
 			(2) Interior Color - String (color)
 		(7) Location - String (Adress, e.g. Madison, Wi)
 		(8) Number of Owners - Number
-		(9) Body Style - String, <??>
+		(9) Body Style - String, <e.g. Coup, SUV>
 		(10) VIN - String, "Modern day VINs consist of 17 characters that do not include the letters I, O or Q"
 		(11) Transmission type - Mannual/Auto
 		(12) Fuel - Gas/Diesel
 		(13) Doors - 2/4
-		(14) Engine - ??
+		(14) Engine - String, e.g V6, V8
 		(15) Drive - FWD/RWD/AWD
 		(16) Cost - $Number 
 		(17) Contact
@@ -25,7 +25,7 @@ vehicles
 			(2) Type - ?? (Individual/ Agency)
 			(3) Phone - Phone number (10 digit)
 			(4) Location - String (Address)
-			(5) Commission - ??
+			(5) Commission - ?? percentage
 	(2) Motorcycle
 	(3) Boats
 	
