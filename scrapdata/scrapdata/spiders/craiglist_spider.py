@@ -8,7 +8,7 @@ class CraglistSpider(scrapy.Spider):
     ]
 
     def parse(self, response):
-        for sel in response.xpath('//ul/li'):
+        for sel in response.xpath('//p[/li'):
             title = sel.xpath('a/text()').extract()
             link = sel.xpath('a/@href').extract()
             desc = sel.xpath('text()').extract()
