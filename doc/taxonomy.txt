@@ -1,5 +1,6 @@
 vehicles
 	(1) Cars
+		(0) id - in craiglist
 		(1) Year - year, 4-digit number
 		(2) Name - String
 		(3) Make - String
