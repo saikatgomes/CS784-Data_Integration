@@ -1,31 +1,31 @@
 vehicles
 	(1) Cars
-		(1) Year
-		(2) Name
-		(3) Make
+		(1) Year - year, 4-digit number
+		(2) Name - String
+		(3) Make - String
 		(4) Miles
-			(1) Odometer Reader
-			(2) Miles since last user.
-		(5) Mileage
+			(1) Odometer Reader - Number, e.g 120K
+			(2) Miles since last user. - Number
+		(5) Mileage - Number, 22 mi/gal
 		(6) Color
-			(1) Exterior Color
-			(2) Interior Color
-		(7) Location
-		(8) Number of Owners
-		(9) Body Style
-		(10) VIN
-		(11) Transmission type
-		(12) Fuel
-		(13) Doors
-		(14) Engine
-		(15) Drive
-		(16) Cost
+			(1) Exterior Color - String (color)
+			(2) Interior Color - String (color)
+		(7) Location - String (Adress, e.g. Madison, Wi)
+		(8) Number of Owners - Number
+		(9) Body Style - String, <??>
+		(10) VIN - String, "Modern day VINs consist of 17 characters that do not include the letters I, O or Q"
+		(11) Transmission type - Mannual/Auto
+		(12) Fuel - Gas/Diesel
+		(13) Doors - 2/4
+		(14) Engine - ??
+		(15) Drive - FWD/RWD/AWD
+		(16) Cost - $Number 
 		(17) Contact
-			(1) Name
-			(2) Type
-			(3) Phone
-			(4) Location
-			(5) Commission
+			(1) Name - String
+			(2) Type - ?? (Individual/ Agency)
+			(3) Phone - Phone number (10 digit)
+			(4) Location - String (Address)
+			(5) Commission - ??
 	(2) Motorcycle
 	(3) Boats
 	
