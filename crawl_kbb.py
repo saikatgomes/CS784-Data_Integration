@@ -5,6 +5,8 @@ from lxml import html
 import json, time
 
 base_url = "http://www.kbb.com"
+used = "/used-cars/"
+D =[]
 #base_search_url = base_url + "/search/cta"
 
 '''
@@ -28,18 +30,24 @@ def car_info(url):
 '''
 
 
-def get_all_makes(url):
+def get_all_makes(url,tp):
+    global D
     main_page=requests.get(url)
     tree = html.fromstring(main_page.text)
-    #print tree
     car_makes = []
     car_makes_links = []
     for a in tree.xpath("//ul[@class='contentlist by-make']/li"):
         car_makes.extend(a.xpath('a/text()'))
         car_makes_links.extend(a.xpath('a/@href'))
-    #print ', '.join(car_makes)
-    #print ', '.join(car_makes_links)
     print '\n'.join("%s -->  %s" %(a,b) for a,b in zip(car_makes,car_makes_links))
+    D.append({"makes":car_makes,"type":tp,"url":car_makes_links})
+
 
 if __name__ == "__main__":
-    get_all_makes(base_url)
+    get_all_makes(base_url,"new")
+    get_all_makes(base_url+used,"used");
+    with open("foo.json","w") as f:
+        json.dump({"car_makes_link": D},f,indent=2)
+
+
+
