@@ -56,7 +56,7 @@ def get_category():
     print(getTime(1)+"|> fetching car categories ...") 
     #THIS IS SHIT
     #print '\n'.join("%s -->  %s" %(a,b) for a,b in zip(X.get('makes'),X.get('url'))) 
-    for make,values in D.items()[:3]:
+    for make,values in D.items():
     #for x in range(0,1):
         u = values.get('used', '')
         if not u: continue
@@ -66,34 +66,24 @@ def get_category():
         tree = html.fromstring(new_page.text)
         values['categories'] = {}
         for a in tree.xpath("//ul[@class='browse-category']/li/span"):
-            for car_cat, car_cat_url in zip(a.xpath('a/text()'), a.xpath('a/@href')):
-                values['category'][car_cat] = car_cat_url        
+            values['categories'] = dict(zip(a.xpath('a/text()'), a.xpath('a/@href')))
         if random.randint(0,10)>8:
             time.sleep(1)
 
 def get_model():
-    global D2
+    global D
     print(getTime(1)+"|> fetching car models ...")
-    for x in range(0,len(D2)):
-    #for x in range(0,1):
-        X=D2[x]
-        c_name=X.get('company')
-        cat=X.get('cat')
-        url=X.get('url')
-        print(getTime(1)+"|>> crawling for models of "+c_name)
-        for y in range(0,len(cat)):
-            newUrl=base_url+url[y]
-            print(getTime(1)+"|>>> crawling for models of "+c_name+" category="+cat[y]+" ["+url[y]+"]")
+    for make, v in D.items():
+        print(getTime(1)+"|>> crawling for models of "+make)
+        for cat, cat_url in v['categories'].items():
+            newUrl=base_url+ cat_url
+            print(getTime(1)+"|>>> crawling for models of "+make+" category="+cat+" ["+cat_url+"]")
             new_page=requests.get(newUrl)
             tree=html.fromstring(new_page.text)
-            model =[]
-            model_url=[]
+            cat_dict = {}
             for a in tree.xpath("//div[@id='Make-category']/div[@class='collapse']/div/div/span[@class='left']"):
-                model.extend(a.xpath('a/text()'))
-                model_url.extend(a.xpath('a/@href'))
-            D3.append({'company':c_name,'cat':cat[y],'model':model,'url':model_url})
-            #print '\n'.join("%s -->  %s" %(a,b) for a,b in zip(model,model_url)) 
-            print '\n              |>>>> '.join(model)
+                            v['categories'][cat] = dict(zip(a.xpath('a/text()'), a.xpath('a/@href')))
+        if random.randint(0,10)>8:
             time.sleep(1)
 
 def get_year():
@@ -131,6 +121,7 @@ if __name__ == "__main__":
     with open(fileName,"w") as f:
         json.dump(D,f,indent=2)
     get_category()
+    get_model()
     print json.dumps(D, indent=2, sort_keys= True)
     # fileName = 'data/kbb_dict2_'+ts+'.json'
     # with open(fileName,"w") as f2:
