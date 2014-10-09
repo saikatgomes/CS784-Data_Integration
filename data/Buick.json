@@ -1,0 +1,2812 @@
+{
+  "car": [
+    {
+      "category": "Coupes", 
+      "url": "/buick/regal/1996-buick-regal/custom-coupe-2d/options/?vehicleid=8614&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "Custom Coupe 2D", 
+      "year": "1996", 
+      "model": "Regal", 
+      "car_id": "8614"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/buick/regal/1996-buick-regal/gran-sport-coupe-2d/options/?vehicleid=8623&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "Gran Sport Coupe 2D", 
+      "year": "1996", 
+      "model": "Regal", 
+      "car_id": "8623"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/buick/regal/1995-buick-regal/gran-sport-coupe-2d/options/?vehicleid=7260&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "Gran Sport Coupe 2D", 
+      "year": "1995", 
+      "model": "Regal", 
+      "car_id": "7260"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/buick/regal/1995-buick-regal/custom-coupe-2d/options/?vehicleid=7250&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "Custom Coupe 2D", 
+      "year": "1995", 
+      "model": "Regal", 
+      "car_id": "7250"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/buick/regal/1994-buick-regal/custom-coupe-2d/options/?vehicleid=8674&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "Custom Coupe 2D", 
+      "year": "1994", 
+      "model": "Regal", 
+      "car_id": "8674"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/buick/regal/1994-buick-regal/gran-sport-coupe-2d/options/?vehicleid=8676&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "Gran Sport Coupe 2D", 
+      "year": "1994", 
+      "model": "Regal", 
+      "car_id": "8676"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/buick/riviera/1999-buick-riviera/coupe-2d/options/?vehicleid=5105&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "coupe-2d", 
+      "year": "1999", 
+      "model": "Riviera", 
+      "car_id": "5105"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/buick/riviera/1998-buick-riviera/coupe-2d/options/?vehicleid=6202&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "coupe-2d", 
+      "year": "1998", 
+      "model": "Riviera", 
+      "car_id": "6202"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/buick/riviera/1997-buick-riviera/coupe-2d/options/?vehicleid=7342&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "coupe-2d", 
+      "year": "1997", 
+      "model": "Riviera", 
+      "car_id": "7342"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/buick/riviera/1996-buick-riviera/coupe-2d/options/?vehicleid=8628&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "coupe-2d", 
+      "year": "1996", 
+      "model": "Riviera", 
+      "car_id": "8628"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/buick/riviera/1995-buick-riviera/coupe-2d/options/?vehicleid=7266&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "coupe-2d", 
+      "year": "1995", 
+      "model": "Riviera", 
+      "car_id": "7266"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/buick/skylark/1997-buick-skylark/custom-coupe-2d/options/?vehicleid=7352&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "custom-coupe-2d", 
+      "year": "1997", 
+      "model": "Skylark", 
+      "car_id": "7352"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/buick/skylark/1996-buick-skylark/custom-coupe-2d/options/?vehicleid=8632&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "custom-coupe-2d", 
+      "year": "1996", 
+      "model": "Skylark", 
+      "car_id": "8632"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/buick/skylark/1995-buick-skylark/custom-coupe-2d/options/?vehicleid=7269&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "custom-coupe-2d", 
+      "year": "1995", 
+      "model": "Skylark", 
+      "car_id": "7269"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/buick/skylark/1994-buick-skylark/custom-coupe-2d/options/?vehicleid=8691&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "Custom Coupe 2D", 
+      "year": "1994", 
+      "model": "Skylark", 
+      "car_id": "8691"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/buick/skylark/1994-buick-skylark/gran-sport-coupe-2d/options/?vehicleid=8692&intent=buy-used&category=coupe", 
+      "make": "Buick", 
+      "sub_cat": "Gran Sport Coupe 2D", 
+      "year": "1994", 
+      "model": "Skylark", 
+      "car_id": "8692"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2014-buick-enclave/convenience-sport-utility-4d/options/?vehicleid=390688&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Convenience Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Enclave", 
+      "car_id": "390688"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2014-buick-enclave/leather-sport-utility-4d/options/?vehicleid=390695&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Enclave", 
+      "car_id": "390695"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2014-buick-enclave/premium-sport-utility-4d/options/?vehicleid=390692&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Premium Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Enclave", 
+      "car_id": "390692"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2013-buick-enclave/convenience-sport-utility-4d/options/?vehicleid=382007&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Convenience Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Enclave", 
+      "car_id": "382007"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2013-buick-enclave/leather-sport-utility-4d/options/?vehicleid=382004&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Enclave", 
+      "car_id": "382004"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2013-buick-enclave/premium-sport-utility-4d/options/?vehicleid=382008&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Premium Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Enclave", 
+      "car_id": "382008"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2012-buick-enclave/sport-utility-4d/options/?vehicleid=366073&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Enclave", 
+      "car_id": "366073"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2012-buick-enclave/convenience-sport-utility-4d/options/?vehicleid=366075&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Convenience Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Enclave", 
+      "car_id": "366075"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2012-buick-enclave/leather-sport-utility-4d/options/?vehicleid=366076&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Enclave", 
+      "car_id": "366076"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2012-buick-enclave/premium-sport-utility-4d/options/?vehicleid=366074&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Premium Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Enclave", 
+      "car_id": "366074"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2011-buick-enclave/cx-sport-utility-4d/options/?vehicleid=352546&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Enclave", 
+      "car_id": "352546"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2011-buick-enclave/cxl-sport-utility-4d/options/?vehicleid=352539&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Enclave", 
+      "car_id": "352539"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2010-buick-enclave/cx-sport-utility-4d/options/?vehicleid=252337&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2010", 
+      "model": "Enclave", 
+      "car_id": "252337"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2010-buick-enclave/cxl-sport-utility-4d/options/?vehicleid=349715&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2010", 
+      "model": "Enclave", 
+      "car_id": "349715"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2009-buick-enclave/cx-sport-utility-4d/options/?vehicleid=226325&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2009", 
+      "model": "Enclave", 
+      "car_id": "226325"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2009-buick-enclave/cxl-sport-utility-4d/options/?vehicleid=226324&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2009", 
+      "model": "Enclave", 
+      "car_id": "226324"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2008-buick-enclave/cx-sport-utility-4d/options/?vehicleid=196961&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2008", 
+      "model": "Enclave", 
+      "car_id": "196961"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/enclave/2008-buick-enclave/cxl-sport-utility-4d/options/?vehicleid=196958&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2008", 
+      "model": "Enclave", 
+      "car_id": "196958"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/encore/2014-buick-encore/sport-utility-4d/options/?vehicleid=391028&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Encore", 
+      "car_id": "391028"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/encore/2014-buick-encore/convenience-sport-utility-4d/options/?vehicleid=391029&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Convenience Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Encore", 
+      "car_id": "391029"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/encore/2014-buick-encore/leather-sport-utility-4d/options/?vehicleid=391030&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Encore", 
+      "car_id": "391030"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/encore/2014-buick-encore/premium-sport-utility-4d/options/?vehicleid=391031&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Premium Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Encore", 
+      "car_id": "391031"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/encore/2013-buick-encore/sport-utility-4d/options/?vehicleid=382316&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Encore", 
+      "car_id": "382316"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/encore/2013-buick-encore/convenience-sport-utility-4d/options/?vehicleid=382315&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Convenience Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Encore", 
+      "car_id": "382315"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/encore/2013-buick-encore/leather-sport-utility-4d/options/?vehicleid=382317&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Encore", 
+      "car_id": "382317"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/encore/2013-buick-encore/premium-sport-utility-4d/options/?vehicleid=382318&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Premium Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Encore", 
+      "car_id": "382318"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/rendezvous/2007-buick-rendezvous/cx-sport-utility-4d/options/?vehicleid=83500&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2007", 
+      "model": "Rendezvous", 
+      "car_id": "83500"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/rendezvous/2007-buick-rendezvous/cxl-sport-utility-4d/options/?vehicleid=83501&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2007", 
+      "model": "Rendezvous", 
+      "car_id": "83501"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/rendezvous/2006-buick-rendezvous/cx-sport-utility-4d/options/?vehicleid=97&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2006", 
+      "model": "Rendezvous", 
+      "car_id": "97"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/rendezvous/2006-buick-rendezvous/cxl-sport-utility-4d/options/?vehicleid=104&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2006", 
+      "model": "Rendezvous", 
+      "car_id": "104"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/rendezvous/2005-buick-rendezvous/cx-sport-utility-4d/options/?vehicleid=194&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2005", 
+      "model": "Rendezvous", 
+      "car_id": "194"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/rendezvous/2005-buick-rendezvous/cxl-sport-utility-4d/options/?vehicleid=198&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2005", 
+      "model": "Rendezvous", 
+      "car_id": "198"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/rendezvous/2005-buick-rendezvous/ultra-sport-utility-4d/options/?vehicleid=183&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sport Utility 4D", 
+      "year": "2005", 
+      "model": "Rendezvous", 
+      "car_id": "183"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/rendezvous/2004-buick-rendezvous/cx-sport-utility-4d/options/?vehicleid=2019&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2004", 
+      "model": "Rendezvous", 
+      "car_id": "2019"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/rendezvous/2004-buick-rendezvous/cxl-sport-utility-4d/options/?vehicleid=2024&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2004", 
+      "model": "Rendezvous", 
+      "car_id": "2024"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/rendezvous/2004-buick-rendezvous/ultra-sport-utility-4d/options/?vehicleid=2017&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sport Utility 4D", 
+      "year": "2004", 
+      "model": "Rendezvous", 
+      "car_id": "2017"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/rendezvous/2003-buick-rendezvous/cx-sport-utility-4d/options/?vehicleid=1875&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2003", 
+      "model": "Rendezvous", 
+      "car_id": "1875"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/rendezvous/2003-buick-rendezvous/cxl-sport-utility-4d/options/?vehicleid=1869&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2003", 
+      "model": "Rendezvous", 
+      "car_id": "1869"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/rendezvous/2002-buick-rendezvous/cx-sport-utility-4d/options/?vehicleid=3495&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2002", 
+      "model": "Rendezvous", 
+      "car_id": "3495"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/buick/rendezvous/2002-buick-rendezvous/cxl-awd-sport-utility-4d/options/?vehicleid=3502&intent=buy-used&category=crossover", 
+      "make": "Buick", 
+      "sub_cat": "CXL AWD Sport Utility 4D", 
+      "year": "2002", 
+      "model": "Rendezvous", 
+      "car_id": "3502"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/buick/enclave/2014-buick-enclave/leather-sport-utility-4d/options/?vehicleid=390695&intent=buy-used&category=luxury", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Enclave", 
+      "car_id": "390695"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/buick/enclave/2014-buick-enclave/premium-sport-utility-4d/options/?vehicleid=390692&intent=buy-used&category=luxury", 
+      "make": "Buick", 
+      "sub_cat": "Premium Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Enclave", 
+      "car_id": "390692"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/buick/enclave/2013-buick-enclave/leather-sport-utility-4d/options/?vehicleid=382004&intent=buy-used&category=luxury", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Enclave", 
+      "car_id": "382004"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/buick/enclave/2013-buick-enclave/premium-sport-utility-4d/options/?vehicleid=382008&intent=buy-used&category=luxury", 
+      "make": "Buick", 
+      "sub_cat": "Premium Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Enclave", 
+      "car_id": "382008"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/buick/century/2005-buick-century/sedan-4d/options/?vehicleid=161&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "sedan-4d", 
+      "year": "2005", 
+      "model": "Century", 
+      "car_id": "161"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/buick/century/2004-buick-century/sedan-4d/options/?vehicleid=2008&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "sedan-4d", 
+      "year": "2004", 
+      "model": "Century", 
+      "car_id": "2008"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/buick/century/2003-buick-century/sedan-4d/options/?vehicleid=1863&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "sedan-4d", 
+      "year": "2003", 
+      "model": "Century", 
+      "car_id": "1863"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/buick/century/2002-buick-century/custom-sedan-4d/options/?vehicleid=3480&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "custom-sedan-4d", 
+      "year": "2002", 
+      "model": "Century", 
+      "car_id": "3480"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/buick/century/2001-buick-century/custom-sedan-4d/options/?vehicleid=3816&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "custom-sedan-4d", 
+      "year": "2001", 
+      "model": "Century", 
+      "car_id": "3816"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/buick/century/2000-buick-century/custom-sedan-4d/options/?vehicleid=5440&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "custom-sedan-4d", 
+      "year": "2000", 
+      "model": "Century", 
+      "car_id": "5440"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/buick/century/1999-buick-century/custom-sedan-4d/options/?vehicleid=5089&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "custom-sedan-4d", 
+      "year": "1999", 
+      "model": "Century", 
+      "car_id": "5089"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/century/1998-buick-century/custom-sedan-4d/options/?vehicleid=6196&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "1998", 
+      "model": "Century", 
+      "car_id": "6196"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/century/1998-buick-century/limited-sedan-4d/options/?vehicleid=6198&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1998", 
+      "model": "Century", 
+      "car_id": "6198"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/century/1997-buick-century/custom-sedan-4d/options/?vehicleid=7345&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "1997", 
+      "model": "Century", 
+      "car_id": "7345"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/century/1997-buick-century/limited-sedan-4d/options/?vehicleid=7351&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1997", 
+      "model": "Century", 
+      "car_id": "7351"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/buick/century/1996-buick-century/sedan-4d/options/?vehicleid=8607&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "sedan-4d", 
+      "year": "1996", 
+      "model": "Century", 
+      "car_id": "8607"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/century/1995-buick-century/custom-sedan-4d/options/?vehicleid=7245&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "1995", 
+      "model": "Century", 
+      "car_id": "7245"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/century/1995-buick-century/special-sedan-4d/options/?vehicleid=7244&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Special Sedan 4D", 
+      "year": "1995", 
+      "model": "Century", 
+      "car_id": "7244"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/century/1994-buick-century/special-sedan-4d/options/?vehicleid=8658&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Special Sedan 4D", 
+      "year": "1994", 
+      "model": "Century", 
+      "car_id": "8658"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/century/1994-buick-century/custom-sedan-4d/options/?vehicleid=8672&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "1994", 
+      "model": "Century", 
+      "car_id": "8672"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2014-buick-lacrosse/sedan-4d/options/?vehicleid=391222&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2014", 
+      "model": "LaCrosse", 
+      "car_id": "391222"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2014-buick-lacrosse/leather-sedan-4d/options/?vehicleid=391225&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sedan 4D", 
+      "year": "2014", 
+      "model": "LaCrosse", 
+      "car_id": "391225"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2014-buick-lacrosse/premium-i-sedan-4d/options/?vehicleid=391221&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium I Sedan 4D", 
+      "year": "2014", 
+      "model": "LaCrosse", 
+      "car_id": "391221"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2014-buick-lacrosse/premium-ii-sedan-4d/options/?vehicleid=391223&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium II Sedan 4D", 
+      "year": "2014", 
+      "model": "LaCrosse", 
+      "car_id": "391223"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2013-buick-lacrosse/sedan-4d/options/?vehicleid=378423&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2013", 
+      "model": "LaCrosse", 
+      "car_id": "378423"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2013-buick-lacrosse/leather-sedan-4d/options/?vehicleid=378425&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sedan 4D", 
+      "year": "2013", 
+      "model": "LaCrosse", 
+      "car_id": "378425"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2013-buick-lacrosse/premium-i-sedan-4d/options/?vehicleid=378426&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium I Sedan 4D", 
+      "year": "2013", 
+      "model": "LaCrosse", 
+      "car_id": "378426"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2013-buick-lacrosse/premium-ii-sedan-4d/options/?vehicleid=378399&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium II Sedan 4D", 
+      "year": "2013", 
+      "model": "LaCrosse", 
+      "car_id": "378399"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2013-buick-lacrosse/touring-sedan-4d/options/?vehicleid=378401&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Touring Sedan 4D", 
+      "year": "2013", 
+      "model": "LaCrosse", 
+      "car_id": "378401"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2012-buick-lacrosse/sedan-4d/options/?vehicleid=370938&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2012", 
+      "model": "LaCrosse", 
+      "car_id": "370938"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2012-buick-lacrosse/convenience-sedan-4d/options/?vehicleid=370933&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Convenience Sedan 4D", 
+      "year": "2012", 
+      "model": "LaCrosse", 
+      "car_id": "370933"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2012-buick-lacrosse/leather-sedan-4d/options/?vehicleid=370936&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sedan 4D", 
+      "year": "2012", 
+      "model": "LaCrosse", 
+      "car_id": "370936"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2012-buick-lacrosse/premium-i-sedan-4d/options/?vehicleid=370932&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium I Sedan 4D", 
+      "year": "2012", 
+      "model": "LaCrosse", 
+      "car_id": "370932"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2012-buick-lacrosse/premium-ii-sedan-4d/options/?vehicleid=370937&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium II Sedan 4D", 
+      "year": "2012", 
+      "model": "LaCrosse", 
+      "car_id": "370937"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2012-buick-lacrosse/premium-iii-sedan-4d/options/?vehicleid=370934&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium III Sedan 4D", 
+      "year": "2012", 
+      "model": "LaCrosse", 
+      "car_id": "370934"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2012-buick-lacrosse/touring-sedan-4d/options/?vehicleid=370935&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Touring Sedan 4D", 
+      "year": "2012", 
+      "model": "LaCrosse", 
+      "car_id": "370935"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2011-buick-lacrosse/cx-sedan-4d/options/?vehicleid=352518&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CX Sedan 4D", 
+      "year": "2011", 
+      "model": "LaCrosse", 
+      "car_id": "352518"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2011-buick-lacrosse/cxl-sedan-4d/options/?vehicleid=352515&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sedan 4D", 
+      "year": "2011", 
+      "model": "LaCrosse", 
+      "car_id": "352515"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2011-buick-lacrosse/cxs-sedan-4d/options/?vehicleid=352516&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXS Sedan 4D", 
+      "year": "2011", 
+      "model": "LaCrosse", 
+      "car_id": "352516"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2010-buick-lacrosse/cx-sedan-4d/options/?vehicleid=251672&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CX Sedan 4D", 
+      "year": "2010", 
+      "model": "LaCrosse", 
+      "car_id": "251672"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2010-buick-lacrosse/cxl-sedan-4d/options/?vehicleid=251674&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sedan 4D", 
+      "year": "2010", 
+      "model": "LaCrosse", 
+      "car_id": "251674"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2010-buick-lacrosse/cxs-sedan-4d/options/?vehicleid=251676&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXS Sedan 4D", 
+      "year": "2010", 
+      "model": "LaCrosse", 
+      "car_id": "251676"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2009-buick-lacrosse/cx-sedan-4d/options/?vehicleid=226317&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CX Sedan 4D", 
+      "year": "2009", 
+      "model": "LaCrosse", 
+      "car_id": "226317"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2009-buick-lacrosse/cxl-sedan-4d/options/?vehicleid=226319&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sedan 4D", 
+      "year": "2009", 
+      "model": "LaCrosse", 
+      "car_id": "226319"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2009-buick-lacrosse/super-sedan-4d/options/?vehicleid=226320&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Super Sedan 4D", 
+      "year": "2009", 
+      "model": "LaCrosse", 
+      "car_id": "226320"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2008-buick-lacrosse/cx-sedan-4d/options/?vehicleid=196948&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CX Sedan 4D", 
+      "year": "2008", 
+      "model": "LaCrosse", 
+      "car_id": "196948"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2008-buick-lacrosse/cxl-sedan-4d/options/?vehicleid=196951&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sedan 4D", 
+      "year": "2008", 
+      "model": "LaCrosse", 
+      "car_id": "196951"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2008-buick-lacrosse/cxs-sedan-4d/options/?vehicleid=196954&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXS Sedan 4D", 
+      "year": "2008", 
+      "model": "LaCrosse", 
+      "car_id": "196954"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2008-buick-lacrosse/super-sedan-4d/options/?vehicleid=196955&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Super Sedan 4D", 
+      "year": "2008", 
+      "model": "LaCrosse", 
+      "car_id": "196955"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2007-buick-lacrosse/cx-sedan-4d/options/?vehicleid=83497&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CX Sedan 4D", 
+      "year": "2007", 
+      "model": "LaCrosse", 
+      "car_id": "83497"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2007-buick-lacrosse/cxl-sedan-4d/options/?vehicleid=83491&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sedan 4D", 
+      "year": "2007", 
+      "model": "LaCrosse", 
+      "car_id": "83491"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2007-buick-lacrosse/cxs-sedan-4d/options/?vehicleid=83495&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXS Sedan 4D", 
+      "year": "2007", 
+      "model": "LaCrosse", 
+      "car_id": "83495"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2006-buick-lacrosse/cx-sedan-4d/options/?vehicleid=87&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CX Sedan 4D", 
+      "year": "2006", 
+      "model": "LaCrosse", 
+      "car_id": "87"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2006-buick-lacrosse/cxl-sedan-4d/options/?vehicleid=89&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sedan 4D", 
+      "year": "2006", 
+      "model": "LaCrosse", 
+      "car_id": "89"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2006-buick-lacrosse/cxs-sedan-4d/options/?vehicleid=92&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXS Sedan 4D", 
+      "year": "2006", 
+      "model": "LaCrosse", 
+      "car_id": "92"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2005-buick-lacrosse/cx-sedan-4d/options/?vehicleid=167&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CX Sedan 4D", 
+      "year": "2005", 
+      "model": "LaCrosse", 
+      "car_id": "167"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2005-buick-lacrosse/cxl-sedan-4d/options/?vehicleid=168&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sedan 4D", 
+      "year": "2005", 
+      "model": "LaCrosse", 
+      "car_id": "168"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lacrosse/2005-buick-lacrosse/cxs-sedan-4d/options/?vehicleid=171&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXS Sedan 4D", 
+      "year": "2005", 
+      "model": "LaCrosse", 
+      "car_id": "171"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/2005-buick-lesabre/custom-sedan-4d/options/?vehicleid=174&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "2005", 
+      "model": "LeSabre", 
+      "car_id": "174"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/2005-buick-lesabre/limited-sedan-4d/options/?vehicleid=177&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "2005", 
+      "model": "LeSabre", 
+      "car_id": "177"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/2004-buick-lesabre/custom-sedan-4d/options/?vehicleid=2005&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "2004", 
+      "model": "LeSabre", 
+      "car_id": "2005"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/2004-buick-lesabre/limited-sedan-4d/options/?vehicleid=2009&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "2004", 
+      "model": "LeSabre", 
+      "car_id": "2009"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/2003-buick-lesabre/custom-sedan-4d/options/?vehicleid=1868&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "2003", 
+      "model": "LeSabre", 
+      "car_id": "1868"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/2003-buick-lesabre/limited-sedan-4d/options/?vehicleid=1862&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "2003", 
+      "model": "LeSabre", 
+      "car_id": "1862"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/2002-buick-lesabre/custom-sedan-4d/options/?vehicleid=3487&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "2002", 
+      "model": "LeSabre", 
+      "car_id": "3487"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/2002-buick-lesabre/limited-sedan-4d/options/?vehicleid=3494&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "2002", 
+      "model": "LeSabre", 
+      "car_id": "3494"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/2001-buick-lesabre/custom-sedan-4d/options/?vehicleid=3824&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "2001", 
+      "model": "LeSabre", 
+      "car_id": "3824"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/2001-buick-lesabre/limited-sedan-4d/options/?vehicleid=3828&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "2001", 
+      "model": "LeSabre", 
+      "car_id": "3828"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/2000-buick-lesabre/custom-sedan-4d/options/?vehicleid=5443&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "2000", 
+      "model": "LeSabre", 
+      "car_id": "5443"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/2000-buick-lesabre/limited-sedan-4d/options/?vehicleid=5450&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "2000", 
+      "model": "LeSabre", 
+      "car_id": "5450"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/1999-buick-lesabre/custom-sedan-4d/options/?vehicleid=5093&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "1999", 
+      "model": "LeSabre", 
+      "car_id": "5093"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/1999-buick-lesabre/limited-sedan-4d/options/?vehicleid=5091&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1999", 
+      "model": "LeSabre", 
+      "car_id": "5091"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/1998-buick-lesabre/custom-sedan-4d/options/?vehicleid=6199&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "1998", 
+      "model": "LeSabre", 
+      "car_id": "6199"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/1998-buick-lesabre/limited-sedan-4d/options/?vehicleid=6206&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1998", 
+      "model": "LeSabre", 
+      "car_id": "6206"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/1997-buick-lesabre/custom-sedan-4d/options/?vehicleid=7343&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "1997", 
+      "model": "LeSabre", 
+      "car_id": "7343"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/1997-buick-lesabre/limited-sedan-4d/options/?vehicleid=7350&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1997", 
+      "model": "LeSabre", 
+      "car_id": "7350"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/1996-buick-lesabre/custom-sedan-4d/options/?vehicleid=8608&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "1996", 
+      "model": "LeSabre", 
+      "car_id": "8608"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/1996-buick-lesabre/limited-sedan-4d/options/?vehicleid=8615&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1996", 
+      "model": "LeSabre", 
+      "car_id": "8615"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/1995-buick-lesabre/custom-sedan-4d/options/?vehicleid=7249&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "1995", 
+      "model": "LeSabre", 
+      "car_id": "7249"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/1995-buick-lesabre/limited-sedan-4d/options/?vehicleid=7243&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1995", 
+      "model": "LeSabre", 
+      "car_id": "7243"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/1994-buick-lesabre/custom-sedan-4d/options/?vehicleid=8659&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "1994", 
+      "model": "LeSabre", 
+      "car_id": "8659"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lesabre/1994-buick-lesabre/limited-sedan-4d/options/?vehicleid=8667&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1994", 
+      "model": "LeSabre", 
+      "car_id": "8667"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2011-buick-lucerne/cx-sedan-4d/options/?vehicleid=352534&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CX Sedan 4D", 
+      "year": "2011", 
+      "model": "Lucerne", 
+      "car_id": "352534"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2011-buick-lucerne/cxl-sedan-4d/options/?vehicleid=352828&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sedan 4D", 
+      "year": "2011", 
+      "model": "Lucerne", 
+      "car_id": "352828"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2011-buick-lucerne/cxl-premium-sedan-4d/options/?vehicleid=352838&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Premium Sedan 4D", 
+      "year": "2011", 
+      "model": "Lucerne", 
+      "car_id": "352838"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2011-buick-lucerne/super-sedan-4d/options/?vehicleid=352829&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Super Sedan 4D", 
+      "year": "2011", 
+      "model": "Lucerne", 
+      "car_id": "352829"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2010-buick-lucerne/cx-sedan-4d/options/?vehicleid=252339&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CX Sedan 4D", 
+      "year": "2010", 
+      "model": "Lucerne", 
+      "car_id": "252339"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2010-buick-lucerne/cxl-sedan-4d/options/?vehicleid=252335&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sedan 4D", 
+      "year": "2010", 
+      "model": "Lucerne", 
+      "car_id": "252335"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2010-buick-lucerne/cxl-special-edition-sedan-4d/options/?vehicleid=252336&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Special Edition Sedan 4D", 
+      "year": "2010", 
+      "model": "Lucerne", 
+      "car_id": "252336"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2010-buick-lucerne/cxl-premium-sedan-4d/options/?vehicleid=263849&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Premium Sedan 4D", 
+      "year": "2010", 
+      "model": "Lucerne", 
+      "car_id": "263849"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2010-buick-lucerne/super-sedan-4d/options/?vehicleid=252340&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Super Sedan 4D", 
+      "year": "2010", 
+      "model": "Lucerne", 
+      "car_id": "252340"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2009-buick-lucerne/cx-sedan-4d/options/?vehicleid=226321&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CX Sedan 4D", 
+      "year": "2009", 
+      "model": "Lucerne", 
+      "car_id": "226321"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2009-buick-lucerne/cxl-sedan-4d/options/?vehicleid=226322&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sedan 4D", 
+      "year": "2009", 
+      "model": "Lucerne", 
+      "car_id": "226322"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2009-buick-lucerne/cxl-special-edition-sedan-4d/options/?vehicleid=237116&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Special Edition Sedan 4D", 
+      "year": "2009", 
+      "model": "Lucerne", 
+      "car_id": "237116"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2009-buick-lucerne/super-sedan-4d/options/?vehicleid=230063&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Super Sedan 4D", 
+      "year": "2009", 
+      "model": "Lucerne", 
+      "car_id": "230063"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2008-buick-lucerne/cx-sedan-4d/options/?vehicleid=196956&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CX Sedan 4D", 
+      "year": "2008", 
+      "model": "Lucerne", 
+      "car_id": "196956"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2008-buick-lucerne/cxl-sedan-4d/options/?vehicleid=196957&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sedan 4D", 
+      "year": "2008", 
+      "model": "Lucerne", 
+      "car_id": "196957"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2008-buick-lucerne/cxl-special-edition-sedan-4d/options/?vehicleid=348262&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Special Edition Sedan 4D", 
+      "year": "2008", 
+      "model": "Lucerne", 
+      "car_id": "348262"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2008-buick-lucerne/cxs-sedan-4d/options/?vehicleid=196959&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXS Sedan 4D", 
+      "year": "2008", 
+      "model": "Lucerne", 
+      "car_id": "196959"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2008-buick-lucerne/super-sedan-4d/options/?vehicleid=230065&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Super Sedan 4D", 
+      "year": "2008", 
+      "model": "Lucerne", 
+      "car_id": "230065"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2007-buick-lucerne/cx-sedan-4d/options/?vehicleid=83498&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CX Sedan 4D", 
+      "year": "2007", 
+      "model": "Lucerne", 
+      "car_id": "83498"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2007-buick-lucerne/cxl-sedan-4d/options/?vehicleid=83493&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sedan 4D", 
+      "year": "2007", 
+      "model": "Lucerne", 
+      "car_id": "83493"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2007-buick-lucerne/cxs-sedan-4d/options/?vehicleid=83496&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXS Sedan 4D", 
+      "year": "2007", 
+      "model": "Lucerne", 
+      "car_id": "83496"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2006-buick-lucerne/cx-sedan-4d/options/?vehicleid=100&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CX Sedan 4D", 
+      "year": "2006", 
+      "model": "Lucerne", 
+      "car_id": "100"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2006-buick-lucerne/cxl-sedan-4d/options/?vehicleid=91&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sedan 4D", 
+      "year": "2006", 
+      "model": "Lucerne", 
+      "car_id": "91"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/lucerne/2006-buick-lucerne/cxs-sedan-4d/options/?vehicleid=98&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXS Sedan 4D", 
+      "year": "2006", 
+      "model": "Lucerne", 
+      "car_id": "98"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/2005-buick-park-avenue/sedan-4d/options/?vehicleid=182&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2005", 
+      "model": "Park Avenue", 
+      "car_id": "182"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/2005-buick-park-avenue/special-ed-ultra-sedan-4d/options/?vehicleid=188&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Special Ed Ultra Sedan 4D", 
+      "year": "2005", 
+      "model": "Park Avenue", 
+      "car_id": "188"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/2004-buick-park-avenue/sedan-4d/options/?vehicleid=2011&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2004", 
+      "model": "Park Avenue", 
+      "car_id": "2011"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/2004-buick-park-avenue/ultra-sedan-4d/options/?vehicleid=2007&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sedan 4D", 
+      "year": "2004", 
+      "model": "Park Avenue", 
+      "car_id": "2007"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/2003-buick-park-avenue/sedan-4d/options/?vehicleid=1867&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2003", 
+      "model": "Park Avenue", 
+      "car_id": "1867"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/2003-buick-park-avenue/ultra-sedan-4d/options/?vehicleid=1873&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sedan 4D", 
+      "year": "2003", 
+      "model": "Park Avenue", 
+      "car_id": "1873"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/2002-buick-park-avenue/sedan-4d/options/?vehicleid=3481&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2002", 
+      "model": "Park Avenue", 
+      "car_id": "3481"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/2002-buick-park-avenue/ultra-sedan-4d/options/?vehicleid=3489&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sedan 4D", 
+      "year": "2002", 
+      "model": "Park Avenue", 
+      "car_id": "3489"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/2001-buick-park-avenue/sedan-4d/options/?vehicleid=3829&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2001", 
+      "model": "Park Avenue", 
+      "car_id": "3829"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/2001-buick-park-avenue/ultra-sedan-4d/options/?vehicleid=3833&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sedan 4D", 
+      "year": "2001", 
+      "model": "Park Avenue", 
+      "car_id": "3833"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/2000-buick-park-avenue/sedan-4d/options/?vehicleid=5441&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2000", 
+      "model": "Park Avenue", 
+      "car_id": "5441"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/2000-buick-park-avenue/ultra-sedan-4d/options/?vehicleid=5446&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sedan 4D", 
+      "year": "2000", 
+      "model": "Park Avenue", 
+      "car_id": "5446"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/1999-buick-park-avenue/sedan-4d/options/?vehicleid=5096&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1999", 
+      "model": "Park Avenue", 
+      "car_id": "5096"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/1999-buick-park-avenue/ultra-sedan-4d/options/?vehicleid=5100&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sedan 4D", 
+      "year": "1999", 
+      "model": "Park Avenue", 
+      "car_id": "5100"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/1998-buick-park-avenue/sedan-4d/options/?vehicleid=6212&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1998", 
+      "model": "Park Avenue", 
+      "car_id": "6212"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/1998-buick-park-avenue/ultra-sedan-4d/options/?vehicleid=6201&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sedan 4D", 
+      "year": "1998", 
+      "model": "Park Avenue", 
+      "car_id": "6201"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/1997-buick-park-avenue/sedan-4d/options/?vehicleid=7354&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1997", 
+      "model": "Park Avenue", 
+      "car_id": "7354"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/1997-buick-park-avenue/ultra-sedan-4d/options/?vehicleid=7341&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sedan 4D", 
+      "year": "1997", 
+      "model": "Park Avenue", 
+      "car_id": "7341"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/1996-buick-park-avenue/sedan-4d/options/?vehicleid=8605&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1996", 
+      "model": "Park Avenue", 
+      "car_id": "8605"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/1996-buick-park-avenue/ultra-sedan-4d/options/?vehicleid=8612&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sedan 4D", 
+      "year": "1996", 
+      "model": "Park Avenue", 
+      "car_id": "8612"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/1995-buick-park-avenue/sedan-4d/options/?vehicleid=7247&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1995", 
+      "model": "Park Avenue", 
+      "car_id": "7247"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/1995-buick-park-avenue/ultra-sedan-4d/options/?vehicleid=7251&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sedan 4D", 
+      "year": "1995", 
+      "model": "Park Avenue", 
+      "car_id": "7251"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/1994-buick-park-avenue/sedan-4d/options/?vehicleid=8673&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1994", 
+      "model": "Park Avenue", 
+      "car_id": "8673"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/park-avenue/1994-buick-park-avenue/ultra-sedan-4d/options/?vehicleid=8660&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sedan 4D", 
+      "year": "1994", 
+      "model": "Park Avenue", 
+      "car_id": "8660"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2014-buick-regal/sedan-4d/options/?vehicleid=392857&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2014", 
+      "model": "Regal", 
+      "car_id": "392857"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2014-buick-regal/premium-i-sedan-4d/options/?vehicleid=392858&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium I Sedan 4D", 
+      "year": "2014", 
+      "model": "Regal", 
+      "car_id": "392858"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2014-buick-regal/premium-ii-sedan-4d/options/?vehicleid=392853&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium II Sedan 4D", 
+      "year": "2014", 
+      "model": "Regal", 
+      "car_id": "392853"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2014-buick-regal/gs-sedan-4d/options/?vehicleid=392855&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "2014", 
+      "model": "Regal", 
+      "car_id": "392855"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2013-buick-regal/sedan-4d/options/?vehicleid=378640&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2013", 
+      "model": "Regal", 
+      "car_id": "378640"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2013-buick-regal/premium-1-sedan-4d/options/?vehicleid=378639&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium 1 Sedan 4D", 
+      "year": "2013", 
+      "model": "Regal", 
+      "car_id": "378639"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2013-buick-regal/turbo-premium-1-sedan-4d/options/?vehicleid=378641&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Turbo Premium 1 Sedan 4D", 
+      "year": "2013", 
+      "model": "Regal", 
+      "car_id": "378641"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2013-buick-regal/premium-2-sedan-4d/options/?vehicleid=378643&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium 2 Sedan 4D", 
+      "year": "2013", 
+      "model": "Regal", 
+      "car_id": "378643"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2013-buick-regal/turbo-premium-2-sedan-4d/options/?vehicleid=378642&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Turbo Premium 2 Sedan 4D", 
+      "year": "2013", 
+      "model": "Regal", 
+      "car_id": "378642"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2013-buick-regal/turbo-premium-3-sedan-4d/options/?vehicleid=378644&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Turbo Premium 3 Sedan 4D", 
+      "year": "2013", 
+      "model": "Regal", 
+      "car_id": "378644"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2013-buick-regal/gs-sedan-4d/options/?vehicleid=378650&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "2013", 
+      "model": "Regal", 
+      "car_id": "378650"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2012-buick-regal/sedan-4d/options/?vehicleid=370705&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2012", 
+      "model": "Regal", 
+      "car_id": "370705"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2012-buick-regal/premium-1-sedan-4d/options/?vehicleid=370702&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium 1 Sedan 4D", 
+      "year": "2012", 
+      "model": "Regal", 
+      "car_id": "370702"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2012-buick-regal/premium-2-sedan-4d/options/?vehicleid=370703&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium 2 Sedan 4D", 
+      "year": "2012", 
+      "model": "Regal", 
+      "car_id": "370703"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2012-buick-regal/turbo-premium-1-sedan-4d/options/?vehicleid=370704&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Turbo Premium 1 Sedan 4D", 
+      "year": "2012", 
+      "model": "Regal", 
+      "car_id": "370704"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2012-buick-regal/turbo-premium-2-sedan-4d/options/?vehicleid=370706&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Turbo Premium 2 Sedan 4D", 
+      "year": "2012", 
+      "model": "Regal", 
+      "car_id": "370706"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2012-buick-regal/turbo-premium-3-sedan-4d/options/?vehicleid=370438&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Turbo Premium 3 Sedan 4D", 
+      "year": "2012", 
+      "model": "Regal", 
+      "car_id": "370438"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2012-buick-regal/gs-sedan-4d/options/?vehicleid=370709&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "2012", 
+      "model": "Regal", 
+      "car_id": "370709"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2011-buick-regal/cxl-sedan-4d/options/?vehicleid=352745&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sedan 4D", 
+      "year": "2011", 
+      "model": "Regal", 
+      "car_id": "352745"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2011-buick-regal/cxl-turbo-sedan-4d/options/?vehicleid=352894&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Turbo Sedan 4D", 
+      "year": "2011", 
+      "model": "Regal", 
+      "car_id": "352894"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2004-buick-regal/ls-sedan-4d/options/?vehicleid=2010&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "2004", 
+      "model": "Regal", 
+      "car_id": "2010"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2004-buick-regal/gs-sedan-4d/options/?vehicleid=2015&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "2004", 
+      "model": "Regal", 
+      "car_id": "2015"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2003-buick-regal/ls-sedan-4d/options/?vehicleid=1864&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "2003", 
+      "model": "Regal", 
+      "car_id": "1864"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2003-buick-regal/gs-sedan-4d/options/?vehicleid=1870&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "2003", 
+      "model": "Regal", 
+      "car_id": "1870"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2002-buick-regal/ls-sedan-4d/options/?vehicleid=3497&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "2002", 
+      "model": "Regal", 
+      "car_id": "3497"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2002-buick-regal/gs-sedan-4d/options/?vehicleid=3488&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "2002", 
+      "model": "Regal", 
+      "car_id": "3488"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2001-buick-regal/ls-sedan-4d/options/?vehicleid=3836&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "2001", 
+      "model": "Regal", 
+      "car_id": "3836"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2001-buick-regal/gs-sedan-4d/options/?vehicleid=3834&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "2001", 
+      "model": "Regal", 
+      "car_id": "3834"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2000-buick-regal/ls-sedan-4d/options/?vehicleid=5453&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "2000", 
+      "model": "Regal", 
+      "car_id": "5453"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/2000-buick-regal/gs-sedan-4d/options/?vehicleid=5444&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "2000", 
+      "model": "Regal", 
+      "car_id": "5444"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1999-buick-regal/ls-sedan-4d/options/?vehicleid=5094&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1999", 
+      "model": "Regal", 
+      "car_id": "5094"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1999-buick-regal/gs-sedan-4d/options/?vehicleid=5099&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "1999", 
+      "model": "Regal", 
+      "car_id": "5099"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1998-buick-regal/ls-sedan-4d/options/?vehicleid=6208&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1998", 
+      "model": "Regal", 
+      "car_id": "6208"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1998-buick-regal/gs-sedan-4d/options/?vehicleid=6213&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "1998", 
+      "model": "Regal", 
+      "car_id": "6213"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1997-buick-regal/ls-sedan-4d/options/?vehicleid=7349&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1997", 
+      "model": "Regal", 
+      "car_id": "7349"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1997-buick-regal/gs-sedan-4d/options/?vehicleid=7353&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "1997", 
+      "model": "Regal", 
+      "car_id": "7353"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1996-buick-regal/custom-sedan-4d/options/?vehicleid=8618&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "1996", 
+      "model": "Regal", 
+      "car_id": "8618"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1996-buick-regal/limited-sedan-4d/options/?vehicleid=8622&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1996", 
+      "model": "Regal", 
+      "car_id": "8622"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1996-buick-regal/gran-sport-sedan-4d/options/?vehicleid=8627&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Gran Sport Sedan 4D", 
+      "year": "1996", 
+      "model": "Regal", 
+      "car_id": "8627"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1995-buick-regal/custom-sedan-4d/options/?vehicleid=7246&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "1995", 
+      "model": "Regal", 
+      "car_id": "7246"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1995-buick-regal/limited-sedan-4d/options/?vehicleid=7258&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1995", 
+      "model": "Regal", 
+      "car_id": "7258"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1995-buick-regal/gran-sport-sedan-4d/options/?vehicleid=7253&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Gran Sport Sedan 4D", 
+      "year": "1995", 
+      "model": "Regal", 
+      "car_id": "7253"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1994-buick-regal/custom-sedan-4d/options/?vehicleid=8668&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "1994", 
+      "model": "Regal", 
+      "car_id": "8668"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1994-buick-regal/limited-sedan-4d/options/?vehicleid=8662&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1994", 
+      "model": "Regal", 
+      "car_id": "8662"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/regal/1994-buick-regal/gran-sport-sedan-4d/options/?vehicleid=8670&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Gran Sport Sedan 4D", 
+      "year": "1994", 
+      "model": "Regal", 
+      "car_id": "8670"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/roadmaster/1996-buick-roadmaster/sedan-4d/options/?vehicleid=8631&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1996", 
+      "model": "Roadmaster", 
+      "car_id": "8631"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/roadmaster/1996-buick-roadmaster/limited-sedan-4d/options/?vehicleid=8629&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1996", 
+      "model": "Roadmaster", 
+      "car_id": "8629"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/roadmaster/1995-buick-roadmaster/sedan-4d/options/?vehicleid=7264&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1995", 
+      "model": "Roadmaster", 
+      "car_id": "7264"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/roadmaster/1995-buick-roadmaster/limited-sedan-4d/options/?vehicleid=7268&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1995", 
+      "model": "Roadmaster", 
+      "car_id": "7268"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/roadmaster/1994-buick-roadmaster/sedan-4d/options/?vehicleid=8685&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1994", 
+      "model": "Roadmaster", 
+      "car_id": "8685"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/roadmaster/1994-buick-roadmaster/limited-sedan-4d/options/?vehicleid=8690&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1994", 
+      "model": "Roadmaster", 
+      "car_id": "8690"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/buick/skylark/1998-buick-skylark/custom-sedan-4d/options/?vehicleid=6207&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "custom-sedan-4d", 
+      "year": "1998", 
+      "model": "Skylark", 
+      "car_id": "6207"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/buick/skylark/1997-buick-skylark/custom-sedan-4d/options/?vehicleid=7347&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "custom-sedan-4d", 
+      "year": "1997", 
+      "model": "Skylark", 
+      "car_id": "7347"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/buick/skylark/1996-buick-skylark/custom-sedan-4d/options/?vehicleid=8638&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "custom-sedan-4d", 
+      "year": "1996", 
+      "model": "Skylark", 
+      "car_id": "8638"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/buick/skylark/1995-buick-skylark/custom-sedan-4d/options/?vehicleid=7265&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "custom-sedan-4d", 
+      "year": "1995", 
+      "model": "Skylark", 
+      "car_id": "7265"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/skylark/1994-buick-skylark/custom-sedan-4d/options/?vehicleid=8684&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Custom Sedan 4D", 
+      "year": "1994", 
+      "model": "Skylark", 
+      "car_id": "8684"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/skylark/1994-buick-skylark/limited-sedan-4d/options/?vehicleid=8698&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "1994", 
+      "model": "Skylark", 
+      "car_id": "8698"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/skylark/1994-buick-skylark/gran-sport-sedan-4d/options/?vehicleid=8686&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Gran Sport Sedan 4D", 
+      "year": "1994", 
+      "model": "Skylark", 
+      "car_id": "8686"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/verano/2014-buick-verano/sedan-4d/options/?vehicleid=391444&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2014", 
+      "model": "Verano", 
+      "car_id": "391444"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/verano/2014-buick-verano/convenience-sedan-4d/options/?vehicleid=391440&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Convenience Sedan 4D", 
+      "year": "2014", 
+      "model": "Verano", 
+      "car_id": "391440"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/verano/2014-buick-verano/leather-sedan-4d/options/?vehicleid=391441&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sedan 4D", 
+      "year": "2014", 
+      "model": "Verano", 
+      "car_id": "391441"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/verano/2014-buick-verano/premium-sedan-4d/options/?vehicleid=391443&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium Sedan 4D", 
+      "year": "2014", 
+      "model": "Verano", 
+      "car_id": "391443"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/verano/2013-buick-verano/sedan-4d/options/?vehicleid=379105&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2013", 
+      "model": "Verano", 
+      "car_id": "379105"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/verano/2013-buick-verano/convenience-sedan-4d/options/?vehicleid=379102&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Convenience Sedan 4D", 
+      "year": "2013", 
+      "model": "Verano", 
+      "car_id": "379102"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/verano/2013-buick-verano/leather-sedan-4d/options/?vehicleid=379103&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sedan 4D", 
+      "year": "2013", 
+      "model": "Verano", 
+      "car_id": "379103"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/verano/2013-buick-verano/premium-sedan-4d/options/?vehicleid=382456&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Premium Sedan 4D", 
+      "year": "2013", 
+      "model": "Verano", 
+      "car_id": "382456"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/verano/2012-buick-verano/sedan-4d/options/?vehicleid=372254&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2012", 
+      "model": "Verano", 
+      "car_id": "372254"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/verano/2012-buick-verano/convenience-sedan-4d/options/?vehicleid=372253&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Convenience Sedan 4D", 
+      "year": "2012", 
+      "model": "Verano", 
+      "car_id": "372253"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/buick/verano/2012-buick-verano/leather-sedan-4d/options/?vehicleid=372252&intent=buy-used&category=sedan", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sedan 4D", 
+      "year": "2012", 
+      "model": "Verano", 
+      "car_id": "372252"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2014-buick-enclave/convenience-sport-utility-4d/options/?vehicleid=390688&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Convenience Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Enclave", 
+      "car_id": "390688"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2014-buick-enclave/leather-sport-utility-4d/options/?vehicleid=390695&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Enclave", 
+      "car_id": "390695"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2014-buick-enclave/premium-sport-utility-4d/options/?vehicleid=390692&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Premium Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Enclave", 
+      "car_id": "390692"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2013-buick-enclave/convenience-sport-utility-4d/options/?vehicleid=382007&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Convenience Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Enclave", 
+      "car_id": "382007"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2013-buick-enclave/leather-sport-utility-4d/options/?vehicleid=382004&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Enclave", 
+      "car_id": "382004"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2013-buick-enclave/premium-sport-utility-4d/options/?vehicleid=382008&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Premium Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Enclave", 
+      "car_id": "382008"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2012-buick-enclave/sport-utility-4d/options/?vehicleid=366073&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Enclave", 
+      "car_id": "366073"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2012-buick-enclave/convenience-sport-utility-4d/options/?vehicleid=366075&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Convenience Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Enclave", 
+      "car_id": "366075"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2012-buick-enclave/leather-sport-utility-4d/options/?vehicleid=366076&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Enclave", 
+      "car_id": "366076"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2012-buick-enclave/premium-sport-utility-4d/options/?vehicleid=366074&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Premium Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Enclave", 
+      "car_id": "366074"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2011-buick-enclave/cx-sport-utility-4d/options/?vehicleid=352546&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Enclave", 
+      "car_id": "352546"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2011-buick-enclave/cxl-sport-utility-4d/options/?vehicleid=352539&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Enclave", 
+      "car_id": "352539"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2010-buick-enclave/cx-sport-utility-4d/options/?vehicleid=252337&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2010", 
+      "model": "Enclave", 
+      "car_id": "252337"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2010-buick-enclave/cxl-sport-utility-4d/options/?vehicleid=349715&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2010", 
+      "model": "Enclave", 
+      "car_id": "349715"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2009-buick-enclave/cx-sport-utility-4d/options/?vehicleid=226325&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2009", 
+      "model": "Enclave", 
+      "car_id": "226325"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2009-buick-enclave/cxl-sport-utility-4d/options/?vehicleid=226324&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2009", 
+      "model": "Enclave", 
+      "car_id": "226324"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2008-buick-enclave/cx-sport-utility-4d/options/?vehicleid=196961&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2008", 
+      "model": "Enclave", 
+      "car_id": "196961"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/enclave/2008-buick-enclave/cxl-sport-utility-4d/options/?vehicleid=196958&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2008", 
+      "model": "Enclave", 
+      "car_id": "196958"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/encore/2014-buick-encore/sport-utility-4d/options/?vehicleid=391028&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Encore", 
+      "car_id": "391028"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/encore/2014-buick-encore/convenience-sport-utility-4d/options/?vehicleid=391029&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Convenience Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Encore", 
+      "car_id": "391029"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/encore/2014-buick-encore/leather-sport-utility-4d/options/?vehicleid=391030&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Encore", 
+      "car_id": "391030"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/encore/2014-buick-encore/premium-sport-utility-4d/options/?vehicleid=391031&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Premium Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Encore", 
+      "car_id": "391031"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/encore/2013-buick-encore/sport-utility-4d/options/?vehicleid=382316&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Encore", 
+      "car_id": "382316"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/encore/2013-buick-encore/convenience-sport-utility-4d/options/?vehicleid=382315&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Convenience Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Encore", 
+      "car_id": "382315"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/encore/2013-buick-encore/leather-sport-utility-4d/options/?vehicleid=382317&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Leather Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Encore", 
+      "car_id": "382317"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/encore/2013-buick-encore/premium-sport-utility-4d/options/?vehicleid=382318&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Premium Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Encore", 
+      "car_id": "382318"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/buick/rainier/2007-buick-rainier/cxl-sport-utility-4d/options/?vehicleid=83499&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "cxl-sport-utility-4d", 
+      "year": "2007", 
+      "model": "Rainier", 
+      "car_id": "83499"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/buick/rainier/2006-buick-rainier/cxl-sport-utility-4d/options/?vehicleid=106&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "cxl-sport-utility-4d", 
+      "year": "2006", 
+      "model": "Rainier", 
+      "car_id": "106"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/buick/rainier/2005-buick-rainier/cxl-sport-utility-4d/options/?vehicleid=184&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "cxl-sport-utility-4d", 
+      "year": "2005", 
+      "model": "Rainier", 
+      "car_id": "184"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/buick/rainier/2004-buick-rainier/cxl-sport-utility-4d/options/?vehicleid=2012&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "cxl-sport-utility-4d", 
+      "year": "2004", 
+      "model": "Rainier", 
+      "car_id": "2012"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/rendezvous/2007-buick-rendezvous/cx-sport-utility-4d/options/?vehicleid=83500&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2007", 
+      "model": "Rendezvous", 
+      "car_id": "83500"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/rendezvous/2007-buick-rendezvous/cxl-sport-utility-4d/options/?vehicleid=83501&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2007", 
+      "model": "Rendezvous", 
+      "car_id": "83501"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/rendezvous/2006-buick-rendezvous/cx-sport-utility-4d/options/?vehicleid=97&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2006", 
+      "model": "Rendezvous", 
+      "car_id": "97"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/rendezvous/2006-buick-rendezvous/cxl-sport-utility-4d/options/?vehicleid=104&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2006", 
+      "model": "Rendezvous", 
+      "car_id": "104"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/rendezvous/2005-buick-rendezvous/cx-sport-utility-4d/options/?vehicleid=194&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2005", 
+      "model": "Rendezvous", 
+      "car_id": "194"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/rendezvous/2005-buick-rendezvous/cxl-sport-utility-4d/options/?vehicleid=198&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2005", 
+      "model": "Rendezvous", 
+      "car_id": "198"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/rendezvous/2005-buick-rendezvous/ultra-sport-utility-4d/options/?vehicleid=183&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sport Utility 4D", 
+      "year": "2005", 
+      "model": "Rendezvous", 
+      "car_id": "183"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/rendezvous/2004-buick-rendezvous/cx-sport-utility-4d/options/?vehicleid=2019&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2004", 
+      "model": "Rendezvous", 
+      "car_id": "2019"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/rendezvous/2004-buick-rendezvous/cxl-sport-utility-4d/options/?vehicleid=2024&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2004", 
+      "model": "Rendezvous", 
+      "car_id": "2024"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/rendezvous/2004-buick-rendezvous/ultra-sport-utility-4d/options/?vehicleid=2017&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "Ultra Sport Utility 4D", 
+      "year": "2004", 
+      "model": "Rendezvous", 
+      "car_id": "2017"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/rendezvous/2003-buick-rendezvous/cx-sport-utility-4d/options/?vehicleid=1875&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2003", 
+      "model": "Rendezvous", 
+      "car_id": "1875"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/rendezvous/2003-buick-rendezvous/cxl-sport-utility-4d/options/?vehicleid=1869&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CXL Sport Utility 4D", 
+      "year": "2003", 
+      "model": "Rendezvous", 
+      "car_id": "1869"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/rendezvous/2002-buick-rendezvous/cx-sport-utility-4d/options/?vehicleid=3495&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CX Sport Utility 4D", 
+      "year": "2002", 
+      "model": "Rendezvous", 
+      "car_id": "3495"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/buick/rendezvous/2002-buick-rendezvous/cxl-awd-sport-utility-4d/options/?vehicleid=3502&intent=buy-used&category=suv", 
+      "make": "Buick", 
+      "sub_cat": "CXL AWD Sport Utility 4D", 
+      "year": "2002", 
+      "model": "Rendezvous", 
+      "car_id": "3502"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/buick/terraza/2007-buick-terraza/cx-minivan-4d/options/?vehicleid=83502&intent=buy-used&category=van%2fminivan", 
+      "make": "Buick", 
+      "sub_cat": "CX Minivan 4D", 
+      "year": "2007", 
+      "model": "Terraza", 
+      "car_id": "83502"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/buick/terraza/2007-buick-terraza/cx-plus-minivan-4d/options/?vehicleid=83503&intent=buy-used&category=van%2fminivan", 
+      "make": "Buick", 
+      "sub_cat": "CX Plus Minivan 4D", 
+      "year": "2007", 
+      "model": "Terraza", 
+      "car_id": "83503"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/buick/terraza/2007-buick-terraza/cxl-minivan-4d/options/?vehicleid=83508&intent=buy-used&category=van%2fminivan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Minivan 4D", 
+      "year": "2007", 
+      "model": "Terraza", 
+      "car_id": "83508"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/buick/terraza/2006-buick-terraza/cx-minivan-4d/options/?vehicleid=347166&intent=buy-used&category=van%2fminivan", 
+      "make": "Buick", 
+      "sub_cat": "CX Minivan 4D", 
+      "year": "2006", 
+      "model": "Terraza", 
+      "car_id": "347166"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/buick/terraza/2006-buick-terraza/cxl-minivan-4d/options/?vehicleid=348260&intent=buy-used&category=van%2fminivan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Minivan 4D", 
+      "year": "2006", 
+      "model": "Terraza", 
+      "car_id": "348260"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/buick/terraza/2005-buick-terraza/cx-minivan-4d/options/?vehicleid=347165&intent=buy-used&category=van%2fminivan", 
+      "make": "Buick", 
+      "sub_cat": "CX Minivan 4D", 
+      "year": "2005", 
+      "model": "Terraza", 
+      "car_id": "347165"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/buick/terraza/2005-buick-terraza/cxl-minivan-4d/options/?vehicleid=348259&intent=buy-used&category=van%2fminivan", 
+      "make": "Buick", 
+      "sub_cat": "CXL Minivan 4D", 
+      "year": "2005", 
+      "model": "Terraza", 
+      "car_id": "348259"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/buick/century/1996-buick-century/wagon-4d/options/?vehicleid=8601&intent=buy-used&category=wagon", 
+      "make": "Buick", 
+      "sub_cat": "wagon-4d", 
+      "year": "1996", 
+      "model": "Century", 
+      "car_id": "8601"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/buick/century/1995-buick-century/special-wagon-4d/options/?vehicleid=7242&intent=buy-used&category=wagon", 
+      "make": "Buick", 
+      "sub_cat": "special-wagon-4d", 
+      "year": "1995", 
+      "model": "Century", 
+      "car_id": "7242"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/buick/century/1994-buick-century/special-wagon-4d/options/?vehicleid=8665&intent=buy-used&category=wagon", 
+      "make": "Buick", 
+      "sub_cat": "special-wagon-4d", 
+      "year": "1994", 
+      "model": "Century", 
+      "car_id": "8665"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/buick/roadmaster/1996-buick-roadmaster/estate-wagon-4d/options/?vehicleid=8633&intent=buy-used&category=wagon", 
+      "make": "Buick", 
+      "sub_cat": "estate-wagon-4d", 
+      "year": "1996", 
+      "model": "Roadmaster", 
+      "car_id": "8633"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/buick/roadmaster/1995-buick-roadmaster/estate-wagon-4d/options/?vehicleid=7271&intent=buy-used&category=wagon", 
+      "make": "Buick", 
+      "sub_cat": "estate-wagon-4d", 
+      "year": "1995", 
+      "model": "Roadmaster", 
+      "car_id": "7271"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/buick/roadmaster/1994-buick-roadmaster/estate-wagon-4d/options/?vehicleid=8696&intent=buy-used&category=wagon", 
+      "make": "Buick", 
+      "sub_cat": "estate-wagon-4d", 
+      "year": "1994", 
+      "model": "Roadmaster", 
+      "car_id": "8696"
+    }
+  ]
+}

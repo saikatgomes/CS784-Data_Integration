@@ -1,0 +1,40 @@
+{
+  "car": [
+    {
+      "category": "Sedans", 
+      "url": "/alfa-romeo/164/1995-alfa-romeo-164/ls-sedan-4d/options/?vehicleid=7199&intent=buy-used&category=sedan", 
+      "make": "Alfa Romeo", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1995", 
+      "model": "164", 
+      "car_id": "7199"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/alfa-romeo/164/1995-alfa-romeo-164/q-sedan-4d/options/?vehicleid=7203&intent=buy-used&category=sedan", 
+      "make": "Alfa Romeo", 
+      "sub_cat": "Q Sedan 4D", 
+      "year": "1995", 
+      "model": "164", 
+      "car_id": "7203"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/alfa-romeo/164/1994-alfa-romeo-164/ls-sedan-4d/options/?vehicleid=8592&intent=buy-used&category=sedan", 
+      "make": "Alfa Romeo", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1994", 
+      "model": "164", 
+      "car_id": "8592"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/alfa-romeo/164/1994-alfa-romeo-164/q-sedan-4d/options/?vehicleid=8596&intent=buy-used&category=sedan", 
+      "make": "Alfa Romeo", 
+      "sub_cat": "Q Sedan 4D", 
+      "year": "1994", 
+      "model": "164", 
+      "car_id": "8596"
+    }
+  ]
+}
