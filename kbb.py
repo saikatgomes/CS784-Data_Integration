@@ -91,11 +91,14 @@ def crawl_make(make,url):
     if os.path.isfile('data/'+make+'.json'):
         print(getTime(1)+"|> "+make+" has already been crawled! [no additional crawing needed]")
         return
-    if os.path.isfile('data/'+make+'.lock'):
-        print(getTime(1)+"|> "+make+" is currently been crawled by someone else!")
+    lockfile='data/'+make+'.lock'
+    if os.path.isfile(lockfile):
+        with open(lockfile,'r') as lk:
+            msg=lk.read()
+        print(getTime(1)+"|> "+make+" is "+msg)
         return
     print(getTime(1)+"|\tMAKE="+make)
-    with open('data/'+make+'.lock',"w") as lk:
+    with open(lockfile,"w") as lk:
         lk.write("Currently proccessed by "+socket.gethostname())
     DATA=[]
     try_last=[]
@@ -126,9 +129,14 @@ def crawl_make(make,url):
                 if len(sub_cat)==0:
                     print(getTime(1)+"|\t\t\t\tURL="+base_url+year_url[z])
                     print(getTime(1)+"|\t\t\t\tRE_URL="+redir_url)
-                    car_id, xSub_cat, xYear = get_info_from_url(redir_url)
-                    DATA.append({'make':make,'category':this_cat,'model':this_model,'year':this_year,'sub_cat':xSub_cat,'url':redir_url,'car_id':car_id})
-                    print(getTime(1)+"|\t\t\t\t\t\tmake="+make+",cat="+this_cat+",mode="+this_model+",year="+this_year+",sub="+xSub_cat+",id="+car_id)
+                    try:
+                        car_id, xSub_cat, xYear = get_info_from_url(redir_url)
+                        DATA.append({'make':make,'category':this_cat,'model':this_model,'year':this_year,'sub_cat':xSub_cat,'url':redir_url,'car_id':car_id})
+                        print(getTime(1)+"|\t\t\t\t\t\tmake="+make+",cat="+this_cat+",mode="+this_model+",year="+this_year+",sub="+xSub_cat+",id="+car_id)
+                    except:
+                        print(getTime(1)+"|\t\t\t\tERROR="+redir_url)
+                    #DATA.append({'make':make,'category':this_cat,'model':this_model,'year':this_year,'sub_cat':xSub_cat,'url':redir_url,'car_id':car_id})
+                    #print(getTime(1)+"|\t\t\t\t\t\tmake="+make+",cat="+this_cat+",mode="+this_model+",year="+this_year+",sub="+xSub_cat+",id="+car_id)
                 for i in range(0,len(sub_cat)):
                     one_cat=sub_cat[i].strip()
                     one_url=sub_cat_url[i]
@@ -139,7 +147,7 @@ def crawl_make(make,url):
     fileName="data/"+make+".json"
     with open(fileName,"w") as f:
         json.dump({'car':DATA},f,indent=2)
-    os.remove('data/'+make+'.lock')
+    os.remove(lockfile)
 
 if __name__ == "__main__":
     #get_all_makes(base_url,"new")
