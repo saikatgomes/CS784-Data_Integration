@@ -1,0 +1,418 @@
+{
+  "car": [
+    {
+      "category": "Coupes", 
+      "url": "/daewoo/lanos/2002-daewoo-lanos/s-hatchback-2d/options/?vehicleid=3757&intent=buy-used&category=coupe", 
+      "make": "Daewoo", 
+      "sub_cat": "S Hatchback 2D", 
+      "year": "2002", 
+      "model": "Lanos", 
+      "car_id": "3757"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/daewoo/lanos/2002-daewoo-lanos/sport-hatchback-2d/options/?vehicleid=3743&intent=buy-used&category=coupe", 
+      "make": "Daewoo", 
+      "sub_cat": "Sport Hatchback 2D", 
+      "year": "2002", 
+      "model": "Lanos", 
+      "car_id": "3743"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/daewoo/lanos/2001-daewoo-lanos/s-hatchback-2d/options/?vehicleid=4016&intent=buy-used&category=coupe", 
+      "make": "Daewoo", 
+      "sub_cat": "S Hatchback 2D", 
+      "year": "2001", 
+      "model": "Lanos", 
+      "car_id": "4016"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/daewoo/lanos/2001-daewoo-lanos/sport-hatchback-2d/options/?vehicleid=4013&intent=buy-used&category=coupe", 
+      "make": "Daewoo", 
+      "sub_cat": "Sport Hatchback 2D", 
+      "year": "2001", 
+      "model": "Lanos", 
+      "car_id": "4013"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/daewoo/lanos/2000-daewoo-lanos/s-hatchback-2d/options/?vehicleid=5704&intent=buy-used&category=coupe", 
+      "make": "Daewoo", 
+      "sub_cat": "S Hatchback 2D", 
+      "year": "2000", 
+      "model": "Lanos", 
+      "car_id": "5704"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/daewoo/lanos/2000-daewoo-lanos/se-hatchback-2d/options/?vehicleid=5695&intent=buy-used&category=coupe", 
+      "make": "Daewoo", 
+      "sub_cat": "SE Hatchback 2D", 
+      "year": "2000", 
+      "model": "Lanos", 
+      "car_id": "5695"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/daewoo/lanos/1999-daewoo-lanos/s-hatchback-2d/options/?vehicleid=5255&intent=buy-used&category=coupe", 
+      "make": "Daewoo", 
+      "sub_cat": "S Hatchback 2D", 
+      "year": "1999", 
+      "model": "Lanos", 
+      "car_id": "5255"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/daewoo/lanos/1999-daewoo-lanos/se-hatchback-2d/options/?vehicleid=5261&intent=buy-used&category=coupe", 
+      "make": "Daewoo", 
+      "sub_cat": "SE Hatchback 2D", 
+      "year": "1999", 
+      "model": "Lanos", 
+      "car_id": "5261"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/daewoo/lanos/1999-daewoo-lanos/sx-hatchback-2d/options/?vehicleid=5268&intent=buy-used&category=coupe", 
+      "make": "Daewoo", 
+      "sub_cat": "SX Hatchback 2D", 
+      "year": "1999", 
+      "model": "Lanos", 
+      "car_id": "5268"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/daewoo/lanos/2002-daewoo-lanos/s-hatchback-2d/options/?vehicleid=3757&intent=buy-used&category=hatchback", 
+      "make": "Daewoo", 
+      "sub_cat": "S Hatchback 2D", 
+      "year": "2002", 
+      "model": "Lanos", 
+      "car_id": "3757"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/daewoo/lanos/2002-daewoo-lanos/sport-hatchback-2d/options/?vehicleid=3743&intent=buy-used&category=hatchback", 
+      "make": "Daewoo", 
+      "sub_cat": "Sport Hatchback 2D", 
+      "year": "2002", 
+      "model": "Lanos", 
+      "car_id": "3743"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/daewoo/lanos/2001-daewoo-lanos/s-hatchback-2d/options/?vehicleid=4016&intent=buy-used&category=hatchback", 
+      "make": "Daewoo", 
+      "sub_cat": "S Hatchback 2D", 
+      "year": "2001", 
+      "model": "Lanos", 
+      "car_id": "4016"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/daewoo/lanos/2001-daewoo-lanos/sport-hatchback-2d/options/?vehicleid=4013&intent=buy-used&category=hatchback", 
+      "make": "Daewoo", 
+      "sub_cat": "Sport Hatchback 2D", 
+      "year": "2001", 
+      "model": "Lanos", 
+      "car_id": "4013"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/daewoo/lanos/2000-daewoo-lanos/s-hatchback-2d/options/?vehicleid=5704&intent=buy-used&category=hatchback", 
+      "make": "Daewoo", 
+      "sub_cat": "S Hatchback 2D", 
+      "year": "2000", 
+      "model": "Lanos", 
+      "car_id": "5704"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/daewoo/lanos/2000-daewoo-lanos/se-hatchback-2d/options/?vehicleid=5695&intent=buy-used&category=hatchback", 
+      "make": "Daewoo", 
+      "sub_cat": "SE Hatchback 2D", 
+      "year": "2000", 
+      "model": "Lanos", 
+      "car_id": "5695"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/daewoo/lanos/1999-daewoo-lanos/s-hatchback-2d/options/?vehicleid=5255&intent=buy-used&category=hatchback", 
+      "make": "Daewoo", 
+      "sub_cat": "S Hatchback 2D", 
+      "year": "1999", 
+      "model": "Lanos", 
+      "car_id": "5255"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/daewoo/lanos/1999-daewoo-lanos/se-hatchback-2d/options/?vehicleid=5261&intent=buy-used&category=hatchback", 
+      "make": "Daewoo", 
+      "sub_cat": "SE Hatchback 2D", 
+      "year": "1999", 
+      "model": "Lanos", 
+      "car_id": "5261"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/daewoo/lanos/1999-daewoo-lanos/sx-hatchback-2d/options/?vehicleid=5268&intent=buy-used&category=hatchback", 
+      "make": "Daewoo", 
+      "sub_cat": "SX Hatchback 2D", 
+      "year": "1999", 
+      "model": "Lanos", 
+      "car_id": "5268"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/daewoo/lanos/2002-daewoo-lanos/s-sedan-4d/options/?vehicleid=3736&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "s-sedan-4d", 
+      "year": "2002", 
+      "model": "Lanos", 
+      "car_id": "3736"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/daewoo/lanos/2001-daewoo-lanos/s-sedan-4d/options/?vehicleid=4020&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "s-sedan-4d", 
+      "year": "2001", 
+      "model": "Lanos", 
+      "car_id": "4020"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/lanos/2000-daewoo-lanos/s-sedan-4d/options/?vehicleid=5690&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "S Sedan 4D", 
+      "year": "2000", 
+      "model": "Lanos", 
+      "car_id": "5690"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/lanos/2000-daewoo-lanos/sx-sedan-4d/options/?vehicleid=5698&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2000", 
+      "model": "Lanos", 
+      "car_id": "5698"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/lanos/1999-daewoo-lanos/s-sedan-4d/options/?vehicleid=5262&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "S Sedan 4D", 
+      "year": "1999", 
+      "model": "Lanos", 
+      "car_id": "5262"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/lanos/1999-daewoo-lanos/se-sedan-4d/options/?vehicleid=5265&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "SE Sedan 4D", 
+      "year": "1999", 
+      "model": "Lanos", 
+      "car_id": "5265"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/lanos/1999-daewoo-lanos/sx-sedan-4d/options/?vehicleid=5267&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "1999", 
+      "model": "Lanos", 
+      "car_id": "5267"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/leganza/2002-daewoo-leganza/se-sedan-4d/options/?vehicleid=3746&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "SE Sedan 4D", 
+      "year": "2002", 
+      "model": "Leganza", 
+      "car_id": "3746"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/leganza/2002-daewoo-leganza/cdx-sedan-4d/options/?vehicleid=3749&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "CDX Sedan 4D", 
+      "year": "2002", 
+      "model": "Leganza", 
+      "car_id": "3749"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/leganza/2001-daewoo-leganza/se-sedan-4d/options/?vehicleid=4015&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "SE Sedan 4D", 
+      "year": "2001", 
+      "model": "Leganza", 
+      "car_id": "4015"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/leganza/2001-daewoo-leganza/sx-sedan-4d/options/?vehicleid=4019&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2001", 
+      "model": "Leganza", 
+      "car_id": "4019"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/leganza/2001-daewoo-leganza/cdx-sedan-4d/options/?vehicleid=4014&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "CDX Sedan 4D", 
+      "year": "2001", 
+      "model": "Leganza", 
+      "car_id": "4014"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/leganza/2000-daewoo-leganza/se-sedan-4d/options/?vehicleid=5699&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "SE Sedan 4D", 
+      "year": "2000", 
+      "model": "Leganza", 
+      "car_id": "5699"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/leganza/2000-daewoo-leganza/sx-sedan-4d/options/?vehicleid=5706&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2000", 
+      "model": "Leganza", 
+      "car_id": "5706"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/leganza/2000-daewoo-leganza/cdx-sedan-4d/options/?vehicleid=5715&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "CDX Sedan 4D", 
+      "year": "2000", 
+      "model": "Leganza", 
+      "car_id": "5715"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/leganza/1999-daewoo-leganza/se-sedan-4d/options/?vehicleid=5273&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "SE Sedan 4D", 
+      "year": "1999", 
+      "model": "Leganza", 
+      "car_id": "5273"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/leganza/1999-daewoo-leganza/sx-sedan-4d/options/?vehicleid=5278&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "1999", 
+      "model": "Leganza", 
+      "car_id": "5278"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/leganza/1999-daewoo-leganza/cdx-sedan-4d/options/?vehicleid=5270&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "CDX Sedan 4D", 
+      "year": "1999", 
+      "model": "Leganza", 
+      "car_id": "5270"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/daewoo/nubira/2002-daewoo-nubira/se-sedan-4d/options/?vehicleid=3755&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "se-sedan-4d", 
+      "year": "2002", 
+      "model": "Nubira", 
+      "car_id": "3755"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/nubira/2001-daewoo-nubira/se-sedan-4d/options/?vehicleid=4018&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "SE Sedan 4D", 
+      "year": "2001", 
+      "model": "Nubira", 
+      "car_id": "4018"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/nubira/2001-daewoo-nubira/cdx-sedan-4d/options/?vehicleid=4022&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "CDX Sedan 4D", 
+      "year": "2001", 
+      "model": "Nubira", 
+      "car_id": "4022"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/nubira/2000-daewoo-nubira/se-sedan-4d/options/?vehicleid=5703&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "SE Sedan 4D", 
+      "year": "2000", 
+      "model": "Nubira", 
+      "car_id": "5703"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/daewoo/nubira/2000-daewoo-nubira/cdx-sedan-4d/options/?vehicleid=5712&intent=buy-used&category=sedan", 
+      "make": "Daewoo", 
+      "sub_cat": "CDX Sedan 4D", 
+      "year": "2000", 
+      "model": "Nubira", 
+      "car_id": "5712"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/daewoo/nubira/2002-daewoo-nubira/cdx-wagon-4d/options/?vehicleid=3763&intent=buy-used&category=wagon", 
+      "make": "Daewoo", 
+      "sub_cat": "cdx-wagon-4d", 
+      "year": "2002", 
+      "model": "Nubira", 
+      "car_id": "3763"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/daewoo/nubira/2001-daewoo-nubira/cdx-wagon-4d/options/?vehicleid=4021&intent=buy-used&category=wagon", 
+      "make": "Daewoo", 
+      "sub_cat": "cdx-wagon-4d", 
+      "year": "2001", 
+      "model": "Nubira", 
+      "car_id": "4021"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/daewoo/nubira/2000-daewoo-nubira/cdx-wagon-4d/options/?vehicleid=5717&intent=buy-used&category=wagon", 
+      "make": "Daewoo", 
+      "sub_cat": "cdx-wagon-4d", 
+      "year": "2000", 
+      "model": "Nubira", 
+      "car_id": "5717"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/daewoo/nubira/1999-daewoo-nubira/sx-wagon-4d/options/?vehicleid=5272&intent=buy-used&category=wagon", 
+      "make": "Daewoo", 
+      "sub_cat": "SX Wagon 4D", 
+      "year": "1999", 
+      "model": "Nubira", 
+      "car_id": "5272"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/daewoo/nubira/1999-daewoo-nubira/cdx-wagon-4d/options/?vehicleid=5280&intent=buy-used&category=wagon", 
+      "make": "Daewoo", 
+      "sub_cat": "CDX Wagon 4D", 
+      "year": "1999", 
+      "model": "Nubira", 
+      "car_id": "5280"
+    }
+  ]
+}
