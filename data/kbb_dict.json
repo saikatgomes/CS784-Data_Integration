@@ -1,0 +1,26 @@
+{
+  "Alfa Romeo": {
+    "new": "/alfa-romeo/?vehicleclass=newcar&intent=buy-new", 
+    "used": "/alfa-romeo/?vehicleclass=usedcar&intent=buy-used", 
+    "categories": {
+      "Alfa Romeo Convertibles": {
+        "Alfa Romeo Spider": "/alfa-romeo/spider/?vehicleclass=usedcar&intent=buy-used&category=convertible"
+      }, 
+      "Alfa Romeo Sedans": {
+        "Alfa Romeo 164": "/alfa-romeo/164/?vehicleclass=usedcar&intent=buy-used&category=sedan"
+      }
+    }
+  }, 
+  "Acura": {
+    "new": "/acura/?vehicleclass=newcar&intent=buy-new", 
+    "used": "/acura/?vehicleclass=usedcar&intent=buy-used", 
+    "categories": {
+      "Acura Convertibles": {
+        "Acura NSX": "/acura/nsx/?vehicleclass=usedcar&intent=buy-used&category=convertible"
+      }, 
+      "Acura Coupes": {
+        "Acura RSX": "/acura/rsx/?vehicleclass=usedcar&intent=buy-used&category=coupe"
+      }
+    }
+  }
+}
