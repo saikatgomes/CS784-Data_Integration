@@ -70,17 +70,28 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
-    
-	<div class="jumbotron">
+
+<div class="jumbotron">
   <h1>Data Models and Languages</h1>
   <p>Final Project</p>
   <p><a class="btn btn-primary btn-lg" role="button">Learn more</a></p>
 </div>
+
+<table data-url="Ferrari.json" data-height="299" data-sort-name="make" data-sort-order="price">
+    <thead>
+        <tr>
+            <th data-field="car_id" data-align="right" data-sortable="true">Item ID</th>
+            <th data-field="make" data-align="center" data-sortable="true">Item Name</th>
+            <th data-field="category" data-sortable="true">Item Price</th>
+        </tr>
+    </thead>
+</table>
 	
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="bootstrap/js/bootstrap.min.js"></script>
+	<script src="bootstrap-table-master/src/bootstrap-table.js"></script>
   </body>
 </html>
