@@ -114,13 +114,13 @@ def crawl_make(make,url):
             print(getTime(1)+"|\t\t\tMODEL="+this_model)
             year, year_url, redir_url = crawl_one_page(base_url+model_url[y],"//div[@class='model-year']/div/div[@class='left']","span[@class='model-year-name']/text()","a[@class='section-title']/@href")
             if len(year)==0:
-                #print(getTime(1)+"|\t\t\tURL="+base_url+model_url[y])
-                #print(getTime(1)+"|\t\t\tRE_URL="+redir_url)
+                print(getTime(1)+"|\t\t\tURL="+base_url+model_url[y])
+                print(getTime(1)+"|\t\t\tRE_URL="+redir_url)
                 #car_id, xSub_cat, xYear = get_info_from_url(redir_url)
                 #need year!
                 #DATA.append({'make':make,'category':this_cat,'model':this_model,'year':xYear,'sub_cat':xSub_cat,'url':redir_url,'car_id':car_id})
                 #print(getTime(1)+"|\t\t\t\t\t\tmake="+make+",cat="+this_cat+",mode="+this_model+",year="+xYear+",sub="+xSub_cat+",id="+car_id)
-                try_last.append(redir_url)
+                try_last.append([redir_url,this_cat,this_model])
             for z in range(0,len(year)):
                 this_year=year[z]
                 this_year=this_year[:4]
@@ -135,8 +135,6 @@ def crawl_make(make,url):
                         print(getTime(1)+"|\t\t\t\t\t\tmake="+make+",cat="+this_cat+",mode="+this_model+",year="+this_year+",sub="+xSub_cat+",id="+car_id)
                     except:
                         print(getTime(1)+"|\t\t\t\tERROR="+redir_url)
-                    #DATA.append({'make':make,'category':this_cat,'model':this_model,'year':this_year,'sub_cat':xSub_cat,'url':redir_url,'car_id':car_id})
-                    #print(getTime(1)+"|\t\t\t\t\t\tmake="+make+",cat="+this_cat+",mode="+this_model+",year="+this_year+",sub="+xSub_cat+",id="+car_id)
                 for i in range(0,len(sub_cat)):
                     one_cat=sub_cat[i].strip()
                     one_url=sub_cat_url[i]
@@ -144,6 +142,31 @@ def crawl_make(make,url):
                     car_id, xSub_cat, xYear = get_info_from_url(base_url+one_url)
                     DATA.append({'make':make,'category':this_cat,'model':this_model,'year':this_year,'sub_cat':one_cat,'url':one_url,'car_id':car_id})
                     print(getTime(1)+"|\t\t\t\t\t\tmake="+make+",cat="+this_cat+",mode="+this_model+",year="+this_year+",sub="+one_cat+",id="+car_id)
+    if len(try_last)>0:
+        print "$$$$$$$$$$$$$$$$$$$$$$$$$$$$    trying special cases"
+        print try_last
+        for s in range(0,len(try_last)):
+            X=try_last[s]
+            url=X[0]
+            this_cat=X[1]
+            this_model=X[2]
+            sub_cat, sub_cat_url, redir_url = crawl_one_page(url,"//div[@class=\"mod-content expanded-content\"]/div[starts-with(@class,'vehicle-styles-container')]/div[starts-with(@class,'vehicle-styles-head')]"    ,"div[@class=\"style-name section-title\"]/text()","a/@href")
+            if len(sub_cat)==0:
+                print(getTime(1)+"|\t\t\t\tURL="+url)
+                print(getTime(1)+"|\t\t\t\tRE_URL="+redir_url)
+                try:
+                    car_id, xSub_cat, xYear = get_info_from_url(redir_url)
+                    DATA.append({'make':make,'category':this_cat,'model':this_model,'year':this_year,'sub_cat':xSub_cat,'url':redir_url,'car_id':car_id})
+                    print(getTime(1)+"|\t\t\t\t\t\tmake="+make+",cat="+this_cat+",mode="+this_model+",year="+this_year+",sub="+xSub_cat+",id="+car_id)
+                except:
+                    print(getTime(1)+"|\t\t\t\tERROR="+redir_url)
+            for i in range(0,len(sub_cat)):
+                one_cat=sub_cat[i].strip()
+                one_url=sub_cat_url[i]
+                print(getTime(1)+"|\t\t\t\t\tSUB="+one_cat) 
+                car_id, xSub_cat, xYear = get_info_from_url(base_url+one_url)
+                DATA.append({'make':make,'category':this_cat,'model':this_model,'year':xYear,'sub_cat':one_cat,'url':one_url,'car_id':car_id})
+                print(getTime(1)+"|\t\t\t\t\t\tmake="+make+",cat="+this_cat+",mode="+this_model+",year="+xYear+",sub="+one_cat+",id="+car_id)
     fileName="data/"+make+".json"
     with open(fileName,"w") as f:
         json.dump({'car':DATA},f,indent=2)
