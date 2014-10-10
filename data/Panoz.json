@@ -1,0 +1,2568 @@
+{
+  "car": [
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V8, 4.6 Liter", 
+          "chgBox4564904", 
+          "cbxOptionId4564904", 
+          "4564904"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic", 
+          "chgBox4564878", 
+          "cbxOptionId4564878", 
+          "4564878"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox4564866", 
+          "cbxOptionId4564866", 
+          "4564866"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox4564902", 
+          "cbxOptionId4564902", 
+          "4564902"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox4564905", 
+          "cbxOptionId4564905", 
+          "4564905"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox4564868", 
+          "cbxOptionId4564868", 
+          "4564868"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox4564913", 
+          "cbxOptionId4564913", 
+          "4564913"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox4564909", 
+          "cbxOptionId4564909", 
+          "4564909"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox4564898", 
+          "cbxOptionId4564898", 
+          "4564898"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox4564917", 
+          "cbxOptionId4564917", 
+          "4564917"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox4564876", 
+          "cbxOptionId4564876", 
+          "4564876"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox4564890", 
+          "cbxOptionId4564890", 
+          "4564890"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox4564889", 
+          "cbxOptionId4564889", 
+          "4564889"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox4564891", 
+          "cbxOptionId4564891", 
+          "4564891"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox4564888", 
+          "cbxOptionId4564888", 
+          "4564888"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox4564899", 
+          "cbxOptionId4564899", 
+          "4564899"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox4564894", 
+          "cbxOptionId4564894", 
+          "4564894"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox4564879", 
+          "cbxOptionId4564879", 
+          "4564879"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Integrated Phone", 
+          "chgBox4564887", 
+          "cbxOptionId4564887", 
+          "4564887"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Parking Sensors", 
+          "chgBox4564896", 
+          "cbxOptionId4564896", 
+          "4564896"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox4564883", 
+          "cbxOptionId4564883", 
+          "4564883"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Dual Power Seats", 
+          "chgBox4564911", 
+          "cbxOptionId4564911", 
+          "4564911"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox4564907", 
+          "cbxOptionId4564907", 
+          "4564907"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox4564870", 
+          "cbxOptionId4564870", 
+          "4564870"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox4564872", 
+          "cbxOptionId4564872", 
+          "4564872"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox4564874", 
+          "cbxOptionId4564874", 
+          "4564874"
+        ]
+      ], 
+      "sub_cat": "Convertible 2D", 
+      "year": "2006", 
+      "url": "/panoz/esperante/2006-panoz-esperante/convertible-2d/options/?vehicleid=364294&intent=buy-used&category=convertible", 
+      "make": "Panoz", 
+      "car_id": "364294", 
+      "model": "Esperante"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V8, 4.6 Liter", 
+          "chgBox4565101", 
+          "cbxOptionId4565101", 
+          "4565101"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic", 
+          "chgBox4565071", 
+          "cbxOptionId4565071", 
+          "4565071"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox4565065", 
+          "cbxOptionId4565065", 
+          "4565065"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox4565100", 
+          "cbxOptionId4565100", 
+          "4565100"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox4565102", 
+          "cbxOptionId4565102", 
+          "4565102"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox4565066", 
+          "cbxOptionId4565066", 
+          "4565066"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox4565107", 
+          "cbxOptionId4565107", 
+          "4565107"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox4565104", 
+          "cbxOptionId4565104", 
+          "4565104"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox4565094", 
+          "cbxOptionId4565094", 
+          "4565094"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox4565110", 
+          "cbxOptionId4565110", 
+          "4565110"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox4565070", 
+          "cbxOptionId4565070", 
+          "4565070"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox4565083", 
+          "cbxOptionId4565083", 
+          "4565083"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox4565082", 
+          "cbxOptionId4565082", 
+          "4565082"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox4565084", 
+          "cbxOptionId4565084", 
+          "4565084"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox4565080", 
+          "cbxOptionId4565080", 
+          "4565080"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox4565095", 
+          "cbxOptionId4565095", 
+          "4565095"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox4565091", 
+          "cbxOptionId4565091", 
+          "4565091"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox4565072", 
+          "cbxOptionId4565072", 
+          "4565072"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Integrated Phone", 
+          "chgBox4565078", 
+          "cbxOptionId4565078", 
+          "4565078"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Parking Sensors", 
+          "chgBox4565092", 
+          "cbxOptionId4565092", 
+          "4565092"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox4565075", 
+          "cbxOptionId4565075", 
+          "4565075"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Dual Power Seats", 
+          "chgBox4565105", 
+          "cbxOptionId4565105", 
+          "4565105"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox4565103", 
+          "cbxOptionId4565103", 
+          "4565103"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox4565067", 
+          "cbxOptionId4565067", 
+          "4565067"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox4565068", 
+          "cbxOptionId4565068", 
+          "4565068"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox4565069", 
+          "cbxOptionId4565069", 
+          "4565069"
+        ]
+      ], 
+      "sub_cat": "GT Convertible 2D", 
+      "year": "2006", 
+      "url": "/panoz/esperante/2006-panoz-esperante/gt-convertible-2d/options/?vehicleid=364299&intent=buy-used&category=convertible", 
+      "make": "Panoz", 
+      "car_id": "364299", 
+      "model": "Esperante"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V8, Supercharged, 4.6L", 
+          "chgBox4565269", 
+          "cbxOptionId4565269", 
+          "4565269"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 6-Spd", 
+          "chgBox4565196", 
+          "cbxOptionId4565196", 
+          "4565196"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox4565264", 
+          "cbxOptionId4565264", 
+          "4565264"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox4565273", 
+          "cbxOptionId4565273", 
+          "4565273"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox4565201", 
+          "cbxOptionId4565201", 
+          "4565201"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox4565280", 
+          "cbxOptionId4565280", 
+          "4565280"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox4565276", 
+          "cbxOptionId4565276", 
+          "4565276"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox4565261", 
+          "cbxOptionId4565261", 
+          "4565261"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox4565284", 
+          "cbxOptionId4565284", 
+          "4565284"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox4565213", 
+          "cbxOptionId4565213", 
+          "4565213"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox4565237", 
+          "cbxOptionId4565237", 
+          "4565237"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox4565235", 
+          "cbxOptionId4565235", 
+          "4565235"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox4565239", 
+          "cbxOptionId4565239", 
+          "4565239"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox4565233", 
+          "cbxOptionId4565233", 
+          "4565233"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox4565262", 
+          "cbxOptionId4565262", 
+          "4565262"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox4565259", 
+          "cbxOptionId4565259", 
+          "4565259"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox4565218", 
+          "cbxOptionId4565218", 
+          "4565218"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Integrated Phone", 
+          "chgBox4565231", 
+          "cbxOptionId4565231", 
+          "4565231"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Parking Sensors", 
+          "chgBox4565260", 
+          "cbxOptionId4565260", 
+          "4565260"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox4565225", 
+          "cbxOptionId4565225", 
+          "4565225"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Dual Power Seats", 
+          "chgBox4565277", 
+          "cbxOptionId4565277", 
+          "4565277"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox4565275", 
+          "cbxOptionId4565275", 
+          "4565275"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox4565203", 
+          "cbxOptionId4565203", 
+          "4565203"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox4565205", 
+          "cbxOptionId4565205", 
+          "4565205"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox4565206", 
+          "cbxOptionId4565206", 
+          "4565206"
+        ]
+      ], 
+      "sub_cat": "GTLM Convertible 2D", 
+      "year": "2006", 
+      "url": "/panoz/esperante/2006-panoz-esperante/gtlm-convertible-2d/options/?vehicleid=364304&intent=buy-used&category=convertible", 
+      "make": "Panoz", 
+      "car_id": "364304", 
+      "model": "Esperante"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V8, 4.6 Liter", 
+          "chgBox4564903", 
+          "cbxOptionId4564903", 
+          "4564903"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic", 
+          "chgBox4564869", 
+          "cbxOptionId4564869", 
+          "4564869"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox4564861", 
+          "cbxOptionId4564861", 
+          "4564861"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox4564901", 
+          "cbxOptionId4564901", 
+          "4564901"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox4564906", 
+          "cbxOptionId4564906", 
+          "4564906"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox4564862", 
+          "cbxOptionId4564862", 
+          "4564862"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox4564910", 
+          "cbxOptionId4564910", 
+          "4564910"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox4564895", 
+          "cbxOptionId4564895", 
+          "4564895"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox4564918", 
+          "cbxOptionId4564918", 
+          "4564918"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox4564867", 
+          "cbxOptionId4564867", 
+          "4564867"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox4564871", 
+          "cbxOptionId4564871", 
+          "4564871"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox4564885", 
+          "cbxOptionId4564885", 
+          "4564885"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox4564884", 
+          "cbxOptionId4564884", 
+          "4564884"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox4564886", 
+          "cbxOptionId4564886", 
+          "4564886"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox4564882", 
+          "cbxOptionId4564882", 
+          "4564882"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox4564897", 
+          "cbxOptionId4564897", 
+          "4564897"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox4564892", 
+          "cbxOptionId4564892", 
+          "4564892"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox4564873", 
+          "cbxOptionId4564873", 
+          "4564873"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Integrated Phone", 
+          "chgBox4564880", 
+          "cbxOptionId4564880", 
+          "4564880"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Parking Sensors", 
+          "chgBox4564893", 
+          "cbxOptionId4564893", 
+          "4564893"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox4564877", 
+          "cbxOptionId4564877", 
+          "4564877"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Dual Power Seats", 
+          "chgBox4564912", 
+          "cbxOptionId4564912", 
+          "4564912"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox4564908", 
+          "cbxOptionId4564908", 
+          "4564908"
+        ], 
+        [
+          "Options", 
+          "Exterior", 
+          "Rear Spoiler", 
+          "chgBox4564900", 
+          "cbxOptionId4564900", 
+          "4564900"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox4564863", 
+          "cbxOptionId4564863", 
+          "4564863"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox4564864", 
+          "cbxOptionId4564864", 
+          "4564864"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox4564865", 
+          "cbxOptionId4564865", 
+          "4564865"
+        ]
+      ], 
+      "sub_cat": "Convertible 2D", 
+      "year": "2005", 
+      "url": "/panoz/esperante/2005-panoz-esperante/convertible-2d/options/?vehicleid=364293&intent=buy-used&category=convertible", 
+      "make": "Panoz", 
+      "car_id": "364293", 
+      "model": "Esperante"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V8, 4.6 Liter", 
+          "chgBox4565115", 
+          "cbxOptionId4565115", 
+          "4565115"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic", 
+          "chgBox4565086", 
+          "cbxOptionId4565086", 
+          "4565086"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox4565074", 
+          "cbxOptionId4565074", 
+          "4565074"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox4565114", 
+          "cbxOptionId4565114", 
+          "4565114"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox4565116", 
+          "cbxOptionId4565116", 
+          "4565116"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox4565076", 
+          "cbxOptionId4565076", 
+          "4565076"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox4565118", 
+          "cbxOptionId4565118", 
+          "4565118"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox4565111", 
+          "cbxOptionId4565111", 
+          "4565111"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox4565122", 
+          "cbxOptionId4565122", 
+          "4565122"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox4565085", 
+          "cbxOptionId4565085", 
+          "4565085"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox4565087", 
+          "cbxOptionId4565087", 
+          "4565087"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox4565098", 
+          "cbxOptionId4565098", 
+          "4565098"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox4565097", 
+          "cbxOptionId4565097", 
+          "4565097"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox4565099", 
+          "cbxOptionId4565099", 
+          "4565099"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox4565096", 
+          "cbxOptionId4565096", 
+          "4565096"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox4565112", 
+          "cbxOptionId4565112", 
+          "4565112"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox4565106", 
+          "cbxOptionId4565106", 
+          "4565106"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox4565088", 
+          "cbxOptionId4565088", 
+          "4565088"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Integrated Phone", 
+          "chgBox4565093", 
+          "cbxOptionId4565093", 
+          "4565093"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Parking Sensors", 
+          "chgBox4565108", 
+          "cbxOptionId4565108", 
+          "4565108"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox4565090", 
+          "cbxOptionId4565090", 
+          "4565090"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Dual Power Seats", 
+          "chgBox4565119", 
+          "cbxOptionId4565119", 
+          "4565119"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox4565117", 
+          "cbxOptionId4565117", 
+          "4565117"
+        ], 
+        [
+          "Options", 
+          "Exterior", 
+          "Rear Spoiler", 
+          "chgBox4565113", 
+          "cbxOptionId4565113", 
+          "4565113"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox4565077", 
+          "cbxOptionId4565077", 
+          "4565077"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox4565079", 
+          "cbxOptionId4565079", 
+          "4565079"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox4565081", 
+          "cbxOptionId4565081", 
+          "4565081"
+        ]
+      ], 
+      "sub_cat": "GT Convertible 2D", 
+      "year": "2005", 
+      "url": "/panoz/esperante/2005-panoz-esperante/gt-convertible-2d/options/?vehicleid=364300&intent=buy-used&category=convertible", 
+      "make": "Panoz", 
+      "car_id": "364300", 
+      "model": "Esperante"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V8, Supercharged, 4.6L", 
+          "chgBox4565279", 
+          "cbxOptionId4565279", 
+          "4565279"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 6-Spd", 
+          "chgBox4565210", 
+          "cbxOptionId4565210", 
+          "4565210"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox4565274", 
+          "cbxOptionId4565274", 
+          "4565274"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox4565216", 
+          "cbxOptionId4565216", 
+          "4565216"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox4565268", 
+          "cbxOptionId4565268", 
+          "4565268"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox4565234", 
+          "cbxOptionId4565234", 
+          "4565234"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox4565238", 
+          "cbxOptionId4565238", 
+          "4565238"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox4565255", 
+          "cbxOptionId4565255", 
+          "4565255"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox4565254", 
+          "cbxOptionId4565254", 
+          "4565254"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox4565257", 
+          "cbxOptionId4565257", 
+          "4565257"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox4565252", 
+          "cbxOptionId4565252", 
+          "4565252"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox4565270", 
+          "cbxOptionId4565270", 
+          "4565270"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox4565266", 
+          "cbxOptionId4565266", 
+          "4565266"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox4565240", 
+          "cbxOptionId4565240", 
+          "4565240"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Integrated Phone", 
+          "chgBox4565251", 
+          "cbxOptionId4565251", 
+          "4565251"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Parking Sensors", 
+          "chgBox4565267", 
+          "cbxOptionId4565267", 
+          "4565267"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox4565245", 
+          "cbxOptionId4565245", 
+          "4565245"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "F&R Side Air Bags", 
+          "chgBox5305114", 
+          "cbxOptionId5305114", 
+          "5305114"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox4565289", 
+          "cbxOptionId4565289", 
+          "4565289"
+        ], 
+        [
+          "Options", 
+          "Exterior", 
+          "Rear Spoiler", 
+          "chgBox4565272", 
+          "cbxOptionId4565272", 
+          "4565272"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox4565220", 
+          "cbxOptionId4565220", 
+          "4565220"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox4565223", 
+          "cbxOptionId4565223", 
+          "4565223"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox4565226", 
+          "cbxOptionId4565226", 
+          "4565226"
+        ]
+      ], 
+      "sub_cat": "GTLM Convertible 2D", 
+      "year": "2005", 
+      "url": "/panoz/esperante/2005-panoz-esperante/gtlm-convertible-2d/options/?vehicleid=364305&intent=buy-used&category=convertible", 
+      "make": "Panoz", 
+      "car_id": "364305", 
+      "model": "Esperante"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V8, 4.6 Liter", 
+          "chgBox4564031", 
+          "cbxOptionId4564031", 
+          "4564031"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic", 
+          "chgBox4564005", 
+          "cbxOptionId4564005", 
+          "4564005"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox4563996", 
+          "cbxOptionId4563996", 
+          "4563996"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox4564029", 
+          "cbxOptionId4564029", 
+          "4564029"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox4564032", 
+          "cbxOptionId4564032", 
+          "4564032"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox4563997", 
+          "cbxOptionId4563997", 
+          "4563997"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox4564038", 
+          "cbxOptionId4564038", 
+          "4564038"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox4564034", 
+          "cbxOptionId4564034", 
+          "4564034"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox4564023", 
+          "cbxOptionId4564023", 
+          "4564023"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox4564042", 
+          "cbxOptionId4564042", 
+          "4564042"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox4564003", 
+          "cbxOptionId4564003", 
+          "4564003"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox4564015", 
+          "cbxOptionId4564015", 
+          "4564015"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox4564014", 
+          "cbxOptionId4564014", 
+          "4564014"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox4564016", 
+          "cbxOptionId4564016", 
+          "4564016"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox4564012", 
+          "cbxOptionId4564012", 
+          "4564012"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox4564025", 
+          "cbxOptionId4564025", 
+          "4564025"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox4564021", 
+          "cbxOptionId4564021", 
+          "4564021"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox4564007", 
+          "cbxOptionId4564007", 
+          "4564007"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Parking Sensors", 
+          "chgBox4564022", 
+          "cbxOptionId4564022", 
+          "4564022"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox4564010", 
+          "cbxOptionId4564010", 
+          "4564010"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Dual Power Seats", 
+          "chgBox4564036", 
+          "cbxOptionId4564036", 
+          "4564036"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox4564033", 
+          "cbxOptionId4564033", 
+          "4564033"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox4563998", 
+          "cbxOptionId4563998", 
+          "4563998"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox4563999", 
+          "cbxOptionId4563999", 
+          "4563999"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox4564000", 
+          "cbxOptionId4564000", 
+          "4564000"
+        ]
+      ], 
+      "sub_cat": "Coupe 2D", 
+      "year": "2006", 
+      "url": "/panoz/esperante/2006-panoz-esperante/coupe-2d/options/?vehicleid=364270&intent=buy-used&category=coupe", 
+      "make": "Panoz", 
+      "car_id": "364270", 
+      "model": "Esperante"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V8, 4.6 Liter", 
+          "chgBox4565172", 
+          "cbxOptionId4565172", 
+          "4565172"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic", 
+          "chgBox4565158", 
+          "cbxOptionId4565158", 
+          "4565158"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox4565152", 
+          "cbxOptionId4565152", 
+          "4565152"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox4565171", 
+          "cbxOptionId4565171", 
+          "4565171"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox4565173", 
+          "cbxOptionId4565173", 
+          "4565173"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox4565153", 
+          "cbxOptionId4565153", 
+          "4565153"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox4565177", 
+          "cbxOptionId4565177", 
+          "4565177"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox4565175", 
+          "cbxOptionId4565175", 
+          "4565175"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox4565169", 
+          "cbxOptionId4565169", 
+          "4565169"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox4565179", 
+          "cbxOptionId4565179", 
+          "4565179"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox4565157", 
+          "cbxOptionId4565157", 
+          "4565157"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox4565165", 
+          "cbxOptionId4565165", 
+          "4565165"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox4565164", 
+          "cbxOptionId4565164", 
+          "4565164"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox4565166", 
+          "cbxOptionId4565166", 
+          "4565166"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox4565163", 
+          "cbxOptionId4565163", 
+          "4565163"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox4565170", 
+          "cbxOptionId4565170", 
+          "4565170"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox4565167", 
+          "cbxOptionId4565167", 
+          "4565167"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox4565159", 
+          "cbxOptionId4565159", 
+          "4565159"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Integrated Phone", 
+          "chgBox4565162", 
+          "cbxOptionId4565162", 
+          "4565162"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Parking Sensors", 
+          "chgBox4565168", 
+          "cbxOptionId4565168", 
+          "4565168"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox4565161", 
+          "cbxOptionId4565161", 
+          "4565161"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Dual Power Seats", 
+          "chgBox4565176", 
+          "cbxOptionId4565176", 
+          "4565176"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox4565174", 
+          "cbxOptionId4565174", 
+          "4565174"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox4565154", 
+          "cbxOptionId4565154", 
+          "4565154"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox4565155", 
+          "cbxOptionId4565155", 
+          "4565155"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox4565156", 
+          "cbxOptionId4565156", 
+          "4565156"
+        ]
+      ], 
+      "sub_cat": "GT Coupe 2D", 
+      "year": "2006", 
+      "url": "/panoz/esperante/2006-panoz-esperante/gt-coupe-2d/options/?vehicleid=364302&intent=buy-used&category=coupe", 
+      "make": "Panoz", 
+      "car_id": "364302", 
+      "model": "Esperante"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V8, Supercharged, 4.6L", 
+          "chgBox4565232", 
+          "cbxOptionId4565232", 
+          "4565232"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 6-Spd", 
+          "chgBox4565180", 
+          "cbxOptionId4565180", 
+          "4565180"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox4565228", 
+          "cbxOptionId4565228", 
+          "4565228"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox4565241", 
+          "cbxOptionId4565241", 
+          "4565241"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox4565181", 
+          "cbxOptionId4565181", 
+          "4565181"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox4565247", 
+          "cbxOptionId4565247", 
+          "4565247"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox4565244", 
+          "cbxOptionId4565244", 
+          "4565244"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox4565217", 
+          "cbxOptionId4565217", 
+          "4565217"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox4565250", 
+          "cbxOptionId4565250", 
+          "4565250"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox4565187", 
+          "cbxOptionId4565187", 
+          "4565187"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox4565199", 
+          "cbxOptionId4565199", 
+          "4565199"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox4565198", 
+          "cbxOptionId4565198", 
+          "4565198"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox4565200", 
+          "cbxOptionId4565200", 
+          "4565200"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox4565197", 
+          "cbxOptionId4565197", 
+          "4565197"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox4565219", 
+          "cbxOptionId4565219", 
+          "4565219"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox4565212", 
+          "cbxOptionId4565212", 
+          "4565212"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox4565189", 
+          "cbxOptionId4565189", 
+          "4565189"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Integrated Phone", 
+          "chgBox4565194", 
+          "cbxOptionId4565194", 
+          "4565194"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Parking Sensors", 
+          "chgBox4565215", 
+          "cbxOptionId4565215", 
+          "4565215"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox4565191", 
+          "cbxOptionId4565191", 
+          "4565191"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Dual Power Seats", 
+          "chgBox4565246", 
+          "cbxOptionId4565246", 
+          "4565246"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox4565242", 
+          "cbxOptionId4565242", 
+          "4565242"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox4565183", 
+          "cbxOptionId4565183", 
+          "4565183"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox4565184", 
+          "cbxOptionId4565184", 
+          "4565184"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox4565185", 
+          "cbxOptionId4565185", 
+          "4565185"
+        ]
+      ], 
+      "sub_cat": "GTLM Coupe 2D", 
+      "year": "2006", 
+      "url": "/panoz/esperante/2006-panoz-esperante/gtlm-coupe-2d/options/?vehicleid=364306&intent=buy-used&category=coupe", 
+      "make": "Panoz", 
+      "car_id": "364306", 
+      "model": "Esperante"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V8, 4.6 Liter", 
+          "chgBox4564044", 
+          "cbxOptionId4564044", 
+          "4564044"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic", 
+          "chgBox4564013", 
+          "cbxOptionId4564013", 
+          "4564013"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox4564001", 
+          "cbxOptionId4564001", 
+          "4564001"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox4564043", 
+          "cbxOptionId4564043", 
+          "4564043"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox4564045", 
+          "cbxOptionId4564045", 
+          "4564045"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox4564002", 
+          "cbxOptionId4564002", 
+          "4564002"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox4564047", 
+          "cbxOptionId4564047", 
+          "4564047"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox4564039", 
+          "cbxOptionId4564039", 
+          "4564039"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox4564051", 
+          "cbxOptionId4564051", 
+          "4564051"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox4564011", 
+          "cbxOptionId4564011", 
+          "4564011"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox4564017", 
+          "cbxOptionId4564017", 
+          "4564017"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox4564028", 
+          "cbxOptionId4564028", 
+          "4564028"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox4564027", 
+          "cbxOptionId4564027", 
+          "4564027"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox4564030", 
+          "cbxOptionId4564030", 
+          "4564030"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox4564026", 
+          "cbxOptionId4564026", 
+          "4564026"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox4564041", 
+          "cbxOptionId4564041", 
+          "4564041"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox4564035", 
+          "cbxOptionId4564035", 
+          "4564035"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox4564018", 
+          "cbxOptionId4564018", 
+          "4564018"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Integrated Phone", 
+          "chgBox4564024", 
+          "cbxOptionId4564024", 
+          "4564024"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Parking Sensors", 
+          "chgBox4564037", 
+          "cbxOptionId4564037", 
+          "4564037"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox4564020", 
+          "cbxOptionId4564020", 
+          "4564020"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Dual Power Seats", 
+          "chgBox4564048", 
+          "cbxOptionId4564048", 
+          "4564048"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox4564046", 
+          "cbxOptionId4564046", 
+          "4564046"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox4564004", 
+          "cbxOptionId4564004", 
+          "4564004"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox4564006", 
+          "cbxOptionId4564006", 
+          "4564006"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox4564008", 
+          "cbxOptionId4564008", 
+          "4564008"
+        ]
+      ], 
+      "sub_cat": "Coupe 2D", 
+      "year": "2005", 
+      "url": "/panoz/esperante/2005-panoz-esperante/coupe-2d/options/?vehicleid=364271&intent=buy-used&category=coupe", 
+      "make": "Panoz", 
+      "car_id": "364271", 
+      "model": "Esperante"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V8, 4.6 Liter", 
+          "chgBox4565144", 
+          "cbxOptionId4565144", 
+          "4565144"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic", 
+          "chgBox4565129", 
+          "cbxOptionId4565129", 
+          "4565129"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox4565123", 
+          "cbxOptionId4565123", 
+          "4565123"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox4565143", 
+          "cbxOptionId4565143", 
+          "4565143"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox4565145", 
+          "cbxOptionId4565145", 
+          "4565145"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox4565124", 
+          "cbxOptionId4565124", 
+          "4565124"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox4565147", 
+          "cbxOptionId4565147", 
+          "4565147"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox4565141", 
+          "cbxOptionId4565141", 
+          "4565141"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox4565151", 
+          "cbxOptionId4565151", 
+          "4565151"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox4565128", 
+          "cbxOptionId4565128", 
+          "4565128"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox4565130", 
+          "cbxOptionId4565130", 
+          "4565130"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox4565137", 
+          "cbxOptionId4565137", 
+          "4565137"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox4565136", 
+          "cbxOptionId4565136", 
+          "4565136"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox4565138", 
+          "cbxOptionId4565138", 
+          "4565138"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox4565135", 
+          "cbxOptionId4565135", 
+          "4565135"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox4565142", 
+          "cbxOptionId4565142", 
+          "4565142"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox4565139", 
+          "cbxOptionId4565139", 
+          "4565139"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox4565131", 
+          "cbxOptionId4565131", 
+          "4565131"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Integrated Phone", 
+          "chgBox4565134", 
+          "cbxOptionId4565134", 
+          "4565134"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Parking Sensors", 
+          "chgBox4565140", 
+          "cbxOptionId4565140", 
+          "4565140"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox4565133", 
+          "cbxOptionId4565133", 
+          "4565133"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Dual Power Seats", 
+          "chgBox4565148", 
+          "cbxOptionId4565148", 
+          "4565148"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox4565146", 
+          "cbxOptionId4565146", 
+          "4565146"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox4565125", 
+          "cbxOptionId4565125", 
+          "4565125"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox4565126", 
+          "cbxOptionId4565126", 
+          "4565126"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox4565127", 
+          "cbxOptionId4565127", 
+          "4565127"
+        ]
+      ], 
+      "sub_cat": "GT Coupe 2D", 
+      "year": "2005", 
+      "url": "/panoz/esperante/2005-panoz-esperante/gt-coupe-2d/options/?vehicleid=364301&intent=buy-used&category=coupe", 
+      "make": "Panoz", 
+      "car_id": "364301", 
+      "model": "Esperante"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V8, Supercharged, 4.6L", 
+          "chgBox4565271", 
+          "cbxOptionId4565271", 
+          "4565271"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 6-Spd", 
+          "chgBox4565186", 
+          "cbxOptionId4565186", 
+          "4565186"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox4565265", 
+          "cbxOptionId4565265", 
+          "4565265"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox4565188", 
+          "cbxOptionId4565188", 
+          "4565188"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox4565256", 
+          "cbxOptionId4565256", 
+          "4565256"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox4565202", 
+          "cbxOptionId4565202", 
+          "4565202"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox4565207", 
+          "cbxOptionId4565207", 
+          "4565207"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox4565229", 
+          "cbxOptionId4565229", 
+          "4565229"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox4565227", 
+          "cbxOptionId4565227", 
+          "4565227"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox4565230", 
+          "cbxOptionId4565230", 
+          "4565230"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox4565224", 
+          "cbxOptionId4565224", 
+          "4565224"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox4565258", 
+          "cbxOptionId4565258", 
+          "4565258"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox4565249", 
+          "cbxOptionId4565249", 
+          "4565249"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox4565209", 
+          "cbxOptionId4565209", 
+          "4565209"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Integrated Phone", 
+          "chgBox4565221", 
+          "cbxOptionId4565221", 
+          "4565221"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Parking Sensors", 
+          "chgBox4565253", 
+          "cbxOptionId4565253", 
+          "4565253"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox4565214", 
+          "cbxOptionId4565214", 
+          "4565214"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox4565281", 
+          "cbxOptionId4565281", 
+          "4565281"
+        ], 
+        [
+          "Options", 
+          "Exterior", 
+          "Rear Spoiler", 
+          "chgBox4565263", 
+          "cbxOptionId4565263", 
+          "4565263"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox4565192", 
+          "cbxOptionId4565192", 
+          "4565192"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox4565193", 
+          "cbxOptionId4565193", 
+          "4565193"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox4565195", 
+          "cbxOptionId4565195", 
+          "4565195"
+        ]
+      ], 
+      "sub_cat": "GTLM Coupe 2D", 
+      "year": "2005", 
+      "url": "/panoz/esperante/2005-panoz-esperante/gtlm-coupe-2d/options/?vehicleid=364303&intent=buy-used&category=coupe", 
+      "make": "Panoz", 
+      "car_id": "364303", 
+      "model": "Esperante"
+    }
+  ]
+}
