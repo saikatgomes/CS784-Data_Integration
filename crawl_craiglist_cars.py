@@ -1,3 +1,4 @@
+# coding: utf8 
 #!/usr/bin/python
 
 import requests
@@ -8,6 +9,8 @@ import shutil
 base_url = "http://madison.craigslist.org"
 base_search_url = base_url + "/search/cta"
 IMGDIR = 'car_images/'
+HTMLDIR = 'craiglist/html_craiglist/'
+
 cars = []
 def get_all_links(url, limmit_hop = 100, fromFile=None):
     if fromFile:
@@ -89,8 +92,66 @@ def car_info(url):
             c[k] = c[k].strip()
     cars.append(c)
 
+def parse_title(s):
+    s = unicode(s).encode('ascii', errors='ignore')
+    first_part, _, second_part = s.partition('-')
+    first_part = first_part.strip()
+    second_part = second_part.strip()
+    reg_c = re.compile(r".*(\$\d+).*")
+    reg_l = re.compile(r".*\((.*)\).*")
+    reg_y = re.compile(r"^(\d{2,4}) .*")
+
+    l = reg_l.match(second_part)
+    if l: 
+        l = l.groups(1)[0]
+    c = reg_c.match(second_part)
+    if c: 
+        c = c.groups(1)[0]
+    y = reg_y.match(first_part)
+    m = ""
+    if y:
+        y = y.groups(1)[0]
+        if len(y) == 2:
+            if y>50: y = '19' + y
+            else : y = '20' + y
+        m = first_part[len(y)+1:].strip()
+    if not y and not c: m = first_part
+    return m,c,l,y
+
+def extract_atrribute(tree):
+    attr = {}
+    for attrib in tree.xpath("//p[@class='attrgroup']/span"):
+        a = attrib.text_content()
+        k = a.split(':')
+        if len(k)<2:
+            k,v = 'title', k[0]
+        else:
+            k, v = k[0], ','.join(k[1:])
+            v = v.strip()
+            k = k.strip()
+        attr[k] = v
+    return attr
+
+def clean_car_json_data(fname):
+    D = json.load(open(fname))
+    for elem in D:
+        # remove non alphanumeric characters from make, cost, localtion, year
+        # fix year
+        for k,v in zip(['make', 'cost', 'location', 'year'], parse_title(elem['title'])):
+            elem[k] = v if v else ""
+        # fix the attrib from html pages
+        with open(HTMLDIR + elem['id'] + '.html') as f:
+            tree = html.fromstring(f.read())
+            elem['attr'] = extract_atrribute(tree)
+    with open('craiglist/car_data_new.json', 'wb') as fp:
+        json.dump(D, fp, indent=4, sort_keys=True)
+
 if __name__ == "__main__":
-    links = get_all_links(base_search_url, 100, fromFile='list_links.txt')
-    print links
-    get_car_info(links)
-    
+    # links = get_all_links(base_search_url, 100, fromFile='list_links.txt')
+    # print links
+    # get_car_info(links)
+    # print parse_title(u"\u2606\u2606 1990 CADILLAC SEDAN DEVILLE \u2606\u2606 - $1200 (Marshall, Wi 53559)")
+    # with open(HTMLDIR + '4704328594.html') as f:
+    #     tree = html.fromstring(f.read())
+    #     print extract_atrribute(tree)
+    #clean_car_json_data('craiglist/car_data.json')
