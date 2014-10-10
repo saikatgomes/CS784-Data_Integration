@@ -130,6 +130,11 @@ def extract_atrribute(tree):
             v = v.strip()
             k = k.strip()
         attr[k] = v
+    # get posted and updated date
+    for key in ['posted', 'updated']:
+        p = tree.xpath('//p[@class="postinginfo"][contains(text(), "%s")][1]' % key) 
+        if p:
+            attr[key] = p[0].xpath('//time/@datetime')[0]
     return attr
 
 def clean_car_json_data(fname):
@@ -146,12 +151,30 @@ def clean_car_json_data(fname):
     with open('craiglist/car_data_new.json', 'wb') as fp:
         json.dump(D, fp, indent=4, sort_keys=True)
 
+def flatten_table(fname):
+    D = json.load(open(fname))
+    E = []
+    for elem in D:
+        X = dict(((key, elem[key]) for key in
+                  ['cost', 'location', 'title', 'make', 'year', 'id'] ))
+        for k,v in elem['attr'].items():
+            if k not in ['posted', 'updated']:
+                X['attr_%s' % k] = v
+            else:
+                X[k] = v
+        E.append(X)
+    with open('craiglist/car_data_present.json', 'wb') as fp:
+        json.dump(E, fp, indent=4, sort_keys=True)
+    
+            
+
 if __name__ == "__main__":
     # links = get_all_links(base_search_url, 100, fromFile='list_links.txt')
     # print links
     # get_car_info(links)
     # print parse_title(u"\u2606\u2606 1990 CADILLAC SEDAN DEVILLE \u2606\u2606 - $1200 (Marshall, Wi 53559)")
-    # with open(HTMLDIR + '4704328594.html') as f:
-    #     tree = html.fromstring(f.read())
-    #     print extract_atrribute(tree)
-    # zclean_car_json_data('craiglist/car_data.json')
+    #with open(HTMLDIR + '4704328594.html') as f:
+    #    tree = html.fromstring(f.read())
+    #    print json.dumps(extract_atrribute(tree), indent=4)
+    # clean_car_json_data('craiglist/car_data.json')
+    flatten_table('craiglist/car_data_new.json')
