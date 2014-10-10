@@ -1,0 +1,3172 @@
+{
+  "car": [
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/jaguar/xj-series/1996-jaguar-xj-series/xjs-22-convertible-2d/options/?vehicleid=9275&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "xjs-22-convertible-2d", 
+      "year": "1996", 
+      "model": "XJ Series", 
+      "car_id": "9275"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xj-series/1995-jaguar-xj-series/xjs-22-convertible-2d/options/?vehicleid=7891&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XJS 2+2 Convertible 2D", 
+      "year": "1995", 
+      "model": "XJ Series", 
+      "car_id": "7891"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xj-series/1995-jaguar-xj-series/xjs-v12-22-convertible-2d/options/?vehicleid=7894&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XJS V12 2+2 Convertible 2D", 
+      "year": "1995", 
+      "model": "XJ Series", 
+      "car_id": "7894"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xj-series/1994-jaguar-xj-series/xjs-22-convertible-2d/options/?vehicleid=9307&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XJS 2+2 Convertible 2D", 
+      "year": "1994", 
+      "model": "XJ Series", 
+      "car_id": "9307"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xj-series/1994-jaguar-xj-series/xjs-v12-22-convertible-2d/options/?vehicleid=9312&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XJS V12 2+2 Convertible 2D", 
+      "year": "1994", 
+      "model": "XJ Series", 
+      "car_id": "9312"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2013-jaguar-xk-series/xk-touring-convertible-2d/options/?vehicleid=384616&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Touring Convertible 2D", 
+      "year": "2013", 
+      "model": "XK Series", 
+      "car_id": "384616"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2013-jaguar-xk-series/xk-convertible-2d/options/?vehicleid=377814&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Convertible 2D", 
+      "year": "2013", 
+      "model": "XK Series", 
+      "car_id": "377814"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2013-jaguar-xk-series/xkr-convertible-2d/options/?vehicleid=377827&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Convertible 2D", 
+      "year": "2013", 
+      "model": "XK Series", 
+      "car_id": "377827"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2013-jaguar-xk-series/xkr-s-convertible-2d/options/?vehicleid=377816&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR-S Convertible 2D", 
+      "year": "2013", 
+      "model": "XK Series", 
+      "car_id": "377816"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2012-jaguar-xk-series/xk-convertible-2d/options/?vehicleid=364399&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Convertible 2D", 
+      "year": "2012", 
+      "model": "XK Series", 
+      "car_id": "364399"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2012-jaguar-xk-series/xkr-convertible-2d/options/?vehicleid=364398&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Convertible 2D", 
+      "year": "2012", 
+      "model": "XK Series", 
+      "car_id": "364398"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2012-jaguar-xk-series/xkr-s-convertible-2d/options/?vehicleid=374588&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR-S Convertible 2D", 
+      "year": "2012", 
+      "model": "XK Series", 
+      "car_id": "374588"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2011-jaguar-xk-series/xk-convertible-2d/options/?vehicleid=353549&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Convertible 2D", 
+      "year": "2011", 
+      "model": "XK Series", 
+      "car_id": "353549"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2011-jaguar-xk-series/xkr-convertible-2d/options/?vehicleid=353566&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Convertible 2D", 
+      "year": "2011", 
+      "model": "XK Series", 
+      "car_id": "353566"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2010-jaguar-xk-series/xk-convertible-2d/options/?vehicleid=249061&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Convertible 2D", 
+      "year": "2010", 
+      "model": "XK Series", 
+      "car_id": "249061"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2010-jaguar-xk-series/xkr-convertible-2d/options/?vehicleid=249063&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Convertible 2D", 
+      "year": "2010", 
+      "model": "XK Series", 
+      "car_id": "249063"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2009-jaguar-xk-series/xk-convertible-2d/options/?vehicleid=226715&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Convertible 2D", 
+      "year": "2009", 
+      "model": "XK Series", 
+      "car_id": "226715"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2009-jaguar-xk-series/xkr-convertible-2d/options/?vehicleid=226719&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Convertible 2D", 
+      "year": "2009", 
+      "model": "XK Series", 
+      "car_id": "226719"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2009-jaguar-xk-series/xkr-portfolio-convertible-2d/options/?vehicleid=226721&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Portfolio Convertible 2D", 
+      "year": "2009", 
+      "model": "XK Series", 
+      "car_id": "226721"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2008-jaguar-xk-series/xk-convertible-2d/options/?vehicleid=197351&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Convertible 2D", 
+      "year": "2008", 
+      "model": "XK Series", 
+      "car_id": "197351"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2008-jaguar-xk-series/xkr-convertible-2d/options/?vehicleid=197353&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Convertible 2D", 
+      "year": "2008", 
+      "model": "XK Series", 
+      "car_id": "197353"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2008-jaguar-xk-series/xkr-portfolio-convertible-2d/options/?vehicleid=223926&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Portfolio Convertible 2D", 
+      "year": "2008", 
+      "model": "XK Series", 
+      "car_id": "223926"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2007-jaguar-xk-series/xk-convertible-2d/options/?vehicleid=83917&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Convertible 2D", 
+      "year": "2007", 
+      "model": "XK Series", 
+      "car_id": "83917"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2007-jaguar-xk-series/xkr-convertible-2d/options/?vehicleid=83920&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Convertible 2D", 
+      "year": "2007", 
+      "model": "XK Series", 
+      "car_id": "83920"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2006-jaguar-xk-series/xk8-convertible-2d/options/?vehicleid=876&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK8 Convertible 2D", 
+      "year": "2006", 
+      "model": "XK Series", 
+      "car_id": "876"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2006-jaguar-xk-series/xkr-convertible-2d/options/?vehicleid=878&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Convertible 2D", 
+      "year": "2006", 
+      "model": "XK Series", 
+      "car_id": "878"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2005-jaguar-xk-series/xk8-convertible-2d/options/?vehicleid=1013&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK8 Convertible 2D", 
+      "year": "2005", 
+      "model": "XK Series", 
+      "car_id": "1013"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2005-jaguar-xk-series/xkr-convertible-2d/options/?vehicleid=1017&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Convertible 2D", 
+      "year": "2005", 
+      "model": "XK Series", 
+      "car_id": "1017"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2004-jaguar-xk-series/xk8-convertible-2d/options/?vehicleid=2812&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK8 Convertible 2D", 
+      "year": "2004", 
+      "model": "XK Series", 
+      "car_id": "2812"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2004-jaguar-xk-series/xkr-convertible-2d/options/?vehicleid=2817&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Convertible 2D", 
+      "year": "2004", 
+      "model": "XK Series", 
+      "car_id": "2817"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2003-jaguar-xk-series/xk8-convertible-2d/options/?vehicleid=2601&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK8 Convertible 2D", 
+      "year": "2003", 
+      "model": "XK Series", 
+      "car_id": "2601"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2003-jaguar-xk-series/xkr-convertible-2d/options/?vehicleid=2603&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Convertible 2D", 
+      "year": "2003", 
+      "model": "XK Series", 
+      "car_id": "2603"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2002-jaguar-xk-series/xk8-convertible-2d/options/?vehicleid=4258&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK8 Convertible 2D", 
+      "year": "2002", 
+      "model": "XK Series", 
+      "car_id": "4258"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2002-jaguar-xk-series/xkr-100-convertible-2d/options/?vehicleid=4264&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR 100 Convertible 2D", 
+      "year": "2002", 
+      "model": "XK Series", 
+      "car_id": "4264"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2002-jaguar-xk-series/xkr-convertible-2d/options/?vehicleid=4255&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Convertible 2D", 
+      "year": "2002", 
+      "model": "XK Series", 
+      "car_id": "4255"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2001-jaguar-xk-series/xk8-convertible-2d/options/?vehicleid=4518&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK8 Convertible 2D", 
+      "year": "2001", 
+      "model": "XK Series", 
+      "car_id": "4518"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2001-jaguar-xk-series/xkr-convertible-2d/options/?vehicleid=4522&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Convertible 2D", 
+      "year": "2001", 
+      "model": "XK Series", 
+      "car_id": "4522"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2001-jaguar-xk-series/xkr-silverstone-convertible-2d/options/?vehicleid=4527&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Silverstone Convertible 2D", 
+      "year": "2001", 
+      "model": "XK Series", 
+      "car_id": "4527"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2000-jaguar-xk-series/xk8-convertible-2d/options/?vehicleid=6395&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XK8 Convertible 2D", 
+      "year": "2000", 
+      "model": "XK Series", 
+      "car_id": "6395"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/jaguar/xk-series/2000-jaguar-xk-series/xkr-convertible-2d/options/?vehicleid=6396&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Convertible 2D", 
+      "year": "2000", 
+      "model": "XK Series", 
+      "car_id": "6396"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/jaguar/xk-series/1999-jaguar-xk-series/xk8-convertible-2d/options/?vehicleid=5677&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "xk8-convertible-2d", 
+      "year": "1999", 
+      "model": "XK Series", 
+      "car_id": "5677"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/jaguar/xk-series/1998-jaguar-xk-series/xk8-convertible-2d/options/?vehicleid=6681&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "xk8-convertible-2d", 
+      "year": "1998", 
+      "model": "XK Series", 
+      "car_id": "6681"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/jaguar/xk-series/1997-jaguar-xk-series/xk8-convertible-2d/options/?vehicleid=7954&intent=buy-used&category=convertible", 
+      "make": "Jaguar", 
+      "sub_cat": "xk8-convertible-2d", 
+      "year": "1997", 
+      "model": "XK Series", 
+      "car_id": "7954"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xj-series/1995-jaguar-xj-series/xjs-coupe-2d/options/?vehicleid=7888&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XJS Coupe 2D", 
+      "year": "1995", 
+      "model": "XJ Series", 
+      "car_id": "7888"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xj-series/1995-jaguar-xj-series/xjs-v12-coupe-2d/options/?vehicleid=7892&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XJS V12 Coupe 2D", 
+      "year": "1995", 
+      "model": "XJ Series", 
+      "car_id": "7892"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xj-series/1994-jaguar-xj-series/xjs-coupe-2d/options/?vehicleid=9304&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XJS Coupe 2D", 
+      "year": "1994", 
+      "model": "XJ Series", 
+      "car_id": "9304"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xj-series/1994-jaguar-xj-series/xjs-v12-coupe-2d/options/?vehicleid=9306&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XJS V12 Coupe 2D", 
+      "year": "1994", 
+      "model": "XJ Series", 
+      "car_id": "9306"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2013-jaguar-xk-series/xk-touring-coupe-2d/options/?vehicleid=384614&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Touring Coupe 2D", 
+      "year": "2013", 
+      "model": "XK Series", 
+      "car_id": "384614"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2013-jaguar-xk-series/xk-coupe-2d/options/?vehicleid=377819&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Coupe 2D", 
+      "year": "2013", 
+      "model": "XK Series", 
+      "car_id": "377819"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2013-jaguar-xk-series/xkr-coupe-2d/options/?vehicleid=377824&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Coupe 2D", 
+      "year": "2013", 
+      "model": "XK Series", 
+      "car_id": "377824"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2013-jaguar-xk-series/xkr-s-coupe-2d/options/?vehicleid=377813&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR-S Coupe 2D", 
+      "year": "2013", 
+      "model": "XK Series", 
+      "car_id": "377813"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2012-jaguar-xk-series/xk-coupe-2d/options/?vehicleid=364396&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Coupe 2D", 
+      "year": "2012", 
+      "model": "XK Series", 
+      "car_id": "364396"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2012-jaguar-xk-series/xkr-coupe-2d/options/?vehicleid=364400&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Coupe 2D", 
+      "year": "2012", 
+      "model": "XK Series", 
+      "car_id": "364400"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2012-jaguar-xk-series/xkr-s-coupe-2d/options/?vehicleid=364397&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR-S Coupe 2D", 
+      "year": "2012", 
+      "model": "XK Series", 
+      "car_id": "364397"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2011-jaguar-xk-series/xk-coupe-2d/options/?vehicleid=353555&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Coupe 2D", 
+      "year": "2011", 
+      "model": "XK Series", 
+      "car_id": "353555"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2011-jaguar-xk-series/xkr-coupe-2d/options/?vehicleid=353565&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Coupe 2D", 
+      "year": "2011", 
+      "model": "XK Series", 
+      "car_id": "353565"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2011-jaguar-xk-series/xkr175-75th-anniversary-coupe-2d/options/?vehicleid=353662&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR175 75th Anniversary Coupe 2D", 
+      "year": "2011", 
+      "model": "XK Series", 
+      "car_id": "353662"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2010-jaguar-xk-series/xk-coupe-2d/options/?vehicleid=249054&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Coupe 2D", 
+      "year": "2010", 
+      "model": "XK Series", 
+      "car_id": "249054"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2010-jaguar-xk-series/xkr-coupe-2d/options/?vehicleid=249062&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Coupe 2D", 
+      "year": "2010", 
+      "model": "XK Series", 
+      "car_id": "249062"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2009-jaguar-xk-series/xk-coupe-2d/options/?vehicleid=226718&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Coupe 2D", 
+      "year": "2009", 
+      "model": "XK Series", 
+      "car_id": "226718"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2009-jaguar-xk-series/xkr-coupe-2d/options/?vehicleid=226717&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Coupe 2D", 
+      "year": "2009", 
+      "model": "XK Series", 
+      "car_id": "226717"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2009-jaguar-xk-series/xkr-portfolio-coupe-2d/options/?vehicleid=226720&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Portfolio Coupe 2D", 
+      "year": "2009", 
+      "model": "XK Series", 
+      "car_id": "226720"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2008-jaguar-xk-series/xk-coupe-2d/options/?vehicleid=197350&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Coupe 2D", 
+      "year": "2008", 
+      "model": "XK Series", 
+      "car_id": "197350"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2008-jaguar-xk-series/xkr-coupe-2d/options/?vehicleid=197352&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Coupe 2D", 
+      "year": "2008", 
+      "model": "XK Series", 
+      "car_id": "197352"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2008-jaguar-xk-series/xkr-portfolio-coupe-2d/options/?vehicleid=223925&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Portfolio Coupe 2D", 
+      "year": "2008", 
+      "model": "XK Series", 
+      "car_id": "223925"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2007-jaguar-xk-series/xk-coupe-2d/options/?vehicleid=83915&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK Coupe 2D", 
+      "year": "2007", 
+      "model": "XK Series", 
+      "car_id": "83915"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2007-jaguar-xk-series/xkr-coupe-2d/options/?vehicleid=83919&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Coupe 2D", 
+      "year": "2007", 
+      "model": "XK Series", 
+      "car_id": "83919"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2006-jaguar-xk-series/xk8-coupe-2d/options/?vehicleid=871&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK8 Coupe 2D", 
+      "year": "2006", 
+      "model": "XK Series", 
+      "car_id": "871"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2006-jaguar-xk-series/xkr-coupe-2d/options/?vehicleid=873&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Coupe 2D", 
+      "year": "2006", 
+      "model": "XK Series", 
+      "car_id": "873"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2005-jaguar-xk-series/xk8-coupe-2d/options/?vehicleid=1008&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK8 Coupe 2D", 
+      "year": "2005", 
+      "model": "XK Series", 
+      "car_id": "1008"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2005-jaguar-xk-series/xkr-coupe-2d/options/?vehicleid=1016&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Coupe 2D", 
+      "year": "2005", 
+      "model": "XK Series", 
+      "car_id": "1016"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2004-jaguar-xk-series/xk8-coupe-2d/options/?vehicleid=2807&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK8 Coupe 2D", 
+      "year": "2004", 
+      "model": "XK Series", 
+      "car_id": "2807"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2004-jaguar-xk-series/xkr-coupe-2d/options/?vehicleid=2815&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Coupe 2D", 
+      "year": "2004", 
+      "model": "XK Series", 
+      "car_id": "2815"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2003-jaguar-xk-series/xk8-coupe-2d/options/?vehicleid=2598&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK8 Coupe 2D", 
+      "year": "2003", 
+      "model": "XK Series", 
+      "car_id": "2598"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2003-jaguar-xk-series/xkr-coupe-2d/options/?vehicleid=2600&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Coupe 2D", 
+      "year": "2003", 
+      "model": "XK Series", 
+      "car_id": "2600"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2002-jaguar-xk-series/xk8-coupe-2d/options/?vehicleid=4254&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK8 Coupe 2D", 
+      "year": "2002", 
+      "model": "XK Series", 
+      "car_id": "4254"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2002-jaguar-xk-series/xkr-coupe-2d/options/?vehicleid=4262&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Coupe 2D", 
+      "year": "2002", 
+      "model": "XK Series", 
+      "car_id": "4262"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2002-jaguar-xk-series/xkr-100-coupe-2d/options/?vehicleid=4259&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR 100 Coupe 2D", 
+      "year": "2002", 
+      "model": "XK Series", 
+      "car_id": "4259"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2001-jaguar-xk-series/xk8-coupe-2d/options/?vehicleid=4519&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK8 Coupe 2D", 
+      "year": "2001", 
+      "model": "XK Series", 
+      "car_id": "4519"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2001-jaguar-xk-series/xkr-coupe-2d/options/?vehicleid=4520&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Coupe 2D", 
+      "year": "2001", 
+      "model": "XK Series", 
+      "car_id": "4520"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2001-jaguar-xk-series/xkr-silverstone-coupe-2d/options/?vehicleid=4523&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Silverstone Coupe 2D", 
+      "year": "2001", 
+      "model": "XK Series", 
+      "car_id": "4523"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2000-jaguar-xk-series/xk8-coupe-2d/options/?vehicleid=6391&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XK8 Coupe 2D", 
+      "year": "2000", 
+      "model": "XK Series", 
+      "car_id": "6391"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/jaguar/xk-series/2000-jaguar-xk-series/xkr-coupe-2d/options/?vehicleid=6398&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "XKR Coupe 2D", 
+      "year": "2000", 
+      "model": "XK Series", 
+      "car_id": "6398"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/jaguar/xk-series/1999-jaguar-xk-series/xk8-coupe-2d/options/?vehicleid=5673&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "xk8-coupe-2d", 
+      "year": "1999", 
+      "model": "XK Series", 
+      "car_id": "5673"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/jaguar/xk-series/1998-jaguar-xk-series/xk8-coupe-2d/options/?vehicleid=6680&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "xk8-coupe-2d", 
+      "year": "1998", 
+      "model": "XK Series", 
+      "car_id": "6680"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/jaguar/xk-series/1997-jaguar-xk-series/xk8-coupe-2d/options/?vehicleid=7955&intent=buy-used&category=coupe", 
+      "make": "Jaguar", 
+      "sub_cat": "xk8-coupe-2d", 
+      "year": "1997", 
+      "model": "XK Series", 
+      "car_id": "7955"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2008-jaguar-s-type/sedan-4d/options/?vehicleid=348833&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2008", 
+      "model": "S-Type", 
+      "car_id": "348833"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2008-jaguar-s-type/r-sedan-4d/options/?vehicleid=197336&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "R Sedan 4D", 
+      "year": "2008", 
+      "model": "S-Type", 
+      "car_id": "197336"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2007-jaguar-s-type/sedan-4d/options/?vehicleid=347578&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2007", 
+      "model": "S-Type", 
+      "car_id": "347578"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2007-jaguar-s-type/r-sedan-4d/options/?vehicleid=83907&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "R Sedan 4D", 
+      "year": "2007", 
+      "model": "S-Type", 
+      "car_id": "83907"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2006-jaguar-s-type/sedan-4d/options/?vehicleid=347577&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2006", 
+      "model": "S-Type", 
+      "car_id": "347577"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2006-jaguar-s-type/r-sedan-4d/options/?vehicleid=844&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "R Sedan 4D", 
+      "year": "2006", 
+      "model": "S-Type", 
+      "car_id": "844"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2005-jaguar-s-type/sedan-4d/options/?vehicleid=347574&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2005", 
+      "model": "S-Type", 
+      "car_id": "347574"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2005-jaguar-s-type/r-sedan-4d/options/?vehicleid=986&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "R Sedan 4D", 
+      "year": "2005", 
+      "model": "S-Type", 
+      "car_id": "986"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2004-jaguar-s-type/sedan-4d/options/?vehicleid=347576&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2004", 
+      "model": "S-Type", 
+      "car_id": "347576"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2004-jaguar-s-type/r-sedan-4d/options/?vehicleid=2790&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "R Sedan 4D", 
+      "year": "2004", 
+      "model": "S-Type", 
+      "car_id": "2790"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2003-jaguar-s-type/sedan-4d/options/?vehicleid=347575&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2003", 
+      "model": "S-Type", 
+      "car_id": "347575"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2003-jaguar-s-type/r-sedan-4d/options/?vehicleid=2581&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "R Sedan 4D", 
+      "year": "2003", 
+      "model": "S-Type", 
+      "car_id": "2581"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2002-jaguar-s-type/v6-sedan-4d/options/?vehicleid=4229&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "V6 Sedan 4D", 
+      "year": "2002", 
+      "model": "S-Type", 
+      "car_id": "4229"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2002-jaguar-s-type/v8-sedan-4d/options/?vehicleid=4231&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "V8 Sedan 4D", 
+      "year": "2002", 
+      "model": "S-Type", 
+      "car_id": "4231"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2001-jaguar-s-type/v6-sedan-4d/options/?vehicleid=4501&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "V6 Sedan 4D", 
+      "year": "2001", 
+      "model": "S-Type", 
+      "car_id": "4501"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2001-jaguar-s-type/v8-sedan-4d/options/?vehicleid=4504&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "V8 Sedan 4D", 
+      "year": "2001", 
+      "model": "S-Type", 
+      "car_id": "4504"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2000-jaguar-s-type/v6-sedan-4d/options/?vehicleid=6379&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "V6 Sedan 4D", 
+      "year": "2000", 
+      "model": "S-Type", 
+      "car_id": "6379"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/s-type/2000-jaguar-s-type/v8-sedan-4d/options/?vehicleid=6381&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "V8 Sedan 4D", 
+      "year": "2000", 
+      "model": "S-Type", 
+      "car_id": "6381"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/jaguar/xf/2014-jaguar-xf/xf-sedan-4d/options/?vehicleid=395874&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "xf-sedan-4d", 
+      "year": "2014", 
+      "model": "XF", 
+      "car_id": "395874"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2013-jaguar-xf/xf-sedan-4d/options/?vehicleid=382114&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Sedan 4D", 
+      "year": "2013", 
+      "model": "XF", 
+      "car_id": "382114"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2013-jaguar-xf/xf-supercharged-sedan-4d/options/?vehicleid=382111&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Supercharged Sedan 4D", 
+      "year": "2013", 
+      "model": "XF", 
+      "car_id": "382111"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2013-jaguar-xf/xfr-sedan-4d/options/?vehicleid=382112&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XFR Sedan 4D", 
+      "year": "2013", 
+      "model": "XF", 
+      "car_id": "382112"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2012-jaguar-xf/xf-sedan-4d/options/?vehicleid=365569&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Sedan 4D", 
+      "year": "2012", 
+      "model": "XF", 
+      "car_id": "365569"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2012-jaguar-xf/xf-portfolio-sedan-4d/options/?vehicleid=365570&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Portfolio Sedan 4D", 
+      "year": "2012", 
+      "model": "XF", 
+      "car_id": "365570"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2012-jaguar-xf/xf-supercharged-sedan-4d/options/?vehicleid=365562&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Supercharged Sedan 4D", 
+      "year": "2012", 
+      "model": "XF", 
+      "car_id": "365562"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2012-jaguar-xf/xfr-sedan-4d/options/?vehicleid=365574&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XFR Sedan 4D", 
+      "year": "2012", 
+      "model": "XF", 
+      "car_id": "365574"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2011-jaguar-xf/sedan-4d/options/?vehicleid=353564&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2011", 
+      "model": "XF", 
+      "car_id": "353564"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2011-jaguar-xf/premium-sedan-4d/options/?vehicleid=353545&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Premium Sedan 4D", 
+      "year": "2011", 
+      "model": "XF", 
+      "car_id": "353545"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2011-jaguar-xf/supercharged-sedan-4d/options/?vehicleid=353529&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Supercharged Sedan 4D", 
+      "year": "2011", 
+      "model": "XF", 
+      "car_id": "353529"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2011-jaguar-xf/xfr-sedan-4d/options/?vehicleid=353551&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XFR Sedan 4D", 
+      "year": "2011", 
+      "model": "XF", 
+      "car_id": "353551"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2010-jaguar-xf/xf-sedan-4d/options/?vehicleid=249055&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Sedan 4D", 
+      "year": "2010", 
+      "model": "XF", 
+      "car_id": "249055"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2010-jaguar-xf/xf-premium-sedan-4d/options/?vehicleid=249050&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Premium Sedan 4D", 
+      "year": "2010", 
+      "model": "XF", 
+      "car_id": "249050"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2010-jaguar-xf/xf-supercharged-sports-sedan-4d/options/?vehicleid=252649&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Supercharged Sports Sedan 4D", 
+      "year": "2010", 
+      "model": "XF", 
+      "car_id": "252649"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2010-jaguar-xf/xfr-sedan-4d/options/?vehicleid=249052&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XFR Sedan 4D", 
+      "year": "2010", 
+      "model": "XF", 
+      "car_id": "249052"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2009-jaguar-xf/luxury-sedan-4d/options/?vehicleid=226706&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Luxury Sedan 4D", 
+      "year": "2009", 
+      "model": "XF", 
+      "car_id": "226706"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2009-jaguar-xf/premium-luxury-sedan-4d/options/?vehicleid=226709&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Premium Luxury Sedan 4D", 
+      "year": "2009", 
+      "model": "XF", 
+      "car_id": "226709"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xf/2009-jaguar-xf/supercharged-sedan-4d/options/?vehicleid=226710&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Supercharged Sedan 4D", 
+      "year": "2009", 
+      "model": "XF", 
+      "car_id": "226710"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2013-jaguar-xj-series/xj-sedan-4d/options/?vehicleid=379372&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Sedan 4D", 
+      "year": "2013", 
+      "model": "XJ Series", 
+      "car_id": "379372"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2013-jaguar-xj-series/xjl-portfolio-sedan-4d/options/?vehicleid=379373&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Portfolio Sedan 4D", 
+      "year": "2013", 
+      "model": "XJ Series", 
+      "car_id": "379373"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2013-jaguar-xj-series/xj-supercharged-sedan-4d/options/?vehicleid=379374&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Supercharged Sedan 4D", 
+      "year": "2013", 
+      "model": "XJ Series", 
+      "car_id": "379374"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2013-jaguar-xj-series/xjl-supercharged-sedan-4d/options/?vehicleid=379375&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Supercharged Sedan 4D", 
+      "year": "2013", 
+      "model": "XJ Series", 
+      "car_id": "379375"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2013-jaguar-xj-series/xj-supersport-sedan-4d/options/?vehicleid=379376&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Supersport Sedan 4D", 
+      "year": "2013", 
+      "model": "XJ Series", 
+      "car_id": "379376"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2013-jaguar-xj-series/xjl-supersport-sedan-4d/options/?vehicleid=379377&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Supersport Sedan 4D", 
+      "year": "2013", 
+      "model": "XJ Series", 
+      "car_id": "379377"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2013-jaguar-xj-series/xjl-ultimate-sedan-4d/options/?vehicleid=379388&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Ultimate Sedan 4D", 
+      "year": "2013", 
+      "model": "XJ Series", 
+      "car_id": "379388"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2012-jaguar-xj-series/xj-sedan-4d/options/?vehicleid=372332&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Sedan 4D", 
+      "year": "2012", 
+      "model": "XJ Series", 
+      "car_id": "372332"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2012-jaguar-xj-series/xjl-portfolio-sedan-4d/options/?vehicleid=372323&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Portfolio Sedan 4D", 
+      "year": "2012", 
+      "model": "XJ Series", 
+      "car_id": "372323"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2012-jaguar-xj-series/xj-supercharged-sedan-4d/options/?vehicleid=372326&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Supercharged Sedan 4D", 
+      "year": "2012", 
+      "model": "XJ Series", 
+      "car_id": "372326"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2012-jaguar-xj-series/xjl-supercharged-sedan-4d/options/?vehicleid=372335&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Supercharged Sedan 4D", 
+      "year": "2012", 
+      "model": "XJ Series", 
+      "car_id": "372335"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2012-jaguar-xj-series/xj-supersport-sedan-4d/options/?vehicleid=372327&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Supersport Sedan 4D", 
+      "year": "2012", 
+      "model": "XJ Series", 
+      "car_id": "372327"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2012-jaguar-xj-series/xjl-supersport-sedan-4d/options/?vehicleid=372338&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Supersport Sedan 4D", 
+      "year": "2012", 
+      "model": "XJ Series", 
+      "car_id": "372338"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2011-jaguar-xj-series/xj-sedan-4d/options/?vehicleid=352524&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Sedan 4D", 
+      "year": "2011", 
+      "model": "XJ Series", 
+      "car_id": "352524"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2011-jaguar-xj-series/xjl-sedan-4d/options/?vehicleid=352520&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Sedan 4D", 
+      "year": "2011", 
+      "model": "XJ Series", 
+      "car_id": "352520"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2011-jaguar-xj-series/xj-supercharged-sedan-4d/options/?vehicleid=352527&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Supercharged Sedan 4D", 
+      "year": "2011", 
+      "model": "XJ Series", 
+      "car_id": "352527"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2011-jaguar-xj-series/xjl-supercharged-sedan-4d/options/?vehicleid=352523&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Supercharged Sedan 4D", 
+      "year": "2011", 
+      "model": "XJ Series", 
+      "car_id": "352523"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2011-jaguar-xj-series/xj-supersport-sedan-4d/options/?vehicleid=352525&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Supersport Sedan 4D", 
+      "year": "2011", 
+      "model": "XJ Series", 
+      "car_id": "352525"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2011-jaguar-xj-series/xjl-supersport-sedan-4d/options/?vehicleid=352526&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Supersport Sedan 4D", 
+      "year": "2011", 
+      "model": "XJ Series", 
+      "car_id": "352526"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2009-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=226713&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2009", 
+      "model": "XJ Series", 
+      "car_id": "226713"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2009-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=226714&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "2009", 
+      "model": "XJ Series", 
+      "car_id": "226714"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2009-jaguar-xj-series/xj-vanden-plas-sedan-4d/options/?vehicleid=226711&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Vanden Plas Sedan 4D", 
+      "year": "2009", 
+      "model": "XJ Series", 
+      "car_id": "226711"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2009-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=226716&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2009", 
+      "model": "XJ Series", 
+      "car_id": "226716"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2009-jaguar-xj-series/xj-super-v8-sedan-4d/options/?vehicleid=226712&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super V8 Sedan 4D", 
+      "year": "2009", 
+      "model": "XJ Series", 
+      "car_id": "226712"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2009-jaguar-xj-series/xj-super-v8-portfolio-sedan-4d/options/?vehicleid=237139&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super V8 Portfolio Sedan 4D", 
+      "year": "2009", 
+      "model": "XJ Series", 
+      "car_id": "237139"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2008-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=197347&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2008", 
+      "model": "XJ Series", 
+      "car_id": "197347"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2008-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=197348&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "2008", 
+      "model": "XJ Series", 
+      "car_id": "197348"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2008-jaguar-xj-series/xj-vanden-plas-sedan-4d/options/?vehicleid=197345&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Vanden Plas Sedan 4D", 
+      "year": "2008", 
+      "model": "XJ Series", 
+      "car_id": "197345"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2008-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=197349&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2008", 
+      "model": "XJ Series", 
+      "car_id": "197349"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2008-jaguar-xj-series/xj-super-v8-sedan-4d/options/?vehicleid=197346&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super V8 Sedan 4D", 
+      "year": "2008", 
+      "model": "XJ Series", 
+      "car_id": "197346"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2007-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=83914&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2007", 
+      "model": "XJ Series", 
+      "car_id": "83914"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2007-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=83916&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "2007", 
+      "model": "XJ Series", 
+      "car_id": "83916"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2007-jaguar-xj-series/xj-vanden-plas-sedan-4d/options/?vehicleid=83912&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Vanden Plas Sedan 4D", 
+      "year": "2007", 
+      "model": "XJ Series", 
+      "car_id": "83912"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2007-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=83918&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2007", 
+      "model": "XJ Series", 
+      "car_id": "83918"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2007-jaguar-xj-series/xj-super-sedan-4d/options/?vehicleid=83913&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super Sedan 4D", 
+      "year": "2007", 
+      "model": "XJ Series", 
+      "car_id": "83913"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2006-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=865&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2006", 
+      "model": "XJ Series", 
+      "car_id": "865"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2006-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=870&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "2006", 
+      "model": "XJ Series", 
+      "car_id": "870"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2006-jaguar-xj-series/xj-vanden-plas-sedan-4d/options/?vehicleid=847&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Vanden Plas Sedan 4D", 
+      "year": "2006", 
+      "model": "XJ Series", 
+      "car_id": "847"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2006-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=866&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2006", 
+      "model": "XJ Series", 
+      "car_id": "866"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2006-jaguar-xj-series/xj-super-sedan-4d/options/?vehicleid=861&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super Sedan 4D", 
+      "year": "2006", 
+      "model": "XJ Series", 
+      "car_id": "861"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2006-jaguar-xj-series/xj-super-portfolio-sedan-4d/options/?vehicleid=862&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super Portfolio Sedan 4D", 
+      "year": "2006", 
+      "model": "XJ Series", 
+      "car_id": "862"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2005-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=992&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2005", 
+      "model": "XJ Series", 
+      "car_id": "992"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2005-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=996&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "2005", 
+      "model": "XJ Series", 
+      "car_id": "996"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2005-jaguar-xj-series/xj-vanden-plas-sedan-4d/options/?vehicleid=990&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Vanden Plas Sedan 4D", 
+      "year": "2005", 
+      "model": "XJ Series", 
+      "car_id": "990"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2005-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=1002&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2005", 
+      "model": "XJ Series", 
+      "car_id": "1002"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2005-jaguar-xj-series/xj-super-sedan-4d/options/?vehicleid=1005&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super Sedan 4D", 
+      "year": "2005", 
+      "model": "XJ Series", 
+      "car_id": "1005"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2004-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=2799&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2004", 
+      "model": "XJ Series", 
+      "car_id": "2799"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2004-jaguar-xj-series/vanden-plas-sedan-4d/options/?vehicleid=2794&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Vanden Plas Sedan 4D", 
+      "year": "2004", 
+      "model": "XJ Series", 
+      "car_id": "2794"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2004-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=2803&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2004", 
+      "model": "XJ Series", 
+      "car_id": "2803"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2003-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=2595&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2003", 
+      "model": "XJ Series", 
+      "car_id": "2595"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2003-jaguar-xj-series/xj-sport-sedan-4d/options/?vehicleid=2589&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Sport Sedan 4D", 
+      "year": "2003", 
+      "model": "XJ Series", 
+      "car_id": "2589"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2003-jaguar-xj-series/vanden-plas-sedan-4d/options/?vehicleid=2579&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Vanden Plas Sedan 4D", 
+      "year": "2003", 
+      "model": "XJ Series", 
+      "car_id": "2579"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2003-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=2596&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2003", 
+      "model": "XJ Series", 
+      "car_id": "2596"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2003-jaguar-xj-series/xj-super-sedan-4d/options/?vehicleid=2593&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super Sedan 4D", 
+      "year": "2003", 
+      "model": "XJ Series", 
+      "car_id": "2593"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2002-jaguar-xj-series/xjr-100-sedan-4d/options/?vehicleid=4253&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR 100 Sedan 4D", 
+      "year": "2002", 
+      "model": "XJ Series", 
+      "car_id": "4253"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2002-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=4248&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2002", 
+      "model": "XJ Series", 
+      "car_id": "4248"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2002-jaguar-xj-series/xj-sport-sedan-4d/options/?vehicleid=4246&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Sport Sedan 4D", 
+      "year": "2002", 
+      "model": "XJ Series", 
+      "car_id": "4246"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2002-jaguar-xj-series/vanden-plas-sedan-4d/options/?vehicleid=4234&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "Vanden Plas Sedan 4D", 
+      "year": "2002", 
+      "model": "XJ Series", 
+      "car_id": "4234"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2002-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=4250&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2002", 
+      "model": "XJ Series", 
+      "car_id": "4250"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2002-jaguar-xj-series/xj-super-sedan-4d/options/?vehicleid=4249&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super Sedan 4D", 
+      "year": "2002", 
+      "model": "XJ Series", 
+      "car_id": "4249"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2001-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=4508&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2001", 
+      "model": "XJ Series", 
+      "car_id": "4508"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2001-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=4510&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "2001", 
+      "model": "XJ Series", 
+      "car_id": "4510"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2001-jaguar-xj-series/xj8-vanden-plas-sedan-4d/options/?vehicleid=4516&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Vanden Plas Sedan 4D", 
+      "year": "2001", 
+      "model": "XJ Series", 
+      "car_id": "4516"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2001-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=4517&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2001", 
+      "model": "XJ Series", 
+      "car_id": "4517"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2001-jaguar-xj-series/xj8-vanden-plas-supercharged-sedan-4d/options/?vehicleid=4514&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Vanden Plas Supercharged Sedan 4D", 
+      "year": "2001", 
+      "model": "XJ Series", 
+      "car_id": "4514"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2000-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=6383&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2000", 
+      "model": "XJ Series", 
+      "car_id": "6383"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2000-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=6386&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "2000", 
+      "model": "XJ Series", 
+      "car_id": "6386"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2000-jaguar-xj-series/xj8-vanden-plas-sedan-4d/options/?vehicleid=6390&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Vanden Plas Sedan 4D", 
+      "year": "2000", 
+      "model": "XJ Series", 
+      "car_id": "6390"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2000-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=6394&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2000", 
+      "model": "XJ Series", 
+      "car_id": "6394"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/2000-jaguar-xj-series/xj8-vanden-plas-supercharged-sedan-4d/options/?vehicleid=6392&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Vanden Plas Supercharged Sedan 4D", 
+      "year": "2000", 
+      "model": "XJ Series", 
+      "car_id": "6392"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/1999-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=5658&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "1999", 
+      "model": "XJ Series", 
+      "car_id": "5658"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/1999-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=5662&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "1999", 
+      "model": "XJ Series", 
+      "car_id": "5662"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/1999-jaguar-xj-series/xj8-vanden-plas-sedan-4d/options/?vehicleid=5664&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Vanden Plas Sedan 4D", 
+      "year": "1999", 
+      "model": "XJ Series", 
+      "car_id": "5664"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/1999-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=5672&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "1999", 
+      "model": "XJ Series", 
+      "car_id": "5672"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/1998-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=6663&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "1998", 
+      "model": "XJ Series", 
+      "car_id": "6663"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/1998-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=6667&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "1998", 
+      "model": "XJ Series", 
+      "car_id": "6667"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/1998-jaguar-xj-series/xj8-vanden-plas-sedan-4d/options/?vehicleid=6669&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Vanden Plas Sedan 4D", 
+      "year": "1998", 
+      "model": "XJ Series", 
+      "car_id": "6669"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/1998-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=6678&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "1998", 
+      "model": "XJ Series", 
+      "car_id": "6678"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/1997-jaguar-xj-series/xj6-sedan-4d/options/?vehicleid=7937&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ6 Sedan 4D", 
+      "year": "1997", 
+      "model": "XJ Series", 
+      "car_id": "7937"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/1997-jaguar-xj-series/xj6-l-sedan-4d/options/?vehicleid=7941&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ6 L Sedan 4D", 
+      "year": "1997", 
+      "model": "XJ Series", 
+      "car_id": "7941"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/1997-jaguar-xj-series/xj6-vanden-plas-sedan-4d/options/?vehicleid=7948&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ6 Vanden Plas Sedan 4D", 
+      "year": "1997", 
+      "model": "XJ Series", 
+      "car_id": "7948"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/jaguar/xj-series/1997-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=7953&intent=buy-used&category=luxury", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "1997", 
+      "model": "XJ Series", 
+      "car_id": "7953"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2008-jaguar-s-type/sedan-4d/options/?vehicleid=348833&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2008", 
+      "model": "S-Type", 
+      "car_id": "348833"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2008-jaguar-s-type/r-sedan-4d/options/?vehicleid=197336&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "R Sedan 4D", 
+      "year": "2008", 
+      "model": "S-Type", 
+      "car_id": "197336"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2007-jaguar-s-type/sedan-4d/options/?vehicleid=347578&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2007", 
+      "model": "S-Type", 
+      "car_id": "347578"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2007-jaguar-s-type/r-sedan-4d/options/?vehicleid=83907&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "R Sedan 4D", 
+      "year": "2007", 
+      "model": "S-Type", 
+      "car_id": "83907"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2006-jaguar-s-type/sedan-4d/options/?vehicleid=347577&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2006", 
+      "model": "S-Type", 
+      "car_id": "347577"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2006-jaguar-s-type/r-sedan-4d/options/?vehicleid=844&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "R Sedan 4D", 
+      "year": "2006", 
+      "model": "S-Type", 
+      "car_id": "844"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2005-jaguar-s-type/sedan-4d/options/?vehicleid=347574&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2005", 
+      "model": "S-Type", 
+      "car_id": "347574"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2005-jaguar-s-type/r-sedan-4d/options/?vehicleid=986&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "R Sedan 4D", 
+      "year": "2005", 
+      "model": "S-Type", 
+      "car_id": "986"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2004-jaguar-s-type/sedan-4d/options/?vehicleid=347576&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2004", 
+      "model": "S-Type", 
+      "car_id": "347576"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2004-jaguar-s-type/r-sedan-4d/options/?vehicleid=2790&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "R Sedan 4D", 
+      "year": "2004", 
+      "model": "S-Type", 
+      "car_id": "2790"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2003-jaguar-s-type/sedan-4d/options/?vehicleid=347575&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2003", 
+      "model": "S-Type", 
+      "car_id": "347575"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2003-jaguar-s-type/r-sedan-4d/options/?vehicleid=2581&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "R Sedan 4D", 
+      "year": "2003", 
+      "model": "S-Type", 
+      "car_id": "2581"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2002-jaguar-s-type/v6-sedan-4d/options/?vehicleid=4229&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "V6 Sedan 4D", 
+      "year": "2002", 
+      "model": "S-Type", 
+      "car_id": "4229"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2002-jaguar-s-type/v8-sedan-4d/options/?vehicleid=4231&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "V8 Sedan 4D", 
+      "year": "2002", 
+      "model": "S-Type", 
+      "car_id": "4231"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2001-jaguar-s-type/v6-sedan-4d/options/?vehicleid=4501&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "V6 Sedan 4D", 
+      "year": "2001", 
+      "model": "S-Type", 
+      "car_id": "4501"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2001-jaguar-s-type/v8-sedan-4d/options/?vehicleid=4504&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "V8 Sedan 4D", 
+      "year": "2001", 
+      "model": "S-Type", 
+      "car_id": "4504"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2000-jaguar-s-type/v6-sedan-4d/options/?vehicleid=6379&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "V6 Sedan 4D", 
+      "year": "2000", 
+      "model": "S-Type", 
+      "car_id": "6379"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/s-type/2000-jaguar-s-type/v8-sedan-4d/options/?vehicleid=6381&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "V8 Sedan 4D", 
+      "year": "2000", 
+      "model": "S-Type", 
+      "car_id": "6381"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/jaguar/x-type/2008-jaguar-x-type/sedan-4d/options/?vehicleid=197337&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "sedan-4d", 
+      "year": "2008", 
+      "model": "X-Type", 
+      "car_id": "197337"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/jaguar/x-type/2007-jaguar-x-type/sedan-4d/options/?vehicleid=83908&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "sedan-4d", 
+      "year": "2007", 
+      "model": "X-Type", 
+      "car_id": "83908"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/jaguar/x-type/2006-jaguar-x-type/sedan-4d/options/?vehicleid=852&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "sedan-4d", 
+      "year": "2006", 
+      "model": "X-Type", 
+      "car_id": "852"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/x-type/2005-jaguar-x-type/25l-sedan-4d/options/?vehicleid=995&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "2.5L Sedan 4D", 
+      "year": "2005", 
+      "model": "X-Type", 
+      "car_id": "995"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/x-type/2005-jaguar-x-type/30l-sedan-4d/options/?vehicleid=991&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "3.0L Sedan 4D", 
+      "year": "2005", 
+      "model": "X-Type", 
+      "car_id": "991"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/x-type/2004-jaguar-x-type/25l-sedan-4d/options/?vehicleid=2789&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "2.5L Sedan 4D", 
+      "year": "2004", 
+      "model": "X-Type", 
+      "car_id": "2789"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/x-type/2004-jaguar-x-type/30l-sedan-4d/options/?vehicleid=2795&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "3.0L Sedan 4D", 
+      "year": "2004", 
+      "model": "X-Type", 
+      "car_id": "2795"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/x-type/2003-jaguar-x-type/25l-sedan-4d/options/?vehicleid=2582&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "2.5L Sedan 4D", 
+      "year": "2003", 
+      "model": "X-Type", 
+      "car_id": "2582"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/x-type/2003-jaguar-x-type/30l-sedan-4d/options/?vehicleid=2586&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "3.0L Sedan 4D", 
+      "year": "2003", 
+      "model": "X-Type", 
+      "car_id": "2586"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/x-type/2002-jaguar-x-type/25l-sedan-4d/options/?vehicleid=4239&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "2.5L Sedan 4D", 
+      "year": "2002", 
+      "model": "X-Type", 
+      "car_id": "4239"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/x-type/2002-jaguar-x-type/25l-sport-sedan-4d/options/?vehicleid=4242&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "2.5L Sport Sedan 4D", 
+      "year": "2002", 
+      "model": "X-Type", 
+      "car_id": "4242"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/x-type/2002-jaguar-x-type/30l-sedan-4d/options/?vehicleid=4245&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "3.0L Sedan 4D", 
+      "year": "2002", 
+      "model": "X-Type", 
+      "car_id": "4245"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/x-type/2002-jaguar-x-type/30l-sport-sedan-4d/options/?vehicleid=4243&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "3.0L Sport Sedan 4D", 
+      "year": "2002", 
+      "model": "X-Type", 
+      "car_id": "4243"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/jaguar/xf/2014-jaguar-xf/xf-sedan-4d/options/?vehicleid=395874&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "xf-sedan-4d", 
+      "year": "2014", 
+      "model": "XF", 
+      "car_id": "395874"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2013-jaguar-xf/xf-sedan-4d/options/?vehicleid=382114&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Sedan 4D", 
+      "year": "2013", 
+      "model": "XF", 
+      "car_id": "382114"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2013-jaguar-xf/xf-supercharged-sedan-4d/options/?vehicleid=382111&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Supercharged Sedan 4D", 
+      "year": "2013", 
+      "model": "XF", 
+      "car_id": "382111"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2013-jaguar-xf/xfr-sedan-4d/options/?vehicleid=382112&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XFR Sedan 4D", 
+      "year": "2013", 
+      "model": "XF", 
+      "car_id": "382112"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2012-jaguar-xf/xf-sedan-4d/options/?vehicleid=365569&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Sedan 4D", 
+      "year": "2012", 
+      "model": "XF", 
+      "car_id": "365569"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2012-jaguar-xf/xf-portfolio-sedan-4d/options/?vehicleid=365570&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Portfolio Sedan 4D", 
+      "year": "2012", 
+      "model": "XF", 
+      "car_id": "365570"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2012-jaguar-xf/xf-supercharged-sedan-4d/options/?vehicleid=365562&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Supercharged Sedan 4D", 
+      "year": "2012", 
+      "model": "XF", 
+      "car_id": "365562"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2012-jaguar-xf/xfr-sedan-4d/options/?vehicleid=365574&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XFR Sedan 4D", 
+      "year": "2012", 
+      "model": "XF", 
+      "car_id": "365574"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2011-jaguar-xf/sedan-4d/options/?vehicleid=353564&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2011", 
+      "model": "XF", 
+      "car_id": "353564"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2011-jaguar-xf/premium-sedan-4d/options/?vehicleid=353545&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Premium Sedan 4D", 
+      "year": "2011", 
+      "model": "XF", 
+      "car_id": "353545"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2011-jaguar-xf/supercharged-sedan-4d/options/?vehicleid=353529&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Supercharged Sedan 4D", 
+      "year": "2011", 
+      "model": "XF", 
+      "car_id": "353529"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2011-jaguar-xf/xfr-sedan-4d/options/?vehicleid=353551&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XFR Sedan 4D", 
+      "year": "2011", 
+      "model": "XF", 
+      "car_id": "353551"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2010-jaguar-xf/xf-sedan-4d/options/?vehicleid=249055&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Sedan 4D", 
+      "year": "2010", 
+      "model": "XF", 
+      "car_id": "249055"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2010-jaguar-xf/xf-premium-sedan-4d/options/?vehicleid=249050&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Premium Sedan 4D", 
+      "year": "2010", 
+      "model": "XF", 
+      "car_id": "249050"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2010-jaguar-xf/xf-supercharged-sports-sedan-4d/options/?vehicleid=252649&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XF Supercharged Sports Sedan 4D", 
+      "year": "2010", 
+      "model": "XF", 
+      "car_id": "252649"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2010-jaguar-xf/xfr-sedan-4d/options/?vehicleid=249052&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XFR Sedan 4D", 
+      "year": "2010", 
+      "model": "XF", 
+      "car_id": "249052"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2009-jaguar-xf/luxury-sedan-4d/options/?vehicleid=226706&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Luxury Sedan 4D", 
+      "year": "2009", 
+      "model": "XF", 
+      "car_id": "226706"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2009-jaguar-xf/premium-luxury-sedan-4d/options/?vehicleid=226709&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Premium Luxury Sedan 4D", 
+      "year": "2009", 
+      "model": "XF", 
+      "car_id": "226709"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xf/2009-jaguar-xf/supercharged-sedan-4d/options/?vehicleid=226710&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Supercharged Sedan 4D", 
+      "year": "2009", 
+      "model": "XF", 
+      "car_id": "226710"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2013-jaguar-xj-series/xj-sedan-4d/options/?vehicleid=379372&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Sedan 4D", 
+      "year": "2013", 
+      "model": "XJ Series", 
+      "car_id": "379372"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2013-jaguar-xj-series/xjl-portfolio-sedan-4d/options/?vehicleid=379373&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Portfolio Sedan 4D", 
+      "year": "2013", 
+      "model": "XJ Series", 
+      "car_id": "379373"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2013-jaguar-xj-series/xj-supercharged-sedan-4d/options/?vehicleid=379374&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Supercharged Sedan 4D", 
+      "year": "2013", 
+      "model": "XJ Series", 
+      "car_id": "379374"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2013-jaguar-xj-series/xjl-supercharged-sedan-4d/options/?vehicleid=379375&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Supercharged Sedan 4D", 
+      "year": "2013", 
+      "model": "XJ Series", 
+      "car_id": "379375"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2013-jaguar-xj-series/xj-supersport-sedan-4d/options/?vehicleid=379376&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Supersport Sedan 4D", 
+      "year": "2013", 
+      "model": "XJ Series", 
+      "car_id": "379376"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2013-jaguar-xj-series/xjl-supersport-sedan-4d/options/?vehicleid=379377&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Supersport Sedan 4D", 
+      "year": "2013", 
+      "model": "XJ Series", 
+      "car_id": "379377"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2013-jaguar-xj-series/xjl-ultimate-sedan-4d/options/?vehicleid=379388&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Ultimate Sedan 4D", 
+      "year": "2013", 
+      "model": "XJ Series", 
+      "car_id": "379388"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2012-jaguar-xj-series/xj-sedan-4d/options/?vehicleid=372332&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Sedan 4D", 
+      "year": "2012", 
+      "model": "XJ Series", 
+      "car_id": "372332"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2012-jaguar-xj-series/xjl-portfolio-sedan-4d/options/?vehicleid=372323&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Portfolio Sedan 4D", 
+      "year": "2012", 
+      "model": "XJ Series", 
+      "car_id": "372323"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2012-jaguar-xj-series/xj-supercharged-sedan-4d/options/?vehicleid=372326&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Supercharged Sedan 4D", 
+      "year": "2012", 
+      "model": "XJ Series", 
+      "car_id": "372326"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2012-jaguar-xj-series/xjl-supercharged-sedan-4d/options/?vehicleid=372335&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Supercharged Sedan 4D", 
+      "year": "2012", 
+      "model": "XJ Series", 
+      "car_id": "372335"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2012-jaguar-xj-series/xj-supersport-sedan-4d/options/?vehicleid=372327&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Supersport Sedan 4D", 
+      "year": "2012", 
+      "model": "XJ Series", 
+      "car_id": "372327"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2012-jaguar-xj-series/xjl-supersport-sedan-4d/options/?vehicleid=372338&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Supersport Sedan 4D", 
+      "year": "2012", 
+      "model": "XJ Series", 
+      "car_id": "372338"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2011-jaguar-xj-series/xj-sedan-4d/options/?vehicleid=352524&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Sedan 4D", 
+      "year": "2011", 
+      "model": "XJ Series", 
+      "car_id": "352524"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2011-jaguar-xj-series/xjl-sedan-4d/options/?vehicleid=352520&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Sedan 4D", 
+      "year": "2011", 
+      "model": "XJ Series", 
+      "car_id": "352520"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2011-jaguar-xj-series/xj-supercharged-sedan-4d/options/?vehicleid=352527&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Supercharged Sedan 4D", 
+      "year": "2011", 
+      "model": "XJ Series", 
+      "car_id": "352527"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2011-jaguar-xj-series/xjl-supercharged-sedan-4d/options/?vehicleid=352523&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Supercharged Sedan 4D", 
+      "year": "2011", 
+      "model": "XJ Series", 
+      "car_id": "352523"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2011-jaguar-xj-series/xj-supersport-sedan-4d/options/?vehicleid=352525&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Supersport Sedan 4D", 
+      "year": "2011", 
+      "model": "XJ Series", 
+      "car_id": "352525"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2011-jaguar-xj-series/xjl-supersport-sedan-4d/options/?vehicleid=352526&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJL Supersport Sedan 4D", 
+      "year": "2011", 
+      "model": "XJ Series", 
+      "car_id": "352526"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2009-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=226713&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2009", 
+      "model": "XJ Series", 
+      "car_id": "226713"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2009-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=226714&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "2009", 
+      "model": "XJ Series", 
+      "car_id": "226714"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2009-jaguar-xj-series/xj-vanden-plas-sedan-4d/options/?vehicleid=226711&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Vanden Plas Sedan 4D", 
+      "year": "2009", 
+      "model": "XJ Series", 
+      "car_id": "226711"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2009-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=226716&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2009", 
+      "model": "XJ Series", 
+      "car_id": "226716"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2009-jaguar-xj-series/xj-super-v8-sedan-4d/options/?vehicleid=226712&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super V8 Sedan 4D", 
+      "year": "2009", 
+      "model": "XJ Series", 
+      "car_id": "226712"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2009-jaguar-xj-series/xj-super-v8-portfolio-sedan-4d/options/?vehicleid=237139&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super V8 Portfolio Sedan 4D", 
+      "year": "2009", 
+      "model": "XJ Series", 
+      "car_id": "237139"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2008-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=197347&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2008", 
+      "model": "XJ Series", 
+      "car_id": "197347"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2008-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=197348&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "2008", 
+      "model": "XJ Series", 
+      "car_id": "197348"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2008-jaguar-xj-series/xj-vanden-plas-sedan-4d/options/?vehicleid=197345&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Vanden Plas Sedan 4D", 
+      "year": "2008", 
+      "model": "XJ Series", 
+      "car_id": "197345"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2008-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=197349&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2008", 
+      "model": "XJ Series", 
+      "car_id": "197349"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2008-jaguar-xj-series/xj-super-v8-sedan-4d/options/?vehicleid=197346&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super V8 Sedan 4D", 
+      "year": "2008", 
+      "model": "XJ Series", 
+      "car_id": "197346"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2007-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=83914&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2007", 
+      "model": "XJ Series", 
+      "car_id": "83914"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2007-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=83916&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "2007", 
+      "model": "XJ Series", 
+      "car_id": "83916"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2007-jaguar-xj-series/xj-vanden-plas-sedan-4d/options/?vehicleid=83912&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Vanden Plas Sedan 4D", 
+      "year": "2007", 
+      "model": "XJ Series", 
+      "car_id": "83912"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2007-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=83918&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2007", 
+      "model": "XJ Series", 
+      "car_id": "83918"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2007-jaguar-xj-series/xj-super-sedan-4d/options/?vehicleid=83913&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super Sedan 4D", 
+      "year": "2007", 
+      "model": "XJ Series", 
+      "car_id": "83913"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2006-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=865&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2006", 
+      "model": "XJ Series", 
+      "car_id": "865"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2006-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=870&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "2006", 
+      "model": "XJ Series", 
+      "car_id": "870"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2006-jaguar-xj-series/xj-vanden-plas-sedan-4d/options/?vehicleid=847&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Vanden Plas Sedan 4D", 
+      "year": "2006", 
+      "model": "XJ Series", 
+      "car_id": "847"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2006-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=866&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2006", 
+      "model": "XJ Series", 
+      "car_id": "866"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2006-jaguar-xj-series/xj-super-sedan-4d/options/?vehicleid=861&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super Sedan 4D", 
+      "year": "2006", 
+      "model": "XJ Series", 
+      "car_id": "861"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2006-jaguar-xj-series/xj-super-portfolio-sedan-4d/options/?vehicleid=862&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super Portfolio Sedan 4D", 
+      "year": "2006", 
+      "model": "XJ Series", 
+      "car_id": "862"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2005-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=992&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2005", 
+      "model": "XJ Series", 
+      "car_id": "992"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2005-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=996&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "2005", 
+      "model": "XJ Series", 
+      "car_id": "996"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2005-jaguar-xj-series/xj-vanden-plas-sedan-4d/options/?vehicleid=990&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Vanden Plas Sedan 4D", 
+      "year": "2005", 
+      "model": "XJ Series", 
+      "car_id": "990"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2005-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=1002&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2005", 
+      "model": "XJ Series", 
+      "car_id": "1002"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2005-jaguar-xj-series/xj-super-sedan-4d/options/?vehicleid=1005&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super Sedan 4D", 
+      "year": "2005", 
+      "model": "XJ Series", 
+      "car_id": "1005"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2004-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=2799&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2004", 
+      "model": "XJ Series", 
+      "car_id": "2799"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2004-jaguar-xj-series/vanden-plas-sedan-4d/options/?vehicleid=2794&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Vanden Plas Sedan 4D", 
+      "year": "2004", 
+      "model": "XJ Series", 
+      "car_id": "2794"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2004-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=2803&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2004", 
+      "model": "XJ Series", 
+      "car_id": "2803"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2003-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=2595&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2003", 
+      "model": "XJ Series", 
+      "car_id": "2595"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2003-jaguar-xj-series/xj-sport-sedan-4d/options/?vehicleid=2589&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Sport Sedan 4D", 
+      "year": "2003", 
+      "model": "XJ Series", 
+      "car_id": "2589"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2003-jaguar-xj-series/vanden-plas-sedan-4d/options/?vehicleid=2579&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Vanden Plas Sedan 4D", 
+      "year": "2003", 
+      "model": "XJ Series", 
+      "car_id": "2579"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2003-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=2596&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2003", 
+      "model": "XJ Series", 
+      "car_id": "2596"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2003-jaguar-xj-series/xj-super-sedan-4d/options/?vehicleid=2593&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super Sedan 4D", 
+      "year": "2003", 
+      "model": "XJ Series", 
+      "car_id": "2593"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2002-jaguar-xj-series/xjr-100-sedan-4d/options/?vehicleid=4253&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR 100 Sedan 4D", 
+      "year": "2002", 
+      "model": "XJ Series", 
+      "car_id": "4253"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2002-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=4248&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2002", 
+      "model": "XJ Series", 
+      "car_id": "4248"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2002-jaguar-xj-series/xj-sport-sedan-4d/options/?vehicleid=4246&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Sport Sedan 4D", 
+      "year": "2002", 
+      "model": "XJ Series", 
+      "car_id": "4246"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2002-jaguar-xj-series/vanden-plas-sedan-4d/options/?vehicleid=4234&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "Vanden Plas Sedan 4D", 
+      "year": "2002", 
+      "model": "XJ Series", 
+      "car_id": "4234"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2002-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=4250&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2002", 
+      "model": "XJ Series", 
+      "car_id": "4250"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2002-jaguar-xj-series/xj-super-sedan-4d/options/?vehicleid=4249&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ Super Sedan 4D", 
+      "year": "2002", 
+      "model": "XJ Series", 
+      "car_id": "4249"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2001-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=4508&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2001", 
+      "model": "XJ Series", 
+      "car_id": "4508"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2001-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=4510&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "2001", 
+      "model": "XJ Series", 
+      "car_id": "4510"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2001-jaguar-xj-series/xj8-vanden-plas-sedan-4d/options/?vehicleid=4516&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Vanden Plas Sedan 4D", 
+      "year": "2001", 
+      "model": "XJ Series", 
+      "car_id": "4516"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2001-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=4517&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2001", 
+      "model": "XJ Series", 
+      "car_id": "4517"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2001-jaguar-xj-series/xj8-vanden-plas-supercharged-sedan-4d/options/?vehicleid=4514&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Vanden Plas Supercharged Sedan 4D", 
+      "year": "2001", 
+      "model": "XJ Series", 
+      "car_id": "4514"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2000-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=6383&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "2000", 
+      "model": "XJ Series", 
+      "car_id": "6383"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2000-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=6386&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "2000", 
+      "model": "XJ Series", 
+      "car_id": "6386"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2000-jaguar-xj-series/xj8-vanden-plas-sedan-4d/options/?vehicleid=6390&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Vanden Plas Sedan 4D", 
+      "year": "2000", 
+      "model": "XJ Series", 
+      "car_id": "6390"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2000-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=6394&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "2000", 
+      "model": "XJ Series", 
+      "car_id": "6394"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/2000-jaguar-xj-series/xj8-vanden-plas-supercharged-sedan-4d/options/?vehicleid=6392&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Vanden Plas Supercharged Sedan 4D", 
+      "year": "2000", 
+      "model": "XJ Series", 
+      "car_id": "6392"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1999-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=5658&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "1999", 
+      "model": "XJ Series", 
+      "car_id": "5658"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1999-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=5662&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "1999", 
+      "model": "XJ Series", 
+      "car_id": "5662"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1999-jaguar-xj-series/xj8-vanden-plas-sedan-4d/options/?vehicleid=5664&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Vanden Plas Sedan 4D", 
+      "year": "1999", 
+      "model": "XJ Series", 
+      "car_id": "5664"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1999-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=5672&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "1999", 
+      "model": "XJ Series", 
+      "car_id": "5672"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1998-jaguar-xj-series/xj8-sedan-4d/options/?vehicleid=6663&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Sedan 4D", 
+      "year": "1998", 
+      "model": "XJ Series", 
+      "car_id": "6663"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1998-jaguar-xj-series/xj8-l-sedan-4d/options/?vehicleid=6667&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 L Sedan 4D", 
+      "year": "1998", 
+      "model": "XJ Series", 
+      "car_id": "6667"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1998-jaguar-xj-series/xj8-vanden-plas-sedan-4d/options/?vehicleid=6669&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ8 Vanden Plas Sedan 4D", 
+      "year": "1998", 
+      "model": "XJ Series", 
+      "car_id": "6669"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1998-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=6678&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "1998", 
+      "model": "XJ Series", 
+      "car_id": "6678"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1997-jaguar-xj-series/xj6-sedan-4d/options/?vehicleid=7937&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ6 Sedan 4D", 
+      "year": "1997", 
+      "model": "XJ Series", 
+      "car_id": "7937"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1997-jaguar-xj-series/xj6-l-sedan-4d/options/?vehicleid=7941&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ6 L Sedan 4D", 
+      "year": "1997", 
+      "model": "XJ Series", 
+      "car_id": "7941"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1997-jaguar-xj-series/xj6-vanden-plas-sedan-4d/options/?vehicleid=7948&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ6 Vanden Plas Sedan 4D", 
+      "year": "1997", 
+      "model": "XJ Series", 
+      "car_id": "7948"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1997-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=7953&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "1997", 
+      "model": "XJ Series", 
+      "car_id": "7953"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1996-jaguar-xj-series/xj6-sedan-4d/options/?vehicleid=9258&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ6 Sedan 4D", 
+      "year": "1996", 
+      "model": "XJ Series", 
+      "car_id": "9258"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1996-jaguar-xj-series/xj6-vanden-plas-sedan-4d/options/?vehicleid=9263&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ6 Vanden Plas Sedan 4D", 
+      "year": "1996", 
+      "model": "XJ Series", 
+      "car_id": "9263"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1996-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=9272&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "1996", 
+      "model": "XJ Series", 
+      "car_id": "9272"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1996-jaguar-xj-series/xj12-sedan-4d/options/?vehicleid=9254&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ12 Sedan 4D", 
+      "year": "1996", 
+      "model": "XJ Series", 
+      "car_id": "9254"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1995-jaguar-xj-series/xj6-sedan-4d/options/?vehicleid=7882&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ6 Sedan 4D", 
+      "year": "1995", 
+      "model": "XJ Series", 
+      "car_id": "7882"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1995-jaguar-xj-series/xj6-vanden-plas-sedan-4d/options/?vehicleid=7885&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ6 Vanden Plas Sedan 4D", 
+      "year": "1995", 
+      "model": "XJ Series", 
+      "car_id": "7885"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1995-jaguar-xj-series/xjr-sedan-4d/options/?vehicleid=7889&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJR Sedan 4D", 
+      "year": "1995", 
+      "model": "XJ Series", 
+      "car_id": "7889"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1995-jaguar-xj-series/xj12-sedan-4d/options/?vehicleid=7877&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ12 Sedan 4D", 
+      "year": "1995", 
+      "model": "XJ Series", 
+      "car_id": "7877"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1994-jaguar-xj-series/xj6-sedan-4d/options/?vehicleid=9296&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ6 Sedan 4D", 
+      "year": "1994", 
+      "model": "XJ Series", 
+      "car_id": "9296"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1994-jaguar-xj-series/xj6-vanden-plas-sedan-4d/options/?vehicleid=9302&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ6 Vanden Plas Sedan 4D", 
+      "year": "1994", 
+      "model": "XJ Series", 
+      "car_id": "9302"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/jaguar/xj-series/1994-jaguar-xj-series/xj12-sedan-4d/options/?vehicleid=9292&intent=buy-used&category=sedan", 
+      "make": "Jaguar", 
+      "sub_cat": "XJ12 Sedan 4D", 
+      "year": "1994", 
+      "model": "XJ Series", 
+      "car_id": "9292"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/jaguar/x-type/2008-jaguar-x-type/wagon-4d/options/?vehicleid=197344&intent=buy-used&category=wagon", 
+      "make": "Jaguar", 
+      "sub_cat": "wagon-4d", 
+      "year": "2008", 
+      "model": "X-Type", 
+      "car_id": "197344"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/jaguar/x-type/2007-jaguar-x-type/wagon-4d/options/?vehicleid=83909&intent=buy-used&category=wagon", 
+      "make": "Jaguar", 
+      "sub_cat": "wagon-4d", 
+      "year": "2007", 
+      "model": "X-Type", 
+      "car_id": "83909"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/jaguar/x-type/2006-jaguar-x-type/wagon-4d/options/?vehicleid=858&intent=buy-used&category=wagon", 
+      "make": "Jaguar", 
+      "sub_cat": "wagon-4d", 
+      "year": "2006", 
+      "model": "X-Type", 
+      "car_id": "858"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/jaguar/x-type/2005-jaguar-x-type/30l-wagon-4d/options/?vehicleid=999&intent=buy-used&category=wagon", 
+      "make": "Jaguar", 
+      "sub_cat": "30l-wagon-4d", 
+      "year": "2005", 
+      "model": "X-Type", 
+      "car_id": "999"
+    }
+  ]
+}
