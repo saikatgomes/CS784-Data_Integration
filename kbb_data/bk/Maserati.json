@@ -1,0 +1,742 @@
+{
+  "car": [
+    {
+      "category": "Convertibles", 
+      "url": "/maserati/granturismo/2013-maserati-granturismo/convertible-2d/options/?vehicleid=391542&intent=buy-used&category=convertible", 
+      "make": "Maserati", 
+      "sub_cat": "Convertible 2D", 
+      "year": "2013", 
+      "model": "GranTurismo", 
+      "car_id": "391542"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/maserati/granturismo/2013-maserati-granturismo/sport-convertible-2d/options/?vehicleid=391543&intent=buy-used&category=convertible", 
+      "make": "Maserati", 
+      "sub_cat": "Sport Convertible 2D", 
+      "year": "2013", 
+      "model": "GranTurismo", 
+      "car_id": "391543"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/maserati/granturismo/2012-maserati-granturismo/convertible-2d/options/?vehicleid=378836&intent=buy-used&category=convertible", 
+      "make": "Maserati", 
+      "sub_cat": "Convertible 2D", 
+      "year": "2012", 
+      "model": "GranTurismo", 
+      "car_id": "378836"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/maserati/granturismo/2012-maserati-granturismo/sport-convertible-2d/options/?vehicleid=378841&intent=buy-used&category=convertible", 
+      "make": "Maserati", 
+      "sub_cat": "Sport Convertible 2D", 
+      "year": "2012", 
+      "model": "GranTurismo", 
+      "car_id": "378841"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/maserati/granturismo/2011-maserati-granturismo/convertible-2d/options/?vehicleid=371638&intent=buy-used&category=convertible", 
+      "make": "Maserati", 
+      "sub_cat": "convertible-2d", 
+      "year": "2011", 
+      "model": "GranTurismo", 
+      "car_id": "371638"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/maserati/granturismo/2010-maserati-granturismo/convertible-2d/options/?vehicleid=360860&intent=buy-used&category=convertible", 
+      "make": "Maserati", 
+      "sub_cat": "convertible-2d", 
+      "year": "2010", 
+      "model": "GranTurismo", 
+      "car_id": "360860"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/coupe/2006-maserati-coupe/gt-coupe-2d/options/?vehicleid=371565&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "GT Coupe 2D", 
+      "year": "2006", 
+      "model": "Coupe", 
+      "car_id": "371565"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/coupe/2006-maserati-coupe/cambiocorsa-coupe-2d/options/?vehicleid=371620&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "Cambiocorsa Coupe 2D", 
+      "year": "2006", 
+      "model": "Coupe", 
+      "car_id": "371620"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/coupe/2005-maserati-coupe/cambiocorsa-coupe-2d/options/?vehicleid=374321&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "Cambiocorsa Coupe 2D", 
+      "year": "2005", 
+      "model": "Coupe", 
+      "car_id": "374321"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/coupe/2005-maserati-coupe/gt-coupe-2d/options/?vehicleid=374322&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "GT Coupe 2D", 
+      "year": "2005", 
+      "model": "Coupe", 
+      "car_id": "374322"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/gransport/2006-maserati-gransport/coupe-2d/options/?vehicleid=371564&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "Coupe 2D", 
+      "year": "2006", 
+      "model": "GranSport", 
+      "car_id": "371564"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/gransport/2006-maserati-gransport/le-coupe-2d/options/?vehicleid=371639&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "LE Coupe 2D", 
+      "year": "2006", 
+      "model": "GranSport", 
+      "car_id": "371639"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/maserati/gransport/2005-maserati-gransport/coupe-2d/options/?vehicleid=371563&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "coupe-2d", 
+      "year": "2005", 
+      "model": "GranSport", 
+      "car_id": "371563"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/granturismo/2013-maserati-granturismo/sport-coupe-2d/options/?vehicleid=391541&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "Sport Coupe 2D", 
+      "year": "2013", 
+      "model": "GranTurismo", 
+      "car_id": "391541"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/granturismo/2013-maserati-granturismo/mc-coupe-2d/options/?vehicleid=391540&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "MC Coupe 2D", 
+      "year": "2013", 
+      "model": "GranTurismo", 
+      "car_id": "391540"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/granturismo/2012-maserati-granturismo/s-coupe-2d/options/?vehicleid=378839&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "S Coupe 2D", 
+      "year": "2012", 
+      "model": "GranTurismo", 
+      "car_id": "378839"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/granturismo/2012-maserati-granturismo/mc-coupe-2d/options/?vehicleid=378835&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "MC Coupe 2D", 
+      "year": "2012", 
+      "model": "GranTurismo", 
+      "car_id": "378835"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/granturismo/2011-maserati-granturismo/coupe-2d/options/?vehicleid=371636&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "Coupe 2D", 
+      "year": "2011", 
+      "model": "GranTurismo", 
+      "car_id": "371636"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/granturismo/2011-maserati-granturismo/s-coupe-2d/options/?vehicleid=371637&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "S Coupe 2D", 
+      "year": "2011", 
+      "model": "GranTurismo", 
+      "car_id": "371637"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/granturismo/2010-maserati-granturismo/coupe-2d/options/?vehicleid=371579&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "Coupe 2D", 
+      "year": "2010", 
+      "model": "GranTurismo", 
+      "car_id": "371579"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/granturismo/2010-maserati-granturismo/s-coupe-2d/options/?vehicleid=371578&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "S Coupe 2D", 
+      "year": "2010", 
+      "model": "GranTurismo", 
+      "car_id": "371578"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/granturismo/2009-maserati-granturismo/coupe-2d/options/?vehicleid=371622&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "Coupe 2D", 
+      "year": "2009", 
+      "model": "GranTurismo", 
+      "car_id": "371622"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/maserati/granturismo/2009-maserati-granturismo/s-coupe-2d/options/?vehicleid=371560&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "S Coupe 2D", 
+      "year": "2009", 
+      "model": "GranTurismo", 
+      "car_id": "371560"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/maserati/granturismo/2008-maserati-granturismo/coupe-2d/options/?vehicleid=371621&intent=buy-used&category=coupe", 
+      "make": "Maserati", 
+      "sub_cat": "coupe-2d", 
+      "year": "2008", 
+      "model": "GranTurismo", 
+      "car_id": "371621"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/coupe/2006-maserati-coupe/gt-coupe-2d/options/?vehicleid=371565&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "GT Coupe 2D", 
+      "year": "2006", 
+      "model": "Coupe", 
+      "car_id": "371565"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/coupe/2006-maserati-coupe/cambiocorsa-coupe-2d/options/?vehicleid=371620&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Cambiocorsa Coupe 2D", 
+      "year": "2006", 
+      "model": "Coupe", 
+      "car_id": "371620"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/coupe/2005-maserati-coupe/cambiocorsa-coupe-2d/options/?vehicleid=374321&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Cambiocorsa Coupe 2D", 
+      "year": "2005", 
+      "model": "Coupe", 
+      "car_id": "374321"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/coupe/2005-maserati-coupe/gt-coupe-2d/options/?vehicleid=374322&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "GT Coupe 2D", 
+      "year": "2005", 
+      "model": "Coupe", 
+      "car_id": "374322"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/maserati/gransport/2005-maserati-gransport/coupe-2d/options/?vehicleid=371563&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "coupe-2d", 
+      "year": "2005", 
+      "model": "GranSport", 
+      "car_id": "371563"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/granturismo/2009-maserati-granturismo/coupe-2d/options/?vehicleid=371622&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Coupe 2D", 
+      "year": "2009", 
+      "model": "GranTurismo", 
+      "car_id": "371622"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/granturismo/2009-maserati-granturismo/s-coupe-2d/options/?vehicleid=371560&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "S Coupe 2D", 
+      "year": "2009", 
+      "model": "GranTurismo", 
+      "car_id": "371560"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/maserati/granturismo/2008-maserati-granturismo/coupe-2d/options/?vehicleid=371621&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "coupe-2d", 
+      "year": "2008", 
+      "model": "GranTurismo", 
+      "car_id": "371621"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2013-maserati-quattroporte/s-sedan-4d/options/?vehicleid=385211&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "S Sedan 4D", 
+      "year": "2013", 
+      "model": "Quattroporte", 
+      "car_id": "385211"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2013-maserati-quattroporte/sport-gt-s-sedan-4d/options/?vehicleid=385212&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT S Sedan 4D", 
+      "year": "2013", 
+      "model": "Quattroporte", 
+      "car_id": "385212"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2012-maserati-quattroporte/s-sedan-4d/options/?vehicleid=378831&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "S Sedan 4D", 
+      "year": "2012", 
+      "model": "Quattroporte", 
+      "car_id": "378831"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2012-maserati-quattroporte/sport-gt-s-sedan-4d/options/?vehicleid=378832&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT S Sedan 4D", 
+      "year": "2012", 
+      "model": "Quattroporte", 
+      "car_id": "378832"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2011-maserati-quattroporte/sedan-4d/options/?vehicleid=371581&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2011", 
+      "model": "Quattroporte", 
+      "car_id": "371581"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2011-maserati-quattroporte/s-sedan-4d/options/?vehicleid=371583&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "S Sedan 4D", 
+      "year": "2011", 
+      "model": "Quattroporte", 
+      "car_id": "371583"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2011-maserati-quattroporte/sport-gt-s-sedan-4d/options/?vehicleid=371582&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT S Sedan 4D", 
+      "year": "2011", 
+      "model": "Quattroporte", 
+      "car_id": "371582"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2010-maserati-quattroporte/sedan-4d/options/?vehicleid=371633&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2010", 
+      "model": "Quattroporte", 
+      "car_id": "371633"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2010-maserati-quattroporte/s-sedan-4d/options/?vehicleid=371634&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "S Sedan 4D", 
+      "year": "2010", 
+      "model": "Quattroporte", 
+      "car_id": "371634"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2010-maserati-quattroporte/sport-gt-s-sedan-4d/options/?vehicleid=371635&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT S Sedan 4D", 
+      "year": "2010", 
+      "model": "Quattroporte", 
+      "car_id": "371635"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2009-maserati-quattroporte/sedan-4d/options/?vehicleid=371567&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2009", 
+      "model": "Quattroporte", 
+      "car_id": "371567"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2009-maserati-quattroporte/s-sedan-4d/options/?vehicleid=371618&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "S Sedan 4D", 
+      "year": "2009", 
+      "model": "Quattroporte", 
+      "car_id": "371618"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2009-maserati-quattroporte/sport-gt-s-sedan-4d/options/?vehicleid=371572&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT S Sedan 4D", 
+      "year": "2009", 
+      "model": "Quattroporte", 
+      "car_id": "371572"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2008-maserati-quattroporte/sedan-4d/options/?vehicleid=371566&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2008", 
+      "model": "Quattroporte", 
+      "car_id": "371566"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2008-maserati-quattroporte/executive-gt-sedan-4d/options/?vehicleid=371626&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Executive GT Sedan 4D", 
+      "year": "2008", 
+      "model": "Quattroporte", 
+      "car_id": "371626"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2007-maserati-quattroporte/duoselect-sedan-4d/options/?vehicleid=371619&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "DuoSelect Sedan 4D", 
+      "year": "2007", 
+      "model": "Quattroporte", 
+      "car_id": "371619"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2007-maserati-quattroporte/sedan-4d/options/?vehicleid=371629&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2007", 
+      "model": "Quattroporte", 
+      "car_id": "371629"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2007-maserati-quattroporte/sport-gt-duoselect-sedan-4d/options/?vehicleid=371569&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT DuoSelect Sedan 4D", 
+      "year": "2007", 
+      "model": "Quattroporte", 
+      "car_id": "371569"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2007-maserati-quattroporte/executive-gt-duoselect-sedan-4d/options/?vehicleid=371624&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Executive GT DuoSelect Sedan 4D", 
+      "year": "2007", 
+      "model": "Quattroporte", 
+      "car_id": "371624"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2007-maserati-quattroporte/sport-gt-sedan-4d/options/?vehicleid=371571&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT Sedan 4D", 
+      "year": "2007", 
+      "model": "Quattroporte", 
+      "car_id": "371571"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2007-maserati-quattroporte/executive-gt-sedan-4d/options/?vehicleid=371625&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Executive GT Sedan 4D", 
+      "year": "2007", 
+      "model": "Quattroporte", 
+      "car_id": "371625"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2006-maserati-quattroporte/sedan-4d/options/?vehicleid=371628&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2006", 
+      "model": "Quattroporte", 
+      "car_id": "371628"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2006-maserati-quattroporte/sport-gt-sedan-4d/options/?vehicleid=371570&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT Sedan 4D", 
+      "year": "2006", 
+      "model": "Quattroporte", 
+      "car_id": "371570"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/maserati/quattroporte/2006-maserati-quattroporte/executive-gt-sedan-4d/options/?vehicleid=371623&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "Executive GT Sedan 4D", 
+      "year": "2006", 
+      "model": "Quattroporte", 
+      "car_id": "371623"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/maserati/quattroporte/2005-maserati-quattroporte/sedan-4d/options/?vehicleid=371627&intent=buy-used&category=luxury", 
+      "make": "Maserati", 
+      "sub_cat": "sedan-4d", 
+      "year": "2005", 
+      "model": "Quattroporte", 
+      "car_id": "371627"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2013-maserati-quattroporte/s-sedan-4d/options/?vehicleid=385211&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "S Sedan 4D", 
+      "year": "2013", 
+      "model": "Quattroporte", 
+      "car_id": "385211"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2013-maserati-quattroporte/sport-gt-s-sedan-4d/options/?vehicleid=385212&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT S Sedan 4D", 
+      "year": "2013", 
+      "model": "Quattroporte", 
+      "car_id": "385212"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2012-maserati-quattroporte/s-sedan-4d/options/?vehicleid=378831&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "S Sedan 4D", 
+      "year": "2012", 
+      "model": "Quattroporte", 
+      "car_id": "378831"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2012-maserati-quattroporte/sport-gt-s-sedan-4d/options/?vehicleid=378832&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT S Sedan 4D", 
+      "year": "2012", 
+      "model": "Quattroporte", 
+      "car_id": "378832"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2011-maserati-quattroporte/sedan-4d/options/?vehicleid=371581&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2011", 
+      "model": "Quattroporte", 
+      "car_id": "371581"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2011-maserati-quattroporte/s-sedan-4d/options/?vehicleid=371583&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "S Sedan 4D", 
+      "year": "2011", 
+      "model": "Quattroporte", 
+      "car_id": "371583"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2011-maserati-quattroporte/sport-gt-s-sedan-4d/options/?vehicleid=371582&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT S Sedan 4D", 
+      "year": "2011", 
+      "model": "Quattroporte", 
+      "car_id": "371582"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2010-maserati-quattroporte/sedan-4d/options/?vehicleid=371633&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2010", 
+      "model": "Quattroporte", 
+      "car_id": "371633"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2010-maserati-quattroporte/s-sedan-4d/options/?vehicleid=371634&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "S Sedan 4D", 
+      "year": "2010", 
+      "model": "Quattroporte", 
+      "car_id": "371634"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2010-maserati-quattroporte/sport-gt-s-sedan-4d/options/?vehicleid=371635&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT S Sedan 4D", 
+      "year": "2010", 
+      "model": "Quattroporte", 
+      "car_id": "371635"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2009-maserati-quattroporte/sedan-4d/options/?vehicleid=371567&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2009", 
+      "model": "Quattroporte", 
+      "car_id": "371567"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2009-maserati-quattroporte/s-sedan-4d/options/?vehicleid=371618&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "S Sedan 4D", 
+      "year": "2009", 
+      "model": "Quattroporte", 
+      "car_id": "371618"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2009-maserati-quattroporte/sport-gt-s-sedan-4d/options/?vehicleid=371572&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT S Sedan 4D", 
+      "year": "2009", 
+      "model": "Quattroporte", 
+      "car_id": "371572"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2008-maserati-quattroporte/sedan-4d/options/?vehicleid=371566&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2008", 
+      "model": "Quattroporte", 
+      "car_id": "371566"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2008-maserati-quattroporte/executive-gt-sedan-4d/options/?vehicleid=371626&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Executive GT Sedan 4D", 
+      "year": "2008", 
+      "model": "Quattroporte", 
+      "car_id": "371626"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2007-maserati-quattroporte/duoselect-sedan-4d/options/?vehicleid=371619&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "DuoSelect Sedan 4D", 
+      "year": "2007", 
+      "model": "Quattroporte", 
+      "car_id": "371619"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2007-maserati-quattroporte/sedan-4d/options/?vehicleid=371629&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2007", 
+      "model": "Quattroporte", 
+      "car_id": "371629"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2007-maserati-quattroporte/sport-gt-duoselect-sedan-4d/options/?vehicleid=371569&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT DuoSelect Sedan 4D", 
+      "year": "2007", 
+      "model": "Quattroporte", 
+      "car_id": "371569"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2007-maserati-quattroporte/executive-gt-duoselect-sedan-4d/options/?vehicleid=371624&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Executive GT DuoSelect Sedan 4D", 
+      "year": "2007", 
+      "model": "Quattroporte", 
+      "car_id": "371624"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2007-maserati-quattroporte/sport-gt-sedan-4d/options/?vehicleid=371571&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT Sedan 4D", 
+      "year": "2007", 
+      "model": "Quattroporte", 
+      "car_id": "371571"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2007-maserati-quattroporte/executive-gt-sedan-4d/options/?vehicleid=371625&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Executive GT Sedan 4D", 
+      "year": "2007", 
+      "model": "Quattroporte", 
+      "car_id": "371625"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2006-maserati-quattroporte/sedan-4d/options/?vehicleid=371628&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2006", 
+      "model": "Quattroporte", 
+      "car_id": "371628"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2006-maserati-quattroporte/sport-gt-sedan-4d/options/?vehicleid=371570&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Sport GT Sedan 4D", 
+      "year": "2006", 
+      "model": "Quattroporte", 
+      "car_id": "371570"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/maserati/quattroporte/2006-maserati-quattroporte/executive-gt-sedan-4d/options/?vehicleid=371623&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "Executive GT Sedan 4D", 
+      "year": "2006", 
+      "model": "Quattroporte", 
+      "car_id": "371623"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/maserati/quattroporte/2005-maserati-quattroporte/sedan-4d/options/?vehicleid=371627&intent=buy-used&category=sedan", 
+      "make": "Maserati", 
+      "sub_cat": "sedan-4d", 
+      "year": "2005", 
+      "model": "Quattroporte", 
+      "car_id": "371627"
+    }
+  ]
+}

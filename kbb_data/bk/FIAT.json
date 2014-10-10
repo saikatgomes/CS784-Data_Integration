@@ -1,0 +1,319 @@
+{
+  "car": [
+    {
+      "category": "Convertibles", 
+      "url": "/fiat/500/2013-fiat-500/500c-pop-cabrio-convertible-2d/options/?vehicleid=382102&intent=buy-used&category=convertible", 
+      "make": "FIAT", 
+      "sub_cat": "500c Pop Cabrio Convertible 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "382102"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/fiat/500/2013-fiat-500/500c-lounge-cabrio-convertible-2d/options/?vehicleid=382101&intent=buy-used&category=convertible", 
+      "make": "FIAT", 
+      "sub_cat": "500c Lounge Cabrio Convertible 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "382101"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/fiat/500/2013-fiat-500/500c-abarth-cabrio-convertible-2d/options/?vehicleid=384795&intent=buy-used&category=convertible", 
+      "make": "FIAT", 
+      "sub_cat": "500c Abarth Cabrio Convertible 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "384795"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/fiat/500/2013-fiat-500/500c-gucci-convertible-2d/options/?vehicleid=390931&intent=buy-used&category=convertible", 
+      "make": "FIAT", 
+      "sub_cat": "500c Gucci Convertible 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "390931"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/fiat/500/2012-fiat-500/500c-pop-convertible-2d/options/?vehicleid=363054&intent=buy-used&category=convertible", 
+      "make": "FIAT", 
+      "sub_cat": "500C Pop Convertible 2D", 
+      "year": "2012", 
+      "model": "500", 
+      "car_id": "363054"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/fiat/500/2012-fiat-500/500c-lounge-convertible-2d/options/?vehicleid=363055&intent=buy-used&category=convertible", 
+      "make": "FIAT", 
+      "sub_cat": "500C Lounge Convertible 2D", 
+      "year": "2012", 
+      "model": "500", 
+      "car_id": "363055"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/fiat/500/2012-fiat-500/500c-gucci-convertible-2d/options/?vehicleid=374568&intent=buy-used&category=convertible", 
+      "make": "FIAT", 
+      "sub_cat": "500C Gucci Convertible 2D", 
+      "year": "2012", 
+      "model": "500", 
+      "car_id": "374568"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/fiat/500/2014-fiat-500/pop-hatchback-2d/options/?vehicleid=393881&intent=buy-used&category=coupe", 
+      "make": "FIAT", 
+      "sub_cat": "pop-hatchback-2d", 
+      "year": "2014", 
+      "model": "500", 
+      "car_id": "393881"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/fiat/500/2013-fiat-500/pop-hatchback-2d/options/?vehicleid=382100&intent=buy-used&category=coupe", 
+      "make": "FIAT", 
+      "sub_cat": "Pop Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "382100"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/fiat/500/2013-fiat-500/sport-hatchback-2d/options/?vehicleid=382098&intent=buy-used&category=coupe", 
+      "make": "FIAT", 
+      "sub_cat": "Sport Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "382098"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/fiat/500/2013-fiat-500/lounge-hatchback-2d/options/?vehicleid=382099&intent=buy-used&category=coupe", 
+      "make": "FIAT", 
+      "sub_cat": "Lounge Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "382099"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/fiat/500/2013-fiat-500/turbo-hatchback-2d/options/?vehicleid=382143&intent=buy-used&category=coupe", 
+      "make": "FIAT", 
+      "sub_cat": "Turbo Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "382143"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/fiat/500/2013-fiat-500/sport-cattiva-hatchback-2d/options/?vehicleid=393075&intent=buy-used&category=coupe", 
+      "make": "FIAT", 
+      "sub_cat": "Sport Cattiva Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "393075"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/fiat/500/2013-fiat-500/turbo-cattiva-hatchback-2d/options/?vehicleid=393076&intent=buy-used&category=coupe", 
+      "make": "FIAT", 
+      "sub_cat": "Turbo Cattiva Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "393076"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/fiat/500/2013-fiat-500/abarth-hatchback-2d/options/?vehicleid=382103&intent=buy-used&category=coupe", 
+      "make": "FIAT", 
+      "sub_cat": "Abarth Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "382103"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/fiat/500/2013-fiat-500/gucci-hatchback-2d/options/?vehicleid=390795&intent=buy-used&category=coupe", 
+      "make": "FIAT", 
+      "sub_cat": "Gucci Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "390795"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/fiat/500/2012-fiat-500/pop-hatchback-2d/options/?vehicleid=360966&intent=buy-used&category=coupe", 
+      "make": "FIAT", 
+      "sub_cat": "Pop Hatchback 2D", 
+      "year": "2012", 
+      "model": "500", 
+      "car_id": "360966"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/fiat/500/2012-fiat-500/sport-hatchback-2d/options/?vehicleid=360967&intent=buy-used&category=coupe", 
+      "make": "FIAT", 
+      "sub_cat": "Sport Hatchback 2D", 
+      "year": "2012", 
+      "model": "500", 
+      "car_id": "360967"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/fiat/500/2012-fiat-500/lounge-hatchback-2d/options/?vehicleid=360965&intent=buy-used&category=coupe", 
+      "make": "FIAT", 
+      "sub_cat": "Lounge Hatchback 2D", 
+      "year": "2012", 
+      "model": "500", 
+      "car_id": "360965"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/fiat/500/2012-fiat-500/abarth-hatchback-2d/options/?vehicleid=374567&intent=buy-used&category=coupe", 
+      "make": "FIAT", 
+      "sub_cat": "Abarth Hatchback 2D", 
+      "year": "2012", 
+      "model": "500", 
+      "car_id": "374567"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/fiat/500/2012-fiat-500/gucci-hatchback-2d/options/?vehicleid=374566&intent=buy-used&category=coupe", 
+      "make": "FIAT", 
+      "sub_cat": "Gucci Hatchback 2D", 
+      "year": "2012", 
+      "model": "500", 
+      "car_id": "374566"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/fiat/500/2014-fiat-500/pop-hatchback-2d/options/?vehicleid=393881&intent=buy-used&category=hatchback", 
+      "make": "FIAT", 
+      "sub_cat": "pop-hatchback-2d", 
+      "year": "2014", 
+      "model": "500", 
+      "car_id": "393881"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/fiat/500/2013-fiat-500/pop-hatchback-2d/options/?vehicleid=382100&intent=buy-used&category=hatchback", 
+      "make": "FIAT", 
+      "sub_cat": "Pop Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "382100"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/fiat/500/2013-fiat-500/sport-hatchback-2d/options/?vehicleid=382098&intent=buy-used&category=hatchback", 
+      "make": "FIAT", 
+      "sub_cat": "Sport Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "382098"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/fiat/500/2013-fiat-500/lounge-hatchback-2d/options/?vehicleid=382099&intent=buy-used&category=hatchback", 
+      "make": "FIAT", 
+      "sub_cat": "Lounge Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "382099"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/fiat/500/2013-fiat-500/turbo-hatchback-2d/options/?vehicleid=382143&intent=buy-used&category=hatchback", 
+      "make": "FIAT", 
+      "sub_cat": "Turbo Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "382143"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/fiat/500/2013-fiat-500/sport-cattiva-hatchback-2d/options/?vehicleid=393075&intent=buy-used&category=hatchback", 
+      "make": "FIAT", 
+      "sub_cat": "Sport Cattiva Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "393075"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/fiat/500/2013-fiat-500/turbo-cattiva-hatchback-2d/options/?vehicleid=393076&intent=buy-used&category=hatchback", 
+      "make": "FIAT", 
+      "sub_cat": "Turbo Cattiva Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "393076"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/fiat/500/2013-fiat-500/abarth-hatchback-2d/options/?vehicleid=382103&intent=buy-used&category=hatchback", 
+      "make": "FIAT", 
+      "sub_cat": "Abarth Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "382103"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/fiat/500/2013-fiat-500/gucci-hatchback-2d/options/?vehicleid=390795&intent=buy-used&category=hatchback", 
+      "make": "FIAT", 
+      "sub_cat": "Gucci Hatchback 2D", 
+      "year": "2013", 
+      "model": "500", 
+      "car_id": "390795"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/fiat/500/2012-fiat-500/pop-hatchback-2d/options/?vehicleid=360966&intent=buy-used&category=hatchback", 
+      "make": "FIAT", 
+      "sub_cat": "Pop Hatchback 2D", 
+      "year": "2012", 
+      "model": "500", 
+      "car_id": "360966"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/fiat/500/2012-fiat-500/sport-hatchback-2d/options/?vehicleid=360967&intent=buy-used&category=hatchback", 
+      "make": "FIAT", 
+      "sub_cat": "Sport Hatchback 2D", 
+      "year": "2012", 
+      "model": "500", 
+      "car_id": "360967"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/fiat/500/2012-fiat-500/lounge-hatchback-2d/options/?vehicleid=360965&intent=buy-used&category=hatchback", 
+      "make": "FIAT", 
+      "sub_cat": "Lounge Hatchback 2D", 
+      "year": "2012", 
+      "model": "500", 
+      "car_id": "360965"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/fiat/500/2012-fiat-500/abarth-hatchback-2d/options/?vehicleid=374567&intent=buy-used&category=hatchback", 
+      "make": "FIAT", 
+      "sub_cat": "Abarth Hatchback 2D", 
+      "year": "2012", 
+      "model": "500", 
+      "car_id": "374567"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/fiat/500/2012-fiat-500/gucci-hatchback-2d/options/?vehicleid=374566&intent=buy-used&category=hatchback", 
+      "make": "FIAT", 
+      "sub_cat": "Gucci Hatchback 2D", 
+      "year": "2012", 
+      "model": "500", 
+      "car_id": "374566"
+    }
+  ]
+}
