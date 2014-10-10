@@ -1,0 +1,974 @@
+{
+  "car": [
+    {
+      "category": "Sedans", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V6, 3.0 Liter", 
+          "chgBox271250", 
+          "cbxOptionId271250", 
+          "271250"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic", 
+          "chgBox271254", 
+          "cbxOptionId271254", 
+          "271254"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox271251", 
+          "cbxOptionId271251", 
+          "271251"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "FWD", 
+          "chgBox271259", 
+          "cbxOptionId271259", 
+          "271259"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox271262", 
+          "cbxOptionId271262", 
+          "271262"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox271269", 
+          "cbxOptionId271269", 
+          "271269"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox271270", 
+          "cbxOptionId271270", 
+          "271270"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox271275", 
+          "cbxOptionId271275", 
+          "271275"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox271268", 
+          "cbxOptionId271268", 
+          "271268"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox271272", 
+          "cbxOptionId271272", 
+          "271272"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox271277", 
+          "cbxOptionId271277", 
+          "271277"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox271282", 
+          "cbxOptionId271282", 
+          "271282"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox271285", 
+          "cbxOptionId271285", 
+          "271285"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox271292", 
+          "cbxOptionId271292", 
+          "271292"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox271317", 
+          "cbxOptionId271317", 
+          "271317"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Sun Roof (Flip-Up)", 
+          "chgBox271330", 
+          "cbxOptionId271330", 
+          "271330"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Sun Roof (Sliding)", 
+          "chgBox271334", 
+          "cbxOptionId271334", 
+          "271334"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Moon Roof", 
+          "chgBox271341", 
+          "cbxOptionId271341", 
+          "271341"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox271356", 
+          "cbxOptionId271356", 
+          "271356"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox271358", 
+          "cbxOptionId271358", 
+          "271358"
+        ]
+      ], 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1995", 
+      "url": "/alfa-romeo/164/1995-alfa-romeo-164/ls-sedan-4d/options/?vehicleid=7199&intent=buy-used&category=sedan", 
+      "make": "Alfa Romeo", 
+      "car_id": "7199", 
+      "model": "164"
+    }, 
+    {
+      "category": "Sedans", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V6, 3.0 Liter", 
+          "chgBox271370", 
+          "cbxOptionId271370", 
+          "271370"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox271371", 
+          "cbxOptionId271371", 
+          "271371"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "FWD", 
+          "chgBox271372", 
+          "cbxOptionId271372", 
+          "271372"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox271373", 
+          "cbxOptionId271373", 
+          "271373"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox271384", 
+          "cbxOptionId271384", 
+          "271384"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox271385", 
+          "cbxOptionId271385", 
+          "271385"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox271387", 
+          "cbxOptionId271387", 
+          "271387"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox271383", 
+          "cbxOptionId271383", 
+          "271383"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox271386", 
+          "cbxOptionId271386", 
+          "271386"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox271389", 
+          "cbxOptionId271389", 
+          "271389"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox271399", 
+          "cbxOptionId271399", 
+          "271399"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox271401", 
+          "cbxOptionId271401", 
+          "271401"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox271407", 
+          "cbxOptionId271407", 
+          "271407"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox271444", 
+          "cbxOptionId271444", 
+          "271444"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Sun Roof (Flip-Up)", 
+          "chgBox271471", 
+          "cbxOptionId271471", 
+          "271471"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Sun Roof (Sliding)", 
+          "chgBox271479", 
+          "cbxOptionId271479", 
+          "271479"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Moon Roof", 
+          "chgBox271490", 
+          "cbxOptionId271490", 
+          "271490"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox271506", 
+          "cbxOptionId271506", 
+          "271506"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox271517", 
+          "cbxOptionId271517", 
+          "271517"
+        ]
+      ], 
+      "sub_cat": "Q Sedan 4D", 
+      "year": "1995", 
+      "url": "/alfa-romeo/164/1995-alfa-romeo-164/q-sedan-4d/options/?vehicleid=7203&intent=buy-used&category=sedan", 
+      "make": "Alfa Romeo", 
+      "car_id": "7203", 
+      "model": "164"
+    }, 
+    {
+      "category": "Sedans", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V6, 3.0 Liter", 
+          "chgBox317904", 
+          "cbxOptionId317904", 
+          "317904"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic", 
+          "chgBox317906", 
+          "cbxOptionId317906", 
+          "317906"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox317905", 
+          "cbxOptionId317905", 
+          "317905"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "FWD", 
+          "chgBox317907", 
+          "cbxOptionId317907", 
+          "317907"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox317909", 
+          "cbxOptionId317909", 
+          "317909"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox317920", 
+          "cbxOptionId317920", 
+          "317920"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox317922", 
+          "cbxOptionId317922", 
+          "317922"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox317926", 
+          "cbxOptionId317926", 
+          "317926"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox317918", 
+          "cbxOptionId317918", 
+          "317918"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox317924", 
+          "cbxOptionId317924", 
+          "317924"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox317928", 
+          "cbxOptionId317928", 
+          "317928"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox317934", 
+          "cbxOptionId317934", 
+          "317934"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox317935", 
+          "cbxOptionId317935", 
+          "317935"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox317939", 
+          "cbxOptionId317939", 
+          "317939"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox317962", 
+          "cbxOptionId317962", 
+          "317962"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Sun Roof (Flip-Up)", 
+          "chgBox317984", 
+          "cbxOptionId317984", 
+          "317984"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Sun Roof (Sliding)", 
+          "chgBox317992", 
+          "cbxOptionId317992", 
+          "317992"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Moon Roof", 
+          "chgBox318000", 
+          "cbxOptionId318000", 
+          "318000"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox318005", 
+          "cbxOptionId318005", 
+          "318005"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox318009", 
+          "cbxOptionId318009", 
+          "318009"
+        ]
+      ], 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1994", 
+      "url": "/alfa-romeo/164/1994-alfa-romeo-164/ls-sedan-4d/options/?vehicleid=8592&intent=buy-used&category=sedan", 
+      "make": "Alfa Romeo", 
+      "car_id": "8592", 
+      "model": "164"
+    }, 
+    {
+      "category": "Sedans", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "V6, 3.0 Liter", 
+          "chgBox318030", 
+          "cbxOptionId318030", 
+          "318030"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox318032", 
+          "cbxOptionId318032", 
+          "318032"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "FWD", 
+          "chgBox318035", 
+          "cbxOptionId318035", 
+          "318035"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox318038", 
+          "cbxOptionId318038", 
+          "318038"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox318047", 
+          "cbxOptionId318047", 
+          "318047"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox318048", 
+          "cbxOptionId318048", 
+          "318048"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox318050", 
+          "cbxOptionId318050", 
+          "318050"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox318046", 
+          "cbxOptionId318046", 
+          "318046"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox318049", 
+          "cbxOptionId318049", 
+          "318049"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox318052", 
+          "cbxOptionId318052", 
+          "318052"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox318056", 
+          "cbxOptionId318056", 
+          "318056"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox318058", 
+          "cbxOptionId318058", 
+          "318058"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox318063", 
+          "cbxOptionId318063", 
+          "318063"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox318083", 
+          "cbxOptionId318083", 
+          "318083"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Sun Roof (Flip-Up)", 
+          "chgBox318109", 
+          "cbxOptionId318109", 
+          "318109"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Sun Roof (Sliding)", 
+          "chgBox318114", 
+          "cbxOptionId318114", 
+          "318114"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Moon Roof", 
+          "chgBox318122", 
+          "cbxOptionId318122", 
+          "318122"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox318128", 
+          "cbxOptionId318128", 
+          "318128"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox318141", 
+          "cbxOptionId318141", 
+          "318141"
+        ]
+      ], 
+      "sub_cat": "Q Sedan 4D", 
+      "year": "1994", 
+      "url": "/alfa-romeo/164/1994-alfa-romeo-164/q-sedan-4d/options/?vehicleid=8596&intent=buy-used&category=sedan", 
+      "make": "Alfa Romeo", 
+      "car_id": "8596", 
+      "model": "164"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "4-Cyl, 2.0 Liter", 
+          "chgBox317993", 
+          "cbxOptionId317993", 
+          "317993"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox317995", 
+          "cbxOptionId317995", 
+          "317995"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox317997", 
+          "cbxOptionId317997", 
+          "317997"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox318003", 
+          "cbxOptionId318003", 
+          "318003"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox318015", 
+          "cbxOptionId318015", 
+          "318015"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox318016", 
+          "cbxOptionId318016", 
+          "318016"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox318020", 
+          "cbxOptionId318020", 
+          "318020"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox318008", 
+          "cbxOptionId318008", 
+          "318008"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox318018", 
+          "cbxOptionId318018", 
+          "318018"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox318022", 
+          "cbxOptionId318022", 
+          "318022"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox318024", 
+          "cbxOptionId318024", 
+          "318024"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox318029", 
+          "cbxOptionId318029", 
+          "318029"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox318043", 
+          "cbxOptionId318043", 
+          "318043"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox318062", 
+          "cbxOptionId318062", 
+          "318062"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Hard Top/Soft Top", 
+          "chgBox317998", 
+          "cbxOptionId317998", 
+          "317998"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox4232782", 
+          "cbxOptionId4232782", 
+          "4232782"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox318069", 
+          "cbxOptionId318069", 
+          "318069"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox318071", 
+          "cbxOptionId318071", 
+          "318071"
+        ]
+      ], 
+      "sub_cat": "Convertible 2D", 
+      "year": "1994", 
+      "url": "/alfa-romeo/spider/1994-alfa-romeo-spider/convertible-2d/options/?vehicleid=8595&intent=buy-used&category=convertible", 
+      "make": "Alfa Romeo", 
+      "car_id": "8595", 
+      "model": "Spider"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "4-Cyl, 2.0 Liter", 
+          "chgBox318087", 
+          "cbxOptionId318087", 
+          "318087"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox318089", 
+          "cbxOptionId318089", 
+          "318089"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox318092", 
+          "cbxOptionId318092", 
+          "318092"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox318103", 
+          "cbxOptionId318103", 
+          "318103"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox318113", 
+          "cbxOptionId318113", 
+          "318113"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox318115", 
+          "cbxOptionId318115", 
+          "318115"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox318117", 
+          "cbxOptionId318117", 
+          "318117"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox318108", 
+          "cbxOptionId318108", 
+          "318108"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox318116", 
+          "cbxOptionId318116", 
+          "318116"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox318119", 
+          "cbxOptionId318119", 
+          "318119"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox318121", 
+          "cbxOptionId318121", 
+          "318121"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox318125", 
+          "cbxOptionId318125", 
+          "318125"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox318134", 
+          "cbxOptionId318134", 
+          "318134"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox318166", 
+          "cbxOptionId318166", 
+          "318166"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Hard Top/Soft Top", 
+          "chgBox318096", 
+          "cbxOptionId318096", 
+          "318096"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox318178", 
+          "cbxOptionId318178", 
+          "318178"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox318183", 
+          "cbxOptionId318183", 
+          "318183"
+        ]
+      ], 
+      "sub_cat": "Veloce Ce Convertible 2D", 
+      "year": "1994", 
+      "url": "/alfa-romeo/spider/1994-alfa-romeo-spider/veloce-ce-convertible-2d/options/?vehicleid=8599&intent=buy-used&category=convertible", 
+      "make": "Alfa Romeo", 
+      "car_id": "8599", 
+      "model": "Spider"
+    }
+  ]
+}
