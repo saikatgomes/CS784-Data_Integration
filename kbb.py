@@ -86,7 +86,7 @@ def get_attributes(url):
                         id1=id1[0]
                         id2=id2[0]
                         id3=id1[6:]
-                        att.append([sub_sect,attr,id1,id2,id3])
+                        att.append([sect_name[0],sub_sect,attr,id1,id2,id3])
         time.sleep(1)
     return att, redir_url
 
