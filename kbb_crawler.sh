@@ -1,3 +1,3 @@
-cd
-cd public/html/Fall14/CS784/CS784-Data_Integration/
+cd $1
+echo $1, `pwd` >&2
 python crawl_kbb.py
