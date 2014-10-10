@@ -154,4 +154,4 @@ if __name__ == "__main__":
     # with open(HTMLDIR + '4704328594.html') as f:
     #     tree = html.fromstring(f.read())
     #     print extract_atrribute(tree)
-    #clean_car_json_data('craiglist/car_data.json')
+    # zclean_car_json_data('craiglist/car_data.json')
