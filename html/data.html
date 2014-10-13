@@ -17,7 +17,7 @@
     <![endif]-->
   </head>
   <body>
-	<nav class="navbar navbar-default" role="navigation">
+<nav class="navbar navbar-default" role="navigation">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -33,31 +33,80 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">Data</a></li>
+        <li><a href="index.html">Home</a></li>
+        <li class="active"><a href="data.html">Data</a></li>
+        <li><a href="code.html">Code</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Team</a></li>
+        <li><a href="team.html">Team</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
 
+<div class="row">
+  <div class="col-md-1"></div>
+  <div class="col-md-5">
+    <div class="jumbotron">
+        <h1>Table 1: Craigslist</h1>
+        <p>
+            <a class="btn btn-primary btn-lg" role="button" href="all_makes_table_craiglist.json">JSON Data</a>
+            <a class="btn btn-primary btn-lg" role="button">HTML Pages</a>
+            <a class="btn btn-primary btn-lg" role="button">Fotmatted Table</a>
+        </p>
+        <p>Description: Each tuple was extracted from crawled data from used car postings in Craigslist.</p>
+        <p>
+            id: (integer) craiglist posting id.<br>
+            title: (string) title of the posting.<br>
+            body: (string) body fo the posting.<br>
+            cost: (string) listed cost of the posting.<br>
+            location: (string) location of the posting.<br>
+            make: (string) make of the car<br>
+            year: (string) year of the car<br>
+            posted: (string) date of the posting<br>
+            updated: (string) date of last update of the posting<br>
+            attr_VIN: (string) <br>
+            attr_condition: (string) <br> 
+            attr_cylinders: (string) <br> 
+            attr_drive: (string) <br> 
+            attr_fuel: (string) <br> 
+            attr_odometer: (string) <br> 
+            attr_paint color: (string) <br> 
+            attr_size: (string) <br> 
+            attr_size / dimensions: (string) <br> 
+            attr_title: (string) <br> 
+            attr_title status: (string) <br> 
+            attr_transmission: (string) <br> 
+            attr_type: (string) <br>
+        </p>
+    </div>
+  </div>
+  <div class="col-md-5">
+    <div class="jumbotron">
+        <h1>Table 2: KBB</h1>
+        <p>
+            <a class="btn btn-primary btn-lg" role="button" href="all_makes_table_kbb.json">JSON Data</a>
+            <a class="btn btn-primary btn-lg" role="button">HTML Pages</a>
+            <a class="btn btn-primary btn-lg" role="button">Formatted Table</a>
+        </p>
+        <p>Description: Each tuple was extracted from crawled data from Kelly Blue Book listing.</p>
+        <p>
+           id: (string) KBB vehicle id.<br>
+           make: (string) make of the car.<br>
+           category: (string) car category.<br>
+           year: (string) year of the car.<br>
+           model: (string) car model.<br>
+           sub_cat: (string) sub category for the car.<br>
+           att_drivetrain: (string) drive train of the car.<br>
+           att_engine: (string) engine type.<br>
+           att_transmission: (string) transmission type.<br>
+           url: (string) url of the listing.<br> 
+        </p>
+    </div>
+  </div>
+  <div class="col-md-1"></div>
+</div>
 
-<table data-toggle="table" data-height="299" data-url="all_makes.json" >
-    <thead>
-        <tr>
-            <th data-field="id" data-align="right" data-sortable="true">Car ID</th>
-            <th data-field="make" data-align="center" data-sortable="true">Make</th>
-            <th data-field="category" data-sortable="true">category</th>
-            <th data-field="year" data-sortable="true">year</th>
-            <th data-field="model" data-sortable="true">model</th>
-            <th data-field="sub_cat" data-sortable="true">sub_cat</th>
-            <th data-field="url" data-sortable="true">URL</th>
-        </tr>
-    </thead>
-</table>
-	
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>

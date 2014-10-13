@@ -17,7 +17,7 @@
     <![endif]-->
   </head>
   <body>
-	<nav class="navbar navbar-default" role="navigation">
+<nav class="navbar navbar-default" role="navigation">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -34,30 +34,42 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">Data</a></li>
+        <li><a href="data.html">Data</a></li>
+        <li><a href="code.html">Code</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Team</a></li>
+        <li><a href="team.html">Team</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
 
+<br>
+<br>
 
-<table data-toggle="table" data-height="299" data-url="all_makes.json" >
-    <thead>
-        <tr>
-            <th data-field="id" data-align="right" data-sortable="true">Car ID</th>
-            <th data-field="make" data-align="center" data-sortable="true">Make</th>
-            <th data-field="category" data-sortable="true">category</th>
-            <th data-field="year" data-sortable="true">year</th>
-            <th data-field="model" data-sortable="true">model</th>
-            <th data-field="sub_cat" data-sortable="true">sub_cat</th>
-            <th data-field="url" data-sortable="true">URL</th>
-        </tr>
-    </thead>
-</table>
-	
+<div class="row">
+  <div class="col-md-1"></div>
+  <div class="col-md-5">
+    <br>
+    <br>
+    <img src="img/car.png" class="img-responsive" alt="Responsive image">
+  </div>
+  <br>
+  <div class="col-md-5">
+   <div class="jumbotron">
+     <h1>Data Integration</h1>
+     <p><br></p>
+     <p>Buying and selling used cars is a huge industry. For this project we deccied to crawl "<a href='https://madison.craigslist.org/search/cta'>Craiglist</a>" and "<a href="https://www.kbb.com">Kelly Blue Book</a>" for used cars. Our goal is to extract relavent information from the unstructed Craiglist post and match the post with a car configuration on Kelly Blue Book website. We have crawled 19000 Craiglist prostings and about 26000 Kelly Blue Book listings.</p>
+     <p><br></p>
+     <p>
+        <a class="btn btn-primary btn-lg" role="button">See Data</a>
+        <a class="btn btn-primary btn-lg" role="button">See Code</a>
+     </p>
+   </div> 
+  </div>
+  <div class="col-md-1"></div>
+</div>
+
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
