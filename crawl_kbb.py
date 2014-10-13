@@ -204,8 +204,8 @@ def crawl_make(make,url):
                 if not (car_id and xSub_cat and xYear):
                     raise KeyError
                 last_dir=create_vodro_dir("kbb_data/html/%s/%s/%s" % (make.replace('/', '_'), 
-                                                                      this_model.replace('/', '_'), 
-                                                                      this_cat.replace('/', '_')), this_year)
+                                                                      this_cat.replace('/', '_'),
+                                                                      this_model.replace('/', '_')), this_year)
                 DATA = get_one_car(url,make,this_cat,this_model,'',DATA, last_dir)
             except KeyError:
                 print(getTime(1)+"|\t\t\t\t()URL  ="+url)
