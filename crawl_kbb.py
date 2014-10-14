@@ -2,7 +2,7 @@
 
 import requests,json,time,datetime,os.path,socket,random
 from lxml import html
-from random import shuffle
+from random import shuffle, randint
 
 base_url = "http://www.kbb.com"
 used = "/used-cars/"
@@ -61,7 +61,7 @@ def crawl_one_page(url,main_str, text_str, url_str, save_path):
         for a in tree.xpath(main_str):
             text_list.extend(a.xpath(text_str))
             url_list.extend(a.xpath(url_str))
-        time.sleep(1)
+        if randint(0,10)<4: time.sleep(1)
         with open(save_path,'w') as f:
             f.write(main_page.text.encode("ascii",errors="ignore"))
     return text_list,url_list,redir_url
@@ -97,7 +97,7 @@ def get_attributes(url,save_path):
                         att.append([sect_name[0],sub_sect,attr,id1,id2,id3])
         with open(save_path,'w') as f:
             f.write(main_page.text.encode("ascii",errors="ignore"))             
-        time.sleep(1)
+        if randint(0,10)<2: time.sleep(1)
     return att, redir_url
 
 
@@ -121,7 +121,7 @@ def get_all_makes(url,tp):
         MAKES.append({"makes":car_makes,"type":tp,"url":car_makes_links})
         with open(makeFileName,"w") as f:
             json.dump({'car_makes_link':MAKES},f,indent=2)
-        time.sleep(1)
+        if randint(0,10)<2: time.sleep(1)
 
 def schedule_crawl():
     global MAKES
