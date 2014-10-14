@@ -1,0 +1,3775 @@
+{
+  "car": [
+    {
+      "category": "Convertibles", 
+      "url": "/lexus/is/2013-lexus-is/is-250c-convertible-2d/options/?vehicleid=381437&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "IS 250C Convertible 2D", 
+      "year": "2013", 
+      "model": "IS", 
+      "car_id": "381437"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/lexus/is/2013-lexus-is/is-350c-convertible-2d/options/?vehicleid=381435&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "IS 350C Convertible 2D", 
+      "year": "2013", 
+      "model": "IS", 
+      "car_id": "381435"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/lexus/is/2012-lexus-is/is-250c-convertible-2d/options/?vehicleid=374257&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "IS 250C Convertible 2D", 
+      "year": "2012", 
+      "model": "IS", 
+      "car_id": "374257"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/lexus/is/2012-lexus-is/is-350c-convertible-2d/options/?vehicleid=374258&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "IS 350C Convertible 2D", 
+      "year": "2012", 
+      "model": "IS", 
+      "car_id": "374258"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/lexus/is/2011-lexus-is/is-250c-convertible-2d/options/?vehicleid=374264&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "IS 250C Convertible 2D", 
+      "year": "2011", 
+      "model": "IS", 
+      "car_id": "374264"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/lexus/is/2011-lexus-is/is-350c-convertible-2d/options/?vehicleid=374262&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "IS 350C Convertible 2D", 
+      "year": "2011", 
+      "model": "IS", 
+      "car_id": "374262"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/lexus/is/2010-lexus-is/is-250-sport-convertible-2d/options/?vehicleid=252378&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "IS 250 Sport Convertible 2D", 
+      "year": "2010", 
+      "model": "IS", 
+      "car_id": "252378"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "/lexus/is/2010-lexus-is/is-350-sport-convertible-2d/options/?vehicleid=252379&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "IS 350 Sport Convertible 2D", 
+      "year": "2010", 
+      "model": "IS", 
+      "car_id": "252379"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/lexus/sc/2010-lexus-sc/sc-430-convertible-2d/options/?vehicleid=261951&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2010", 
+      "model": "SC", 
+      "car_id": "261951"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/lexus/sc/2009-lexus-sc/sc-430-convertible-2d/options/?vehicleid=226782&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2009", 
+      "model": "SC", 
+      "car_id": "226782"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/lexus/sc/2008-lexus-sc/sc-430-convertible-2d/options/?vehicleid=197414&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2008", 
+      "model": "SC", 
+      "car_id": "197414"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/lexus/sc/2007-lexus-sc/sc-430-convertible-2d/options/?vehicleid=83975&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2007", 
+      "model": "SC", 
+      "car_id": "83975"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/lexus/sc/2006-lexus-sc/sc-430-convertible-2d/options/?vehicleid=975&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2006", 
+      "model": "SC", 
+      "car_id": "975"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/lexus/sc/2005-lexus-sc/sc-430-convertible-2d/options/?vehicleid=1094&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2005", 
+      "model": "SC", 
+      "car_id": "1094"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/lexus/sc/2004-lexus-sc/sc-430-convertible-2d/options/?vehicleid=2900&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2004", 
+      "model": "SC", 
+      "car_id": "2900"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/lexus/sc/2003-lexus-sc/sc-430-convertible-2d/options/?vehicleid=2672&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2003", 
+      "model": "SC", 
+      "car_id": "2672"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/lexus/sc/2002-lexus-sc/sc-430-convertible-2d/options/?vehicleid=4323&intent=buy-used&category=convertible", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2002", 
+      "model": "SC", 
+      "car_id": "4323"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/lexus/sc/2000-lexus-sc/sc-300-sport-coupe-2d/options/?vehicleid=6474&intent=buy-used&category=coupe", 
+      "make": "Lexus", 
+      "sub_cat": "SC 300 Sport Coupe 2D", 
+      "year": "2000", 
+      "model": "SC", 
+      "car_id": "6474"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/lexus/sc/2000-lexus-sc/sc-400-sport-coupe-2d/options/?vehicleid=6478&intent=buy-used&category=coupe", 
+      "make": "Lexus", 
+      "sub_cat": "SC 400 Sport Coupe 2D", 
+      "year": "2000", 
+      "model": "SC", 
+      "car_id": "6478"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/lexus/sc/1999-lexus-sc/sc-300-sport-coupe-2d/options/?vehicleid=5722&intent=buy-used&category=coupe", 
+      "make": "Lexus", 
+      "sub_cat": "SC 300 Sport Coupe 2D", 
+      "year": "1999", 
+      "model": "SC", 
+      "car_id": "5722"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/lexus/sc/1999-lexus-sc/sc-400-sport-coupe-2d/options/?vehicleid=5725&intent=buy-used&category=coupe", 
+      "make": "Lexus", 
+      "sub_cat": "SC 400 Sport Coupe 2D", 
+      "year": "1999", 
+      "model": "SC", 
+      "car_id": "5725"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/lexus/sc/1998-lexus-sc/sc-300-sport-coupe-2d/options/?vehicleid=6732&intent=buy-used&category=coupe", 
+      "make": "Lexus", 
+      "sub_cat": "SC 300 Sport Coupe 2D", 
+      "year": "1998", 
+      "model": "SC", 
+      "car_id": "6732"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/lexus/sc/1998-lexus-sc/sc-400-sport-coupe-2d/options/?vehicleid=6724&intent=buy-used&category=coupe", 
+      "make": "Lexus", 
+      "sub_cat": "SC 400 Sport Coupe 2D", 
+      "year": "1998", 
+      "model": "SC", 
+      "car_id": "6724"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/lexus/sc/1997-lexus-sc/sc-300-sport-coupe-2d/options/?vehicleid=8016&intent=buy-used&category=coupe", 
+      "make": "Lexus", 
+      "sub_cat": "SC 300 Sport Coupe 2D", 
+      "year": "1997", 
+      "model": "SC", 
+      "car_id": "8016"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/lexus/sc/1997-lexus-sc/sc-400-sport-coupe-2d/options/?vehicleid=8009&intent=buy-used&category=coupe", 
+      "make": "Lexus", 
+      "sub_cat": "SC 400 Sport Coupe 2D", 
+      "year": "1997", 
+      "model": "SC", 
+      "car_id": "8009"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/lexus/sc/1996-lexus-sc/sc-300-sport-coupe-2d/options/?vehicleid=9318&intent=buy-used&category=coupe", 
+      "make": "Lexus", 
+      "sub_cat": "SC 300 Sport Coupe 2D", 
+      "year": "1996", 
+      "model": "SC", 
+      "car_id": "9318"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/lexus/sc/1996-lexus-sc/sc-400-sport-coupe-2d/options/?vehicleid=9316&intent=buy-used&category=coupe", 
+      "make": "Lexus", 
+      "sub_cat": "SC 400 Sport Coupe 2D", 
+      "year": "1996", 
+      "model": "SC", 
+      "car_id": "9316"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/lexus/sc/1995-lexus-sc/sc-300-sport-coupe-2d/options/?vehicleid=7944&intent=buy-used&category=coupe", 
+      "make": "Lexus", 
+      "sub_cat": "SC 300 Sport Coupe 2D", 
+      "year": "1995", 
+      "model": "SC", 
+      "car_id": "7944"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/lexus/sc/1995-lexus-sc/sc-400-sport-coupe-2d/options/?vehicleid=7947&intent=buy-used&category=coupe", 
+      "make": "Lexus", 
+      "sub_cat": "SC 400 Sport Coupe 2D", 
+      "year": "1995", 
+      "model": "SC", 
+      "car_id": "7947"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/lexus/sc/1994-lexus-sc/sc-300-sport-coupe-2d/options/?vehicleid=9361&intent=buy-used&category=coupe", 
+      "make": "Lexus", 
+      "sub_cat": "SC 300 Sport Coupe 2D", 
+      "year": "1994", 
+      "model": "SC", 
+      "car_id": "9361"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/lexus/sc/1994-lexus-sc/sc-400-sport-coupe-2d/options/?vehicleid=9362&intent=buy-used&category=coupe", 
+      "make": "Lexus", 
+      "sub_cat": "SC 400 Sport Coupe 2D", 
+      "year": "1994", 
+      "model": "SC", 
+      "car_id": "9362"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2014-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=392662&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2014", 
+      "model": "RX", 
+      "car_id": "392662"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2014-lexus-rx/rx-350-f-sport-suv-4d/options/?vehicleid=392663&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 F Sport SUV 4D", 
+      "year": "2014", 
+      "model": "RX", 
+      "car_id": "392663"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2014-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=392664&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2014", 
+      "model": "RX", 
+      "car_id": "392664"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2013-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=377971&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2013", 
+      "model": "RX", 
+      "car_id": "377971"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2013-lexus-rx/rx-350-f-sport-suv-4d/options/?vehicleid=377972&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 F Sport SUV 4D", 
+      "year": "2013", 
+      "model": "RX", 
+      "car_id": "377972"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2013-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=377970&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2013", 
+      "model": "RX", 
+      "car_id": "377970"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2012-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=370964&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2012", 
+      "model": "RX", 
+      "car_id": "370964"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2012-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=370960&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2012", 
+      "model": "RX", 
+      "car_id": "370960"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2011-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=353457&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2011", 
+      "model": "RX", 
+      "car_id": "353457"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2011-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=353456&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2011", 
+      "model": "RX", 
+      "car_id": "353456"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2010-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=264319&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2010", 
+      "model": "RX", 
+      "car_id": "264319"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2010-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=251693&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2010", 
+      "model": "RX", 
+      "car_id": "251693"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "http://www.kbb.com/lexus/rx/2009-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=226786&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "rx-350-sport-utility-4d", 
+      "year": "2009", 
+      "model": "RX", 
+      "car_id": "226786"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2008-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=197415&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2008", 
+      "model": "RX", 
+      "car_id": "197415"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2008-lexus-rx/rx-400h-sport-utility-4d/options/?vehicleid=197418&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 400h Sport Utility 4D", 
+      "year": "2008", 
+      "model": "RX", 
+      "car_id": "197418"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2007-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=83976&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2007", 
+      "model": "RX", 
+      "car_id": "83976"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2007-lexus-rx/rx-400h-sport-utility-4d/options/?vehicleid=83980&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 400h Sport Utility 4D", 
+      "year": "2007", 
+      "model": "RX", 
+      "car_id": "83980"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2006-lexus-rx/rx-330-sport-utility-4d/options/?vehicleid=978&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 330 Sport Utility 4D", 
+      "year": "2006", 
+      "model": "RX", 
+      "car_id": "978"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/lexus/rx/2006-lexus-rx/rx-400h-sport-utility-4d/options/?vehicleid=976&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "RX 400h Sport Utility 4D", 
+      "year": "2006", 
+      "model": "RX", 
+      "car_id": "976"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "http://www.kbb.com/lexus/rx/2005-lexus-rx/rx-330-sport-utility-4d/options/?vehicleid=1095&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "rx-330-sport-utility-4d", 
+      "year": "2005", 
+      "model": "RX", 
+      "car_id": "1095"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "http://www.kbb.com/lexus/rx/2004-lexus-rx/rx-330-sport-utility-4d/options/?vehicleid=2921&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "rx-330-sport-utility-4d", 
+      "year": "2004", 
+      "model": "RX", 
+      "car_id": "2921"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "http://www.kbb.com/lexus/rx/2003-lexus-rx/rx-300-sport-utility-4d/options/?vehicleid=2674&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "rx-300-sport-utility-4d", 
+      "year": "2003", 
+      "model": "RX", 
+      "car_id": "2674"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "http://www.kbb.com/lexus/rx/2002-lexus-rx/rx-300-sport-utility-4d/options/?vehicleid=4320&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "rx-300-sport-utility-4d", 
+      "year": "2002", 
+      "model": "RX", 
+      "car_id": "4320"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "http://www.kbb.com/lexus/rx/2001-lexus-rx/rx-300-sport-utility-4d/options/?vehicleid=4597&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "rx-300-sport-utility-4d", 
+      "year": "2001", 
+      "model": "RX", 
+      "car_id": "4597"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "http://www.kbb.com/lexus/rx/2000-lexus-rx/rx-300-sport-utility-4d/options/?vehicleid=6476&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "rx-300-sport-utility-4d", 
+      "year": "2000", 
+      "model": "RX", 
+      "car_id": "6476"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "http://www.kbb.com/lexus/rx/1999-lexus-rx/rx-300-sport-utility-4d/options/?vehicleid=5732&intent=buy-used&category=crossover", 
+      "make": "Lexus", 
+      "sub_cat": "rx-300-sport-utility-4d", 
+      "year": "1999", 
+      "model": "RX", 
+      "car_id": "5732"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/lexus/ct/2014-lexus-ct/ct-200h-hatchback-4d/options/?vehicleid=395230&intent=buy-used&category=hatchback", 
+      "make": "Lexus", 
+      "sub_cat": "ct-200h-hatchback-4d", 
+      "year": "2014", 
+      "model": "CT", 
+      "car_id": "395230"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/lexus/ct/2013-lexus-ct/ct-200h-hatchback-4d/options/?vehicleid=382124&intent=buy-used&category=hatchback", 
+      "make": "Lexus", 
+      "sub_cat": "ct-200h-hatchback-4d", 
+      "year": "2013", 
+      "model": "CT", 
+      "car_id": "382124"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/lexus/ct/2012-lexus-ct/ct-200h-hatchback-4d/options/?vehicleid=370945&intent=buy-used&category=hatchback", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h Hatchback 4D", 
+      "year": "2012", 
+      "model": "CT", 
+      "car_id": "370945"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/lexus/ct/2012-lexus-ct/ct-200h-premium-hatchback-4d/options/?vehicleid=370967&intent=buy-used&category=hatchback", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h Premium Hatchback 4D", 
+      "year": "2012", 
+      "model": "CT", 
+      "car_id": "370967"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/lexus/ct/2012-lexus-ct/ct-200h-f-sport-special-edition-hatchback-4d/options/?vehicleid=370991&intent=buy-used&category=hatchback", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h F Sport Special Edition Hatchback 4D", 
+      "year": "2012", 
+      "model": "CT", 
+      "car_id": "370991"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/lexus/ct/2011-lexus-ct/ct-200h-hatchback-4d/options/?vehicleid=360284&intent=buy-used&category=hatchback", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h Hatchback 4D", 
+      "year": "2011", 
+      "model": "CT", 
+      "car_id": "360284"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/lexus/ct/2011-lexus-ct/ct-200h-premium-hatchback-4d/options/?vehicleid=360286&intent=buy-used&category=hatchback", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h Premium Hatchback 4D", 
+      "year": "2011", 
+      "model": "CT", 
+      "car_id": "360286"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/lexus/is/2005-lexus-is/is-300-sportcross-hatchback-4d/options/?vehicleid=1097&intent=buy-used&category=hatchback", 
+      "make": "Lexus", 
+      "sub_cat": "is-300-sportcross-hatchback-4d", 
+      "year": "2005", 
+      "model": "IS", 
+      "car_id": "1097"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/lexus/is/2004-lexus-is/is-300-sportcross-hatchback-4d/options/?vehicleid=2905&intent=buy-used&category=hatchback", 
+      "make": "Lexus", 
+      "sub_cat": "is-300-sportcross-hatchback-4d", 
+      "year": "2004", 
+      "model": "IS", 
+      "car_id": "2905"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/lexus/is/2003-lexus-is/is-300-sportcross-hatchback-4d/options/?vehicleid=2661&intent=buy-used&category=hatchback", 
+      "make": "Lexus", 
+      "sub_cat": "is-300-sportcross-hatchback-4d", 
+      "year": "2003", 
+      "model": "IS", 
+      "car_id": "2661"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/lexus/is/2002-lexus-is/is-300-sportcross-hatchback-4d/options/?vehicleid=4326&intent=buy-used&category=hatchback", 
+      "make": "Lexus", 
+      "sub_cat": "is-300-sportcross-hatchback-4d", 
+      "year": "2002", 
+      "model": "IS", 
+      "car_id": "4326"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/ct/2014-lexus-ct/ct-200h-hatchback-4d/options/?vehicleid=395230&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "ct-200h-hatchback-4d", 
+      "year": "2014", 
+      "model": "CT", 
+      "car_id": "395230"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/ct/2013-lexus-ct/ct-200h-hatchback-4d/options/?vehicleid=382124&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "ct-200h-hatchback-4d", 
+      "year": "2013", 
+      "model": "CT", 
+      "car_id": "382124"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/lexus/ct/2012-lexus-ct/ct-200h-hatchback-4d/options/?vehicleid=370945&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h Hatchback 4D", 
+      "year": "2012", 
+      "model": "CT", 
+      "car_id": "370945"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/lexus/ct/2012-lexus-ct/ct-200h-premium-hatchback-4d/options/?vehicleid=370967&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h Premium Hatchback 4D", 
+      "year": "2012", 
+      "model": "CT", 
+      "car_id": "370967"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/lexus/ct/2012-lexus-ct/ct-200h-f-sport-special-edition-hatchback-4d/options/?vehicleid=370991&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h F Sport Special Edition Hatchback 4D", 
+      "year": "2012", 
+      "model": "CT", 
+      "car_id": "370991"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/lexus/ct/2011-lexus-ct/ct-200h-hatchback-4d/options/?vehicleid=360284&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h Hatchback 4D", 
+      "year": "2011", 
+      "model": "CT", 
+      "car_id": "360284"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/lexus/ct/2011-lexus-ct/ct-200h-premium-hatchback-4d/options/?vehicleid=360286&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h Premium Hatchback 4D", 
+      "year": "2011", 
+      "model": "CT", 
+      "car_id": "360286"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/gs/2013-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=378751&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "gs-450h-sedan-4d", 
+      "year": "2013", 
+      "model": "GS", 
+      "car_id": "378751"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/gs/2011-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=352697&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "gs-450h-sedan-4d", 
+      "year": "2011", 
+      "model": "GS", 
+      "car_id": "352697"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/gs/2010-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=263680&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "gs-450h-sedan-4d", 
+      "year": "2010", 
+      "model": "GS", 
+      "car_id": "263680"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/gs/2009-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=226774&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "gs-450h-sedan-4d", 
+      "year": "2009", 
+      "model": "GS", 
+      "car_id": "226774"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/gs/2008-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=197405&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "gs-450h-sedan-4d", 
+      "year": "2008", 
+      "model": "GS", 
+      "car_id": "197405"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/gs/2007-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=83964&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "gs-450h-sedan-4d", 
+      "year": "2007", 
+      "model": "GS", 
+      "car_id": "83964"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/lexus/hs/2012-lexus-hs/hs-250h-sedan-4d/options/?vehicleid=371350&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Sedan 4D", 
+      "year": "2012", 
+      "model": "HS", 
+      "car_id": "371350"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/lexus/hs/2012-lexus-hs/hs-250h-premium-sedan-4d/options/?vehicleid=371351&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Premium Sedan 4D", 
+      "year": "2012", 
+      "model": "HS", 
+      "car_id": "371351"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/lexus/hs/2011-lexus-hs/hs-250h-sedan-4d/options/?vehicleid=358251&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Sedan 4D", 
+      "year": "2011", 
+      "model": "HS", 
+      "car_id": "358251"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/lexus/hs/2011-lexus-hs/hs-250h-premium-sedan-4d/options/?vehicleid=358250&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Premium Sedan 4D", 
+      "year": "2011", 
+      "model": "HS", 
+      "car_id": "358250"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/lexus/hs/2010-lexus-hs/hs-250h-sedan-4d/options/?vehicleid=256154&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Sedan 4D", 
+      "year": "2010", 
+      "model": "HS", 
+      "car_id": "256154"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/lexus/hs/2010-lexus-hs/hs-250h-premium-sedan-4d/options/?vehicleid=256155&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Premium Sedan 4D", 
+      "year": "2010", 
+      "model": "HS", 
+      "car_id": "256155"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/ls/2013-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=382225&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "ls-600h-l-sedan-4d", 
+      "year": "2013", 
+      "model": "LS", 
+      "car_id": "382225"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/ls/2012-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=370961&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "ls-600h-l-sedan-4d", 
+      "year": "2012", 
+      "model": "LS", 
+      "car_id": "370961"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/ls/2011-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=358630&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "ls-600h-l-sedan-4d", 
+      "year": "2011", 
+      "model": "LS", 
+      "car_id": "358630"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/ls/2010-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=264318&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "ls-600h-l-sedan-4d", 
+      "year": "2010", 
+      "model": "LS", 
+      "car_id": "264318"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/ls/2009-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=226781&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "ls-600h-l-sedan-4d", 
+      "year": "2009", 
+      "model": "LS", 
+      "car_id": "226781"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/ls/2008-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=197412&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "ls-600h-l-sedan-4d", 
+      "year": "2008", 
+      "model": "LS", 
+      "car_id": "197412"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/rx/2014-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=392664&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "rx-450h-sport-utility-4d", 
+      "year": "2014", 
+      "model": "RX", 
+      "car_id": "392664"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/rx/2013-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=377970&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "rx-450h-sport-utility-4d", 
+      "year": "2013", 
+      "model": "RX", 
+      "car_id": "377970"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/rx/2012-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=370960&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "rx-450h-sport-utility-4d", 
+      "year": "2012", 
+      "model": "RX", 
+      "car_id": "370960"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/rx/2011-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=353456&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "rx-450h-sport-utility-4d", 
+      "year": "2011", 
+      "model": "RX", 
+      "car_id": "353456"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/rx/2010-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=251693&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "rx-450h-sport-utility-4d", 
+      "year": "2010", 
+      "model": "RX", 
+      "car_id": "251693"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/rx/2008-lexus-rx/rx-400h-sport-utility-4d/options/?vehicleid=197418&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "rx-400h-sport-utility-4d", 
+      "year": "2008", 
+      "model": "RX", 
+      "car_id": "197418"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/rx/2007-lexus-rx/rx-400h-sport-utility-4d/options/?vehicleid=83980&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "rx-400h-sport-utility-4d", 
+      "year": "2007", 
+      "model": "RX", 
+      "car_id": "83980"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/lexus/rx/2006-lexus-rx/rx-400h-sport-utility-4d/options/?vehicleid=976&intent=buy-used&category=hybrid", 
+      "make": "Lexus", 
+      "sub_cat": "rx-400h-sport-utility-4d", 
+      "year": "2006", 
+      "model": "RX", 
+      "car_id": "976"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gs/2014-lexus-gs/gs-350-sedan-4d/options/?vehicleid=392659&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gs-350-sedan-4d", 
+      "year": "2014", 
+      "model": "GS", 
+      "car_id": "392659"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2013-lexus-gs/gs-350-sedan-4d/options/?vehicleid=374387&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 350 Sedan 4D", 
+      "year": "2013", 
+      "model": "GS", 
+      "car_id": "374387"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2013-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=378751&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 450h Sedan 4D", 
+      "year": "2013", 
+      "model": "GS", 
+      "car_id": "378751"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2011-lexus-gs/gs-460-sedan-4d/options/?vehicleid=353048&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 460 Sedan 4D", 
+      "year": "2011", 
+      "model": "GS", 
+      "car_id": "353048"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2011-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=352697&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 450h Sedan 4D", 
+      "year": "2011", 
+      "model": "GS", 
+      "car_id": "352697"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2010-lexus-gs/gs-460-sedan-4d/options/?vehicleid=263681&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 460 Sedan 4D", 
+      "year": "2010", 
+      "model": "GS", 
+      "car_id": "263681"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2010-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=263680&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 450h Sedan 4D", 
+      "year": "2010", 
+      "model": "GS", 
+      "car_id": "263680"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2009-lexus-gs/gs-460-sedan-4d/options/?vehicleid=226775&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 460 Sedan 4D", 
+      "year": "2009", 
+      "model": "GS", 
+      "car_id": "226775"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2009-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=226774&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 450h Sedan 4D", 
+      "year": "2009", 
+      "model": "GS", 
+      "car_id": "226774"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2008-lexus-gs/gs-460-sedan-4d/options/?vehicleid=197403&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 460 Sedan 4D", 
+      "year": "2008", 
+      "model": "GS", 
+      "car_id": "197403"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2008-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=197405&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 450h Sedan 4D", 
+      "year": "2008", 
+      "model": "GS", 
+      "car_id": "197405"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2007-lexus-gs/gs-350-sedan-4d/options/?vehicleid=347226&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 350 Sedan 4D", 
+      "year": "2007", 
+      "model": "GS", 
+      "car_id": "347226"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2007-lexus-gs/gs-430-sedan-4d/options/?vehicleid=83969&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 430 Sedan 4D", 
+      "year": "2007", 
+      "model": "GS", 
+      "car_id": "83969"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2007-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=83964&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 450h Sedan 4D", 
+      "year": "2007", 
+      "model": "GS", 
+      "car_id": "83964"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2006-lexus-gs/gs-300-sedan-4d/options/?vehicleid=347225&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 300 Sedan 4D", 
+      "year": "2006", 
+      "model": "GS", 
+      "car_id": "347225"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gs/2006-lexus-gs/gs-430-sedan-4d/options/?vehicleid=957&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GS 430 Sedan 4D", 
+      "year": "2006", 
+      "model": "GS", 
+      "car_id": "957"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gs/2005-lexus-gs/gs-430-sedan-4d/options/?vehicleid=1090&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gs-430-sedan-4d", 
+      "year": "2005", 
+      "model": "GS", 
+      "car_id": "1090"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gs/2004-lexus-gs/gs-430-sedan-4d/options/?vehicleid=2894&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gs-430-sedan-4d", 
+      "year": "2004", 
+      "model": "GS", 
+      "car_id": "2894"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gs/2003-lexus-gs/gs-430-sedan-4d/options/?vehicleid=2666&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gs-430-sedan-4d", 
+      "year": "2003", 
+      "model": "GS", 
+      "car_id": "2666"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gs/2002-lexus-gs/gs-430-sedan-4d/options/?vehicleid=4315&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gs-430-sedan-4d", 
+      "year": "2002", 
+      "model": "GS", 
+      "car_id": "4315"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gs/2001-lexus-gs/gs-430-sedan-4d/options/?vehicleid=4585&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gs-430-sedan-4d", 
+      "year": "2001", 
+      "model": "GS", 
+      "car_id": "4585"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gs/2000-lexus-gs/gs-400-sedan-4d/options/?vehicleid=6477&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gs-400-sedan-4d", 
+      "year": "2000", 
+      "model": "GS", 
+      "car_id": "6477"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gs/1999-lexus-gs/gs-400-sedan-4d/options/?vehicleid=5718&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gs-400-sedan-4d", 
+      "year": "1999", 
+      "model": "GS", 
+      "car_id": "5718"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gs/1998-lexus-gs/gs-400-sedan-4d/options/?vehicleid=6723&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gs-400-sedan-4d", 
+      "year": "1998", 
+      "model": "GS", 
+      "car_id": "6723"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gx/2013-lexus-gx/gx-460-sport-utility-4d/options/?vehicleid=378637&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Sport Utility 4D", 
+      "year": "2013", 
+      "model": "GX", 
+      "car_id": "378637"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gx/2013-lexus-gx/gx-460-premium-sport-utility-4d/options/?vehicleid=378638&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Premium Sport Utility 4D", 
+      "year": "2013", 
+      "model": "GX", 
+      "car_id": "378638"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gx/2012-lexus-gx/gx-460-sport-utility-4d/options/?vehicleid=371005&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Sport Utility 4D", 
+      "year": "2012", 
+      "model": "GX", 
+      "car_id": "371005"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gx/2012-lexus-gx/gx-460-premium-sport-utility-4d/options/?vehicleid=371002&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Premium Sport Utility 4D", 
+      "year": "2012", 
+      "model": "GX", 
+      "car_id": "371002"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gx/2011-lexus-gx/gx-460-sport-utility-4d/options/?vehicleid=353451&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Sport Utility 4D", 
+      "year": "2011", 
+      "model": "GX", 
+      "car_id": "353451"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gx/2011-lexus-gx/gx-460-premium-sport-utility-4d/options/?vehicleid=353454&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Premium Sport Utility 4D", 
+      "year": "2011", 
+      "model": "GX", 
+      "car_id": "353454"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gx/2010-lexus-gx/gx-460-sport-utility-4d/options/?vehicleid=264107&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Sport Utility 4D", 
+      "year": "2010", 
+      "model": "GX", 
+      "car_id": "264107"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/gx/2010-lexus-gx/gx-460-premium-sport-utility-4d/options/?vehicleid=263859&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Premium Sport Utility 4D", 
+      "year": "2010", 
+      "model": "GX", 
+      "car_id": "263859"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gx/2009-lexus-gx/gx-470-sport-utility-4d/options/?vehicleid=226783&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gx-470-sport-utility-4d", 
+      "year": "2009", 
+      "model": "GX", 
+      "car_id": "226783"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gx/2008-lexus-gx/gx-470-sport-utility-4d/options/?vehicleid=197416&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gx-470-sport-utility-4d", 
+      "year": "2008", 
+      "model": "GX", 
+      "car_id": "197416"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gx/2007-lexus-gx/gx-470-sport-utility-4d/options/?vehicleid=83978&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gx-470-sport-utility-4d", 
+      "year": "2007", 
+      "model": "GX", 
+      "car_id": "83978"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gx/2006-lexus-gx/gx-470-sport-utility-4d/options/?vehicleid=968&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gx-470-sport-utility-4d", 
+      "year": "2006", 
+      "model": "GX", 
+      "car_id": "968"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gx/2005-lexus-gx/gx-470-sport-utility-4d/options/?vehicleid=1098&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gx-470-sport-utility-4d", 
+      "year": "2005", 
+      "model": "GX", 
+      "car_id": "1098"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gx/2004-lexus-gx/gx-470-sport-utility-4d/options/?vehicleid=2907&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gx-470-sport-utility-4d", 
+      "year": "2004", 
+      "model": "GX", 
+      "car_id": "2907"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/gx/2003-lexus-gx/gx-470-sport-utility-4d/options/?vehicleid=2665&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "gx-470-sport-utility-4d", 
+      "year": "2003", 
+      "model": "GX", 
+      "car_id": "2665"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/hs/2011-lexus-hs/hs-250h-sedan-4d/options/?vehicleid=358251&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Sedan 4D", 
+      "year": "2011", 
+      "model": "HS", 
+      "car_id": "358251"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/hs/2011-lexus-hs/hs-250h-premium-sedan-4d/options/?vehicleid=358250&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Premium Sedan 4D", 
+      "year": "2011", 
+      "model": "HS", 
+      "car_id": "358250"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/hs/2010-lexus-hs/hs-250h-sedan-4d/options/?vehicleid=256154&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Sedan 4D", 
+      "year": "2010", 
+      "model": "HS", 
+      "car_id": "256154"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/hs/2010-lexus-hs/hs-250h-premium-sedan-4d/options/?vehicleid=256155&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Premium Sedan 4D", 
+      "year": "2010", 
+      "model": "HS", 
+      "car_id": "256155"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2013-lexus-ls/ls-460-sedan-4d/options/?vehicleid=382226&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 Sedan 4D", 
+      "year": "2013", 
+      "model": "LS", 
+      "car_id": "382226"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2013-lexus-ls/ls-460-l-sedan-4d/options/?vehicleid=382227&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 L Sedan 4D", 
+      "year": "2013", 
+      "model": "LS", 
+      "car_id": "382227"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2013-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=382225&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 600h L Sedan 4D", 
+      "year": "2013", 
+      "model": "LS", 
+      "car_id": "382225"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2012-lexus-ls/ls-460-sedan-4d/options/?vehicleid=370959&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 Sedan 4D", 
+      "year": "2012", 
+      "model": "LS", 
+      "car_id": "370959"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2012-lexus-ls/ls-460-l-sedan-4d/options/?vehicleid=370963&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 L Sedan 4D", 
+      "year": "2012", 
+      "model": "LS", 
+      "car_id": "370963"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2012-lexus-ls/sport-special-edition-sedan-4d/options/?vehicleid=371000&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "Sport Special Edition Sedan 4D", 
+      "year": "2012", 
+      "model": "LS", 
+      "car_id": "371000"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2012-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=370961&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 600h L Sedan 4D", 
+      "year": "2012", 
+      "model": "LS", 
+      "car_id": "370961"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2011-lexus-ls/ls-460-sedan-4d/options/?vehicleid=358620&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 Sedan 4D", 
+      "year": "2011", 
+      "model": "LS", 
+      "car_id": "358620"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2011-lexus-ls/ls-460-l-sedan-4d/options/?vehicleid=358633&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 L Sedan 4D", 
+      "year": "2011", 
+      "model": "LS", 
+      "car_id": "358633"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2011-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=358630&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 600h L Sedan 4D", 
+      "year": "2011", 
+      "model": "LS", 
+      "car_id": "358630"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2010-lexus-ls/ls-460-sedan-4d/options/?vehicleid=263687&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 Sedan 4D", 
+      "year": "2010", 
+      "model": "LS", 
+      "car_id": "263687"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2010-lexus-ls/ls-460-l-sedan-4d/options/?vehicleid=263688&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 L Sedan 4D", 
+      "year": "2010", 
+      "model": "LS", 
+      "car_id": "263688"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2010-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=264318&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 600h L Sedan 4D", 
+      "year": "2010", 
+      "model": "LS", 
+      "car_id": "264318"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2009-lexus-ls/ls-460-sedan-4d/options/?vehicleid=348494&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 Sedan 4D", 
+      "year": "2009", 
+      "model": "LS", 
+      "car_id": "348494"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2009-lexus-ls/ls-460-l-sedan-4d/options/?vehicleid=348490&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 L Sedan 4D", 
+      "year": "2009", 
+      "model": "LS", 
+      "car_id": "348490"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2009-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=226781&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 600h L Sedan 4D", 
+      "year": "2009", 
+      "model": "LS", 
+      "car_id": "226781"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2008-lexus-ls/ls-460-sedan-4d/options/?vehicleid=197410&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 Sedan 4D", 
+      "year": "2008", 
+      "model": "LS", 
+      "car_id": "197410"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2008-lexus-ls/ls-460-l-sedan-4d/options/?vehicleid=197411&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 L Sedan 4D", 
+      "year": "2008", 
+      "model": "LS", 
+      "car_id": "197411"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2008-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=197412&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 600h L Sedan 4D", 
+      "year": "2008", 
+      "model": "LS", 
+      "car_id": "197412"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2007-lexus-ls/ls-460-sedan-4d/options/?vehicleid=83972&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 Sedan 4D", 
+      "year": "2007", 
+      "model": "LS", 
+      "car_id": "83972"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/ls/2007-lexus-ls/ls-460-l-sedan-4d/options/?vehicleid=83973&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 L Sedan 4D", 
+      "year": "2007", 
+      "model": "LS", 
+      "car_id": "83973"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/ls/2006-lexus-ls/ls-430-sedan-4d/options/?vehicleid=971&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "ls-430-sedan-4d", 
+      "year": "2006", 
+      "model": "LS", 
+      "car_id": "971"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/ls/2005-lexus-ls/ls-430-sedan-4d/options/?vehicleid=1091&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "ls-430-sedan-4d", 
+      "year": "2005", 
+      "model": "LS", 
+      "car_id": "1091"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/ls/2004-lexus-ls/ls-430-sedan-4d/options/?vehicleid=2895&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "ls-430-sedan-4d", 
+      "year": "2004", 
+      "model": "LS", 
+      "car_id": "2895"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/ls/2003-lexus-ls/ls-430-sedan-4d/options/?vehicleid=2667&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "ls-430-sedan-4d", 
+      "year": "2003", 
+      "model": "LS", 
+      "car_id": "2667"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/ls/2002-lexus-ls/ls-430-sedan-4d/options/?vehicleid=4318&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "ls-430-sedan-4d", 
+      "year": "2002", 
+      "model": "LS", 
+      "car_id": "4318"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/ls/2001-lexus-ls/ls-430-sedan-4d/options/?vehicleid=4590&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "ls-430-sedan-4d", 
+      "year": "2001", 
+      "model": "LS", 
+      "car_id": "4590"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/ls/2000-lexus-ls/ls-400-sedan-4d/options/?vehicleid=6484&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "ls-400-sedan-4d", 
+      "year": "2000", 
+      "model": "LS", 
+      "car_id": "6484"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/ls/1999-lexus-ls/ls-400-sedan-4d/options/?vehicleid=5721&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "ls-400-sedan-4d", 
+      "year": "1999", 
+      "model": "LS", 
+      "car_id": "5721"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/ls/1998-lexus-ls/ls-400-sedan-4d/options/?vehicleid=6726&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "ls-400-sedan-4d", 
+      "year": "1998", 
+      "model": "LS", 
+      "car_id": "6726"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/ls/1997-lexus-ls/ls-400-sedan-4d/options/?vehicleid=8011&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "ls-400-sedan-4d", 
+      "year": "1997", 
+      "model": "LS", 
+      "car_id": "8011"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/ls/1996-lexus-ls/ls-400-sedan-4d/options/?vehicleid=9314&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "ls-400-sedan-4d", 
+      "year": "1996", 
+      "model": "LS", 
+      "car_id": "9314"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/ls/1995-lexus-ls/ls-400-sedan-4d/options/?vehicleid=7949&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "ls-400-sedan-4d", 
+      "year": "1995", 
+      "model": "LS", 
+      "car_id": "7949"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/ls/1994-lexus-ls/ls-400-sedan-4d/options/?vehicleid=9359&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "ls-400-sedan-4d", 
+      "year": "1994", 
+      "model": "LS", 
+      "car_id": "9359"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/2013-lexus-lx/lx-570-sport-utility-4d/options/?vehicleid=374498&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-570-sport-utility-4d", 
+      "year": "2013", 
+      "model": "LX", 
+      "car_id": "374498"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/2011-lexus-lx/lx-570-sport-utility-4d/options/?vehicleid=353455&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-570-sport-utility-4d", 
+      "year": "2011", 
+      "model": "LX", 
+      "car_id": "353455"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/2010-lexus-lx/lx-570-sport-utility-4d/options/?vehicleid=261952&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-570-sport-utility-4d", 
+      "year": "2010", 
+      "model": "LX", 
+      "car_id": "261952"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/2009-lexus-lx/lx-570-sport-utility-4d/options/?vehicleid=226784&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-570-sport-utility-4d", 
+      "year": "2009", 
+      "model": "LX", 
+      "car_id": "226784"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/2008-lexus-lx/lx-570-sport-utility-4d/options/?vehicleid=197420&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-570-sport-utility-4d", 
+      "year": "2008", 
+      "model": "LX", 
+      "car_id": "197420"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/2007-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=83982&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2007", 
+      "model": "LX", 
+      "car_id": "83982"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/2006-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=974&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2006", 
+      "model": "LX", 
+      "car_id": "974"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/2005-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=1092&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2005", 
+      "model": "LX", 
+      "car_id": "1092"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/2004-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=2918&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2004", 
+      "model": "LX", 
+      "car_id": "2918"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/2003-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=2668&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2003", 
+      "model": "LX", 
+      "car_id": "2668"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/2002-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=4327&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2002", 
+      "model": "LX", 
+      "car_id": "4327"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/2001-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=4595&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2001", 
+      "model": "LX", 
+      "car_id": "4595"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/2000-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=6485&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2000", 
+      "model": "LX", 
+      "car_id": "6485"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/1999-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=5729&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "1999", 
+      "model": "LX", 
+      "car_id": "5729"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/1998-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=6727&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "1998", 
+      "model": "LX", 
+      "car_id": "6727"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/1997-lexus-lx/lx-450-sport-utility-4d/options/?vehicleid=8014&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-450-sport-utility-4d", 
+      "year": "1997", 
+      "model": "LX", 
+      "car_id": "8014"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/lx/1996-lexus-lx/lx-450-sport-utility-4d/options/?vehicleid=9321&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "lx-450-sport-utility-4d", 
+      "year": "1996", 
+      "model": "LX", 
+      "car_id": "9321"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2014-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=392662&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2014", 
+      "model": "RX", 
+      "car_id": "392662"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2014-lexus-rx/rx-350-f-sport-suv-4d/options/?vehicleid=392663&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 F Sport SUV 4D", 
+      "year": "2014", 
+      "model": "RX", 
+      "car_id": "392663"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2014-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=392664&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2014", 
+      "model": "RX", 
+      "car_id": "392664"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2013-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=377971&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2013", 
+      "model": "RX", 
+      "car_id": "377971"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2013-lexus-rx/rx-350-f-sport-suv-4d/options/?vehicleid=377972&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 F Sport SUV 4D", 
+      "year": "2013", 
+      "model": "RX", 
+      "car_id": "377972"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2013-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=377970&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2013", 
+      "model": "RX", 
+      "car_id": "377970"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2012-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=370964&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2012", 
+      "model": "RX", 
+      "car_id": "370964"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2012-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=370960&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2012", 
+      "model": "RX", 
+      "car_id": "370960"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2011-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=353457&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2011", 
+      "model": "RX", 
+      "car_id": "353457"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2011-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=353456&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2011", 
+      "model": "RX", 
+      "car_id": "353456"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2010-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=264319&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2010", 
+      "model": "RX", 
+      "car_id": "264319"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2010-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=251693&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2010", 
+      "model": "RX", 
+      "car_id": "251693"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/rx/2009-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=226786&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "rx-350-sport-utility-4d", 
+      "year": "2009", 
+      "model": "RX", 
+      "car_id": "226786"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2008-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=197415&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2008", 
+      "model": "RX", 
+      "car_id": "197415"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2008-lexus-rx/rx-400h-sport-utility-4d/options/?vehicleid=197418&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 400h Sport Utility 4D", 
+      "year": "2008", 
+      "model": "RX", 
+      "car_id": "197418"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2007-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=83976&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2007", 
+      "model": "RX", 
+      "car_id": "83976"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "/lexus/rx/2007-lexus-rx/rx-400h-sport-utility-4d/options/?vehicleid=83980&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "RX 400h Sport Utility 4D", 
+      "year": "2007", 
+      "model": "RX", 
+      "car_id": "83980"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/2010-lexus-sc/sc-430-convertible-2d/options/?vehicleid=261951&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2010", 
+      "model": "SC", 
+      "car_id": "261951"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/2009-lexus-sc/sc-430-convertible-2d/options/?vehicleid=226782&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2009", 
+      "model": "SC", 
+      "car_id": "226782"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/2008-lexus-sc/sc-430-convertible-2d/options/?vehicleid=197414&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2008", 
+      "model": "SC", 
+      "car_id": "197414"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/2007-lexus-sc/sc-430-convertible-2d/options/?vehicleid=83975&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2007", 
+      "model": "SC", 
+      "car_id": "83975"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/2006-lexus-sc/sc-430-convertible-2d/options/?vehicleid=975&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2006", 
+      "model": "SC", 
+      "car_id": "975"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/2005-lexus-sc/sc-430-convertible-2d/options/?vehicleid=1094&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2005", 
+      "model": "SC", 
+      "car_id": "1094"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/2004-lexus-sc/sc-430-convertible-2d/options/?vehicleid=2900&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2004", 
+      "model": "SC", 
+      "car_id": "2900"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/2003-lexus-sc/sc-430-convertible-2d/options/?vehicleid=2672&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2003", 
+      "model": "SC", 
+      "car_id": "2672"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/2002-lexus-sc/sc-430-convertible-2d/options/?vehicleid=4323&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-430-convertible-2d", 
+      "year": "2002", 
+      "model": "SC", 
+      "car_id": "4323"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/2000-lexus-sc/sc-400-sport-coupe-2d/options/?vehicleid=6478&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-400-sport-coupe-2d", 
+      "year": "2000", 
+      "model": "SC", 
+      "car_id": "6478"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/1999-lexus-sc/sc-400-sport-coupe-2d/options/?vehicleid=5725&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-400-sport-coupe-2d", 
+      "year": "1999", 
+      "model": "SC", 
+      "car_id": "5725"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/1998-lexus-sc/sc-400-sport-coupe-2d/options/?vehicleid=6724&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-400-sport-coupe-2d", 
+      "year": "1998", 
+      "model": "SC", 
+      "car_id": "6724"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/1997-lexus-sc/sc-400-sport-coupe-2d/options/?vehicleid=8009&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-400-sport-coupe-2d", 
+      "year": "1997", 
+      "model": "SC", 
+      "car_id": "8009"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/1996-lexus-sc/sc-400-sport-coupe-2d/options/?vehicleid=9316&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-400-sport-coupe-2d", 
+      "year": "1996", 
+      "model": "SC", 
+      "car_id": "9316"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/1995-lexus-sc/sc-400-sport-coupe-2d/options/?vehicleid=7947&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-400-sport-coupe-2d", 
+      "year": "1995", 
+      "model": "SC", 
+      "car_id": "7947"
+    }, 
+    {
+      "category": "Luxury Vehicles", 
+      "url": "http://www.kbb.com/lexus/sc/1994-lexus-sc/sc-400-sport-coupe-2d/options/?vehicleid=9362&intent=buy-used&category=luxury", 
+      "make": "Lexus", 
+      "sub_cat": "sc-400-sport-coupe-2d", 
+      "year": "1994", 
+      "model": "SC", 
+      "car_id": "9362"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ct/2014-lexus-ct/ct-200h-hatchback-4d/options/?vehicleid=395230&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ct-200h-hatchback-4d", 
+      "year": "2014", 
+      "model": "CT", 
+      "car_id": "395230"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ct/2013-lexus-ct/ct-200h-hatchback-4d/options/?vehicleid=382124&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ct-200h-hatchback-4d", 
+      "year": "2013", 
+      "model": "CT", 
+      "car_id": "382124"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ct/2012-lexus-ct/ct-200h-hatchback-4d/options/?vehicleid=370945&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h Hatchback 4D", 
+      "year": "2012", 
+      "model": "CT", 
+      "car_id": "370945"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ct/2012-lexus-ct/ct-200h-premium-hatchback-4d/options/?vehicleid=370967&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h Premium Hatchback 4D", 
+      "year": "2012", 
+      "model": "CT", 
+      "car_id": "370967"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ct/2012-lexus-ct/ct-200h-f-sport-special-edition-hatchback-4d/options/?vehicleid=370991&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h F Sport Special Edition Hatchback 4D", 
+      "year": "2012", 
+      "model": "CT", 
+      "car_id": "370991"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ct/2011-lexus-ct/ct-200h-hatchback-4d/options/?vehicleid=360284&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h Hatchback 4D", 
+      "year": "2011", 
+      "model": "CT", 
+      "car_id": "360284"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ct/2011-lexus-ct/ct-200h-premium-hatchback-4d/options/?vehicleid=360286&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "CT 200h Premium Hatchback 4D", 
+      "year": "2011", 
+      "model": "CT", 
+      "car_id": "360286"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/es/2013-lexus-es/es-350-sedan-4d/options/?vehicleid=379239&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ES 350 Sedan 4D", 
+      "year": "2013", 
+      "model": "ES", 
+      "car_id": "379239"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/es/2013-lexus-es/es-300h-sedan-4d/options/?vehicleid=379255&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ES 300h Sedan 4D", 
+      "year": "2013", 
+      "model": "ES", 
+      "car_id": "379255"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/2012-lexus-es/es-350-sedan-4d/options/?vehicleid=371288&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-350-sedan-4d", 
+      "year": "2012", 
+      "model": "ES", 
+      "car_id": "371288"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/2011-lexus-es/es-350-sedan-4d/options/?vehicleid=352680&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-350-sedan-4d", 
+      "year": "2011", 
+      "model": "ES", 
+      "car_id": "352680"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/2010-lexus-es/es-350-sedan-4d/options/?vehicleid=261950&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-350-sedan-4d", 
+      "year": "2010", 
+      "model": "ES", 
+      "car_id": "261950"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/2009-lexus-es/es-350-sedan-4d/options/?vehicleid=226771&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-350-sedan-4d", 
+      "year": "2009", 
+      "model": "ES", 
+      "car_id": "226771"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/2008-lexus-es/es-350-sedan-4d/options/?vehicleid=197404&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-350-sedan-4d", 
+      "year": "2008", 
+      "model": "ES", 
+      "car_id": "197404"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/2007-lexus-es/es-350-sedan-4d/options/?vehicleid=83970&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-350-sedan-4d", 
+      "year": "2007", 
+      "model": "ES", 
+      "car_id": "83970"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/2006-lexus-es/es-330-sedan-4d/options/?vehicleid=955&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-330-sedan-4d", 
+      "year": "2006", 
+      "model": "ES", 
+      "car_id": "955"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/2005-lexus-es/es-330-sedan-4d/options/?vehicleid=1084&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-330-sedan-4d", 
+      "year": "2005", 
+      "model": "ES", 
+      "car_id": "1084"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/2004-lexus-es/es-330-sedan-4d/options/?vehicleid=2897&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-330-sedan-4d", 
+      "year": "2004", 
+      "model": "ES", 
+      "car_id": "2897"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/2003-lexus-es/es-300-sedan-4d/options/?vehicleid=2662&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-300-sedan-4d", 
+      "year": "2003", 
+      "model": "ES", 
+      "car_id": "2662"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/2002-lexus-es/es-300-sedan-4d/options/?vehicleid=4319&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-300-sedan-4d", 
+      "year": "2002", 
+      "model": "ES", 
+      "car_id": "4319"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/2001-lexus-es/es-300-sedan-4d/options/?vehicleid=4588&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-300-sedan-4d", 
+      "year": "2001", 
+      "model": "ES", 
+      "car_id": "4588"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/2000-lexus-es/es-300-sedan-4d/options/?vehicleid=6479&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-300-sedan-4d", 
+      "year": "2000", 
+      "model": "ES", 
+      "car_id": "6479"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/1999-lexus-es/es-300-sedan-4d/options/?vehicleid=5709&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-300-sedan-4d", 
+      "year": "1999", 
+      "model": "ES", 
+      "car_id": "5709"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/1998-lexus-es/es-300-sedan-4d/options/?vehicleid=6711&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-300-sedan-4d", 
+      "year": "1998", 
+      "model": "ES", 
+      "car_id": "6711"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/1997-lexus-es/es-300-sedan-4d/options/?vehicleid=8013&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-300-sedan-4d", 
+      "year": "1997", 
+      "model": "ES", 
+      "car_id": "8013"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/1996-lexus-es/es-300-sedan-4d/options/?vehicleid=9313&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-300-sedan-4d", 
+      "year": "1996", 
+      "model": "ES", 
+      "car_id": "9313"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/1995-lexus-es/es-300-sedan-4d/options/?vehicleid=7945&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-300-sedan-4d", 
+      "year": "1995", 
+      "model": "ES", 
+      "car_id": "7945"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/es/1994-lexus-es/es-300-sedan-4d/options/?vehicleid=9350&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "es-300-sedan-4d", 
+      "year": "1994", 
+      "model": "ES", 
+      "car_id": "9350"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/gs/2014-lexus-gs/gs-350-sedan-4d/options/?vehicleid=392659&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "gs-350-sedan-4d", 
+      "year": "2014", 
+      "model": "GS", 
+      "car_id": "392659"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2013-lexus-gs/gs-350-sedan-4d/options/?vehicleid=374387&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 350 Sedan 4D", 
+      "year": "2013", 
+      "model": "GS", 
+      "car_id": "374387"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2013-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=378751&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 450h Sedan 4D", 
+      "year": "2013", 
+      "model": "GS", 
+      "car_id": "378751"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2011-lexus-gs/gs-350-sedan-4d/options/?vehicleid=353046&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 350 Sedan 4D", 
+      "year": "2011", 
+      "model": "GS", 
+      "car_id": "353046"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2011-lexus-gs/gs-460-sedan-4d/options/?vehicleid=353048&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 460 Sedan 4D", 
+      "year": "2011", 
+      "model": "GS", 
+      "car_id": "353048"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2011-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=352697&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 450h Sedan 4D", 
+      "year": "2011", 
+      "model": "GS", 
+      "car_id": "352697"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2010-lexus-gs/gs-350-sedan-4d/options/?vehicleid=347227&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 350 Sedan 4D", 
+      "year": "2010", 
+      "model": "GS", 
+      "car_id": "347227"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2010-lexus-gs/gs-460-sedan-4d/options/?vehicleid=263681&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 460 Sedan 4D", 
+      "year": "2010", 
+      "model": "GS", 
+      "car_id": "263681"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2010-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=263680&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 450h Sedan 4D", 
+      "year": "2010", 
+      "model": "GS", 
+      "car_id": "263680"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2009-lexus-gs/gs-350-sedan-4d/options/?vehicleid=347228&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 350 Sedan 4D", 
+      "year": "2009", 
+      "model": "GS", 
+      "car_id": "347228"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2009-lexus-gs/gs-460-sedan-4d/options/?vehicleid=226775&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 460 Sedan 4D", 
+      "year": "2009", 
+      "model": "GS", 
+      "car_id": "226775"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2009-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=226774&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 450h Sedan 4D", 
+      "year": "2009", 
+      "model": "GS", 
+      "car_id": "226774"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2008-lexus-gs/gs-350-sedan-4d/options/?vehicleid=347229&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 350 Sedan 4D", 
+      "year": "2008", 
+      "model": "GS", 
+      "car_id": "347229"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2008-lexus-gs/gs-460-sedan-4d/options/?vehicleid=197403&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 460 Sedan 4D", 
+      "year": "2008", 
+      "model": "GS", 
+      "car_id": "197403"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2008-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=197405&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 450h Sedan 4D", 
+      "year": "2008", 
+      "model": "GS", 
+      "car_id": "197405"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2007-lexus-gs/gs-350-sedan-4d/options/?vehicleid=347226&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 350 Sedan 4D", 
+      "year": "2007", 
+      "model": "GS", 
+      "car_id": "347226"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2007-lexus-gs/gs-430-sedan-4d/options/?vehicleid=83969&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 430 Sedan 4D", 
+      "year": "2007", 
+      "model": "GS", 
+      "car_id": "83969"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2007-lexus-gs/gs-450h-sedan-4d/options/?vehicleid=83964&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 450h Sedan 4D", 
+      "year": "2007", 
+      "model": "GS", 
+      "car_id": "83964"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2006-lexus-gs/gs-300-sedan-4d/options/?vehicleid=347225&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 300 Sedan 4D", 
+      "year": "2006", 
+      "model": "GS", 
+      "car_id": "347225"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2006-lexus-gs/gs-430-sedan-4d/options/?vehicleid=957&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 430 Sedan 4D", 
+      "year": "2006", 
+      "model": "GS", 
+      "car_id": "957"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2005-lexus-gs/gs-300-sedan-4d/options/?vehicleid=1088&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 300 Sedan 4D", 
+      "year": "2005", 
+      "model": "GS", 
+      "car_id": "1088"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2005-lexus-gs/gs-430-sedan-4d/options/?vehicleid=1090&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 430 Sedan 4D", 
+      "year": "2005", 
+      "model": "GS", 
+      "car_id": "1090"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2004-lexus-gs/gs-300-sedan-4d/options/?vehicleid=2903&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 300 Sedan 4D", 
+      "year": "2004", 
+      "model": "GS", 
+      "car_id": "2903"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2004-lexus-gs/gs-430-sedan-4d/options/?vehicleid=2894&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 430 Sedan 4D", 
+      "year": "2004", 
+      "model": "GS", 
+      "car_id": "2894"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2003-lexus-gs/gs-300-sedan-4d/options/?vehicleid=2660&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 300 Sedan 4D", 
+      "year": "2003", 
+      "model": "GS", 
+      "car_id": "2660"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2003-lexus-gs/gs-430-sedan-4d/options/?vehicleid=2666&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 430 Sedan 4D", 
+      "year": "2003", 
+      "model": "GS", 
+      "car_id": "2666"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2002-lexus-gs/gs-300-sedan-4d/options/?vehicleid=4324&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 300 Sedan 4D", 
+      "year": "2002", 
+      "model": "GS", 
+      "car_id": "4324"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2002-lexus-gs/gs-430-sedan-4d/options/?vehicleid=4315&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 430 Sedan 4D", 
+      "year": "2002", 
+      "model": "GS", 
+      "car_id": "4315"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2001-lexus-gs/gs-300-sedan-4d/options/?vehicleid=4582&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 300 Sedan 4D", 
+      "year": "2001", 
+      "model": "GS", 
+      "car_id": "4582"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2001-lexus-gs/gs-430-sedan-4d/options/?vehicleid=4585&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 430 Sedan 4D", 
+      "year": "2001", 
+      "model": "GS", 
+      "car_id": "4585"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2000-lexus-gs/gs-300-sedan-4d/options/?vehicleid=6471&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 300 Sedan 4D", 
+      "year": "2000", 
+      "model": "GS", 
+      "car_id": "6471"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/2000-lexus-gs/gs-400-sedan-4d/options/?vehicleid=6477&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 400 Sedan 4D", 
+      "year": "2000", 
+      "model": "GS", 
+      "car_id": "6477"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/1999-lexus-gs/gs-300-sedan-4d/options/?vehicleid=5713&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 300 Sedan 4D", 
+      "year": "1999", 
+      "model": "GS", 
+      "car_id": "5713"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/1999-lexus-gs/gs-400-sedan-4d/options/?vehicleid=5718&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 400 Sedan 4D", 
+      "year": "1999", 
+      "model": "GS", 
+      "car_id": "5718"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/1998-lexus-gs/gs-300-sedan-4d/options/?vehicleid=6715&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 300 Sedan 4D", 
+      "year": "1998", 
+      "model": "GS", 
+      "car_id": "6715"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/gs/1998-lexus-gs/gs-400-sedan-4d/options/?vehicleid=6723&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "GS 400 Sedan 4D", 
+      "year": "1998", 
+      "model": "GS", 
+      "car_id": "6723"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/gs/1997-lexus-gs/gs-300-sedan-4d/options/?vehicleid=8007&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "gs-300-sedan-4d", 
+      "year": "1997", 
+      "model": "GS", 
+      "car_id": "8007"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/gs/1996-lexus-gs/gs-300-sedan-4d/options/?vehicleid=9309&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "gs-300-sedan-4d", 
+      "year": "1996", 
+      "model": "GS", 
+      "car_id": "9309"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/gs/1995-lexus-gs/gs-300-sedan-4d/options/?vehicleid=7946&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "gs-300-sedan-4d", 
+      "year": "1995", 
+      "model": "GS", 
+      "car_id": "7946"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/gs/1994-lexus-gs/gs-300-sedan-4d/options/?vehicleid=9353&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "gs-300-sedan-4d", 
+      "year": "1994", 
+      "model": "GS", 
+      "car_id": "9353"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/hs/2012-lexus-hs/hs-250h-sedan-4d/options/?vehicleid=371350&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Sedan 4D", 
+      "year": "2012", 
+      "model": "HS", 
+      "car_id": "371350"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/hs/2012-lexus-hs/hs-250h-premium-sedan-4d/options/?vehicleid=371351&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Premium Sedan 4D", 
+      "year": "2012", 
+      "model": "HS", 
+      "car_id": "371351"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/hs/2011-lexus-hs/hs-250h-sedan-4d/options/?vehicleid=358251&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Sedan 4D", 
+      "year": "2011", 
+      "model": "HS", 
+      "car_id": "358251"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/hs/2011-lexus-hs/hs-250h-premium-sedan-4d/options/?vehicleid=358250&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Premium Sedan 4D", 
+      "year": "2011", 
+      "model": "HS", 
+      "car_id": "358250"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/hs/2010-lexus-hs/hs-250h-sedan-4d/options/?vehicleid=256154&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Sedan 4D", 
+      "year": "2010", 
+      "model": "HS", 
+      "car_id": "256154"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/hs/2010-lexus-hs/hs-250h-premium-sedan-4d/options/?vehicleid=256155&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "HS 250h Premium Sedan 4D", 
+      "year": "2010", 
+      "model": "HS", 
+      "car_id": "256155"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2014-lexus-is/is-250-sedan-4d/options/?vehicleid=390266&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 250 Sedan 4D", 
+      "year": "2014", 
+      "model": "IS", 
+      "car_id": "390266"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2014-lexus-is/is-350-sedan-4d/options/?vehicleid=390268&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 350 Sedan 4D", 
+      "year": "2014", 
+      "model": "IS", 
+      "car_id": "390268"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2013-lexus-is/is-250-sedan-4d/options/?vehicleid=381433&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 250 Sedan 4D", 
+      "year": "2013", 
+      "model": "IS", 
+      "car_id": "381433"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2013-lexus-is/is-350-sedan-4d/options/?vehicleid=381438&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 350 Sedan 4D", 
+      "year": "2013", 
+      "model": "IS", 
+      "car_id": "381438"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2013-lexus-is/is-f-sedan-4d/options/?vehicleid=381436&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS F Sedan 4D", 
+      "year": "2013", 
+      "model": "IS", 
+      "car_id": "381436"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2012-lexus-is/is-250-sedan-4d/options/?vehicleid=374260&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 250 Sedan 4D", 
+      "year": "2012", 
+      "model": "IS", 
+      "car_id": "374260"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2012-lexus-is/is-350-sedan-4d/options/?vehicleid=374259&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 350 Sedan 4D", 
+      "year": "2012", 
+      "model": "IS", 
+      "car_id": "374259"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2012-lexus-is/is-f-sedan-4d/options/?vehicleid=374256&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS F Sedan 4D", 
+      "year": "2012", 
+      "model": "IS", 
+      "car_id": "374256"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2011-lexus-is/is-250-sedan-4d/options/?vehicleid=374261&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 250 Sedan 4D", 
+      "year": "2011", 
+      "model": "IS", 
+      "car_id": "374261"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2011-lexus-is/is-350-sedan-4d/options/?vehicleid=374263&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 350 Sedan 4D", 
+      "year": "2011", 
+      "model": "IS", 
+      "car_id": "374263"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2010-lexus-is/is-250-sport-sedan-4d/options/?vehicleid=348347&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 250 Sport Sedan 4D", 
+      "year": "2010", 
+      "model": "IS", 
+      "car_id": "348347"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2010-lexus-is/is-350-sport-sedan-4d/options/?vehicleid=263686&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 350 Sport Sedan 4D", 
+      "year": "2010", 
+      "model": "IS", 
+      "car_id": "263686"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2009-lexus-is/is-250-sport-sedan-4d/options/?vehicleid=348345&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 250 Sport Sedan 4D", 
+      "year": "2009", 
+      "model": "IS", 
+      "car_id": "348345"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2009-lexus-is/is-350-sport-sedan-4d/options/?vehicleid=226778&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 350 Sport Sedan 4D", 
+      "year": "2009", 
+      "model": "IS", 
+      "car_id": "226778"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2008-lexus-is/is-250-sport-sedan-4d/options/?vehicleid=348344&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 250 Sport Sedan 4D", 
+      "year": "2008", 
+      "model": "IS", 
+      "car_id": "348344"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2008-lexus-is/is-350-sport-sedan-4d/options/?vehicleid=197409&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 350 Sport Sedan 4D", 
+      "year": "2008", 
+      "model": "IS", 
+      "car_id": "197409"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2007-lexus-is/is-250-sedan-4d/options/?vehicleid=348339&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 250 Sedan 4D", 
+      "year": "2007", 
+      "model": "IS", 
+      "car_id": "348339"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2007-lexus-is/is-350-sedan-4d/options/?vehicleid=83968&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 350 Sedan 4D", 
+      "year": "2007", 
+      "model": "IS", 
+      "car_id": "83968"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2006-lexus-is/is-250-sedan-4d/options/?vehicleid=348337&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 250 Sedan 4D", 
+      "year": "2006", 
+      "model": "IS", 
+      "car_id": "348337"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/is/2006-lexus-is/is-350-sedan-4d/options/?vehicleid=964&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "IS 350 Sedan 4D", 
+      "year": "2006", 
+      "model": "IS", 
+      "car_id": "964"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/is/2001-lexus-is/is-300-sedan-4d/options/?vehicleid=4587&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "is-300-sedan-4d", 
+      "year": "2001", 
+      "model": "IS", 
+      "car_id": "4587"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/is-f/2011-lexus-is-f/sport-sedan-4d/options/?vehicleid=352686&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "sport-sedan-4d", 
+      "year": "2011", 
+      "model": "IS F", 
+      "car_id": "352686"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/is-f/2010-lexus-is-f/sport-sedan-4d/options/?vehicleid=263684&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "sport-sedan-4d", 
+      "year": "2010", 
+      "model": "IS F", 
+      "car_id": "263684"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/is-f/2009-lexus-is-f/sport-sedan-4d/options/?vehicleid=237142&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "sport-sedan-4d", 
+      "year": "2009", 
+      "model": "IS F", 
+      "car_id": "237142"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/is-f/2008-lexus-is-f/sport-sedan-4d/options/?vehicleid=230084&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "sport-sedan-4d", 
+      "year": "2008", 
+      "model": "IS F", 
+      "car_id": "230084"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2013-lexus-ls/ls-460-sedan-4d/options/?vehicleid=382226&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 Sedan 4D", 
+      "year": "2013", 
+      "model": "LS", 
+      "car_id": "382226"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2013-lexus-ls/ls-460-l-sedan-4d/options/?vehicleid=382227&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 L Sedan 4D", 
+      "year": "2013", 
+      "model": "LS", 
+      "car_id": "382227"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2013-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=382225&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 600h L Sedan 4D", 
+      "year": "2013", 
+      "model": "LS", 
+      "car_id": "382225"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2012-lexus-ls/ls-460-sedan-4d/options/?vehicleid=370959&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 Sedan 4D", 
+      "year": "2012", 
+      "model": "LS", 
+      "car_id": "370959"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2012-lexus-ls/ls-460-l-sedan-4d/options/?vehicleid=370963&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 L Sedan 4D", 
+      "year": "2012", 
+      "model": "LS", 
+      "car_id": "370963"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2012-lexus-ls/sport-special-edition-sedan-4d/options/?vehicleid=371000&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "Sport Special Edition Sedan 4D", 
+      "year": "2012", 
+      "model": "LS", 
+      "car_id": "371000"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2012-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=370961&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 600h L Sedan 4D", 
+      "year": "2012", 
+      "model": "LS", 
+      "car_id": "370961"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2011-lexus-ls/ls-460-sedan-4d/options/?vehicleid=358620&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 Sedan 4D", 
+      "year": "2011", 
+      "model": "LS", 
+      "car_id": "358620"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2011-lexus-ls/ls-460-l-sedan-4d/options/?vehicleid=358633&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 L Sedan 4D", 
+      "year": "2011", 
+      "model": "LS", 
+      "car_id": "358633"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2011-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=358630&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 600h L Sedan 4D", 
+      "year": "2011", 
+      "model": "LS", 
+      "car_id": "358630"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2010-lexus-ls/ls-460-sedan-4d/options/?vehicleid=263687&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 Sedan 4D", 
+      "year": "2010", 
+      "model": "LS", 
+      "car_id": "263687"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2010-lexus-ls/ls-460-l-sedan-4d/options/?vehicleid=263688&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 L Sedan 4D", 
+      "year": "2010", 
+      "model": "LS", 
+      "car_id": "263688"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2010-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=264318&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 600h L Sedan 4D", 
+      "year": "2010", 
+      "model": "LS", 
+      "car_id": "264318"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2009-lexus-ls/ls-460-sedan-4d/options/?vehicleid=348494&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 Sedan 4D", 
+      "year": "2009", 
+      "model": "LS", 
+      "car_id": "348494"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2009-lexus-ls/ls-460-l-sedan-4d/options/?vehicleid=348490&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 L Sedan 4D", 
+      "year": "2009", 
+      "model": "LS", 
+      "car_id": "348490"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2009-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=226781&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 600h L Sedan 4D", 
+      "year": "2009", 
+      "model": "LS", 
+      "car_id": "226781"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2008-lexus-ls/ls-460-sedan-4d/options/?vehicleid=197410&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 Sedan 4D", 
+      "year": "2008", 
+      "model": "LS", 
+      "car_id": "197410"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2008-lexus-ls/ls-460-l-sedan-4d/options/?vehicleid=197411&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 L Sedan 4D", 
+      "year": "2008", 
+      "model": "LS", 
+      "car_id": "197411"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2008-lexus-ls/ls-600h-l-sedan-4d/options/?vehicleid=197412&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 600h L Sedan 4D", 
+      "year": "2008", 
+      "model": "LS", 
+      "car_id": "197412"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2007-lexus-ls/ls-460-sedan-4d/options/?vehicleid=83972&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 Sedan 4D", 
+      "year": "2007", 
+      "model": "LS", 
+      "car_id": "83972"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/lexus/ls/2007-lexus-ls/ls-460-l-sedan-4d/options/?vehicleid=83973&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "LS 460 L Sedan 4D", 
+      "year": "2007", 
+      "model": "LS", 
+      "car_id": "83973"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ls/2006-lexus-ls/ls-430-sedan-4d/options/?vehicleid=971&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ls-430-sedan-4d", 
+      "year": "2006", 
+      "model": "LS", 
+      "car_id": "971"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ls/2005-lexus-ls/ls-430-sedan-4d/options/?vehicleid=1091&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ls-430-sedan-4d", 
+      "year": "2005", 
+      "model": "LS", 
+      "car_id": "1091"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ls/2004-lexus-ls/ls-430-sedan-4d/options/?vehicleid=2895&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ls-430-sedan-4d", 
+      "year": "2004", 
+      "model": "LS", 
+      "car_id": "2895"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ls/2003-lexus-ls/ls-430-sedan-4d/options/?vehicleid=2667&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ls-430-sedan-4d", 
+      "year": "2003", 
+      "model": "LS", 
+      "car_id": "2667"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ls/2002-lexus-ls/ls-430-sedan-4d/options/?vehicleid=4318&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ls-430-sedan-4d", 
+      "year": "2002", 
+      "model": "LS", 
+      "car_id": "4318"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ls/2001-lexus-ls/ls-430-sedan-4d/options/?vehicleid=4590&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ls-430-sedan-4d", 
+      "year": "2001", 
+      "model": "LS", 
+      "car_id": "4590"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ls/2000-lexus-ls/ls-400-sedan-4d/options/?vehicleid=6484&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ls-400-sedan-4d", 
+      "year": "2000", 
+      "model": "LS", 
+      "car_id": "6484"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ls/1999-lexus-ls/ls-400-sedan-4d/options/?vehicleid=5721&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ls-400-sedan-4d", 
+      "year": "1999", 
+      "model": "LS", 
+      "car_id": "5721"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ls/1998-lexus-ls/ls-400-sedan-4d/options/?vehicleid=6726&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ls-400-sedan-4d", 
+      "year": "1998", 
+      "model": "LS", 
+      "car_id": "6726"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ls/1997-lexus-ls/ls-400-sedan-4d/options/?vehicleid=8011&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ls-400-sedan-4d", 
+      "year": "1997", 
+      "model": "LS", 
+      "car_id": "8011"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ls/1996-lexus-ls/ls-400-sedan-4d/options/?vehicleid=9314&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ls-400-sedan-4d", 
+      "year": "1996", 
+      "model": "LS", 
+      "car_id": "9314"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ls/1995-lexus-ls/ls-400-sedan-4d/options/?vehicleid=7949&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ls-400-sedan-4d", 
+      "year": "1995", 
+      "model": "LS", 
+      "car_id": "7949"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/lexus/ls/1994-lexus-ls/ls-400-sedan-4d/options/?vehicleid=9359&intent=buy-used&category=sedan", 
+      "make": "Lexus", 
+      "sub_cat": "ls-400-sedan-4d", 
+      "year": "1994", 
+      "model": "LS", 
+      "car_id": "9359"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/gx/2013-lexus-gx/gx-460-sport-utility-4d/options/?vehicleid=378637&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Sport Utility 4D", 
+      "year": "2013", 
+      "model": "GX", 
+      "car_id": "378637"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/gx/2013-lexus-gx/gx-460-premium-sport-utility-4d/options/?vehicleid=378638&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Premium Sport Utility 4D", 
+      "year": "2013", 
+      "model": "GX", 
+      "car_id": "378638"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/gx/2012-lexus-gx/gx-460-sport-utility-4d/options/?vehicleid=371005&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Sport Utility 4D", 
+      "year": "2012", 
+      "model": "GX", 
+      "car_id": "371005"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/gx/2012-lexus-gx/gx-460-premium-sport-utility-4d/options/?vehicleid=371002&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Premium Sport Utility 4D", 
+      "year": "2012", 
+      "model": "GX", 
+      "car_id": "371002"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/gx/2011-lexus-gx/gx-460-sport-utility-4d/options/?vehicleid=353451&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Sport Utility 4D", 
+      "year": "2011", 
+      "model": "GX", 
+      "car_id": "353451"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/gx/2011-lexus-gx/gx-460-premium-sport-utility-4d/options/?vehicleid=353454&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Premium Sport Utility 4D", 
+      "year": "2011", 
+      "model": "GX", 
+      "car_id": "353454"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/gx/2010-lexus-gx/gx-460-sport-utility-4d/options/?vehicleid=264107&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Sport Utility 4D", 
+      "year": "2010", 
+      "model": "GX", 
+      "car_id": "264107"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/gx/2010-lexus-gx/gx-460-premium-sport-utility-4d/options/?vehicleid=263859&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "GX 460 Premium Sport Utility 4D", 
+      "year": "2010", 
+      "model": "GX", 
+      "car_id": "263859"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/gx/2009-lexus-gx/gx-470-sport-utility-4d/options/?vehicleid=226783&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "gx-470-sport-utility-4d", 
+      "year": "2009", 
+      "model": "GX", 
+      "car_id": "226783"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/gx/2008-lexus-gx/gx-470-sport-utility-4d/options/?vehicleid=197416&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "gx-470-sport-utility-4d", 
+      "year": "2008", 
+      "model": "GX", 
+      "car_id": "197416"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/gx/2007-lexus-gx/gx-470-sport-utility-4d/options/?vehicleid=83978&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "gx-470-sport-utility-4d", 
+      "year": "2007", 
+      "model": "GX", 
+      "car_id": "83978"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/gx/2006-lexus-gx/gx-470-sport-utility-4d/options/?vehicleid=968&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "gx-470-sport-utility-4d", 
+      "year": "2006", 
+      "model": "GX", 
+      "car_id": "968"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/gx/2005-lexus-gx/gx-470-sport-utility-4d/options/?vehicleid=1098&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "gx-470-sport-utility-4d", 
+      "year": "2005", 
+      "model": "GX", 
+      "car_id": "1098"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/gx/2004-lexus-gx/gx-470-sport-utility-4d/options/?vehicleid=2907&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "gx-470-sport-utility-4d", 
+      "year": "2004", 
+      "model": "GX", 
+      "car_id": "2907"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/gx/2003-lexus-gx/gx-470-sport-utility-4d/options/?vehicleid=2665&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "gx-470-sport-utility-4d", 
+      "year": "2003", 
+      "model": "GX", 
+      "car_id": "2665"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/2013-lexus-lx/lx-570-sport-utility-4d/options/?vehicleid=374498&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-570-sport-utility-4d", 
+      "year": "2013", 
+      "model": "LX", 
+      "car_id": "374498"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/2011-lexus-lx/lx-570-sport-utility-4d/options/?vehicleid=353455&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-570-sport-utility-4d", 
+      "year": "2011", 
+      "model": "LX", 
+      "car_id": "353455"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/2010-lexus-lx/lx-570-sport-utility-4d/options/?vehicleid=261952&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-570-sport-utility-4d", 
+      "year": "2010", 
+      "model": "LX", 
+      "car_id": "261952"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/2009-lexus-lx/lx-570-sport-utility-4d/options/?vehicleid=226784&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-570-sport-utility-4d", 
+      "year": "2009", 
+      "model": "LX", 
+      "car_id": "226784"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/2008-lexus-lx/lx-570-sport-utility-4d/options/?vehicleid=197420&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-570-sport-utility-4d", 
+      "year": "2008", 
+      "model": "LX", 
+      "car_id": "197420"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/2007-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=83982&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2007", 
+      "model": "LX", 
+      "car_id": "83982"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/2006-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=974&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2006", 
+      "model": "LX", 
+      "car_id": "974"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/2005-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=1092&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2005", 
+      "model": "LX", 
+      "car_id": "1092"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/2004-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=2918&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2004", 
+      "model": "LX", 
+      "car_id": "2918"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/2003-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=2668&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2003", 
+      "model": "LX", 
+      "car_id": "2668"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/2002-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=4327&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2002", 
+      "model": "LX", 
+      "car_id": "4327"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/2001-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=4595&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2001", 
+      "model": "LX", 
+      "car_id": "4595"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/2000-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=6485&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "2000", 
+      "model": "LX", 
+      "car_id": "6485"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/1999-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=5729&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "1999", 
+      "model": "LX", 
+      "car_id": "5729"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/1998-lexus-lx/lx-470-sport-utility-4d/options/?vehicleid=6727&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-470-sport-utility-4d", 
+      "year": "1998", 
+      "model": "LX", 
+      "car_id": "6727"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/1997-lexus-lx/lx-450-sport-utility-4d/options/?vehicleid=8014&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-450-sport-utility-4d", 
+      "year": "1997", 
+      "model": "LX", 
+      "car_id": "8014"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/lx/1996-lexus-lx/lx-450-sport-utility-4d/options/?vehicleid=9321&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "lx-450-sport-utility-4d", 
+      "year": "1996", 
+      "model": "LX", 
+      "car_id": "9321"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2014-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=392662&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2014", 
+      "model": "RX", 
+      "car_id": "392662"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2014-lexus-rx/rx-350-f-sport-suv-4d/options/?vehicleid=392663&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 F Sport SUV 4D", 
+      "year": "2014", 
+      "model": "RX", 
+      "car_id": "392663"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2014-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=392664&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2014", 
+      "model": "RX", 
+      "car_id": "392664"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2013-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=377971&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2013", 
+      "model": "RX", 
+      "car_id": "377971"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2013-lexus-rx/rx-350-f-sport-suv-4d/options/?vehicleid=377972&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 F Sport SUV 4D", 
+      "year": "2013", 
+      "model": "RX", 
+      "car_id": "377972"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2013-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=377970&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2013", 
+      "model": "RX", 
+      "car_id": "377970"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2012-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=370964&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2012", 
+      "model": "RX", 
+      "car_id": "370964"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2012-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=370960&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2012", 
+      "model": "RX", 
+      "car_id": "370960"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2011-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=353457&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2011", 
+      "model": "RX", 
+      "car_id": "353457"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2011-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=353456&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2011", 
+      "model": "RX", 
+      "car_id": "353456"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2010-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=264319&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2010", 
+      "model": "RX", 
+      "car_id": "264319"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2010-lexus-rx/rx-450h-sport-utility-4d/options/?vehicleid=251693&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 450h Sport Utility 4D", 
+      "year": "2010", 
+      "model": "RX", 
+      "car_id": "251693"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/rx/2009-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=226786&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "rx-350-sport-utility-4d", 
+      "year": "2009", 
+      "model": "RX", 
+      "car_id": "226786"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2008-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=197415&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2008", 
+      "model": "RX", 
+      "car_id": "197415"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2008-lexus-rx/rx-400h-sport-utility-4d/options/?vehicleid=197418&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 400h Sport Utility 4D", 
+      "year": "2008", 
+      "model": "RX", 
+      "car_id": "197418"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2007-lexus-rx/rx-350-sport-utility-4d/options/?vehicleid=83976&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 350 Sport Utility 4D", 
+      "year": "2007", 
+      "model": "RX", 
+      "car_id": "83976"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2007-lexus-rx/rx-400h-sport-utility-4d/options/?vehicleid=83980&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 400h Sport Utility 4D", 
+      "year": "2007", 
+      "model": "RX", 
+      "car_id": "83980"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2006-lexus-rx/rx-330-sport-utility-4d/options/?vehicleid=978&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 330 Sport Utility 4D", 
+      "year": "2006", 
+      "model": "RX", 
+      "car_id": "978"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/lexus/rx/2006-lexus-rx/rx-400h-sport-utility-4d/options/?vehicleid=976&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "RX 400h Sport Utility 4D", 
+      "year": "2006", 
+      "model": "RX", 
+      "car_id": "976"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/rx/2005-lexus-rx/rx-330-sport-utility-4d/options/?vehicleid=1095&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "rx-330-sport-utility-4d", 
+      "year": "2005", 
+      "model": "RX", 
+      "car_id": "1095"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/rx/2004-lexus-rx/rx-330-sport-utility-4d/options/?vehicleid=2921&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "rx-330-sport-utility-4d", 
+      "year": "2004", 
+      "model": "RX", 
+      "car_id": "2921"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/rx/2003-lexus-rx/rx-300-sport-utility-4d/options/?vehicleid=2674&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "rx-300-sport-utility-4d", 
+      "year": "2003", 
+      "model": "RX", 
+      "car_id": "2674"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/rx/2002-lexus-rx/rx-300-sport-utility-4d/options/?vehicleid=4320&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "rx-300-sport-utility-4d", 
+      "year": "2002", 
+      "model": "RX", 
+      "car_id": "4320"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/rx/2001-lexus-rx/rx-300-sport-utility-4d/options/?vehicleid=4597&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "rx-300-sport-utility-4d", 
+      "year": "2001", 
+      "model": "RX", 
+      "car_id": "4597"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/rx/2000-lexus-rx/rx-300-sport-utility-4d/options/?vehicleid=6476&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "rx-300-sport-utility-4d", 
+      "year": "2000", 
+      "model": "RX", 
+      "car_id": "6476"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/lexus/rx/1999-lexus-rx/rx-300-sport-utility-4d/options/?vehicleid=5732&intent=buy-used&category=suv", 
+      "make": "Lexus", 
+      "sub_cat": "rx-300-sport-utility-4d", 
+      "year": "1999", 
+      "model": "RX", 
+      "car_id": "5732"
+    }
+  ]
+}

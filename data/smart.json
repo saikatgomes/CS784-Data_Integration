@@ -1,0 +1,7894 @@
+{
+  "car": [
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359489", 
+          "cbxOptionId5359489", 
+          "5359489"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Auto, 5-Spd w/smartshift", 
+          "chgBox5359500", 
+          "cbxOptionId5359500", 
+          "5359500"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359505", 
+          "cbxOptionId5359505", 
+          "5359505"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359510", 
+          "cbxOptionId5359510", 
+          "5359510"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359511", 
+          "cbxOptionId5359511", 
+          "5359511"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359512", 
+          "cbxOptionId5359512", 
+          "5359512"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359513", 
+          "cbxOptionId5359513", 
+          "5359513"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359514", 
+          "cbxOptionId5359514", 
+          "5359514"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Start", 
+          "chgBox5359516", 
+          "cbxOptionId5359516", 
+          "5359516"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359517", 
+          "cbxOptionId5359517", 
+          "5359517"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5359518", 
+          "cbxOptionId5359518", 
+          "5359518"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359519", 
+          "cbxOptionId5359519", 
+          "5359519"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359520", 
+          "cbxOptionId5359520", 
+          "5359520"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359521", 
+          "cbxOptionId5359521", 
+          "5359521"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359522", 
+          "cbxOptionId5359522", 
+          "5359522"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5359523", 
+          "cbxOptionId5359523", 
+          "5359523"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox5359525", 
+          "cbxOptionId5359525", 
+          "5359525"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5359528", 
+          "cbxOptionId5359528", 
+          "5359528"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox5359530", 
+          "cbxOptionId5359530", 
+          "5359530"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox5359531", 
+          "cbxOptionId5359531", 
+          "5359531"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Bluetooth Wireless", 
+          "chgBox5359532", 
+          "cbxOptionId5359532", 
+          "5359532"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5457167", 
+          "cbxOptionId5457167", 
+          "5457167"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5457168", 
+          "cbxOptionId5457168", 
+          "5457168"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5359533", 
+          "cbxOptionId5359533", 
+          "5359533"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5359535", 
+          "cbxOptionId5359535", 
+          "5359535"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Power Soft Top", 
+          "chgBox5359538", 
+          "cbxOptionId5359538", 
+          "5359538"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5359540", 
+          "cbxOptionId5359540", 
+          "5359540"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359508", 
+          "cbxOptionId5359508", 
+          "5359508"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359507", 
+          "cbxOptionId5359507", 
+          "5359507"
+        ]
+      ], 
+      "sub_cat": "passion-cabriolet-2d", 
+      "year": "2013", 
+      "url": "http://www.kbb.com/smart/fortwo/2013-smart-fortwo/passion-cabriolet-2d/options/?vehicleid=382584&intent=buy-used&category=convertible", 
+      "make": "smart", 
+      "car_id": "382584", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359596", 
+          "cbxOptionId5359596", 
+          "5359596"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Auto, 5-Spd w/smartshift", 
+          "chgBox5359607", 
+          "cbxOptionId5359607", 
+          "5359607"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359613", 
+          "cbxOptionId5359613", 
+          "5359613"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359619", 
+          "cbxOptionId5359619", 
+          "5359619"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359620", 
+          "cbxOptionId5359620", 
+          "5359620"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359621", 
+          "cbxOptionId5359621", 
+          "5359621"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359622", 
+          "cbxOptionId5359622", 
+          "5359622"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359623", 
+          "cbxOptionId5359623", 
+          "5359623"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Start", 
+          "chgBox5359624", 
+          "cbxOptionId5359624", 
+          "5359624"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359625", 
+          "cbxOptionId5359625", 
+          "5359625"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5359626", 
+          "cbxOptionId5359626", 
+          "5359626"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359627", 
+          "cbxOptionId5359627", 
+          "5359627"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359628", 
+          "cbxOptionId5359628", 
+          "5359628"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359629", 
+          "cbxOptionId5359629", 
+          "5359629"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359630", 
+          "cbxOptionId5359630", 
+          "5359630"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5359631", 
+          "cbxOptionId5359631", 
+          "5359631"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox5359632", 
+          "cbxOptionId5359632", 
+          "5359632"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox5359633", 
+          "cbxOptionId5359633", 
+          "5359633"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Bluetooth Wireless", 
+          "chgBox5359634", 
+          "cbxOptionId5359634", 
+          "5359634"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5359635", 
+          "cbxOptionId5359635", 
+          "5359635"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5359636", 
+          "cbxOptionId5359636", 
+          "5359636"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5359637", 
+          "cbxOptionId5359637", 
+          "5359637"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5359638", 
+          "cbxOptionId5359638", 
+          "5359638"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Power Soft Top", 
+          "chgBox5359639", 
+          "cbxOptionId5359639", 
+          "5359639"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "HID Headlamps", 
+          "chgBox5359640", 
+          "cbxOptionId5359640", 
+          "5359640"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5359641", 
+          "cbxOptionId5359641", 
+          "5359641"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359618", 
+          "cbxOptionId5359618", 
+          "5359618"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359616", 
+          "cbxOptionId5359616", 
+          "5359616"
+        ]
+      ], 
+      "sub_cat": "passion-cabriolet-2d", 
+      "year": "2012", 
+      "url": "http://www.kbb.com/smart/fortwo/2012-smart-fortwo/passion-cabriolet-2d/options/?vehicleid=373694&intent=buy-used&category=convertible", 
+      "make": "smart", 
+      "car_id": "373694", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359417", 
+          "cbxOptionId5359417", 
+          "5359417"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & smartshift", 
+          "chgBox5359418", 
+          "cbxOptionId5359418", 
+          "5359418"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359419", 
+          "cbxOptionId5359419", 
+          "5359419"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359423", 
+          "cbxOptionId5359423", 
+          "5359423"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359424", 
+          "cbxOptionId5359424", 
+          "5359424"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359425", 
+          "cbxOptionId5359425", 
+          "5359425"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359426", 
+          "cbxOptionId5359426", 
+          "5359426"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359427", 
+          "cbxOptionId5359427", 
+          "5359427"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359428", 
+          "cbxOptionId5359428", 
+          "5359428"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5359429", 
+          "cbxOptionId5359429", 
+          "5359429"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359430", 
+          "cbxOptionId5359430", 
+          "5359430"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359431", 
+          "cbxOptionId5359431", 
+          "5359431"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359432", 
+          "cbxOptionId5359432", 
+          "5359432"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359433", 
+          "cbxOptionId5359433", 
+          "5359433"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5359435", 
+          "cbxOptionId5359435", 
+          "5359435"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox5359436", 
+          "cbxOptionId5359436", 
+          "5359436"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox5359438", 
+          "cbxOptionId5359438", 
+          "5359438"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Bluetooth Wireless", 
+          "chgBox5359441", 
+          "cbxOptionId5359441", 
+          "5359441"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5359442", 
+          "cbxOptionId5359442", 
+          "5359442"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5359444", 
+          "cbxOptionId5359444", 
+          "5359444"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5359445", 
+          "cbxOptionId5359445", 
+          "5359445"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5359446", 
+          "cbxOptionId5359446", 
+          "5359446"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Power Soft Top", 
+          "chgBox5359447", 
+          "cbxOptionId5359447", 
+          "5359447"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5359448", 
+          "cbxOptionId5359448", 
+          "5359448"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359421", 
+          "cbxOptionId5359421", 
+          "5359421"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359420", 
+          "cbxOptionId5359420", 
+          "5359420"
+        ]
+      ], 
+      "sub_cat": "passion-cabriolet-2d", 
+      "year": "2011", 
+      "url": "http://www.kbb.com/smart/fortwo/2011-smart-fortwo/passion-cabriolet-2d/options/?vehicleid=364118&intent=buy-used&category=convertible", 
+      "make": "smart", 
+      "car_id": "364118", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5360729", 
+          "cbxOptionId5360729", 
+          "5360729"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & smartshift", 
+          "chgBox5360730", 
+          "cbxOptionId5360730", 
+          "5360730"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5360732", 
+          "cbxOptionId5360732", 
+          "5360732"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5360736", 
+          "cbxOptionId5360736", 
+          "5360736"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5360738", 
+          "cbxOptionId5360738", 
+          "5360738"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5360739", 
+          "cbxOptionId5360739", 
+          "5360739"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5360742", 
+          "cbxOptionId5360742", 
+          "5360742"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360746", 
+          "cbxOptionId5360746", 
+          "5360746"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5360748", 
+          "cbxOptionId5360748", 
+          "5360748"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5360750", 
+          "cbxOptionId5360750", 
+          "5360750"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5360754", 
+          "cbxOptionId5360754", 
+          "5360754"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5360756", 
+          "cbxOptionId5360756", 
+          "5360756"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5360761", 
+          "cbxOptionId5360761", 
+          "5360761"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox5360764", 
+          "cbxOptionId5360764", 
+          "5360764"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5360766", 
+          "cbxOptionId5360766", 
+          "5360766"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5360771", 
+          "cbxOptionId5360771", 
+          "5360771"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5360774", 
+          "cbxOptionId5360774", 
+          "5360774"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360778", 
+          "cbxOptionId5360778", 
+          "5360778"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5360781", 
+          "cbxOptionId5360781", 
+          "5360781"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Power Folding Roof", 
+          "chgBox5360785", 
+          "cbxOptionId5360785", 
+          "5360785"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5360787", 
+          "cbxOptionId5360787", 
+          "5360787"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5360734", 
+          "cbxOptionId5360734", 
+          "5360734"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5360733", 
+          "cbxOptionId5360733", 
+          "5360733"
+        ]
+      ], 
+      "sub_cat": "passion-cabriolet-2d", 
+      "year": "2010", 
+      "url": "http://www.kbb.com/smart/fortwo/2010-smart-fortwo/passion-cabriolet-2d/options/?vehicleid=349703&intent=buy-used&category=convertible", 
+      "make": "smart", 
+      "car_id": "349703", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5360708", 
+          "cbxOptionId5360708", 
+          "5360708"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & Manual Mode", 
+          "chgBox5360709", 
+          "cbxOptionId5360709", 
+          "5360709"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5360710", 
+          "cbxOptionId5360710", 
+          "5360710"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5360711", 
+          "cbxOptionId5360711", 
+          "5360711"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5360712", 
+          "cbxOptionId5360712", 
+          "5360712"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5360713", 
+          "cbxOptionId5360713", 
+          "5360713"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360714", 
+          "cbxOptionId5360714", 
+          "5360714"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5360715", 
+          "cbxOptionId5360715", 
+          "5360715"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5360716", 
+          "cbxOptionId5360716", 
+          "5360716"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5360717", 
+          "cbxOptionId5360717", 
+          "5360717"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5360718", 
+          "cbxOptionId5360718", 
+          "5360718"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5360719", 
+          "cbxOptionId5360719", 
+          "5360719"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox5360720", 
+          "cbxOptionId5360720", 
+          "5360720"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5360721", 
+          "cbxOptionId5360721", 
+          "5360721"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5360722", 
+          "cbxOptionId5360722", 
+          "5360722"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5360723", 
+          "cbxOptionId5360723", 
+          "5360723"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360724", 
+          "cbxOptionId5360724", 
+          "5360724"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5360725", 
+          "cbxOptionId5360725", 
+          "5360725"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Power Top", 
+          "chgBox5360726", 
+          "cbxOptionId5360726", 
+          "5360726"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5360727", 
+          "cbxOptionId5360727", 
+          "5360727"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5360728", 
+          "cbxOptionId5360728", 
+          "5360728"
+        ]
+      ], 
+      "sub_cat": "Passion Cabriolet 2D", 
+      "year": "2009", 
+      "url": "/smart/fortwo/2009-smart-fortwo/passion-cabriolet-2d/options/?vehicleid=227469&intent=buy-used&category=convertible", 
+      "make": "smart", 
+      "car_id": "227469", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5434913", 
+          "cbxOptionId5434913", 
+          "5434913"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & Manual Mode", 
+          "chgBox5434971", 
+          "cbxOptionId5434971", 
+          "5434971"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5435009", 
+          "cbxOptionId5435009", 
+          "5435009"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5435016", 
+          "cbxOptionId5435016", 
+          "5435016"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5435018", 
+          "cbxOptionId5435018", 
+          "5435018"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5435026", 
+          "cbxOptionId5435026", 
+          "5435026"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5435035", 
+          "cbxOptionId5435035", 
+          "5435035"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5435048", 
+          "cbxOptionId5435048", 
+          "5435048"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5435054", 
+          "cbxOptionId5435054", 
+          "5435054"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5435061", 
+          "cbxOptionId5435061", 
+          "5435061"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5435067", 
+          "cbxOptionId5435067", 
+          "5435067"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5435076", 
+          "cbxOptionId5435076", 
+          "5435076"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5435083", 
+          "cbxOptionId5435083", 
+          "5435083"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox5435091", 
+          "cbxOptionId5435091", 
+          "5435091"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Smart Premium Sound", 
+          "chgBox5435099", 
+          "cbxOptionId5435099", 
+          "5435099"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5435107", 
+          "cbxOptionId5435107", 
+          "5435107"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5435114", 
+          "cbxOptionId5435114", 
+          "5435114"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5435121", 
+          "cbxOptionId5435121", 
+          "5435121"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5435127", 
+          "cbxOptionId5435127", 
+          "5435127"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Power Top", 
+          "chgBox5435131", 
+          "cbxOptionId5435131", 
+          "5435131"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5435139", 
+          "cbxOptionId5435139", 
+          "5435139"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5434892", 
+          "cbxOptionId5434892", 
+          "5434892"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5434895", 
+          "cbxOptionId5434895", 
+          "5434895"
+        ]
+      ], 
+      "sub_cat": "BRABUS Cabriolet 2D", 
+      "year": "2009", 
+      "url": "/smart/fortwo/2009-smart-fortwo/brabus-cabriolet-2d/options/?vehicleid=391229&intent=buy-used&category=convertible", 
+      "make": "smart", 
+      "car_id": "391229", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5360759", 
+          "cbxOptionId5360759", 
+          "5360759"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & Manual Mode", 
+          "chgBox5360752", 
+          "cbxOptionId5360752", 
+          "5360752"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5360772", 
+          "cbxOptionId5360772", 
+          "5360772"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5360789", 
+          "cbxOptionId5360789", 
+          "5360789"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5360790", 
+          "cbxOptionId5360790", 
+          "5360790"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5360792", 
+          "cbxOptionId5360792", 
+          "5360792"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360796", 
+          "cbxOptionId5360796", 
+          "5360796"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5360798", 
+          "cbxOptionId5360798", 
+          "5360798"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5360801", 
+          "cbxOptionId5360801", 
+          "5360801"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5360803", 
+          "cbxOptionId5360803", 
+          "5360803"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5360806", 
+          "cbxOptionId5360806", 
+          "5360806"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5360809", 
+          "cbxOptionId5360809", 
+          "5360809"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox5360811", 
+          "cbxOptionId5360811", 
+          "5360811"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5360777", 
+          "cbxOptionId5360777", 
+          "5360777"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5360812", 
+          "cbxOptionId5360812", 
+          "5360812"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5360814", 
+          "cbxOptionId5360814", 
+          "5360814"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360816", 
+          "cbxOptionId5360816", 
+          "5360816"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5360818", 
+          "cbxOptionId5360818", 
+          "5360818"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Power Top", 
+          "chgBox5360819", 
+          "cbxOptionId5360819", 
+          "5360819"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5360783", 
+          "cbxOptionId5360783", 
+          "5360783"
+        ]
+      ], 
+      "sub_cat": "passion-cabriolet-2d", 
+      "year": "2008", 
+      "url": "http://www.kbb.com/smart/fortwo/2008-smart-fortwo/passion-cabriolet-2d/options/?vehicleid=227492&intent=buy-used&category=convertible", 
+      "make": "smart", 
+      "car_id": "227492", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5646136", 
+          "cbxOptionId5646136", 
+          "5646136"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Auto, 5-Spd smartshift", 
+          "chgBox5646142", 
+          "cbxOptionId5646142", 
+          "5646142"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5646146", 
+          "cbxOptionId5646146", 
+          "5646146"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist Control", 
+          "chgBox5646149", 
+          "cbxOptionId5646149", 
+          "5646149"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5646168", 
+          "cbxOptionId5646168", 
+          "5646168"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Electronic Stability Control", 
+          "chgBox5646152", 
+          "cbxOptionId5646152", 
+          "5646152"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5646154", 
+          "cbxOptionId5646154", 
+          "5646154"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5646171", 
+          "cbxOptionId5646171", 
+          "5646171"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Start", 
+          "chgBox5646158", 
+          "cbxOptionId5646158", 
+          "5646158"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5646161", 
+          "cbxOptionId5646161", 
+          "5646161"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5646165", 
+          "cbxOptionId5646165", 
+          "5646165"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5646204", 
+          "cbxOptionId5646204", 
+          "5646204"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5646208", 
+          "cbxOptionId5646208", 
+          "5646208"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5646213", 
+          "cbxOptionId5646213", 
+          "5646213"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5646216", 
+          "cbxOptionId5646216", 
+          "5646216"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5646233", 
+          "cbxOptionId5646233", 
+          "5646233"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox5646229", 
+          "cbxOptionId5646229", 
+          "5646229"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5646175", 
+          "cbxOptionId5646175", 
+          "5646175"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5646178", 
+          "cbxOptionId5646178", 
+          "5646178"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5646182", 
+          "cbxOptionId5646182", 
+          "5646182"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5646220", 
+          "cbxOptionId5646220", 
+          "5646220"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox5646184", 
+          "cbxOptionId5646184", 
+          "5646184"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5646187", 
+          "cbxOptionId5646187", 
+          "5646187"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5646191", 
+          "cbxOptionId5646191", 
+          "5646191"
+        ]
+      ], 
+      "sub_cat": "pure-hatchback-coupe-2d", 
+      "year": "2014", 
+      "url": "http://www.kbb.com/smart/fortwo/2014-smart-fortwo/pure-hatchback-coupe-2d/options/?vehicleid=393980&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "393980", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359482", 
+          "cbxOptionId5359482", 
+          "5359482"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Auto, 5-Spd w/smartshift", 
+          "chgBox5359483", 
+          "cbxOptionId5359483", 
+          "5359483"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359484", 
+          "cbxOptionId5359484", 
+          "5359484"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359488", 
+          "cbxOptionId5359488", 
+          "5359488"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359490", 
+          "cbxOptionId5359490", 
+          "5359490"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359491", 
+          "cbxOptionId5359491", 
+          "5359491"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359492", 
+          "cbxOptionId5359492", 
+          "5359492"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359493", 
+          "cbxOptionId5359493", 
+          "5359493"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Start", 
+          "chgBox5359494", 
+          "cbxOptionId5359494", 
+          "5359494"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359495", 
+          "cbxOptionId5359495", 
+          "5359495"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359496", 
+          "cbxOptionId5359496", 
+          "5359496"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359497", 
+          "cbxOptionId5359497", 
+          "5359497"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359498", 
+          "cbxOptionId5359498", 
+          "5359498"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359499", 
+          "cbxOptionId5359499", 
+          "5359499"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5359501", 
+          "cbxOptionId5359501", 
+          "5359501"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5359502", 
+          "cbxOptionId5359502", 
+          "5359502"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5359503", 
+          "cbxOptionId5359503", 
+          "5359503"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5359504", 
+          "cbxOptionId5359504", 
+          "5359504"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5359506", 
+          "cbxOptionId5359506", 
+          "5359506"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox5359487", 
+          "cbxOptionId5359487", 
+          "5359487"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359485", 
+          "cbxOptionId5359485", 
+          "5359485"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359486", 
+          "cbxOptionId5359486", 
+          "5359486"
+        ]
+      ], 
+      "sub_cat": "Pure Hatchback Coupe 2D", 
+      "year": "2013", 
+      "url": "/smart/fortwo/2013-smart-fortwo/pure-hatchback-coupe-2d/options/?vehicleid=382581&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "382581", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359515", 
+          "cbxOptionId5359515", 
+          "5359515"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Auto, 5-Spd w/smartshift", 
+          "chgBox5359524", 
+          "cbxOptionId5359524", 
+          "5359524"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359526", 
+          "cbxOptionId5359526", 
+          "5359526"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359536", 
+          "cbxOptionId5359536", 
+          "5359536"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359537", 
+          "cbxOptionId5359537", 
+          "5359537"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359539", 
+          "cbxOptionId5359539", 
+          "5359539"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359541", 
+          "cbxOptionId5359541", 
+          "5359541"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359542", 
+          "cbxOptionId5359542", 
+          "5359542"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Start", 
+          "chgBox5359543", 
+          "cbxOptionId5359543", 
+          "5359543"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359544", 
+          "cbxOptionId5359544", 
+          "5359544"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5359545", 
+          "cbxOptionId5359545", 
+          "5359545"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359546", 
+          "cbxOptionId5359546", 
+          "5359546"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359547", 
+          "cbxOptionId5359547", 
+          "5359547"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359548", 
+          "cbxOptionId5359548", 
+          "5359548"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359549", 
+          "cbxOptionId5359549", 
+          "5359549"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5359550", 
+          "cbxOptionId5359550", 
+          "5359550"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox5359551", 
+          "cbxOptionId5359551", 
+          "5359551"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5359552", 
+          "cbxOptionId5359552", 
+          "5359552"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox5359553", 
+          "cbxOptionId5359553", 
+          "5359553"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox5359554", 
+          "cbxOptionId5359554", 
+          "5359554"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Bluetooth Wireless", 
+          "chgBox5359555", 
+          "cbxOptionId5359555", 
+          "5359555"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5359556", 
+          "cbxOptionId5359556", 
+          "5359556"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5359557", 
+          "cbxOptionId5359557", 
+          "5359557"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5359558", 
+          "cbxOptionId5359558", 
+          "5359558"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5359559", 
+          "cbxOptionId5359559", 
+          "5359559"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5359560", 
+          "cbxOptionId5359560", 
+          "5359560"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5359561", 
+          "cbxOptionId5359561", 
+          "5359561"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5359562", 
+          "cbxOptionId5359562", 
+          "5359562"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359529", 
+          "cbxOptionId5359529", 
+          "5359529"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359527", 
+          "cbxOptionId5359527", 
+          "5359527"
+        ]
+      ], 
+      "sub_cat": "Passion Hatchback Coupe 2D", 
+      "year": "2013", 
+      "url": "/smart/fortwo/2013-smart-fortwo/passion-hatchback-coupe-2d/options/?vehicleid=382582&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "382582", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359563", 
+          "cbxOptionId5359563", 
+          "5359563"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Auto, 5-Spd w/smartshift", 
+          "chgBox5359564", 
+          "cbxOptionId5359564", 
+          "5359564"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359566", 
+          "cbxOptionId5359566", 
+          "5359566"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359574", 
+          "cbxOptionId5359574", 
+          "5359574"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359575", 
+          "cbxOptionId5359575", 
+          "5359575"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359576", 
+          "cbxOptionId5359576", 
+          "5359576"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359578", 
+          "cbxOptionId5359578", 
+          "5359578"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359581", 
+          "cbxOptionId5359581", 
+          "5359581"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Start", 
+          "chgBox5359583", 
+          "cbxOptionId5359583", 
+          "5359583"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359584", 
+          "cbxOptionId5359584", 
+          "5359584"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359586", 
+          "cbxOptionId5359586", 
+          "5359586"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359588", 
+          "cbxOptionId5359588", 
+          "5359588"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359590", 
+          "cbxOptionId5359590", 
+          "5359590"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359592", 
+          "cbxOptionId5359592", 
+          "5359592"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5359597", 
+          "cbxOptionId5359597", 
+          "5359597"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5359599", 
+          "cbxOptionId5359599", 
+          "5359599"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5359601", 
+          "cbxOptionId5359601", 
+          "5359601"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5359602", 
+          "cbxOptionId5359602", 
+          "5359602"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "HID Headlamps", 
+          "chgBox5359604", 
+          "cbxOptionId5359604", 
+          "5359604"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox5359569", 
+          "cbxOptionId5359569", 
+          "5359569"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359567", 
+          "cbxOptionId5359567", 
+          "5359567"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359568", 
+          "cbxOptionId5359568", 
+          "5359568"
+        ]
+      ], 
+      "sub_cat": "Pure Hatchback Coupe 2D", 
+      "year": "2012", 
+      "url": "/smart/fortwo/2012-smart-fortwo/pure-hatchback-coupe-2d/options/?vehicleid=373692&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "373692", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359565", 
+          "cbxOptionId5359565", 
+          "5359565"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Auto, 5-Spd w/smartshift", 
+          "chgBox5359570", 
+          "cbxOptionId5359570", 
+          "5359570"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359571", 
+          "cbxOptionId5359571", 
+          "5359571"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359577", 
+          "cbxOptionId5359577", 
+          "5359577"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359579", 
+          "cbxOptionId5359579", 
+          "5359579"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359580", 
+          "cbxOptionId5359580", 
+          "5359580"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359582", 
+          "cbxOptionId5359582", 
+          "5359582"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359585", 
+          "cbxOptionId5359585", 
+          "5359585"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Start", 
+          "chgBox5359587", 
+          "cbxOptionId5359587", 
+          "5359587"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359589", 
+          "cbxOptionId5359589", 
+          "5359589"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5359591", 
+          "cbxOptionId5359591", 
+          "5359591"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359593", 
+          "cbxOptionId5359593", 
+          "5359593"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359594", 
+          "cbxOptionId5359594", 
+          "5359594"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359595", 
+          "cbxOptionId5359595", 
+          "5359595"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359598", 
+          "cbxOptionId5359598", 
+          "5359598"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5359600", 
+          "cbxOptionId5359600", 
+          "5359600"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox5359603", 
+          "cbxOptionId5359603", 
+          "5359603"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox5359605", 
+          "cbxOptionId5359605", 
+          "5359605"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Bluetooth Wireless", 
+          "chgBox5359606", 
+          "cbxOptionId5359606", 
+          "5359606"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5359608", 
+          "cbxOptionId5359608", 
+          "5359608"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5359609", 
+          "cbxOptionId5359609", 
+          "5359609"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5359610", 
+          "cbxOptionId5359610", 
+          "5359610"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5359611", 
+          "cbxOptionId5359611", 
+          "5359611"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5359612", 
+          "cbxOptionId5359612", 
+          "5359612"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5359614", 
+          "cbxOptionId5359614", 
+          "5359614"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "HID Headlamps", 
+          "chgBox5359615", 
+          "cbxOptionId5359615", 
+          "5359615"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5359617", 
+          "cbxOptionId5359617", 
+          "5359617"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359573", 
+          "cbxOptionId5359573", 
+          "5359573"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359572", 
+          "cbxOptionId5359572", 
+          "5359572"
+        ]
+      ], 
+      "sub_cat": "Passion Hatchback Coupe 2D", 
+      "year": "2012", 
+      "url": "/smart/fortwo/2012-smart-fortwo/passion-hatchback-coupe-2d/options/?vehicleid=373696&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "373696", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359422", 
+          "cbxOptionId5359422", 
+          "5359422"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & smartshift", 
+          "chgBox5359434", 
+          "cbxOptionId5359434", 
+          "5359434"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359437", 
+          "cbxOptionId5359437", 
+          "5359437"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359449", 
+          "cbxOptionId5359449", 
+          "5359449"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359450", 
+          "cbxOptionId5359450", 
+          "5359450"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359451", 
+          "cbxOptionId5359451", 
+          "5359451"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359452", 
+          "cbxOptionId5359452", 
+          "5359452"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359453", 
+          "cbxOptionId5359453", 
+          "5359453"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359454", 
+          "cbxOptionId5359454", 
+          "5359454"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359455", 
+          "cbxOptionId5359455", 
+          "5359455"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359456", 
+          "cbxOptionId5359456", 
+          "5359456"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359457", 
+          "cbxOptionId5359457", 
+          "5359457"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359458", 
+          "cbxOptionId5359458", 
+          "5359458"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5359459", 
+          "cbxOptionId5359459", 
+          "5359459"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5359460", 
+          "cbxOptionId5359460", 
+          "5359460"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5359461", 
+          "cbxOptionId5359461", 
+          "5359461"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5359462", 
+          "cbxOptionId5359462", 
+          "5359462"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5359463", 
+          "cbxOptionId5359463", 
+          "5359463"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox5359443", 
+          "cbxOptionId5359443", 
+          "5359443"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359439", 
+          "cbxOptionId5359439", 
+          "5359439"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359440", 
+          "cbxOptionId5359440", 
+          "5359440"
+        ]
+      ], 
+      "sub_cat": "Pure Hatchback Coupe 2D", 
+      "year": "2011", 
+      "url": "/smart/fortwo/2011-smart-fortwo/pure-hatchback-coupe-2d/options/?vehicleid=364115&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "364115", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359390", 
+          "cbxOptionId5359390", 
+          "5359390"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & smartshift", 
+          "chgBox5359391", 
+          "cbxOptionId5359391", 
+          "5359391"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359392", 
+          "cbxOptionId5359392", 
+          "5359392"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359395", 
+          "cbxOptionId5359395", 
+          "5359395"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359396", 
+          "cbxOptionId5359396", 
+          "5359396"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359397", 
+          "cbxOptionId5359397", 
+          "5359397"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359398", 
+          "cbxOptionId5359398", 
+          "5359398"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359399", 
+          "cbxOptionId5359399", 
+          "5359399"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359400", 
+          "cbxOptionId5359400", 
+          "5359400"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5359401", 
+          "cbxOptionId5359401", 
+          "5359401"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359402", 
+          "cbxOptionId5359402", 
+          "5359402"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359403", 
+          "cbxOptionId5359403", 
+          "5359403"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359404", 
+          "cbxOptionId5359404", 
+          "5359404"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359405", 
+          "cbxOptionId5359405", 
+          "5359405"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5359406", 
+          "cbxOptionId5359406", 
+          "5359406"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox5359407", 
+          "cbxOptionId5359407", 
+          "5359407"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox5359408", 
+          "cbxOptionId5359408", 
+          "5359408"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Bluetooth Wireless", 
+          "chgBox5359409", 
+          "cbxOptionId5359409", 
+          "5359409"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5359410", 
+          "cbxOptionId5359410", 
+          "5359410"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5359411", 
+          "cbxOptionId5359411", 
+          "5359411"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5359412", 
+          "cbxOptionId5359412", 
+          "5359412"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5359413", 
+          "cbxOptionId5359413", 
+          "5359413"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5359414", 
+          "cbxOptionId5359414", 
+          "5359414"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5359415", 
+          "cbxOptionId5359415", 
+          "5359415"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5359416", 
+          "cbxOptionId5359416", 
+          "5359416"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359394", 
+          "cbxOptionId5359394", 
+          "5359394"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359393", 
+          "cbxOptionId5359393", 
+          "5359393"
+        ]
+      ], 
+      "sub_cat": "Passion Hatchback Coupe 2D", 
+      "year": "2011", 
+      "url": "/smart/fortwo/2011-smart-fortwo/passion-hatchback-coupe-2d/options/?vehicleid=364120&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "364120", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5360659", 
+          "cbxOptionId5360659", 
+          "5360659"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & smartshift", 
+          "chgBox5360665", 
+          "cbxOptionId5360665", 
+          "5360665"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5360667", 
+          "cbxOptionId5360667", 
+          "5360667"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5360676", 
+          "cbxOptionId5360676", 
+          "5360676"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5360679", 
+          "cbxOptionId5360679", 
+          "5360679"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5360681", 
+          "cbxOptionId5360681", 
+          "5360681"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5360683", 
+          "cbxOptionId5360683", 
+          "5360683"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360685", 
+          "cbxOptionId5360685", 
+          "5360685"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5360687", 
+          "cbxOptionId5360687", 
+          "5360687"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5360688", 
+          "cbxOptionId5360688", 
+          "5360688"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5360689", 
+          "cbxOptionId5360689", 
+          "5360689"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5360690", 
+          "cbxOptionId5360690", 
+          "5360690"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5360692", 
+          "cbxOptionId5360692", 
+          "5360692"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox5360694", 
+          "cbxOptionId5360694", 
+          "5360694"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5360697", 
+          "cbxOptionId5360697", 
+          "5360697"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5360698", 
+          "cbxOptionId5360698", 
+          "5360698"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5360699", 
+          "cbxOptionId5360699", 
+          "5360699"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360700", 
+          "cbxOptionId5360700", 
+          "5360700"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5360701", 
+          "cbxOptionId5360701", 
+          "5360701"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox5360671", 
+          "cbxOptionId5360671", 
+          "5360671"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5360668", 
+          "cbxOptionId5360668", 
+          "5360668"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5360669", 
+          "cbxOptionId5360669", 
+          "5360669"
+        ]
+      ], 
+      "sub_cat": "Pure Hatchback Coupe 2D", 
+      "year": "2010", 
+      "url": "/smart/fortwo/2010-smart-fortwo/pure-hatchback-coupe-2d/options/?vehicleid=349661&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "349661", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5360731", 
+          "cbxOptionId5360731", 
+          "5360731"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & smartshift", 
+          "chgBox5360735", 
+          "cbxOptionId5360735", 
+          "5360735"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5360740", 
+          "cbxOptionId5360740", 
+          "5360740"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5360744", 
+          "cbxOptionId5360744", 
+          "5360744"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5360747", 
+          "cbxOptionId5360747", 
+          "5360747"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5360749", 
+          "cbxOptionId5360749", 
+          "5360749"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5360753", 
+          "cbxOptionId5360753", 
+          "5360753"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360755", 
+          "cbxOptionId5360755", 
+          "5360755"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5360757", 
+          "cbxOptionId5360757", 
+          "5360757"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5360760", 
+          "cbxOptionId5360760", 
+          "5360760"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5360762", 
+          "cbxOptionId5360762", 
+          "5360762"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5360767", 
+          "cbxOptionId5360767", 
+          "5360767"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5360769", 
+          "cbxOptionId5360769", 
+          "5360769"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5360775", 
+          "cbxOptionId5360775", 
+          "5360775"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox5360779", 
+          "cbxOptionId5360779", 
+          "5360779"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5360791", 
+          "cbxOptionId5360791", 
+          "5360791"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5360793", 
+          "cbxOptionId5360793", 
+          "5360793"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5360795", 
+          "cbxOptionId5360795", 
+          "5360795"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360797", 
+          "cbxOptionId5360797", 
+          "5360797"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5360799", 
+          "cbxOptionId5360799", 
+          "5360799"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5360805", 
+          "cbxOptionId5360805", 
+          "5360805"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5360808", 
+          "cbxOptionId5360808", 
+          "5360808"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5360810", 
+          "cbxOptionId5360810", 
+          "5360810"
+        ]
+      ], 
+      "sub_cat": "Passion Hatchback Coupe 2D", 
+      "year": "2010", 
+      "url": "/smart/fortwo/2010-smart-fortwo/passion-hatchback-coupe-2d/options/?vehicleid=349702&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "349702", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5360657", 
+          "cbxOptionId5360657", 
+          "5360657"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & Manual Mode", 
+          "chgBox5360658", 
+          "cbxOptionId5360658", 
+          "5360658"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5360660", 
+          "cbxOptionId5360660", 
+          "5360660"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5360672", 
+          "cbxOptionId5360672", 
+          "5360672"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5360673", 
+          "cbxOptionId5360673", 
+          "5360673"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5360674", 
+          "cbxOptionId5360674", 
+          "5360674"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360675", 
+          "cbxOptionId5360675", 
+          "5360675"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5360677", 
+          "cbxOptionId5360677", 
+          "5360677"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5360678", 
+          "cbxOptionId5360678", 
+          "5360678"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5360680", 
+          "cbxOptionId5360680", 
+          "5360680"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5360682", 
+          "cbxOptionId5360682", 
+          "5360682"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5360684", 
+          "cbxOptionId5360684", 
+          "5360684"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox5360686", 
+          "cbxOptionId5360686", 
+          "5360686"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5360670", 
+          "cbxOptionId5360670", 
+          "5360670"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5360691", 
+          "cbxOptionId5360691", 
+          "5360691"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5360693", 
+          "cbxOptionId5360693", 
+          "5360693"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360695", 
+          "cbxOptionId5360695", 
+          "5360695"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5360696", 
+          "cbxOptionId5360696", 
+          "5360696"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox5360666", 
+          "cbxOptionId5360666", 
+          "5360666"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5360662", 
+          "cbxOptionId5360662", 
+          "5360662"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5360664", 
+          "cbxOptionId5360664", 
+          "5360664"
+        ]
+      ], 
+      "sub_cat": "Pure Hatchback Coupe 2D", 
+      "year": "2009", 
+      "url": "/smart/fortwo/2009-smart-fortwo/pure-hatchback-coupe-2d/options/?vehicleid=227467&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "227467", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5360737", 
+          "cbxOptionId5360737", 
+          "5360737"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & Manual Mode", 
+          "chgBox5360751", 
+          "cbxOptionId5360751", 
+          "5360751"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5360758", 
+          "cbxOptionId5360758", 
+          "5360758"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5360763", 
+          "cbxOptionId5360763", 
+          "5360763"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5360765", 
+          "cbxOptionId5360765", 
+          "5360765"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5360768", 
+          "cbxOptionId5360768", 
+          "5360768"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360770", 
+          "cbxOptionId5360770", 
+          "5360770"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5360773", 
+          "cbxOptionId5360773", 
+          "5360773"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5360776", 
+          "cbxOptionId5360776", 
+          "5360776"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5360780", 
+          "cbxOptionId5360780", 
+          "5360780"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5360782", 
+          "cbxOptionId5360782", 
+          "5360782"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5360784", 
+          "cbxOptionId5360784", 
+          "5360784"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5360786", 
+          "cbxOptionId5360786", 
+          "5360786"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox5360788", 
+          "cbxOptionId5360788", 
+          "5360788"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5360794", 
+          "cbxOptionId5360794", 
+          "5360794"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5360800", 
+          "cbxOptionId5360800", 
+          "5360800"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5360802", 
+          "cbxOptionId5360802", 
+          "5360802"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360804", 
+          "cbxOptionId5360804", 
+          "5360804"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5360807", 
+          "cbxOptionId5360807", 
+          "5360807"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5360813", 
+          "cbxOptionId5360813", 
+          "5360813"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5360815", 
+          "cbxOptionId5360815", 
+          "5360815"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5360817", 
+          "cbxOptionId5360817", 
+          "5360817"
+        ]
+      ], 
+      "sub_cat": "Passion Hatchback Coupe 2D", 
+      "year": "2009", 
+      "url": "/smart/fortwo/2009-smart-fortwo/passion-hatchback-coupe-2d/options/?vehicleid=227468&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "227468", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5434790", 
+          "cbxOptionId5434790", 
+          "5434790"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & Manual Mode", 
+          "chgBox5434812", 
+          "cbxOptionId5434812", 
+          "5434812"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5434822", 
+          "cbxOptionId5434822", 
+          "5434822"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5434836", 
+          "cbxOptionId5434836", 
+          "5434836"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5434838", 
+          "cbxOptionId5434838", 
+          "5434838"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5434841", 
+          "cbxOptionId5434841", 
+          "5434841"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5434843", 
+          "cbxOptionId5434843", 
+          "5434843"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5434845", 
+          "cbxOptionId5434845", 
+          "5434845"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5434850", 
+          "cbxOptionId5434850", 
+          "5434850"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5434856", 
+          "cbxOptionId5434856", 
+          "5434856"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5434863", 
+          "cbxOptionId5434863", 
+          "5434863"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5434868", 
+          "cbxOptionId5434868", 
+          "5434868"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5434874", 
+          "cbxOptionId5434874", 
+          "5434874"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5434881", 
+          "cbxOptionId5434881", 
+          "5434881"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox5434889", 
+          "cbxOptionId5434889", 
+          "5434889"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Smart Premium Sound", 
+          "chgBox5434903", 
+          "cbxOptionId5434903", 
+          "5434903"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5434910", 
+          "cbxOptionId5434910", 
+          "5434910"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5434916", 
+          "cbxOptionId5434916", 
+          "5434916"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5434924", 
+          "cbxOptionId5434924", 
+          "5434924"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5434930", 
+          "cbxOptionId5434930", 
+          "5434930"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5434936", 
+          "cbxOptionId5434936", 
+          "5434936"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5434942", 
+          "cbxOptionId5434942", 
+          "5434942"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5434772", 
+          "cbxOptionId5434772", 
+          "5434772"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5434776", 
+          "cbxOptionId5434776", 
+          "5434776"
+        ]
+      ], 
+      "sub_cat": "BRABUS Hatchback Coupe 2D", 
+      "year": "2009", 
+      "url": "/smart/fortwo/2009-smart-fortwo/brabus-hatchback-coupe-2d/options/?vehicleid=391224&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "391224", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox2325619", 
+          "cbxOptionId2325619", 
+          "2325619"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & Manual Mode", 
+          "chgBox2325620", 
+          "cbxOptionId2325620", 
+          "2325620"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox2325621", 
+          "cbxOptionId2325621", 
+          "2325621"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox2325643", 
+          "cbxOptionId2325643", 
+          "2325643"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox2325622", 
+          "cbxOptionId2325622", 
+          "2325622"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox2325642", 
+          "cbxOptionId2325642", 
+          "2325642"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360661", 
+          "cbxOptionId5360661", 
+          "5360661"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox2325623", 
+          "cbxOptionId2325623", 
+          "2325623"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox2325626", 
+          "cbxOptionId2325626", 
+          "2325626"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox2325624", 
+          "cbxOptionId2325624", 
+          "2325624"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox2325629", 
+          "cbxOptionId2325629", 
+          "2325629"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox2325631", 
+          "cbxOptionId2325631", 
+          "2325631"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox2325632", 
+          "cbxOptionId2325632", 
+          "2325632"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox2325634", 
+          "cbxOptionId2325634", 
+          "2325634"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox2325635", 
+          "cbxOptionId2325635", 
+          "2325635"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox2325637", 
+          "cbxOptionId2325637", 
+          "2325637"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox2325638", 
+          "cbxOptionId2325638", 
+          "2325638"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox2325639", 
+          "cbxOptionId2325639", 
+          "2325639"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox2325640", 
+          "cbxOptionId2325640", 
+          "2325640"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360663", 
+          "cbxOptionId5360663", 
+          "5360663"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox2325644", 
+          "cbxOptionId2325644", 
+          "2325644"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Moon Roof", 
+          "chgBox2325648", 
+          "cbxOptionId2325648", 
+          "2325648"
+        ], 
+        [
+          "Options", 
+          "Exterior", 
+          "Rear Spoiler", 
+          "chgBox2325650", 
+          "cbxOptionId2325650", 
+          "2325650"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox5360656", 
+          "cbxOptionId5360656", 
+          "5360656"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox2325651", 
+          "cbxOptionId2325651", 
+          "2325651"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox2325652", 
+          "cbxOptionId2325652", 
+          "2325652"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox2325653", 
+          "cbxOptionId2325653", 
+          "2325653"
+        ]
+      ], 
+      "sub_cat": "Pure Hatchback Coupe 2D", 
+      "year": "2008", 
+      "url": "/smart/fortwo/2008-smart-fortwo/pure-hatchback-coupe-2d/options/?vehicleid=227490&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "227490", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox2325654", 
+          "cbxOptionId2325654", 
+          "2325654"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & Manual Mode", 
+          "chgBox2325655", 
+          "cbxOptionId2325655", 
+          "2325655"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox2325656", 
+          "cbxOptionId2325656", 
+          "2325656"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox2325678", 
+          "cbxOptionId2325678", 
+          "2325678"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox2325657", 
+          "cbxOptionId2325657", 
+          "2325657"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox2325677", 
+          "cbxOptionId2325677", 
+          "2325677"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360741", 
+          "cbxOptionId5360741", 
+          "5360741"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox2325658", 
+          "cbxOptionId2325658", 
+          "2325658"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox2325660", 
+          "cbxOptionId2325660", 
+          "2325660"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox2325661", 
+          "cbxOptionId2325661", 
+          "2325661"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox2325659", 
+          "cbxOptionId2325659", 
+          "2325659"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox2325664", 
+          "cbxOptionId2325664", 
+          "2325664"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox2325666", 
+          "cbxOptionId2325666", 
+          "2325666"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox2325669", 
+          "cbxOptionId2325669", 
+          "2325669"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox2325670", 
+          "cbxOptionId2325670", 
+          "2325670"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox2325672", 
+          "cbxOptionId2325672", 
+          "2325672"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox2325673", 
+          "cbxOptionId2325673", 
+          "2325673"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox2325674", 
+          "cbxOptionId2325674", 
+          "2325674"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox2325675", 
+          "cbxOptionId2325675", 
+          "2325675"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360743", 
+          "cbxOptionId5360743", 
+          "5360743"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox2325679", 
+          "cbxOptionId2325679", 
+          "2325679"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5360745", 
+          "cbxOptionId5360745", 
+          "5360745"
+        ], 
+        [
+          "Options", 
+          "Exterior", 
+          "Rear Spoiler", 
+          "chgBox2325685", 
+          "cbxOptionId2325685", 
+          "2325685"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox2325686", 
+          "cbxOptionId2325686", 
+          "2325686"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox2325687", 
+          "cbxOptionId2325687", 
+          "2325687"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox2325688", 
+          "cbxOptionId2325688", 
+          "2325688"
+        ]
+      ], 
+      "sub_cat": "Passion Hatchback Coupe 2D", 
+      "year": "2008", 
+      "url": "/smart/fortwo/2008-smart-fortwo/passion-hatchback-coupe-2d/options/?vehicleid=227491&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "227491", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5646136", 
+          "cbxOptionId5646136", 
+          "5646136"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Auto, 5-Spd smartshift", 
+          "chgBox5646142", 
+          "cbxOptionId5646142", 
+          "5646142"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5646146", 
+          "cbxOptionId5646146", 
+          "5646146"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist Control", 
+          "chgBox5646149", 
+          "cbxOptionId5646149", 
+          "5646149"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5646168", 
+          "cbxOptionId5646168", 
+          "5646168"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Electronic Stability Control", 
+          "chgBox5646152", 
+          "cbxOptionId5646152", 
+          "5646152"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5646154", 
+          "cbxOptionId5646154", 
+          "5646154"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5646171", 
+          "cbxOptionId5646171", 
+          "5646171"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Start", 
+          "chgBox5646158", 
+          "cbxOptionId5646158", 
+          "5646158"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5646161", 
+          "cbxOptionId5646161", 
+          "5646161"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5646165", 
+          "cbxOptionId5646165", 
+          "5646165"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5646204", 
+          "cbxOptionId5646204", 
+          "5646204"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5646208", 
+          "cbxOptionId5646208", 
+          "5646208"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5646213", 
+          "cbxOptionId5646213", 
+          "5646213"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5646216", 
+          "cbxOptionId5646216", 
+          "5646216"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5646233", 
+          "cbxOptionId5646233", 
+          "5646233"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox5646229", 
+          "cbxOptionId5646229", 
+          "5646229"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5646175", 
+          "cbxOptionId5646175", 
+          "5646175"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5646178", 
+          "cbxOptionId5646178", 
+          "5646178"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5646182", 
+          "cbxOptionId5646182", 
+          "5646182"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5646220", 
+          "cbxOptionId5646220", 
+          "5646220"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox5646184", 
+          "cbxOptionId5646184", 
+          "5646184"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5646187", 
+          "cbxOptionId5646187", 
+          "5646187"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5646191", 
+          "cbxOptionId5646191", 
+          "5646191"
+        ]
+      ], 
+      "sub_cat": "pure-hatchback-coupe-2d", 
+      "year": "2014", 
+      "url": "http://www.kbb.com/smart/fortwo/2014-smart-fortwo/pure-hatchback-coupe-2d/options/?vehicleid=393980&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "393980", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359482", 
+          "cbxOptionId5359482", 
+          "5359482"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Auto, 5-Spd w/smartshift", 
+          "chgBox5359483", 
+          "cbxOptionId5359483", 
+          "5359483"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359484", 
+          "cbxOptionId5359484", 
+          "5359484"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359488", 
+          "cbxOptionId5359488", 
+          "5359488"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359490", 
+          "cbxOptionId5359490", 
+          "5359490"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359491", 
+          "cbxOptionId5359491", 
+          "5359491"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359492", 
+          "cbxOptionId5359492", 
+          "5359492"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359493", 
+          "cbxOptionId5359493", 
+          "5359493"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Start", 
+          "chgBox5359494", 
+          "cbxOptionId5359494", 
+          "5359494"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359495", 
+          "cbxOptionId5359495", 
+          "5359495"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359496", 
+          "cbxOptionId5359496", 
+          "5359496"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359497", 
+          "cbxOptionId5359497", 
+          "5359497"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359498", 
+          "cbxOptionId5359498", 
+          "5359498"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359499", 
+          "cbxOptionId5359499", 
+          "5359499"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5359501", 
+          "cbxOptionId5359501", 
+          "5359501"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5359502", 
+          "cbxOptionId5359502", 
+          "5359502"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5359503", 
+          "cbxOptionId5359503", 
+          "5359503"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5359504", 
+          "cbxOptionId5359504", 
+          "5359504"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5359506", 
+          "cbxOptionId5359506", 
+          "5359506"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox5359487", 
+          "cbxOptionId5359487", 
+          "5359487"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359485", 
+          "cbxOptionId5359485", 
+          "5359485"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359486", 
+          "cbxOptionId5359486", 
+          "5359486"
+        ]
+      ], 
+      "sub_cat": "Pure Hatchback Coupe 2D", 
+      "year": "2013", 
+      "url": "/smart/fortwo/2013-smart-fortwo/pure-hatchback-coupe-2d/options/?vehicleid=382581&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "382581", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359515", 
+          "cbxOptionId5359515", 
+          "5359515"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Auto, 5-Spd w/smartshift", 
+          "chgBox5359524", 
+          "cbxOptionId5359524", 
+          "5359524"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359526", 
+          "cbxOptionId5359526", 
+          "5359526"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359536", 
+          "cbxOptionId5359536", 
+          "5359536"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359537", 
+          "cbxOptionId5359537", 
+          "5359537"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359539", 
+          "cbxOptionId5359539", 
+          "5359539"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359541", 
+          "cbxOptionId5359541", 
+          "5359541"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359542", 
+          "cbxOptionId5359542", 
+          "5359542"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Start", 
+          "chgBox5359543", 
+          "cbxOptionId5359543", 
+          "5359543"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359544", 
+          "cbxOptionId5359544", 
+          "5359544"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5359545", 
+          "cbxOptionId5359545", 
+          "5359545"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359546", 
+          "cbxOptionId5359546", 
+          "5359546"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359547", 
+          "cbxOptionId5359547", 
+          "5359547"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359548", 
+          "cbxOptionId5359548", 
+          "5359548"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359549", 
+          "cbxOptionId5359549", 
+          "5359549"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5359550", 
+          "cbxOptionId5359550", 
+          "5359550"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox5359551", 
+          "cbxOptionId5359551", 
+          "5359551"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5359552", 
+          "cbxOptionId5359552", 
+          "5359552"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox5359553", 
+          "cbxOptionId5359553", 
+          "5359553"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox5359554", 
+          "cbxOptionId5359554", 
+          "5359554"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Bluetooth Wireless", 
+          "chgBox5359555", 
+          "cbxOptionId5359555", 
+          "5359555"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5359556", 
+          "cbxOptionId5359556", 
+          "5359556"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5359557", 
+          "cbxOptionId5359557", 
+          "5359557"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5359558", 
+          "cbxOptionId5359558", 
+          "5359558"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5359559", 
+          "cbxOptionId5359559", 
+          "5359559"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5359560", 
+          "cbxOptionId5359560", 
+          "5359560"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5359561", 
+          "cbxOptionId5359561", 
+          "5359561"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5359562", 
+          "cbxOptionId5359562", 
+          "5359562"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359529", 
+          "cbxOptionId5359529", 
+          "5359529"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359527", 
+          "cbxOptionId5359527", 
+          "5359527"
+        ]
+      ], 
+      "sub_cat": "Passion Hatchback Coupe 2D", 
+      "year": "2013", 
+      "url": "/smart/fortwo/2013-smart-fortwo/passion-hatchback-coupe-2d/options/?vehicleid=382582&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "382582", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359563", 
+          "cbxOptionId5359563", 
+          "5359563"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Auto, 5-Spd w/smartshift", 
+          "chgBox5359564", 
+          "cbxOptionId5359564", 
+          "5359564"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359566", 
+          "cbxOptionId5359566", 
+          "5359566"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359574", 
+          "cbxOptionId5359574", 
+          "5359574"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359575", 
+          "cbxOptionId5359575", 
+          "5359575"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359576", 
+          "cbxOptionId5359576", 
+          "5359576"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359578", 
+          "cbxOptionId5359578", 
+          "5359578"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359581", 
+          "cbxOptionId5359581", 
+          "5359581"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Start", 
+          "chgBox5359583", 
+          "cbxOptionId5359583", 
+          "5359583"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359584", 
+          "cbxOptionId5359584", 
+          "5359584"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359586", 
+          "cbxOptionId5359586", 
+          "5359586"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359588", 
+          "cbxOptionId5359588", 
+          "5359588"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359590", 
+          "cbxOptionId5359590", 
+          "5359590"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359592", 
+          "cbxOptionId5359592", 
+          "5359592"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5359597", 
+          "cbxOptionId5359597", 
+          "5359597"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5359599", 
+          "cbxOptionId5359599", 
+          "5359599"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5359601", 
+          "cbxOptionId5359601", 
+          "5359601"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5359602", 
+          "cbxOptionId5359602", 
+          "5359602"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "HID Headlamps", 
+          "chgBox5359604", 
+          "cbxOptionId5359604", 
+          "5359604"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox5359569", 
+          "cbxOptionId5359569", 
+          "5359569"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359567", 
+          "cbxOptionId5359567", 
+          "5359567"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359568", 
+          "cbxOptionId5359568", 
+          "5359568"
+        ]
+      ], 
+      "sub_cat": "Pure Hatchback Coupe 2D", 
+      "year": "2012", 
+      "url": "/smart/fortwo/2012-smart-fortwo/pure-hatchback-coupe-2d/options/?vehicleid=373692&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "373692", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359565", 
+          "cbxOptionId5359565", 
+          "5359565"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Auto, 5-Spd w/smartshift", 
+          "chgBox5359570", 
+          "cbxOptionId5359570", 
+          "5359570"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359571", 
+          "cbxOptionId5359571", 
+          "5359571"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359577", 
+          "cbxOptionId5359577", 
+          "5359577"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359579", 
+          "cbxOptionId5359579", 
+          "5359579"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359580", 
+          "cbxOptionId5359580", 
+          "5359580"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359582", 
+          "cbxOptionId5359582", 
+          "5359582"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359585", 
+          "cbxOptionId5359585", 
+          "5359585"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Start", 
+          "chgBox5359587", 
+          "cbxOptionId5359587", 
+          "5359587"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359589", 
+          "cbxOptionId5359589", 
+          "5359589"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5359591", 
+          "cbxOptionId5359591", 
+          "5359591"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359593", 
+          "cbxOptionId5359593", 
+          "5359593"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359594", 
+          "cbxOptionId5359594", 
+          "5359594"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359595", 
+          "cbxOptionId5359595", 
+          "5359595"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359598", 
+          "cbxOptionId5359598", 
+          "5359598"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5359600", 
+          "cbxOptionId5359600", 
+          "5359600"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox5359603", 
+          "cbxOptionId5359603", 
+          "5359603"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox5359605", 
+          "cbxOptionId5359605", 
+          "5359605"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Bluetooth Wireless", 
+          "chgBox5359606", 
+          "cbxOptionId5359606", 
+          "5359606"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5359608", 
+          "cbxOptionId5359608", 
+          "5359608"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5359609", 
+          "cbxOptionId5359609", 
+          "5359609"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5359610", 
+          "cbxOptionId5359610", 
+          "5359610"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5359611", 
+          "cbxOptionId5359611", 
+          "5359611"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5359612", 
+          "cbxOptionId5359612", 
+          "5359612"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5359614", 
+          "cbxOptionId5359614", 
+          "5359614"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "HID Headlamps", 
+          "chgBox5359615", 
+          "cbxOptionId5359615", 
+          "5359615"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5359617", 
+          "cbxOptionId5359617", 
+          "5359617"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359573", 
+          "cbxOptionId5359573", 
+          "5359573"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359572", 
+          "cbxOptionId5359572", 
+          "5359572"
+        ]
+      ], 
+      "sub_cat": "Passion Hatchback Coupe 2D", 
+      "year": "2012", 
+      "url": "/smart/fortwo/2012-smart-fortwo/passion-hatchback-coupe-2d/options/?vehicleid=373696&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "373696", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359422", 
+          "cbxOptionId5359422", 
+          "5359422"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & smartshift", 
+          "chgBox5359434", 
+          "cbxOptionId5359434", 
+          "5359434"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359437", 
+          "cbxOptionId5359437", 
+          "5359437"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359449", 
+          "cbxOptionId5359449", 
+          "5359449"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359450", 
+          "cbxOptionId5359450", 
+          "5359450"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359451", 
+          "cbxOptionId5359451", 
+          "5359451"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359452", 
+          "cbxOptionId5359452", 
+          "5359452"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359453", 
+          "cbxOptionId5359453", 
+          "5359453"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359454", 
+          "cbxOptionId5359454", 
+          "5359454"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359455", 
+          "cbxOptionId5359455", 
+          "5359455"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359456", 
+          "cbxOptionId5359456", 
+          "5359456"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359457", 
+          "cbxOptionId5359457", 
+          "5359457"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359458", 
+          "cbxOptionId5359458", 
+          "5359458"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5359459", 
+          "cbxOptionId5359459", 
+          "5359459"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5359460", 
+          "cbxOptionId5359460", 
+          "5359460"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5359461", 
+          "cbxOptionId5359461", 
+          "5359461"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5359462", 
+          "cbxOptionId5359462", 
+          "5359462"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5359463", 
+          "cbxOptionId5359463", 
+          "5359463"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox5359443", 
+          "cbxOptionId5359443", 
+          "5359443"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359439", 
+          "cbxOptionId5359439", 
+          "5359439"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359440", 
+          "cbxOptionId5359440", 
+          "5359440"
+        ]
+      ], 
+      "sub_cat": "Pure Hatchback Coupe 2D", 
+      "year": "2011", 
+      "url": "/smart/fortwo/2011-smart-fortwo/pure-hatchback-coupe-2d/options/?vehicleid=364115&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "364115", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5359390", 
+          "cbxOptionId5359390", 
+          "5359390"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & smartshift", 
+          "chgBox5359391", 
+          "cbxOptionId5359391", 
+          "5359391"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5359392", 
+          "cbxOptionId5359392", 
+          "5359392"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5359395", 
+          "cbxOptionId5359395", 
+          "5359395"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5359396", 
+          "cbxOptionId5359396", 
+          "5359396"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5359397", 
+          "cbxOptionId5359397", 
+          "5359397"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5359398", 
+          "cbxOptionId5359398", 
+          "5359398"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5359399", 
+          "cbxOptionId5359399", 
+          "5359399"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5359400", 
+          "cbxOptionId5359400", 
+          "5359400"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5359401", 
+          "cbxOptionId5359401", 
+          "5359401"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5359402", 
+          "cbxOptionId5359402", 
+          "5359402"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5359403", 
+          "cbxOptionId5359403", 
+          "5359403"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5359404", 
+          "cbxOptionId5359404", 
+          "5359404"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5359405", 
+          "cbxOptionId5359405", 
+          "5359405"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5359406", 
+          "cbxOptionId5359406", 
+          "5359406"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox5359407", 
+          "cbxOptionId5359407", 
+          "5359407"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox5359408", 
+          "cbxOptionId5359408", 
+          "5359408"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Bluetooth Wireless", 
+          "chgBox5359409", 
+          "cbxOptionId5359409", 
+          "5359409"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5359410", 
+          "cbxOptionId5359410", 
+          "5359410"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5359411", 
+          "cbxOptionId5359411", 
+          "5359411"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5359412", 
+          "cbxOptionId5359412", 
+          "5359412"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5359413", 
+          "cbxOptionId5359413", 
+          "5359413"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5359414", 
+          "cbxOptionId5359414", 
+          "5359414"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5359415", 
+          "cbxOptionId5359415", 
+          "5359415"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5359416", 
+          "cbxOptionId5359416", 
+          "5359416"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5359394", 
+          "cbxOptionId5359394", 
+          "5359394"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5359393", 
+          "cbxOptionId5359393", 
+          "5359393"
+        ]
+      ], 
+      "sub_cat": "Passion Hatchback Coupe 2D", 
+      "year": "2011", 
+      "url": "/smart/fortwo/2011-smart-fortwo/passion-hatchback-coupe-2d/options/?vehicleid=364120&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "364120", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5360659", 
+          "cbxOptionId5360659", 
+          "5360659"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & smartshift", 
+          "chgBox5360665", 
+          "cbxOptionId5360665", 
+          "5360665"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5360667", 
+          "cbxOptionId5360667", 
+          "5360667"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5360676", 
+          "cbxOptionId5360676", 
+          "5360676"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5360679", 
+          "cbxOptionId5360679", 
+          "5360679"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5360681", 
+          "cbxOptionId5360681", 
+          "5360681"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5360683", 
+          "cbxOptionId5360683", 
+          "5360683"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360685", 
+          "cbxOptionId5360685", 
+          "5360685"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5360687", 
+          "cbxOptionId5360687", 
+          "5360687"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5360688", 
+          "cbxOptionId5360688", 
+          "5360688"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5360689", 
+          "cbxOptionId5360689", 
+          "5360689"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5360690", 
+          "cbxOptionId5360690", 
+          "5360690"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5360692", 
+          "cbxOptionId5360692", 
+          "5360692"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox5360694", 
+          "cbxOptionId5360694", 
+          "5360694"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5360697", 
+          "cbxOptionId5360697", 
+          "5360697"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5360698", 
+          "cbxOptionId5360698", 
+          "5360698"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5360699", 
+          "cbxOptionId5360699", 
+          "5360699"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360700", 
+          "cbxOptionId5360700", 
+          "5360700"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5360701", 
+          "cbxOptionId5360701", 
+          "5360701"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox5360671", 
+          "cbxOptionId5360671", 
+          "5360671"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5360668", 
+          "cbxOptionId5360668", 
+          "5360668"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5360669", 
+          "cbxOptionId5360669", 
+          "5360669"
+        ]
+      ], 
+      "sub_cat": "Pure Hatchback Coupe 2D", 
+      "year": "2010", 
+      "url": "/smart/fortwo/2010-smart-fortwo/pure-hatchback-coupe-2d/options/?vehicleid=349661&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "349661", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5360731", 
+          "cbxOptionId5360731", 
+          "5360731"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & smartshift", 
+          "chgBox5360735", 
+          "cbxOptionId5360735", 
+          "5360735"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5360740", 
+          "cbxOptionId5360740", 
+          "5360740"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5360744", 
+          "cbxOptionId5360744", 
+          "5360744"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5360747", 
+          "cbxOptionId5360747", 
+          "5360747"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5360749", 
+          "cbxOptionId5360749", 
+          "5360749"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5360753", 
+          "cbxOptionId5360753", 
+          "5360753"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360755", 
+          "cbxOptionId5360755", 
+          "5360755"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5360757", 
+          "cbxOptionId5360757", 
+          "5360757"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5360760", 
+          "cbxOptionId5360760", 
+          "5360760"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5360762", 
+          "cbxOptionId5360762", 
+          "5360762"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5360767", 
+          "cbxOptionId5360767", 
+          "5360767"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5360769", 
+          "cbxOptionId5360769", 
+          "5360769"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5360775", 
+          "cbxOptionId5360775", 
+          "5360775"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox5360779", 
+          "cbxOptionId5360779", 
+          "5360779"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5360791", 
+          "cbxOptionId5360791", 
+          "5360791"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5360793", 
+          "cbxOptionId5360793", 
+          "5360793"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5360795", 
+          "cbxOptionId5360795", 
+          "5360795"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360797", 
+          "cbxOptionId5360797", 
+          "5360797"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5360799", 
+          "cbxOptionId5360799", 
+          "5360799"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5360805", 
+          "cbxOptionId5360805", 
+          "5360805"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5360808", 
+          "cbxOptionId5360808", 
+          "5360808"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5360810", 
+          "cbxOptionId5360810", 
+          "5360810"
+        ]
+      ], 
+      "sub_cat": "Passion Hatchback Coupe 2D", 
+      "year": "2010", 
+      "url": "/smart/fortwo/2010-smart-fortwo/passion-hatchback-coupe-2d/options/?vehicleid=349702&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "349702", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5360657", 
+          "cbxOptionId5360657", 
+          "5360657"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & Manual Mode", 
+          "chgBox5360658", 
+          "cbxOptionId5360658", 
+          "5360658"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5360660", 
+          "cbxOptionId5360660", 
+          "5360660"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5360672", 
+          "cbxOptionId5360672", 
+          "5360672"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5360673", 
+          "cbxOptionId5360673", 
+          "5360673"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5360674", 
+          "cbxOptionId5360674", 
+          "5360674"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360675", 
+          "cbxOptionId5360675", 
+          "5360675"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5360677", 
+          "cbxOptionId5360677", 
+          "5360677"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5360678", 
+          "cbxOptionId5360678", 
+          "5360678"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5360680", 
+          "cbxOptionId5360680", 
+          "5360680"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5360682", 
+          "cbxOptionId5360682", 
+          "5360682"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5360684", 
+          "cbxOptionId5360684", 
+          "5360684"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox5360686", 
+          "cbxOptionId5360686", 
+          "5360686"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5360670", 
+          "cbxOptionId5360670", 
+          "5360670"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5360691", 
+          "cbxOptionId5360691", 
+          "5360691"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5360693", 
+          "cbxOptionId5360693", 
+          "5360693"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360695", 
+          "cbxOptionId5360695", 
+          "5360695"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5360696", 
+          "cbxOptionId5360696", 
+          "5360696"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox5360666", 
+          "cbxOptionId5360666", 
+          "5360666"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5360662", 
+          "cbxOptionId5360662", 
+          "5360662"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5360664", 
+          "cbxOptionId5360664", 
+          "5360664"
+        ]
+      ], 
+      "sub_cat": "Pure Hatchback Coupe 2D", 
+      "year": "2009", 
+      "url": "/smart/fortwo/2009-smart-fortwo/pure-hatchback-coupe-2d/options/?vehicleid=227467&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "227467", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5360737", 
+          "cbxOptionId5360737", 
+          "5360737"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & Manual Mode", 
+          "chgBox5360751", 
+          "cbxOptionId5360751", 
+          "5360751"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5360758", 
+          "cbxOptionId5360758", 
+          "5360758"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5360763", 
+          "cbxOptionId5360763", 
+          "5360763"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5360765", 
+          "cbxOptionId5360765", 
+          "5360765"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5360768", 
+          "cbxOptionId5360768", 
+          "5360768"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360770", 
+          "cbxOptionId5360770", 
+          "5360770"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5360773", 
+          "cbxOptionId5360773", 
+          "5360773"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5360776", 
+          "cbxOptionId5360776", 
+          "5360776"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5360780", 
+          "cbxOptionId5360780", 
+          "5360780"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5360782", 
+          "cbxOptionId5360782", 
+          "5360782"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5360784", 
+          "cbxOptionId5360784", 
+          "5360784"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5360786", 
+          "cbxOptionId5360786", 
+          "5360786"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox5360788", 
+          "cbxOptionId5360788", 
+          "5360788"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5360794", 
+          "cbxOptionId5360794", 
+          "5360794"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5360800", 
+          "cbxOptionId5360800", 
+          "5360800"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5360802", 
+          "cbxOptionId5360802", 
+          "5360802"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360804", 
+          "cbxOptionId5360804", 
+          "5360804"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5360807", 
+          "cbxOptionId5360807", 
+          "5360807"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5360813", 
+          "cbxOptionId5360813", 
+          "5360813"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5360815", 
+          "cbxOptionId5360815", 
+          "5360815"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5360817", 
+          "cbxOptionId5360817", 
+          "5360817"
+        ]
+      ], 
+      "sub_cat": "Passion Hatchback Coupe 2D", 
+      "year": "2009", 
+      "url": "/smart/fortwo/2009-smart-fortwo/passion-hatchback-coupe-2d/options/?vehicleid=227468&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "227468", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox5434790", 
+          "cbxOptionId5434790", 
+          "5434790"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & Manual Mode", 
+          "chgBox5434812", 
+          "cbxOptionId5434812", 
+          "5434812"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5434822", 
+          "cbxOptionId5434822", 
+          "5434822"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5434836", 
+          "cbxOptionId5434836", 
+          "5434836"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5434838", 
+          "cbxOptionId5434838", 
+          "5434838"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5434841", 
+          "cbxOptionId5434841", 
+          "5434841"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5434843", 
+          "cbxOptionId5434843", 
+          "5434843"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5434845", 
+          "cbxOptionId5434845", 
+          "5434845"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5434850", 
+          "cbxOptionId5434850", 
+          "5434850"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5434856", 
+          "cbxOptionId5434856", 
+          "5434856"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5434863", 
+          "cbxOptionId5434863", 
+          "5434863"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5434868", 
+          "cbxOptionId5434868", 
+          "5434868"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5434874", 
+          "cbxOptionId5434874", 
+          "5434874"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox5434881", 
+          "cbxOptionId5434881", 
+          "5434881"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox5434889", 
+          "cbxOptionId5434889", 
+          "5434889"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Smart Premium Sound", 
+          "chgBox5434903", 
+          "cbxOptionId5434903", 
+          "5434903"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5434910", 
+          "cbxOptionId5434910", 
+          "5434910"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5434916", 
+          "cbxOptionId5434916", 
+          "5434916"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5434924", 
+          "cbxOptionId5434924", 
+          "5434924"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5434930", 
+          "cbxOptionId5434930", 
+          "5434930"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5434936", 
+          "cbxOptionId5434936", 
+          "5434936"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5434942", 
+          "cbxOptionId5434942", 
+          "5434942"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5434772", 
+          "cbxOptionId5434772", 
+          "5434772"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5434776", 
+          "cbxOptionId5434776", 
+          "5434776"
+        ]
+      ], 
+      "sub_cat": "BRABUS Hatchback Coupe 2D", 
+      "year": "2009", 
+      "url": "/smart/fortwo/2009-smart-fortwo/brabus-hatchback-coupe-2d/options/?vehicleid=391224&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "391224", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox2325619", 
+          "cbxOptionId2325619", 
+          "2325619"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & Manual Mode", 
+          "chgBox2325620", 
+          "cbxOptionId2325620", 
+          "2325620"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox2325621", 
+          "cbxOptionId2325621", 
+          "2325621"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox2325643", 
+          "cbxOptionId2325643", 
+          "2325643"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox2325622", 
+          "cbxOptionId2325622", 
+          "2325622"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox2325642", 
+          "cbxOptionId2325642", 
+          "2325642"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360661", 
+          "cbxOptionId5360661", 
+          "5360661"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox2325623", 
+          "cbxOptionId2325623", 
+          "2325623"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox2325626", 
+          "cbxOptionId2325626", 
+          "2325626"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox2325624", 
+          "cbxOptionId2325624", 
+          "2325624"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox2325629", 
+          "cbxOptionId2325629", 
+          "2325629"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox2325631", 
+          "cbxOptionId2325631", 
+          "2325631"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox2325632", 
+          "cbxOptionId2325632", 
+          "2325632"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox2325634", 
+          "cbxOptionId2325634", 
+          "2325634"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox2325635", 
+          "cbxOptionId2325635", 
+          "2325635"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox2325637", 
+          "cbxOptionId2325637", 
+          "2325637"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox2325638", 
+          "cbxOptionId2325638", 
+          "2325638"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox2325639", 
+          "cbxOptionId2325639", 
+          "2325639"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox2325640", 
+          "cbxOptionId2325640", 
+          "2325640"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360663", 
+          "cbxOptionId5360663", 
+          "5360663"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox2325644", 
+          "cbxOptionId2325644", 
+          "2325644"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Moon Roof", 
+          "chgBox2325648", 
+          "cbxOptionId2325648", 
+          "2325648"
+        ], 
+        [
+          "Options", 
+          "Exterior", 
+          "Rear Spoiler", 
+          "chgBox2325650", 
+          "cbxOptionId2325650", 
+          "2325650"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox5360656", 
+          "cbxOptionId5360656", 
+          "5360656"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox2325651", 
+          "cbxOptionId2325651", 
+          "2325651"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox2325652", 
+          "cbxOptionId2325652", 
+          "2325652"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox2325653", 
+          "cbxOptionId2325653", 
+          "2325653"
+        ]
+      ], 
+      "sub_cat": "Pure Hatchback Coupe 2D", 
+      "year": "2008", 
+      "url": "/smart/fortwo/2008-smart-fortwo/pure-hatchback-coupe-2d/options/?vehicleid=227490&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "227490", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "3-Cyl, 1.0 Liter", 
+          "chgBox2325654", 
+          "cbxOptionId2325654", 
+          "2325654"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic, 5-Spd w/Overdrive & Manual Mode", 
+          "chgBox2325655", 
+          "cbxOptionId2325655", 
+          "2325655"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox2325656", 
+          "cbxOptionId2325656", 
+          "2325656"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox2325678", 
+          "cbxOptionId2325678", 
+          "2325678"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox2325657", 
+          "cbxOptionId2325657", 
+          "2325657"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox2325677", 
+          "cbxOptionId2325677", 
+          "2325677"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5360741", 
+          "cbxOptionId5360741", 
+          "5360741"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox2325658", 
+          "cbxOptionId2325658", 
+          "2325658"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox2325660", 
+          "cbxOptionId2325660", 
+          "2325660"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox2325661", 
+          "cbxOptionId2325661", 
+          "2325661"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox2325659", 
+          "cbxOptionId2325659", 
+          "2325659"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox2325664", 
+          "cbxOptionId2325664", 
+          "2325664"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox2325666", 
+          "cbxOptionId2325666", 
+          "2325666"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox2325669", 
+          "cbxOptionId2325669", 
+          "2325669"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox2325670", 
+          "cbxOptionId2325670", 
+          "2325670"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox2325672", 
+          "cbxOptionId2325672", 
+          "2325672"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox2325673", 
+          "cbxOptionId2325673", 
+          "2325673"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox2325674", 
+          "cbxOptionId2325674", 
+          "2325674"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox2325675", 
+          "cbxOptionId2325675", 
+          "2325675"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5360743", 
+          "cbxOptionId5360743", 
+          "5360743"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox2325679", 
+          "cbxOptionId2325679", 
+          "2325679"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5360745", 
+          "cbxOptionId5360745", 
+          "5360745"
+        ], 
+        [
+          "Options", 
+          "Exterior", 
+          "Rear Spoiler", 
+          "chgBox2325685", 
+          "cbxOptionId2325685", 
+          "2325685"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox2325686", 
+          "cbxOptionId2325686", 
+          "2325686"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox2325687", 
+          "cbxOptionId2325687", 
+          "2325687"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox2325688", 
+          "cbxOptionId2325688", 
+          "2325688"
+        ]
+      ], 
+      "sub_cat": "Passion Hatchback Coupe 2D", 
+      "year": "2008", 
+      "url": "/smart/fortwo/2008-smart-fortwo/passion-hatchback-coupe-2d/options/?vehicleid=227491&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "227491", 
+      "model": "fortwo"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "AC Electric Motor", 
+          "chgBox5358143", 
+          "cbxOptionId5358143", 
+          "5358143"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Single-Speed Fixed Gear", 
+          "chgBox5358148", 
+          "cbxOptionId5358148", 
+          "5358148"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5358151", 
+          "cbxOptionId5358151", 
+          "5358151"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5358172", 
+          "cbxOptionId5358172", 
+          "5358172"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5358175", 
+          "cbxOptionId5358175", 
+          "5358175"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5358176", 
+          "cbxOptionId5358176", 
+          "5358176"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5358178", 
+          "cbxOptionId5358178", 
+          "5358178"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5358184", 
+          "cbxOptionId5358184", 
+          "5358184"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5358189", 
+          "cbxOptionId5358189", 
+          "5358189"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5358193", 
+          "cbxOptionId5358193", 
+          "5358193"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5358197", 
+          "cbxOptionId5358197", 
+          "5358197"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5358200", 
+          "cbxOptionId5358200", 
+          "5358200"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5358204", 
+          "cbxOptionId5358204", 
+          "5358204"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5358208", 
+          "cbxOptionId5358208", 
+          "5358208"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox5358213", 
+          "cbxOptionId5358213", 
+          "5358213"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5358218", 
+          "cbxOptionId5358218", 
+          "5358218"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox5358224", 
+          "cbxOptionId5358224", 
+          "5358224"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox5358227", 
+          "cbxOptionId5358227", 
+          "5358227"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Bluetooth Wireless", 
+          "chgBox5358231", 
+          "cbxOptionId5358231", 
+          "5358231"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5358283", 
+          "cbxOptionId5358283", 
+          "5358283"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Head Curtain Air Bags", 
+          "chgBox5358289", 
+          "cbxOptionId5358289", 
+          "5358289"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5358236", 
+          "cbxOptionId5358236", 
+          "5358236"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5358240", 
+          "cbxOptionId5358240", 
+          "5358240"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Power Soft Top", 
+          "chgBox5358245", 
+          "cbxOptionId5358245", 
+          "5358245"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5358248", 
+          "cbxOptionId5358248", 
+          "5358248"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5358159", 
+          "cbxOptionId5358159", 
+          "5358159"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5358153", 
+          "cbxOptionId5358153", 
+          "5358153"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox5358157", 
+          "cbxOptionId5358157", 
+          "5358157"
+        ]
+      ], 
+      "sub_cat": "cabriolet-2d", 
+      "year": "2013", 
+      "url": "http://www.kbb.com/smart/fortwo-electric-drive/2013-smart-fortwo-electric-drive/cabriolet-2d/options/?vehicleid=390231&intent=buy-used&category=convertible", 
+      "make": "smart", 
+      "car_id": "390231", 
+      "model": "fortwo electric drive"
+    }, 
+    {
+      "category": "Coupes", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "AC Electric Motor", 
+          "chgBox5358131", 
+          "cbxOptionId5358131", 
+          "5358131"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Single-Speed Fixed Gear", 
+          "chgBox5358132", 
+          "cbxOptionId5358132", 
+          "5358132"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5358133", 
+          "cbxOptionId5358133", 
+          "5358133"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5358139", 
+          "cbxOptionId5358139", 
+          "5358139"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5358140", 
+          "cbxOptionId5358140", 
+          "5358140"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5358141", 
+          "cbxOptionId5358141", 
+          "5358141"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5358142", 
+          "cbxOptionId5358142", 
+          "5358142"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5358144", 
+          "cbxOptionId5358144", 
+          "5358144"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5358145", 
+          "cbxOptionId5358145", 
+          "5358145"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5358147", 
+          "cbxOptionId5358147", 
+          "5358147"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5358149", 
+          "cbxOptionId5358149", 
+          "5358149"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5358154", 
+          "cbxOptionId5358154", 
+          "5358154"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5358160", 
+          "cbxOptionId5358160", 
+          "5358160"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5358162", 
+          "cbxOptionId5358162", 
+          "5358162"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox5358164", 
+          "cbxOptionId5358164", 
+          "5358164"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5358168", 
+          "cbxOptionId5358168", 
+          "5358168"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox5358169", 
+          "cbxOptionId5358169", 
+          "5358169"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox5358171", 
+          "cbxOptionId5358171", 
+          "5358171"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Bluetooth Wireless", 
+          "chgBox5358173", 
+          "cbxOptionId5358173", 
+          "5358173"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5358174", 
+          "cbxOptionId5358174", 
+          "5358174"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5358177", 
+          "cbxOptionId5358177", 
+          "5358177"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5358179", 
+          "cbxOptionId5358179", 
+          "5358179"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5358181", 
+          "cbxOptionId5358181", 
+          "5358181"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5358182", 
+          "cbxOptionId5358182", 
+          "5358182"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5358190", 
+          "cbxOptionId5358190", 
+          "5358190"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5358136", 
+          "cbxOptionId5358136", 
+          "5358136"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5358134", 
+          "cbxOptionId5358134", 
+          "5358134"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox5358135", 
+          "cbxOptionId5358135", 
+          "5358135"
+        ]
+      ], 
+      "sub_cat": "hatchback-coupe-2d", 
+      "year": "2013", 
+      "url": "http://www.kbb.com/smart/fortwo-electric-drive/2013-smart-fortwo-electric-drive/hatchback-coupe-2d/options/?vehicleid=390230&intent=buy-used&category=coupe", 
+      "make": "smart", 
+      "car_id": "390230", 
+      "model": "fortwo electric drive"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "AC Electric Motor", 
+          "chgBox5358131", 
+          "cbxOptionId5358131", 
+          "5358131"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Single-Speed Fixed Gear", 
+          "chgBox5358132", 
+          "cbxOptionId5358132", 
+          "5358132"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox5358133", 
+          "cbxOptionId5358133", 
+          "5358133"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Hill Start Assist", 
+          "chgBox5358139", 
+          "cbxOptionId5358139", 
+          "5358139"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Traction Control", 
+          "chgBox5358140", 
+          "cbxOptionId5358140", 
+          "5358140"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "Stability Control", 
+          "chgBox5358141", 
+          "cbxOptionId5358141", 
+          "5358141"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox5358142", 
+          "cbxOptionId5358142", 
+          "5358142"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Keyless Entry", 
+          "chgBox5358144", 
+          "cbxOptionId5358144", 
+          "5358144"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox5358145", 
+          "cbxOptionId5358145", 
+          "5358145"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox5358147", 
+          "cbxOptionId5358147", 
+          "5358147"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox5358149", 
+          "cbxOptionId5358149", 
+          "5358149"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox5358154", 
+          "cbxOptionId5358154", 
+          "5358154"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox5358160", 
+          "cbxOptionId5358160", 
+          "5358160"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox5358162", 
+          "cbxOptionId5358162", 
+          "5358162"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox5358164", 
+          "cbxOptionId5358164", 
+          "5358164"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox5358168", 
+          "cbxOptionId5358168", 
+          "5358168"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox5358169", 
+          "cbxOptionId5358169", 
+          "5358169"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox5358171", 
+          "cbxOptionId5358171", 
+          "5358171"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Bluetooth Wireless", 
+          "chgBox5358173", 
+          "cbxOptionId5358173", 
+          "5358173"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox5358174", 
+          "cbxOptionId5358174", 
+          "5358174"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox5358177", 
+          "cbxOptionId5358177", 
+          "5358177"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Heated Seats", 
+          "chgBox5358179", 
+          "cbxOptionId5358179", 
+          "5358179"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox5358181", 
+          "cbxOptionId5358181", 
+          "5358181"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Panorama Roof", 
+          "chgBox5358182", 
+          "cbxOptionId5358182", 
+          "5358182"
+        ], 
+        [
+          "Options", 
+          "Lighting", 
+          "Daytime Running Lights", 
+          "chgBox5358190", 
+          "cbxOptionId5358190", 
+          "5358190"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox5358136", 
+          "cbxOptionId5358136", 
+          "5358136"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox5358134", 
+          "cbxOptionId5358134", 
+          "5358134"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox5358135", 
+          "cbxOptionId5358135", 
+          "5358135"
+        ]
+      ], 
+      "sub_cat": "hatchback-coupe-2d", 
+      "year": "2013", 
+      "url": "http://www.kbb.com/smart/fortwo-electric-drive/2013-smart-fortwo-electric-drive/hatchback-coupe-2d/options/?vehicleid=390230&intent=buy-used&category=hatchback", 
+      "make": "smart", 
+      "car_id": "390230", 
+      "model": "fortwo electric drive"
+    }
+  ]
+}

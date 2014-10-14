@@ -1,0 +1,3406 @@
+{
+  "car": [
+    {
+      "category": "Coupes", 
+      "url": "/kia/forte/2013-kia-forte/koup-ex-coupe-2d/options/?vehicleid=378412&intent=buy-used&category=coupe", 
+      "make": "Kia", 
+      "sub_cat": "Koup EX Coupe 2D", 
+      "year": "2013", 
+      "model": "Forte", 
+      "car_id": "378412"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/kia/forte/2013-kia-forte/koup-sx-coupe-2d/options/?vehicleid=378407&intent=buy-used&category=coupe", 
+      "make": "Kia", 
+      "sub_cat": "Koup SX Coupe 2D", 
+      "year": "2013", 
+      "model": "Forte", 
+      "car_id": "378407"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/kia/forte/2012-kia-forte/koup-ex-coupe-2d/options/?vehicleid=371603&intent=buy-used&category=coupe", 
+      "make": "Kia", 
+      "sub_cat": "Koup EX Coupe 2D", 
+      "year": "2012", 
+      "model": "Forte", 
+      "car_id": "371603"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/kia/forte/2012-kia-forte/koup-sx-coupe-2d/options/?vehicleid=371600&intent=buy-used&category=coupe", 
+      "make": "Kia", 
+      "sub_cat": "Koup SX Coupe 2D", 
+      "year": "2012", 
+      "model": "Forte", 
+      "car_id": "371600"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/kia/forte/2011-kia-forte/koup-ex-coupe-2d/options/?vehicleid=360400&intent=buy-used&category=coupe", 
+      "make": "Kia", 
+      "sub_cat": "Koup EX Coupe 2D", 
+      "year": "2011", 
+      "model": "Forte", 
+      "car_id": "360400"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/kia/forte/2011-kia-forte/koup-sx-coupe-2d/options/?vehicleid=360404&intent=buy-used&category=coupe", 
+      "make": "Kia", 
+      "sub_cat": "Koup SX Coupe 2D", 
+      "year": "2011", 
+      "model": "Forte", 
+      "car_id": "360404"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/kia/forte/2010-kia-forte/koup-ex-coupe-2d/options/?vehicleid=261579&intent=buy-used&category=coupe", 
+      "make": "Kia", 
+      "sub_cat": "Koup EX Coupe 2D", 
+      "year": "2010", 
+      "model": "Forte", 
+      "car_id": "261579"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/kia/forte/2010-kia-forte/koup-sx-coupe-2d/options/?vehicleid=261583&intent=buy-used&category=coupe", 
+      "make": "Kia", 
+      "sub_cat": "Koup SX Coupe 2D", 
+      "year": "2010", 
+      "model": "Forte", 
+      "car_id": "261583"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2014-kia-sorento/lx-sport-utility-4d/options/?vehicleid=384946&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Sorento", 
+      "car_id": "384946"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2014-kia-sorento/ex-sport-utility-4d/options/?vehicleid=384949&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Sorento", 
+      "car_id": "384949"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2014-kia-sorento/sx-sport-utility-4d/options/?vehicleid=384948&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Sorento", 
+      "car_id": "384948"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2014-kia-sorento/limited-sport-utility-4d/options/?vehicleid=384947&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Limited Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Sorento", 
+      "car_id": "384947"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2013-kia-sorento/lx-sport-utility-4d/options/?vehicleid=374517&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Sorento", 
+      "car_id": "374517"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2013-kia-sorento/ex-sport-utility-4d/options/?vehicleid=374513&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Sorento", 
+      "car_id": "374513"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2013-kia-sorento/sx-sport-utility-4d/options/?vehicleid=374518&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Sorento", 
+      "car_id": "374518"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2012-kia-sorento/sport-utility-4d/options/?vehicleid=370924&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sorento", 
+      "car_id": "370924"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2012-kia-sorento/lx-sport-utility-4d/options/?vehicleid=370923&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sorento", 
+      "car_id": "370923"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2012-kia-sorento/ex-sport-utility-4d/options/?vehicleid=370927&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sorento", 
+      "car_id": "370927"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2012-kia-sorento/sx-sport-utility-4d/options/?vehicleid=370928&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sorento", 
+      "car_id": "370928"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2011-kia-sorento/sport-utility-4d/options/?vehicleid=352802&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sorento", 
+      "car_id": "352802"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2011-kia-sorento/lx-sport-utility-4d/options/?vehicleid=352774&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sorento", 
+      "car_id": "352774"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2011-kia-sorento/ex-sport-utility-4d/options/?vehicleid=352423&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sorento", 
+      "car_id": "352423"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2011-kia-sorento/sx-sport-utility-4d/options/?vehicleid=358345&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sorento", 
+      "car_id": "358345"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2009-kia-sorento/sport-utility-4d/options/?vehicleid=226765&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2009", 
+      "model": "Sorento", 
+      "car_id": "226765"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2009-kia-sorento/lx-sport-utility-4d/options/?vehicleid=226766&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2009", 
+      "model": "Sorento", 
+      "car_id": "226766"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2009-kia-sorento/ex-sport-utility-4d/options/?vehicleid=226768&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2009", 
+      "model": "Sorento", 
+      "car_id": "226768"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2008-kia-sorento/sport-utility-4d/options/?vehicleid=197389&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2008", 
+      "model": "Sorento", 
+      "car_id": "197389"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2008-kia-sorento/lx-sport-utility-4d/options/?vehicleid=197390&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2008", 
+      "model": "Sorento", 
+      "car_id": "197390"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2008-kia-sorento/ex-sport-utility-4d/options/?vehicleid=197394&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2008", 
+      "model": "Sorento", 
+      "car_id": "197394"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2007-kia-sorento/sport-utility-4d/options/?vehicleid=83956&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2007", 
+      "model": "Sorento", 
+      "car_id": "83956"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2007-kia-sorento/lx-sport-utility-4d/options/?vehicleid=83950&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2007", 
+      "model": "Sorento", 
+      "car_id": "83950"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2007-kia-sorento/ex-sport-utility-4d/options/?vehicleid=83952&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2007", 
+      "model": "Sorento", 
+      "car_id": "83952"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2006-kia-sorento/lx-sport-utility-4d/options/?vehicleid=939&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2006", 
+      "model": "Sorento", 
+      "car_id": "939"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2006-kia-sorento/ex-sport-utility-4d/options/?vehicleid=948&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2006", 
+      "model": "Sorento", 
+      "car_id": "948"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2005-kia-sorento/lx-sport-utility-4d/options/?vehicleid=1074&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2005", 
+      "model": "Sorento", 
+      "car_id": "1074"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2005-kia-sorento/ex-sport-utility-4d/options/?vehicleid=1063&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2005", 
+      "model": "Sorento", 
+      "car_id": "1063"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2004-kia-sorento/lx-sport-utility-4d/options/?vehicleid=2867&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2004", 
+      "model": "Sorento", 
+      "car_id": "2867"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2004-kia-sorento/ex-sport-utility-4d/options/?vehicleid=2876&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2004", 
+      "model": "Sorento", 
+      "car_id": "2876"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2003-kia-sorento/lx-sport-utility-4d/options/?vehicleid=2648&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2003", 
+      "model": "Sorento", 
+      "car_id": "2648"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sorento/2003-kia-sorento/ex-sport-utility-4d/options/?vehicleid=2638&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2003", 
+      "model": "Sorento", 
+      "car_id": "2638"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2014-kia-sportage/lx-sport-utility-4d/options/?vehicleid=395291&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Sportage", 
+      "car_id": "395291"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2014-kia-sportage/ex-sport-utility-4d/options/?vehicleid=395293&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Sportage", 
+      "car_id": "395293"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2014-kia-sportage/sx-sport-utility-4d/options/?vehicleid=395294&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Sportage", 
+      "car_id": "395294"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2013-kia-sportage/sport-utility-4d/options/?vehicleid=379005&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Sportage", 
+      "car_id": "379005"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2013-kia-sportage/lx-sport-utility-4d/options/?vehicleid=379001&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Sportage", 
+      "car_id": "379001"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2013-kia-sportage/ex-sport-utility-4d/options/?vehicleid=379003&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Sportage", 
+      "car_id": "379003"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2013-kia-sportage/sx-sport-utility-4d/options/?vehicleid=379004&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Sportage", 
+      "car_id": "379004"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2012-kia-sportage/sport-utility-4d/options/?vehicleid=370501&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sportage", 
+      "car_id": "370501"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2012-kia-sportage/lx-sport-utility-4d/options/?vehicleid=370504&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sportage", 
+      "car_id": "370504"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2012-kia-sportage/ex-sport-utility-4d/options/?vehicleid=370500&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sportage", 
+      "car_id": "370500"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2012-kia-sportage/sx-sport-utility-4d/options/?vehicleid=370503&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sportage", 
+      "car_id": "370503"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2011-kia-sportage/sport-utility-4d/options/?vehicleid=352999&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sportage", 
+      "car_id": "352999"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2011-kia-sportage/lx-sport-utility-4d/options/?vehicleid=353000&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sportage", 
+      "car_id": "353000"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2011-kia-sportage/ex-sport-utility-4d/options/?vehicleid=353014&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sportage", 
+      "car_id": "353014"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2011-kia-sportage/sx-sport-utility-4d/options/?vehicleid=360833&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sportage", 
+      "car_id": "360833"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2010-kia-sportage/lx-sport-utility-4d/options/?vehicleid=263676&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2010", 
+      "model": "Sportage", 
+      "car_id": "263676"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2010-kia-sportage/ex-sport-utility-4d/options/?vehicleid=263678&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2010", 
+      "model": "Sportage", 
+      "car_id": "263678"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2009-kia-sportage/lx-sport-utility-4d/options/?vehicleid=226762&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2009", 
+      "model": "Sportage", 
+      "car_id": "226762"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2009-kia-sportage/ex-sport-utility-4d/options/?vehicleid=226763&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2009", 
+      "model": "Sportage", 
+      "car_id": "226763"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2008-kia-sportage/lx-sport-utility-4d/options/?vehicleid=197392&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2008", 
+      "model": "Sportage", 
+      "car_id": "197392"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2008-kia-sportage/ex-sport-utility-4d/options/?vehicleid=197395&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2008", 
+      "model": "Sportage", 
+      "car_id": "197395"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2007-kia-sportage/lx-sport-utility-4d/options/?vehicleid=83955&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2007", 
+      "model": "Sportage", 
+      "car_id": "83955"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2007-kia-sportage/ex-sport-utility-4d/options/?vehicleid=83954&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2007", 
+      "model": "Sportage", 
+      "car_id": "83954"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2006-kia-sportage/lx-sport-utility-4d/options/?vehicleid=931&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2006", 
+      "model": "Sportage", 
+      "car_id": "931"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2006-kia-sportage/ex-sport-utility-4d/options/?vehicleid=938&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2006", 
+      "model": "Sportage", 
+      "car_id": "938"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2005-kia-sportage/lx-sport-utility-4d/options/?vehicleid=1067&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2005", 
+      "model": "Sportage", 
+      "car_id": "1067"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2005-kia-sportage/ex-sport-utility-4d/options/?vehicleid=1075&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2005", 
+      "model": "Sportage", 
+      "car_id": "1075"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2002-kia-sportage/sport-utility-convertible-2d/options/?vehicleid=4298&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility Convertible 2D", 
+      "year": "2002", 
+      "model": "Sportage", 
+      "car_id": "4298"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2002-kia-sportage/sport-utility-4d/options/?vehicleid=4303&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2002", 
+      "model": "Sportage", 
+      "car_id": "4303"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2001-kia-sportage/sport-utility-convertible-2d/options/?vehicleid=4571&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility Convertible 2D", 
+      "year": "2001", 
+      "model": "Sportage", 
+      "car_id": "4571"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2001-kia-sportage/sport-utility-4d/options/?vehicleid=4564&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2001", 
+      "model": "Sportage", 
+      "car_id": "4564"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2001-kia-sportage/ex-sport-utility-4d/options/?vehicleid=4572&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2001", 
+      "model": "Sportage", 
+      "car_id": "4572"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2001-kia-sportage/limited-sport-utility-4d/options/?vehicleid=4577&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Limited Sport Utility 4D", 
+      "year": "2001", 
+      "model": "Sportage", 
+      "car_id": "4577"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2000-kia-sportage/sport-utility-convertible-2d/options/?vehicleid=6438&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility Convertible 2D", 
+      "year": "2000", 
+      "model": "Sportage", 
+      "car_id": "6438"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2000-kia-sportage/sport-utility-4d/options/?vehicleid=6447&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2000", 
+      "model": "Sportage", 
+      "car_id": "6447"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/2000-kia-sportage/ex-sport-utility-4d/options/?vehicleid=6439&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2000", 
+      "model": "Sportage", 
+      "car_id": "6439"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/1999-kia-sportage/sport-utility-convertible-2d/options/?vehicleid=5701&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility Convertible 2D", 
+      "year": "1999", 
+      "model": "Sportage", 
+      "car_id": "5701"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/1999-kia-sportage/sport-utility-4d/options/?vehicleid=5710&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "1999", 
+      "model": "Sportage", 
+      "car_id": "5710"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/1999-kia-sportage/ex-sport-utility-4d/options/?vehicleid=5702&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "1999", 
+      "model": "Sportage", 
+      "car_id": "5702"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/1998-kia-sportage/sport-utility-4d/options/?vehicleid=6713&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "1998", 
+      "model": "Sportage", 
+      "car_id": "6713"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/1998-kia-sportage/ex-sport-utility-4d/options/?vehicleid=6719&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "1998", 
+      "model": "Sportage", 
+      "car_id": "6719"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/1997-kia-sportage/sport-utility-4d/options/?vehicleid=7986&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "1997", 
+      "model": "Sportage", 
+      "car_id": "7986"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/1997-kia-sportage/ex-sport-utility-4d/options/?vehicleid=7993&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "1997", 
+      "model": "Sportage", 
+      "car_id": "7993"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/1996-kia-sportage/sport-utility-4d/options/?vehicleid=9295&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "1996", 
+      "model": "Sportage", 
+      "car_id": "9295"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/1996-kia-sportage/ex-sport-utility-4d/options/?vehicleid=9300&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "1996", 
+      "model": "Sportage", 
+      "car_id": "9300"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/1995-kia-sportage/sport-utility-4d/options/?vehicleid=7931&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "1995", 
+      "model": "Sportage", 
+      "car_id": "7931"
+    }, 
+    {
+      "category": "Crossovers", 
+      "url": "/kia/sportage/1995-kia-sportage/ex-sport-utility-4d/options/?vehicleid=7940&intent=buy-used&category=crossover", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "1995", 
+      "model": "Sportage", 
+      "car_id": "7940"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/forte/2013-kia-forte/ex-hatchback-4d/options/?vehicleid=378406&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "EX Hatchback 4D", 
+      "year": "2013", 
+      "model": "Forte", 
+      "car_id": "378406"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/forte/2013-kia-forte/sx-hatchback-4d/options/?vehicleid=378408&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "SX Hatchback 4D", 
+      "year": "2013", 
+      "model": "Forte", 
+      "car_id": "378408"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/forte/2012-kia-forte/ex-hatchback-4d/options/?vehicleid=371599&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "EX Hatchback 4D", 
+      "year": "2012", 
+      "model": "Forte", 
+      "car_id": "371599"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/forte/2012-kia-forte/sx-hatchback-4d/options/?vehicleid=371602&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "SX Hatchback 4D", 
+      "year": "2012", 
+      "model": "Forte", 
+      "car_id": "371602"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/forte/2011-kia-forte/ex-hatchback-4d/options/?vehicleid=360401&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "EX Hatchback 4D", 
+      "year": "2011", 
+      "model": "Forte", 
+      "car_id": "360401"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/forte/2011-kia-forte/sx-hatchback-4d/options/?vehicleid=360408&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "SX Hatchback 4D", 
+      "year": "2011", 
+      "model": "Forte", 
+      "car_id": "360408"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/kia/rio/2014-kia-rio/lx-hatchback-4d/options/?vehicleid=395288&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "lx-hatchback-4d", 
+      "year": "2014", 
+      "model": "Rio", 
+      "car_id": "395288"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/rio/2013-kia-rio/lx-hatchback-4d/options/?vehicleid=378120&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "LX Hatchback 4D", 
+      "year": "2013", 
+      "model": "Rio", 
+      "car_id": "378120"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/rio/2013-kia-rio/ex-hatchback-4d/options/?vehicleid=378121&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "EX Hatchback 4D", 
+      "year": "2013", 
+      "model": "Rio", 
+      "car_id": "378121"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/rio/2013-kia-rio/sx-hatchback-4d/options/?vehicleid=378124&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "SX Hatchback 4D", 
+      "year": "2013", 
+      "model": "Rio", 
+      "car_id": "378124"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/rio/2012-kia-rio/lx-hatchback-4d/options/?vehicleid=371098&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "LX Hatchback 4D", 
+      "year": "2012", 
+      "model": "Rio", 
+      "car_id": "371098"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/rio/2012-kia-rio/ex-hatchback-4d/options/?vehicleid=371105&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "EX Hatchback 4D", 
+      "year": "2012", 
+      "model": "Rio", 
+      "car_id": "371105"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/rio/2012-kia-rio/sx-hatchback-4d/options/?vehicleid=371101&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "SX Hatchback 4D", 
+      "year": "2012", 
+      "model": "Rio", 
+      "car_id": "371101"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/rio/2011-kia-rio/rio5-lx-hatchback-4d/options/?vehicleid=358147&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Rio5 LX Hatchback 4D", 
+      "year": "2011", 
+      "model": "Rio", 
+      "car_id": "358147"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/rio/2011-kia-rio/rio5-sx-hatchback-4d/options/?vehicleid=358148&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Rio5 SX Hatchback 4D", 
+      "year": "2011", 
+      "model": "Rio", 
+      "car_id": "358148"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/rio/2010-kia-rio/rio5-lx-hatchback-4d/options/?vehicleid=263671&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Rio5 LX Hatchback 4D", 
+      "year": "2010", 
+      "model": "Rio", 
+      "car_id": "263671"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/rio/2010-kia-rio/rio5-sx-hatchback-4d/options/?vehicleid=263668&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Rio5 SX Hatchback 4D", 
+      "year": "2010", 
+      "model": "Rio", 
+      "car_id": "263668"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/rio/2009-kia-rio/rio5-sx-hatchback-4d/options/?vehicleid=226750&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Rio5 SX Hatchback 4D", 
+      "year": "2009", 
+      "model": "Rio", 
+      "car_id": "226750"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/rio/2009-kia-rio/rio5-lx-hatchback-4d/options/?vehicleid=226753&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Rio5 LX Hatchback 4D", 
+      "year": "2009", 
+      "model": "Rio", 
+      "car_id": "226753"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/rio/2008-kia-rio/rio5-sx-hatchback-4d/options/?vehicleid=197379&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Rio5 SX Hatchback 4D", 
+      "year": "2008", 
+      "model": "Rio", 
+      "car_id": "197379"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/rio/2008-kia-rio/rio5-lx-hatchback-4d/options/?vehicleid=226964&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Rio5 LX Hatchback 4D", 
+      "year": "2008", 
+      "model": "Rio", 
+      "car_id": "226964"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/kia/rio/2007-kia-rio/rio5-sx-hatchback-4d/options/?vehicleid=83944&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "rio5-sx-hatchback-4d", 
+      "year": "2007", 
+      "model": "Rio", 
+      "car_id": "83944"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/kia/rio/2006-kia-rio/rio5-sx-hatchback-4d/options/?vehicleid=922&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "rio5-sx-hatchback-4d", 
+      "year": "2006", 
+      "model": "Rio", 
+      "car_id": "922"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2014-kia-soul/wagon-4d/options/?vehicleid=392471&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Wagon 4D", 
+      "year": "2014", 
+      "model": "Soul", 
+      "car_id": "392471"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2014-kia-soul/-wagon-4d/options/?vehicleid=392474&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "+ Wagon 4D", 
+      "year": "2014", 
+      "model": "Soul", 
+      "car_id": "392474"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2013-kia-soul/wagon-4d/options/?vehicleid=378804&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Wagon 4D", 
+      "year": "2013", 
+      "model": "Soul", 
+      "car_id": "378804"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2013-kia-soul/-wagon-4d/options/?vehicleid=378803&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "+ Wagon 4D", 
+      "year": "2013", 
+      "model": "Soul", 
+      "car_id": "378803"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2013-kia-soul/-wagon-4d/options/?vehicleid=378810&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "! Wagon 4D", 
+      "year": "2013", 
+      "model": "Soul", 
+      "car_id": "378810"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2012-kia-soul/wagon-4d/options/?vehicleid=370425&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Wagon 4D", 
+      "year": "2012", 
+      "model": "Soul", 
+      "car_id": "370425"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2012-kia-soul/-wagon-4d/options/?vehicleid=370428&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "+ Wagon 4D", 
+      "year": "2012", 
+      "model": "Soul", 
+      "car_id": "370428"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2012-kia-soul/-wagon-4d/options/?vehicleid=370429&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "! Wagon 4D", 
+      "year": "2012", 
+      "model": "Soul", 
+      "car_id": "370429"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2011-kia-soul/wagon-4d/options/?vehicleid=353006&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Wagon 4D", 
+      "year": "2011", 
+      "model": "Soul", 
+      "car_id": "353006"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2011-kia-soul/-wagon-4d/options/?vehicleid=353007&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "+ Wagon 4D", 
+      "year": "2011", 
+      "model": "Soul", 
+      "car_id": "353007"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2011-kia-soul/-wagon-4d/options/?vehicleid=353010&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "! Wagon 4D", 
+      "year": "2011", 
+      "model": "Soul", 
+      "car_id": "353010"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2011-kia-soul/sport-wagon-4d/options/?vehicleid=353009&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Sport Wagon 4D", 
+      "year": "2011", 
+      "model": "Soul", 
+      "car_id": "353009"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2010-kia-soul/wagon-4d/options/?vehicleid=248472&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Wagon 4D", 
+      "year": "2010", 
+      "model": "Soul", 
+      "car_id": "248472"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2010-kia-soul/-wagon-4d/options/?vehicleid=248467&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "+ Wagon 4D", 
+      "year": "2010", 
+      "model": "Soul", 
+      "car_id": "248467"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2010-kia-soul/-wagon-4d/options/?vehicleid=248469&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "! Wagon 4D", 
+      "year": "2010", 
+      "model": "Soul", 
+      "car_id": "248469"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/soul/2010-kia-soul/sport-wagon-4d/options/?vehicleid=248471&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "Sport Wagon 4D", 
+      "year": "2010", 
+      "model": "Soul", 
+      "car_id": "248471"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/kia/spectra/2009-kia-spectra/5-sx-hatchback-4d/options/?vehicleid=226754&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "5-sx-hatchback-4d", 
+      "year": "2009", 
+      "model": "Spectra", 
+      "car_id": "226754"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/kia/spectra/2008-kia-spectra/5-sx-hatchback-4d/options/?vehicleid=197385&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "5-sx-hatchback-4d", 
+      "year": "2008", 
+      "model": "Spectra", 
+      "car_id": "197385"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/kia/spectra/2007-kia-spectra/5-sx-hatchback-4d/options/?vehicleid=83948&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "5-sx-hatchback-4d", 
+      "year": "2007", 
+      "model": "Spectra", 
+      "car_id": "83948"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/kia/spectra/2006-kia-spectra/5-hatchback-4d/options/?vehicleid=928&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "5-hatchback-4d", 
+      "year": "2006", 
+      "model": "Spectra", 
+      "car_id": "928"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "http://www.kbb.com/kia/spectra/2005-kia-spectra/5-hatchback-4d/options/?vehicleid=1064&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "5-hatchback-4d", 
+      "year": "2005", 
+      "model": "Spectra", 
+      "car_id": "1064"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/spectra/2004-kia-spectra/gs-hatchback-4d/options/?vehicleid=2863&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "GS Hatchback 4D", 
+      "year": "2004", 
+      "model": "Spectra", 
+      "car_id": "2863"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/spectra/2004-kia-spectra/gsx-hatchback-4d/options/?vehicleid=2860&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "GSX Hatchback 4D", 
+      "year": "2004", 
+      "model": "Spectra", 
+      "car_id": "2860"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/spectra/2003-kia-spectra/gs-hatchback-4d/options/?vehicleid=2630&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "GS Hatchback 4D", 
+      "year": "2003", 
+      "model": "Spectra", 
+      "car_id": "2630"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/spectra/2003-kia-spectra/gsx-hatchback-4d/options/?vehicleid=2635&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "GSX Hatchback 4D", 
+      "year": "2003", 
+      "model": "Spectra", 
+      "car_id": "2635"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/spectra/2002-kia-spectra/gs-hatchback-4d/options/?vehicleid=4289&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "GS Hatchback 4D", 
+      "year": "2002", 
+      "model": "Spectra", 
+      "car_id": "4289"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/spectra/2002-kia-spectra/gsx-hatchback-4d/options/?vehicleid=4293&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "GSX Hatchback 4D", 
+      "year": "2002", 
+      "model": "Spectra", 
+      "car_id": "4293"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/spectra/2001-kia-spectra/gs-hatchback-4d/options/?vehicleid=4563&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "GS Hatchback 4D", 
+      "year": "2001", 
+      "model": "Spectra", 
+      "car_id": "4563"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/spectra/2001-kia-spectra/gsx-hatchback-4d/options/?vehicleid=4567&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "GSX Hatchback 4D", 
+      "year": "2001", 
+      "model": "Spectra", 
+      "car_id": "4567"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/spectra/2000-kia-spectra/gs-sedan-4d/options/?vehicleid=6431&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "2000", 
+      "model": "Spectra", 
+      "car_id": "6431"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "url": "/kia/spectra/2000-kia-spectra/gsx-sedan-4d/options/?vehicleid=6432&intent=buy-used&category=hatchback", 
+      "make": "Kia", 
+      "sub_cat": "GSX Sedan 4D", 
+      "year": "2000", 
+      "model": "Spectra", 
+      "car_id": "6432"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/kia/optima/2014-kia-optima/lx-hybrid-sedan-4d/options/?vehicleid=400359&intent=buy-used&category=hybrid", 
+      "make": "Kia", 
+      "sub_cat": "LX Hybrid Sedan 4D", 
+      "year": "2014", 
+      "model": "Optima", 
+      "car_id": "400359"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/kia/optima/2014-kia-optima/ex-hybrid-sedan-4d/options/?vehicleid=400360&intent=buy-used&category=hybrid", 
+      "make": "Kia", 
+      "sub_cat": "EX Hybrid Sedan 4D", 
+      "year": "2014", 
+      "model": "Optima", 
+      "car_id": "400360"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/kia/optima/2013-kia-optima/lx-hybrid-sedan-4d/options/?vehicleid=385282&intent=buy-used&category=hybrid", 
+      "make": "Kia", 
+      "sub_cat": "LX Hybrid Sedan 4D", 
+      "year": "2013", 
+      "model": "Optima", 
+      "car_id": "385282"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "/kia/optima/2013-kia-optima/ex-hybrid-sedan-4d/options/?vehicleid=385285&intent=buy-used&category=hybrid", 
+      "make": "Kia", 
+      "sub_cat": "EX Hybrid Sedan 4D", 
+      "year": "2013", 
+      "model": "Optima", 
+      "car_id": "385285"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/kia/optima/2012-kia-optima/hybrid-sedan-4d/options/?vehicleid=374179&intent=buy-used&category=hybrid", 
+      "make": "Kia", 
+      "sub_cat": "hybrid-sedan-4d", 
+      "year": "2012", 
+      "model": "Optima", 
+      "car_id": "374179"
+    }, 
+    {
+      "category": "Hybrids", 
+      "url": "http://www.kbb.com/kia/optima/2011-kia-optima/hybrid-sedan-4d/options/?vehicleid=360307&intent=buy-used&category=hybrid", 
+      "make": "Kia", 
+      "sub_cat": "hybrid-sedan-4d", 
+      "year": "2011", 
+      "model": "Optima", 
+      "car_id": "360307"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/kia/amanti/2009-kia-amanti/sedan-4d/options/?vehicleid=226739&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "sedan-4d", 
+      "year": "2009", 
+      "model": "Amanti", 
+      "car_id": "226739"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/kia/amanti/2008-kia-amanti/sedan-4d/options/?vehicleid=197373&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "sedan-4d", 
+      "year": "2008", 
+      "model": "Amanti", 
+      "car_id": "197373"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/kia/amanti/2007-kia-amanti/sedan-4d/options/?vehicleid=83935&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "sedan-4d", 
+      "year": "2007", 
+      "model": "Amanti", 
+      "car_id": "83935"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/kia/amanti/2006-kia-amanti/sedan-4d/options/?vehicleid=918&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "sedan-4d", 
+      "year": "2006", 
+      "model": "Amanti", 
+      "car_id": "918"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/kia/amanti/2005-kia-amanti/sedan-4d/options/?vehicleid=1039&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "sedan-4d", 
+      "year": "2005", 
+      "model": "Amanti", 
+      "car_id": "1039"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/kia/amanti/2004-kia-amanti/sedan-4d/options/?vehicleid=2855&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "sedan-4d", 
+      "year": "2004", 
+      "model": "Amanti", 
+      "car_id": "2855"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/forte/2014-kia-forte/lx-sedan-4d/options/?vehicleid=385357&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2014", 
+      "model": "Forte", 
+      "car_id": "385357"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/forte/2014-kia-forte/ex-sedan-4d/options/?vehicleid=385359&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2014", 
+      "model": "Forte", 
+      "car_id": "385359"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/forte/2013-kia-forte/lx-sedan-4d/options/?vehicleid=378404&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2013", 
+      "model": "Forte", 
+      "car_id": "378404"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/forte/2013-kia-forte/ex-sedan-4d/options/?vehicleid=378405&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2013", 
+      "model": "Forte", 
+      "car_id": "378405"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/forte/2013-kia-forte/sx-sedan-4d/options/?vehicleid=378411&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2013", 
+      "model": "Forte", 
+      "car_id": "378411"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/forte/2012-kia-forte/lx-sedan-4d/options/?vehicleid=371596&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2012", 
+      "model": "Forte", 
+      "car_id": "371596"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/forte/2012-kia-forte/ex-sedan-4d/options/?vehicleid=371601&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2012", 
+      "model": "Forte", 
+      "car_id": "371601"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/forte/2012-kia-forte/sx-sedan-4d/options/?vehicleid=371598&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2012", 
+      "model": "Forte", 
+      "car_id": "371598"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/forte/2011-kia-forte/lx-sedan-4d/options/?vehicleid=360399&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2011", 
+      "model": "Forte", 
+      "car_id": "360399"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/forte/2011-kia-forte/ex-sedan-4d/options/?vehicleid=360403&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2011", 
+      "model": "Forte", 
+      "car_id": "360403"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/forte/2011-kia-forte/sx-sedan-4d/options/?vehicleid=360409&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2011", 
+      "model": "Forte", 
+      "car_id": "360409"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/forte/2010-kia-forte/lx-sedan-4d/options/?vehicleid=252377&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2010", 
+      "model": "Forte", 
+      "car_id": "252377"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/forte/2010-kia-forte/ex-sedan-4d/options/?vehicleid=252375&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2010", 
+      "model": "Forte", 
+      "car_id": "252375"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/forte/2010-kia-forte/sx-sedan-4d/options/?vehicleid=252376&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2010", 
+      "model": "Forte", 
+      "car_id": "252376"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2014-kia-optima/lx-sedan-4d/options/?vehicleid=392778&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2014", 
+      "model": "Optima", 
+      "car_id": "392778"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2014-kia-optima/ex-sedan-4d/options/?vehicleid=392779&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2014", 
+      "model": "Optima", 
+      "car_id": "392779"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2014-kia-optima/sx-sedan-4d/options/?vehicleid=392782&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2014", 
+      "model": "Optima", 
+      "car_id": "392782"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2014-kia-optima/lx-hybrid-sedan-4d/options/?vehicleid=400359&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Hybrid Sedan 4D", 
+      "year": "2014", 
+      "model": "Optima", 
+      "car_id": "400359"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2014-kia-optima/sx-turbo-sedan-4d/options/?vehicleid=392785&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SX Turbo Sedan 4D", 
+      "year": "2014", 
+      "model": "Optima", 
+      "car_id": "392785"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2014-kia-optima/ex-hybrid-sedan-4d/options/?vehicleid=400360&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Hybrid Sedan 4D", 
+      "year": "2014", 
+      "model": "Optima", 
+      "car_id": "400360"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2014-kia-optima/limited-sedan-4d/options/?vehicleid=392784&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "2014", 
+      "model": "Optima", 
+      "car_id": "392784"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2013-kia-optima/lx-sedan-4d/options/?vehicleid=379125&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2013", 
+      "model": "Optima", 
+      "car_id": "379125"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2013-kia-optima/ex-sedan-4d/options/?vehicleid=379122&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2013", 
+      "model": "Optima", 
+      "car_id": "379122"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2013-kia-optima/lx-hybrid-sedan-4d/options/?vehicleid=385282&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Hybrid Sedan 4D", 
+      "year": "2013", 
+      "model": "Optima", 
+      "car_id": "385282"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2013-kia-optima/sx-sedan-4d/options/?vehicleid=379120&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2013", 
+      "model": "Optima", 
+      "car_id": "379120"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2013-kia-optima/ex-hybrid-sedan-4d/options/?vehicleid=385285&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Hybrid Sedan 4D", 
+      "year": "2013", 
+      "model": "Optima", 
+      "car_id": "385285"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2013-kia-optima/limited-sedan-4d/options/?vehicleid=379123&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "Limited Sedan 4D", 
+      "year": "2013", 
+      "model": "Optima", 
+      "car_id": "379123"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2012-kia-optima/lx-sedan-4d/options/?vehicleid=371085&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2012", 
+      "model": "Optima", 
+      "car_id": "371085"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2012-kia-optima/ex-sedan-4d/options/?vehicleid=371086&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2012", 
+      "model": "Optima", 
+      "car_id": "371086"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2012-kia-optima/hybrid-sedan-4d/options/?vehicleid=374179&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "Hybrid Sedan 4D", 
+      "year": "2012", 
+      "model": "Optima", 
+      "car_id": "374179"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2012-kia-optima/sx-sedan-4d/options/?vehicleid=371087&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2012", 
+      "model": "Optima", 
+      "car_id": "371087"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2011-kia-optima/lx-sedan-4d/options/?vehicleid=360309&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2011", 
+      "model": "Optima", 
+      "car_id": "360309"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2011-kia-optima/ex-sedan-4d/options/?vehicleid=360312&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2011", 
+      "model": "Optima", 
+      "car_id": "360312"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2011-kia-optima/sx-sedan-4d/options/?vehicleid=360311&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2011", 
+      "model": "Optima", 
+      "car_id": "360311"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2011-kia-optima/hybrid-sedan-4d/options/?vehicleid=360307&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "Hybrid Sedan 4D", 
+      "year": "2011", 
+      "model": "Optima", 
+      "car_id": "360307"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2010-kia-optima/lx-sedan-4d/options/?vehicleid=263665&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2010", 
+      "model": "Optima", 
+      "car_id": "263665"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2010-kia-optima/ex-sedan-4d/options/?vehicleid=263666&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2010", 
+      "model": "Optima", 
+      "car_id": "263666"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2010-kia-optima/sx-sedan-4d/options/?vehicleid=263669&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2010", 
+      "model": "Optima", 
+      "car_id": "263669"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2009-kia-optima/lx-sedan-4d/options/?vehicleid=226743&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2009", 
+      "model": "Optima", 
+      "car_id": "226743"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2009-kia-optima/ex-sedan-4d/options/?vehicleid=226740&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2009", 
+      "model": "Optima", 
+      "car_id": "226740"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2009-kia-optima/sx-sedan-4d/options/?vehicleid=247957&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2009", 
+      "model": "Optima", 
+      "car_id": "247957"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2008-kia-optima/lx-sedan-4d/options/?vehicleid=197374&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2008", 
+      "model": "Optima", 
+      "car_id": "197374"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2008-kia-optima/ex-sedan-4d/options/?vehicleid=197375&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2008", 
+      "model": "Optima", 
+      "car_id": "197375"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2007-kia-optima/lx-sedan-4d/options/?vehicleid=83938&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2007", 
+      "model": "Optima", 
+      "car_id": "83938"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2007-kia-optima/ex-sedan-4d/options/?vehicleid=83941&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2007", 
+      "model": "Optima", 
+      "car_id": "83941"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2006-kia-optima/lx-sedan-4d/options/?vehicleid=908&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2006", 
+      "model": "Optima", 
+      "car_id": "908"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2006-kia-optima/ex-sedan-4d/options/?vehicleid=912&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2006", 
+      "model": "Optima", 
+      "car_id": "912"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2005-kia-optima/lx-sedan-4d/options/?vehicleid=1044&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2005", 
+      "model": "Optima", 
+      "car_id": "1044"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2005-kia-optima/ex-sedan-4d/options/?vehicleid=1047&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2005", 
+      "model": "Optima", 
+      "car_id": "1047"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2004-kia-optima/lx-sedan-4d/options/?vehicleid=2843&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2004", 
+      "model": "Optima", 
+      "car_id": "2843"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2004-kia-optima/ex-sedan-4d/options/?vehicleid=2846&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2004", 
+      "model": "Optima", 
+      "car_id": "2846"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2003-kia-optima/lx-sedan-4d/options/?vehicleid=2624&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2003", 
+      "model": "Optima", 
+      "car_id": "2624"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2003-kia-optima/se-sedan-4d/options/?vehicleid=2627&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SE Sedan 4D", 
+      "year": "2003", 
+      "model": "Optima", 
+      "car_id": "2627"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2002-kia-optima/lx-sedan-4d/options/?vehicleid=4281&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2002", 
+      "model": "Optima", 
+      "car_id": "4281"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2002-kia-optima/se-sedan-4d/options/?vehicleid=4282&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SE Sedan 4D", 
+      "year": "2002", 
+      "model": "Optima", 
+      "car_id": "4282"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2001-kia-optima/lx-sedan-4d/options/?vehicleid=4550&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2001", 
+      "model": "Optima", 
+      "car_id": "4550"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/optima/2001-kia-optima/se-sedan-4d/options/?vehicleid=4553&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SE Sedan 4D", 
+      "year": "2001", 
+      "model": "Optima", 
+      "car_id": "4553"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/kia/rio/2014-kia-rio/lx-sedan-4d/options/?vehicleid=395284&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "lx-sedan-4d", 
+      "year": "2014", 
+      "model": "Rio", 
+      "car_id": "395284"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/rio/2013-kia-rio/lx-sedan-4d/options/?vehicleid=378119&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2013", 
+      "model": "Rio", 
+      "car_id": "378119"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/rio/2013-kia-rio/ex-sedan-4d/options/?vehicleid=378118&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2013", 
+      "model": "Rio", 
+      "car_id": "378118"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/rio/2013-kia-rio/sx-sedan-4d/options/?vehicleid=378125&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2013", 
+      "model": "Rio", 
+      "car_id": "378125"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/rio/2012-kia-rio/lx-sedan-4d/options/?vehicleid=374120&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LX Sedan 4D", 
+      "year": "2012", 
+      "model": "Rio", 
+      "car_id": "374120"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/rio/2012-kia-rio/ex-sedan-4d/options/?vehicleid=374121&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "EX Sedan 4D", 
+      "year": "2012", 
+      "model": "Rio", 
+      "car_id": "374121"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/rio/2012-kia-rio/sx-sedan-4d/options/?vehicleid=374122&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "SX Sedan 4D", 
+      "year": "2012", 
+      "model": "Rio", 
+      "car_id": "374122"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/kia/rio/2005-kia-rio/sedan-4d/options/?vehicleid=1049&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "sedan-4d", 
+      "year": "2005", 
+      "model": "Rio", 
+      "car_id": "1049"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/kia/rio/2004-kia-rio/sedan-4d/options/?vehicleid=2851&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "sedan-4d", 
+      "year": "2004", 
+      "model": "Rio", 
+      "car_id": "2851"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/kia/rio/2003-kia-rio/sedan-4d/options/?vehicleid=2620&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "sedan-4d", 
+      "year": "2003", 
+      "model": "Rio", 
+      "car_id": "2620"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/kia/rio/2002-kia-rio/sedan-4d/options/?vehicleid=4286&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "sedan-4d", 
+      "year": "2002", 
+      "model": "Rio", 
+      "car_id": "4286"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/kia/rio/2001-kia-rio/sedan-4d/options/?vehicleid=4555&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "sedan-4d", 
+      "year": "2001", 
+      "model": "Rio", 
+      "car_id": "4555"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/2001-kia-sephia/sedan-4d/options/?vehicleid=4558&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2001", 
+      "model": "Sephia", 
+      "car_id": "4558"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/2001-kia-sephia/ls-sedan-4d/options/?vehicleid=4562&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "2001", 
+      "model": "Sephia", 
+      "car_id": "4562"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/2000-kia-sephia/sedan-4d/options/?vehicleid=6421&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "Sedan 4D", 
+      "year": "2000", 
+      "model": "Sephia", 
+      "car_id": "6421"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/2000-kia-sephia/ls-sedan-4d/options/?vehicleid=6428&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "2000", 
+      "model": "Sephia", 
+      "car_id": "6428"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1999-kia-sephia/sedan-4d/options/?vehicleid=5696&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1999", 
+      "model": "Sephia", 
+      "car_id": "5696"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1999-kia-sephia/ls-sedan-4d/options/?vehicleid=5697&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1999", 
+      "model": "Sephia", 
+      "car_id": "5697"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1998-kia-sephia/sedan-4d/options/?vehicleid=6717&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1998", 
+      "model": "Sephia", 
+      "car_id": "6717"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1998-kia-sephia/ls-sedan-4d/options/?vehicleid=6706&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1998", 
+      "model": "Sephia", 
+      "car_id": "6706"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1997-kia-sephia/rs-sedan-4d/options/?vehicleid=7990&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "RS Sedan 4D", 
+      "year": "1997", 
+      "model": "Sephia", 
+      "car_id": "7990"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1997-kia-sephia/ls-sedan-4d/options/?vehicleid=7996&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1997", 
+      "model": "Sephia", 
+      "car_id": "7996"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1997-kia-sephia/gs-sedan-4d/options/?vehicleid=7983&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "1997", 
+      "model": "Sephia", 
+      "car_id": "7983"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1996-kia-sephia/rs-sedan-4d/options/?vehicleid=9284&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "RS Sedan 4D", 
+      "year": "1996", 
+      "model": "Sephia", 
+      "car_id": "9284"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1996-kia-sephia/ls-sedan-4d/options/?vehicleid=9289&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1996", 
+      "model": "Sephia", 
+      "car_id": "9289"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1996-kia-sephia/gs-sedan-4d/options/?vehicleid=9290&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "1996", 
+      "model": "Sephia", 
+      "car_id": "9290"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1995-kia-sephia/rs-sedan-4d/options/?vehicleid=7929&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "RS Sedan 4D", 
+      "year": "1995", 
+      "model": "Sephia", 
+      "car_id": "7929"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1995-kia-sephia/ls-sedan-4d/options/?vehicleid=7934&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1995", 
+      "model": "Sephia", 
+      "car_id": "7934"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1995-kia-sephia/gs-sedan-4d/options/?vehicleid=7924&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "1995", 
+      "model": "Sephia", 
+      "car_id": "7924"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1994-kia-sephia/rs-sedan-4d/options/?vehicleid=9343&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "RS Sedan 4D", 
+      "year": "1994", 
+      "model": "Sephia", 
+      "car_id": "9343"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1994-kia-sephia/ls-sedan-4d/options/?vehicleid=9348&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1994", 
+      "model": "Sephia", 
+      "car_id": "9348"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/sephia/1994-kia-sephia/gs-sedan-4d/options/?vehicleid=9352&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "GS Sedan 4D", 
+      "year": "1994", 
+      "model": "Sephia", 
+      "car_id": "9352"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/spectra/2001-kia-spectra/gs-hatchback-4d/options/?vehicleid=4563&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "GS Hatchback 4D", 
+      "year": "2001", 
+      "model": "Spectra", 
+      "car_id": "4563"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/kia/spectra/2001-kia-spectra/gsx-hatchback-4d/options/?vehicleid=4567&intent=buy-used&category=sedan", 
+      "make": "Kia", 
+      "sub_cat": "GSX Hatchback 4D", 
+      "year": "2001", 
+      "model": "Spectra", 
+      "car_id": "4567"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2014-kia-sorento/lx-sport-utility-4d/options/?vehicleid=384946&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Sorento", 
+      "car_id": "384946"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2014-kia-sorento/ex-sport-utility-4d/options/?vehicleid=384949&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Sorento", 
+      "car_id": "384949"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2014-kia-sorento/sx-sport-utility-4d/options/?vehicleid=384948&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Sorento", 
+      "car_id": "384948"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2014-kia-sorento/limited-sport-utility-4d/options/?vehicleid=384947&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Limited Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Sorento", 
+      "car_id": "384947"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2013-kia-sorento/lx-sport-utility-4d/options/?vehicleid=374517&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Sorento", 
+      "car_id": "374517"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2013-kia-sorento/ex-sport-utility-4d/options/?vehicleid=374513&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Sorento", 
+      "car_id": "374513"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2013-kia-sorento/sx-sport-utility-4d/options/?vehicleid=374518&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Sorento", 
+      "car_id": "374518"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2012-kia-sorento/sport-utility-4d/options/?vehicleid=370924&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sorento", 
+      "car_id": "370924"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2012-kia-sorento/lx-sport-utility-4d/options/?vehicleid=370923&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sorento", 
+      "car_id": "370923"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2012-kia-sorento/ex-sport-utility-4d/options/?vehicleid=370927&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sorento", 
+      "car_id": "370927"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2012-kia-sorento/sx-sport-utility-4d/options/?vehicleid=370928&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sorento", 
+      "car_id": "370928"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2011-kia-sorento/sport-utility-4d/options/?vehicleid=352802&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sorento", 
+      "car_id": "352802"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2011-kia-sorento/lx-sport-utility-4d/options/?vehicleid=352774&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sorento", 
+      "car_id": "352774"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2011-kia-sorento/ex-sport-utility-4d/options/?vehicleid=352423&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sorento", 
+      "car_id": "352423"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2011-kia-sorento/sx-sport-utility-4d/options/?vehicleid=358345&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sorento", 
+      "car_id": "358345"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2009-kia-sorento/sport-utility-4d/options/?vehicleid=226765&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2009", 
+      "model": "Sorento", 
+      "car_id": "226765"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2009-kia-sorento/lx-sport-utility-4d/options/?vehicleid=226766&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2009", 
+      "model": "Sorento", 
+      "car_id": "226766"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2009-kia-sorento/ex-sport-utility-4d/options/?vehicleid=226768&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2009", 
+      "model": "Sorento", 
+      "car_id": "226768"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2008-kia-sorento/sport-utility-4d/options/?vehicleid=197389&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2008", 
+      "model": "Sorento", 
+      "car_id": "197389"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2008-kia-sorento/lx-sport-utility-4d/options/?vehicleid=197390&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2008", 
+      "model": "Sorento", 
+      "car_id": "197390"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2008-kia-sorento/ex-sport-utility-4d/options/?vehicleid=197394&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2008", 
+      "model": "Sorento", 
+      "car_id": "197394"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2007-kia-sorento/sport-utility-4d/options/?vehicleid=83956&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2007", 
+      "model": "Sorento", 
+      "car_id": "83956"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2007-kia-sorento/lx-sport-utility-4d/options/?vehicleid=83950&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2007", 
+      "model": "Sorento", 
+      "car_id": "83950"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2007-kia-sorento/ex-sport-utility-4d/options/?vehicleid=83952&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2007", 
+      "model": "Sorento", 
+      "car_id": "83952"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2006-kia-sorento/lx-sport-utility-4d/options/?vehicleid=939&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2006", 
+      "model": "Sorento", 
+      "car_id": "939"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2006-kia-sorento/ex-sport-utility-4d/options/?vehicleid=948&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2006", 
+      "model": "Sorento", 
+      "car_id": "948"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2005-kia-sorento/lx-sport-utility-4d/options/?vehicleid=1074&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2005", 
+      "model": "Sorento", 
+      "car_id": "1074"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2005-kia-sorento/ex-sport-utility-4d/options/?vehicleid=1063&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2005", 
+      "model": "Sorento", 
+      "car_id": "1063"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2004-kia-sorento/lx-sport-utility-4d/options/?vehicleid=2867&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2004", 
+      "model": "Sorento", 
+      "car_id": "2867"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2004-kia-sorento/ex-sport-utility-4d/options/?vehicleid=2876&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2004", 
+      "model": "Sorento", 
+      "car_id": "2876"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2003-kia-sorento/lx-sport-utility-4d/options/?vehicleid=2648&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2003", 
+      "model": "Sorento", 
+      "car_id": "2648"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sorento/2003-kia-sorento/ex-sport-utility-4d/options/?vehicleid=2638&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2003", 
+      "model": "Sorento", 
+      "car_id": "2638"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2014-kia-sportage/lx-sport-utility-4d/options/?vehicleid=395291&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Sportage", 
+      "car_id": "395291"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2014-kia-sportage/ex-sport-utility-4d/options/?vehicleid=395293&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Sportage", 
+      "car_id": "395293"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2014-kia-sportage/sx-sport-utility-4d/options/?vehicleid=395294&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2014", 
+      "model": "Sportage", 
+      "car_id": "395294"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2013-kia-sportage/sport-utility-4d/options/?vehicleid=379005&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Sportage", 
+      "car_id": "379005"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2013-kia-sportage/lx-sport-utility-4d/options/?vehicleid=379001&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Sportage", 
+      "car_id": "379001"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2013-kia-sportage/ex-sport-utility-4d/options/?vehicleid=379003&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Sportage", 
+      "car_id": "379003"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2013-kia-sportage/sx-sport-utility-4d/options/?vehicleid=379004&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2013", 
+      "model": "Sportage", 
+      "car_id": "379004"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2012-kia-sportage/sport-utility-4d/options/?vehicleid=370501&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sportage", 
+      "car_id": "370501"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2012-kia-sportage/lx-sport-utility-4d/options/?vehicleid=370504&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sportage", 
+      "car_id": "370504"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2012-kia-sportage/ex-sport-utility-4d/options/?vehicleid=370500&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sportage", 
+      "car_id": "370500"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2012-kia-sportage/sx-sport-utility-4d/options/?vehicleid=370503&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2012", 
+      "model": "Sportage", 
+      "car_id": "370503"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2011-kia-sportage/sport-utility-4d/options/?vehicleid=352999&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sportage", 
+      "car_id": "352999"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2011-kia-sportage/lx-sport-utility-4d/options/?vehicleid=353000&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sportage", 
+      "car_id": "353000"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2011-kia-sportage/ex-sport-utility-4d/options/?vehicleid=353014&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sportage", 
+      "car_id": "353014"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2011-kia-sportage/sx-sport-utility-4d/options/?vehicleid=360833&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "SX Sport Utility 4D", 
+      "year": "2011", 
+      "model": "Sportage", 
+      "car_id": "360833"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2010-kia-sportage/lx-sport-utility-4d/options/?vehicleid=263676&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2010", 
+      "model": "Sportage", 
+      "car_id": "263676"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2010-kia-sportage/ex-sport-utility-4d/options/?vehicleid=263678&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2010", 
+      "model": "Sportage", 
+      "car_id": "263678"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2009-kia-sportage/lx-sport-utility-4d/options/?vehicleid=226762&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2009", 
+      "model": "Sportage", 
+      "car_id": "226762"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2009-kia-sportage/ex-sport-utility-4d/options/?vehicleid=226763&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2009", 
+      "model": "Sportage", 
+      "car_id": "226763"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2008-kia-sportage/lx-sport-utility-4d/options/?vehicleid=197392&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2008", 
+      "model": "Sportage", 
+      "car_id": "197392"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2008-kia-sportage/ex-sport-utility-4d/options/?vehicleid=197395&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2008", 
+      "model": "Sportage", 
+      "car_id": "197395"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2007-kia-sportage/lx-sport-utility-4d/options/?vehicleid=83955&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2007", 
+      "model": "Sportage", 
+      "car_id": "83955"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2007-kia-sportage/ex-sport-utility-4d/options/?vehicleid=83954&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2007", 
+      "model": "Sportage", 
+      "car_id": "83954"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2006-kia-sportage/lx-sport-utility-4d/options/?vehicleid=931&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2006", 
+      "model": "Sportage", 
+      "car_id": "931"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2006-kia-sportage/ex-sport-utility-4d/options/?vehicleid=938&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2006", 
+      "model": "Sportage", 
+      "car_id": "938"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2005-kia-sportage/lx-sport-utility-4d/options/?vehicleid=1067&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "LX Sport Utility 4D", 
+      "year": "2005", 
+      "model": "Sportage", 
+      "car_id": "1067"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2005-kia-sportage/ex-sport-utility-4d/options/?vehicleid=1075&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2005", 
+      "model": "Sportage", 
+      "car_id": "1075"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2002-kia-sportage/sport-utility-convertible-2d/options/?vehicleid=4298&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility Convertible 2D", 
+      "year": "2002", 
+      "model": "Sportage", 
+      "car_id": "4298"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2002-kia-sportage/sport-utility-4d/options/?vehicleid=4303&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2002", 
+      "model": "Sportage", 
+      "car_id": "4303"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2001-kia-sportage/sport-utility-convertible-2d/options/?vehicleid=4571&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility Convertible 2D", 
+      "year": "2001", 
+      "model": "Sportage", 
+      "car_id": "4571"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2001-kia-sportage/sport-utility-4d/options/?vehicleid=4564&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2001", 
+      "model": "Sportage", 
+      "car_id": "4564"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2001-kia-sportage/ex-sport-utility-4d/options/?vehicleid=4572&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2001", 
+      "model": "Sportage", 
+      "car_id": "4572"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2001-kia-sportage/limited-sport-utility-4d/options/?vehicleid=4577&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Limited Sport Utility 4D", 
+      "year": "2001", 
+      "model": "Sportage", 
+      "car_id": "4577"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2000-kia-sportage/sport-utility-convertible-2d/options/?vehicleid=6438&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility Convertible 2D", 
+      "year": "2000", 
+      "model": "Sportage", 
+      "car_id": "6438"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2000-kia-sportage/sport-utility-4d/options/?vehicleid=6447&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "2000", 
+      "model": "Sportage", 
+      "car_id": "6447"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/2000-kia-sportage/ex-sport-utility-4d/options/?vehicleid=6439&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "2000", 
+      "model": "Sportage", 
+      "car_id": "6439"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/1999-kia-sportage/sport-utility-convertible-2d/options/?vehicleid=5701&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility Convertible 2D", 
+      "year": "1999", 
+      "model": "Sportage", 
+      "car_id": "5701"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/1999-kia-sportage/sport-utility-4d/options/?vehicleid=5710&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "1999", 
+      "model": "Sportage", 
+      "car_id": "5710"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/1999-kia-sportage/ex-sport-utility-4d/options/?vehicleid=5702&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "1999", 
+      "model": "Sportage", 
+      "car_id": "5702"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/1998-kia-sportage/sport-utility-4d/options/?vehicleid=6713&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "1998", 
+      "model": "Sportage", 
+      "car_id": "6713"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/1998-kia-sportage/ex-sport-utility-4d/options/?vehicleid=6719&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "1998", 
+      "model": "Sportage", 
+      "car_id": "6719"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/1997-kia-sportage/sport-utility-4d/options/?vehicleid=7986&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "1997", 
+      "model": "Sportage", 
+      "car_id": "7986"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/1997-kia-sportage/ex-sport-utility-4d/options/?vehicleid=7993&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "1997", 
+      "model": "Sportage", 
+      "car_id": "7993"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/1996-kia-sportage/sport-utility-4d/options/?vehicleid=9295&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "1996", 
+      "model": "Sportage", 
+      "car_id": "9295"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/1996-kia-sportage/ex-sport-utility-4d/options/?vehicleid=9300&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "1996", 
+      "model": "Sportage", 
+      "car_id": "9300"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/1995-kia-sportage/sport-utility-4d/options/?vehicleid=7931&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "Sport Utility 4D", 
+      "year": "1995", 
+      "model": "Sportage", 
+      "car_id": "7931"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "/kia/sportage/1995-kia-sportage/ex-sport-utility-4d/options/?vehicleid=7940&intent=buy-used&category=suv", 
+      "make": "Kia", 
+      "sub_cat": "EX Sport Utility 4D", 
+      "year": "1995", 
+      "model": "Sportage", 
+      "car_id": "7940"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2014-kia-sedona/lx-minivan-4d/options/?vehicleid=390267&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "LX Minivan 4D", 
+      "year": "2014", 
+      "model": "Sedona", 
+      "car_id": "390267"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2014-kia-sedona/ex-minivan-4d/options/?vehicleid=390269&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "EX Minivan 4D", 
+      "year": "2014", 
+      "model": "Sedona", 
+      "car_id": "390269"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2012-kia-sedona/lx-minivan-4d/options/?vehicleid=370925&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "LX Minivan 4D", 
+      "year": "2012", 
+      "model": "Sedona", 
+      "car_id": "370925"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2012-kia-sedona/ex-minivan-4d/options/?vehicleid=370926&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "EX Minivan 4D", 
+      "year": "2012", 
+      "model": "Sedona", 
+      "car_id": "370926"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2011-kia-sedona/lx-minivan-4d/options/?vehicleid=353013&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "LX Minivan 4D", 
+      "year": "2011", 
+      "model": "Sedona", 
+      "car_id": "353013"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2011-kia-sedona/ex-minivan-4d/options/?vehicleid=353015&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "EX Minivan 4D", 
+      "year": "2011", 
+      "model": "Sedona", 
+      "car_id": "353015"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2010-kia-sedona/minivan-4d/options/?vehicleid=264315&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "Minivan 4D", 
+      "year": "2010", 
+      "model": "Sedona", 
+      "car_id": "264315"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2010-kia-sedona/lx-minivan-4d/options/?vehicleid=264316&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "LX Minivan 4D", 
+      "year": "2010", 
+      "model": "Sedona", 
+      "car_id": "264316"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2010-kia-sedona/ex-minivan-4d/options/?vehicleid=264317&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "EX Minivan 4D", 
+      "year": "2010", 
+      "model": "Sedona", 
+      "car_id": "264317"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2009-kia-sedona/minivan-4d/options/?vehicleid=226756&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "Minivan 4D", 
+      "year": "2009", 
+      "model": "Sedona", 
+      "car_id": "226756"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2009-kia-sedona/lx-minivan-4d/options/?vehicleid=226757&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "LX Minivan 4D", 
+      "year": "2009", 
+      "model": "Sedona", 
+      "car_id": "226757"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2009-kia-sedona/ex-minivan-4d/options/?vehicleid=226758&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "EX Minivan 4D", 
+      "year": "2009", 
+      "model": "Sedona", 
+      "car_id": "226758"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2008-kia-sedona/minivan-4d/options/?vehicleid=197386&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "Minivan 4D", 
+      "year": "2008", 
+      "model": "Sedona", 
+      "car_id": "197386"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2008-kia-sedona/lx-minivan-4d/options/?vehicleid=197387&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "LX Minivan 4D", 
+      "year": "2008", 
+      "model": "Sedona", 
+      "car_id": "197387"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2008-kia-sedona/ex-minivan-4d/options/?vehicleid=197388&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "EX Minivan 4D", 
+      "year": "2008", 
+      "model": "Sedona", 
+      "car_id": "197388"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2007-kia-sedona/minivan-4d/options/?vehicleid=83953&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "Minivan 4D", 
+      "year": "2007", 
+      "model": "Sedona", 
+      "car_id": "83953"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2007-kia-sedona/lx-minivan-4d/options/?vehicleid=166853&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "LX Minivan 4D", 
+      "year": "2007", 
+      "model": "Sedona", 
+      "car_id": "166853"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2007-kia-sedona/ex-minivan-4d/options/?vehicleid=166854&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "EX Minivan 4D", 
+      "year": "2007", 
+      "model": "Sedona", 
+      "car_id": "166854"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2006-kia-sedona/lx-minivan-4d/options/?vehicleid=933&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "LX Minivan 4D", 
+      "year": "2006", 
+      "model": "Sedona", 
+      "car_id": "933"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2006-kia-sedona/ex-minivan-4d/options/?vehicleid=934&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "EX Minivan 4D", 
+      "year": "2006", 
+      "model": "Sedona", 
+      "car_id": "934"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2005-kia-sedona/lx-minivan-4d/options/?vehicleid=1062&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "LX Minivan 4D", 
+      "year": "2005", 
+      "model": "Sedona", 
+      "car_id": "1062"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2005-kia-sedona/ex-minivan-4d/options/?vehicleid=1066&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "EX Minivan 4D", 
+      "year": "2005", 
+      "model": "Sedona", 
+      "car_id": "1066"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2004-kia-sedona/lx-minivan-4d/options/?vehicleid=2869&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "LX Minivan 4D", 
+      "year": "2004", 
+      "model": "Sedona", 
+      "car_id": "2869"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2004-kia-sedona/ex-minivan-4d/options/?vehicleid=2879&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "EX Minivan 4D", 
+      "year": "2004", 
+      "model": "Sedona", 
+      "car_id": "2879"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2003-kia-sedona/lx-minivan-4d/options/?vehicleid=2634&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "LX Minivan 4D", 
+      "year": "2003", 
+      "model": "Sedona", 
+      "car_id": "2634"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2003-kia-sedona/ex-minivan-4d/options/?vehicleid=2641&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "EX Minivan 4D", 
+      "year": "2003", 
+      "model": "Sedona", 
+      "car_id": "2641"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2002-kia-sedona/lx-minivan/options/?vehicleid=4297&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "LX Minivan", 
+      "year": "2002", 
+      "model": "Sedona", 
+      "car_id": "4297"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/kia/sedona/2002-kia-sedona/ex-minivan/options/?vehicleid=4305&intent=buy-used&category=van%2fminivan", 
+      "make": "Kia", 
+      "sub_cat": "EX Minivan", 
+      "year": "2002", 
+      "model": "Sedona", 
+      "car_id": "4305"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/kia/rio/2005-kia-rio/cinco-wagon-4d/options/?vehicleid=1055&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "cinco-wagon-4d", 
+      "year": "2005", 
+      "model": "Rio", 
+      "car_id": "1055"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/kia/rio/2004-kia-rio/cinco-wagon-4d/options/?vehicleid=2850&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "cinco-wagon-4d", 
+      "year": "2004", 
+      "model": "Rio", 
+      "car_id": "2850"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/kia/rio/2003-kia-rio/cinco-wagon-4d/options/?vehicleid=2626&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "cinco-wagon-4d", 
+      "year": "2003", 
+      "model": "Rio", 
+      "car_id": "2626"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/kia/rio/2002-kia-rio/cinco-wagon-4d/options/?vehicleid=4291&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "cinco-wagon-4d", 
+      "year": "2002", 
+      "model": "Rio", 
+      "car_id": "4291"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "http://www.kbb.com/kia/rondo/2010-kia-rondo/lx-wagon-4d/options/?vehicleid=358146&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "lx-wagon-4d", 
+      "year": "2010", 
+      "model": "Rondo", 
+      "car_id": "358146"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/rondo/2009-kia-rondo/lx-wagon-4d/options/?vehicleid=226748&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "LX Wagon 4D", 
+      "year": "2009", 
+      "model": "Rondo", 
+      "car_id": "226748"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/rondo/2009-kia-rondo/ex-wagon-4d/options/?vehicleid=226752&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "EX Wagon 4D", 
+      "year": "2009", 
+      "model": "Rondo", 
+      "car_id": "226752"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/rondo/2008-kia-rondo/lx-wagon-4d/options/?vehicleid=197380&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "LX Wagon 4D", 
+      "year": "2008", 
+      "model": "Rondo", 
+      "car_id": "197380"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/rondo/2008-kia-rondo/ex-wagon-4d/options/?vehicleid=197381&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "EX Wagon 4D", 
+      "year": "2008", 
+      "model": "Rondo", 
+      "car_id": "197381"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/rondo/2007-kia-rondo/lx-wagon-4d/options/?vehicleid=166851&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "LX Wagon 4D", 
+      "year": "2007", 
+      "model": "Rondo", 
+      "car_id": "166851"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/rondo/2007-kia-rondo/ex-wagon-4d/options/?vehicleid=166852&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "EX Wagon 4D", 
+      "year": "2007", 
+      "model": "Rondo", 
+      "car_id": "166852"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2014-kia-soul/wagon-4d/options/?vehicleid=392471&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "Wagon 4D", 
+      "year": "2014", 
+      "model": "Soul", 
+      "car_id": "392471"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2014-kia-soul/-wagon-4d/options/?vehicleid=392474&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "+ Wagon 4D", 
+      "year": "2014", 
+      "model": "Soul", 
+      "car_id": "392474"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2013-kia-soul/wagon-4d/options/?vehicleid=378804&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "Wagon 4D", 
+      "year": "2013", 
+      "model": "Soul", 
+      "car_id": "378804"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2013-kia-soul/-wagon-4d/options/?vehicleid=378803&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "+ Wagon 4D", 
+      "year": "2013", 
+      "model": "Soul", 
+      "car_id": "378803"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2013-kia-soul/-wagon-4d/options/?vehicleid=378810&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "! Wagon 4D", 
+      "year": "2013", 
+      "model": "Soul", 
+      "car_id": "378810"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2012-kia-soul/wagon-4d/options/?vehicleid=370425&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "Wagon 4D", 
+      "year": "2012", 
+      "model": "Soul", 
+      "car_id": "370425"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2012-kia-soul/-wagon-4d/options/?vehicleid=370428&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "+ Wagon 4D", 
+      "year": "2012", 
+      "model": "Soul", 
+      "car_id": "370428"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2012-kia-soul/-wagon-4d/options/?vehicleid=370429&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "! Wagon 4D", 
+      "year": "2012", 
+      "model": "Soul", 
+      "car_id": "370429"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2011-kia-soul/wagon-4d/options/?vehicleid=353006&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "Wagon 4D", 
+      "year": "2011", 
+      "model": "Soul", 
+      "car_id": "353006"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2011-kia-soul/-wagon-4d/options/?vehicleid=353007&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "+ Wagon 4D", 
+      "year": "2011", 
+      "model": "Soul", 
+      "car_id": "353007"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2011-kia-soul/-wagon-4d/options/?vehicleid=353010&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "! Wagon 4D", 
+      "year": "2011", 
+      "model": "Soul", 
+      "car_id": "353010"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2011-kia-soul/sport-wagon-4d/options/?vehicleid=353009&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "Sport Wagon 4D", 
+      "year": "2011", 
+      "model": "Soul", 
+      "car_id": "353009"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2010-kia-soul/wagon-4d/options/?vehicleid=248472&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "Wagon 4D", 
+      "year": "2010", 
+      "model": "Soul", 
+      "car_id": "248472"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2010-kia-soul/-wagon-4d/options/?vehicleid=248467&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "+ Wagon 4D", 
+      "year": "2010", 
+      "model": "Soul", 
+      "car_id": "248467"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2010-kia-soul/-wagon-4d/options/?vehicleid=248469&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "! Wagon 4D", 
+      "year": "2010", 
+      "model": "Soul", 
+      "car_id": "248469"
+    }, 
+    {
+      "category": "Wagons", 
+      "url": "/kia/soul/2010-kia-soul/sport-wagon-4d/options/?vehicleid=248471&intent=buy-used&category=wagon", 
+      "make": "Kia", 
+      "sub_cat": "Sport Wagon 4D", 
+      "year": "2010", 
+      "model": "Soul", 
+      "car_id": "248471"
+    }
+  ]
+}

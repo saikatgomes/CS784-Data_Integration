@@ -1,0 +1,1363 @@
+{
+  "car": [
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/oldsmobile/cutlass-supreme/1995-oldsmobile-cutlass-supreme/convertible-2d/options/?vehicleid=8223&intent=buy-used&category=convertible", 
+      "make": "Oldsmobile", 
+      "sub_cat": "convertible-2d", 
+      "year": "1995", 
+      "model": "Cutlass Supreme", 
+      "car_id": "8223"
+    }, 
+    {
+      "category": "Convertibles", 
+      "url": "http://www.kbb.com/oldsmobile/cutlass-supreme/1994-oldsmobile-cutlass-supreme/convertible-coupe-2d/options/?vehicleid=9651&intent=buy-used&category=convertible", 
+      "make": "Oldsmobile", 
+      "sub_cat": "convertible-coupe-2d", 
+      "year": "1994", 
+      "model": "Cutlass Supreme", 
+      "car_id": "9651"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/oldsmobile/achieva/1997-oldsmobile-achieva/sc-coupe-2d/options/?vehicleid=8241&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sc-coupe-2d", 
+      "year": "1997", 
+      "model": "Achieva", 
+      "car_id": "8241"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/oldsmobile/achieva/1996-oldsmobile-achieva/sc-coupe-2d/options/?vehicleid=9560&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sc-coupe-2d", 
+      "year": "1996", 
+      "model": "Achieva", 
+      "car_id": "9560"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/oldsmobile/achieva/1995-oldsmobile-achieva/s-coupe-2d/options/?vehicleid=8217&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "s-coupe-2d", 
+      "year": "1995", 
+      "model": "Achieva", 
+      "car_id": "8217"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/achieva/1994-oldsmobile-achieva/s-coupe-2d/options/?vehicleid=9649&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "S Coupe 2D", 
+      "year": "1994", 
+      "model": "Achieva", 
+      "car_id": "9649"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/achieva/1994-oldsmobile-achieva/sc-coupe-2d/options/?vehicleid=9652&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "SC Coupe 2D", 
+      "year": "1994", 
+      "model": "Achieva", 
+      "car_id": "9652"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2004-oldsmobile-alero/gx-coupe-2d/options/?vehicleid=3246&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Coupe 2D", 
+      "year": "2004", 
+      "model": "Alero", 
+      "car_id": "3246"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2004-oldsmobile-alero/gl-coupe-2d/options/?vehicleid=3253&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Coupe 2D", 
+      "year": "2004", 
+      "model": "Alero", 
+      "car_id": "3253"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2004-oldsmobile-alero/gls-coupe-2d/options/?vehicleid=3252&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Coupe 2D", 
+      "year": "2004", 
+      "model": "Alero", 
+      "car_id": "3252"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2003-oldsmobile-alero/gx-coupe-2d/options/?vehicleid=2980&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Coupe 2D", 
+      "year": "2003", 
+      "model": "Alero", 
+      "car_id": "2980"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2003-oldsmobile-alero/gl-coupe-2d/options/?vehicleid=2976&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Coupe 2D", 
+      "year": "2003", 
+      "model": "Alero", 
+      "car_id": "2976"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2003-oldsmobile-alero/gls-coupe-2d/options/?vehicleid=2982&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Coupe 2D", 
+      "year": "2003", 
+      "model": "Alero", 
+      "car_id": "2982"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2002-oldsmobile-alero/gx-coupe-2d/options/?vehicleid=4606&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Coupe 2D", 
+      "year": "2002", 
+      "model": "Alero", 
+      "car_id": "4606"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2002-oldsmobile-alero/gl-coupe-2d/options/?vehicleid=4613&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Coupe 2D", 
+      "year": "2002", 
+      "model": "Alero", 
+      "car_id": "4613"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2002-oldsmobile-alero/gls-coupe-2d/options/?vehicleid=4616&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Coupe 2D", 
+      "year": "2002", 
+      "model": "Alero", 
+      "car_id": "4616"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2001-oldsmobile-alero/gx-coupe-2d/options/?vehicleid=4875&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Coupe 2D", 
+      "year": "2001", 
+      "model": "Alero", 
+      "car_id": "4875"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2001-oldsmobile-alero/gl-coupe-2d/options/?vehicleid=4870&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Coupe 2D", 
+      "year": "2001", 
+      "model": "Alero", 
+      "car_id": "4870"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2001-oldsmobile-alero/gls-coupe-2d/options/?vehicleid=4868&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Coupe 2D", 
+      "year": "2001", 
+      "model": "Alero", 
+      "car_id": "4868"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2000-oldsmobile-alero/gx-coupe-2d/options/?vehicleid=6775&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Coupe 2D", 
+      "year": "2000", 
+      "model": "Alero", 
+      "car_id": "6775"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2000-oldsmobile-alero/gl-coupe-2d/options/?vehicleid=6763&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Coupe 2D", 
+      "year": "2000", 
+      "model": "Alero", 
+      "car_id": "6763"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/2000-oldsmobile-alero/gls-coupe-2d/options/?vehicleid=6765&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Coupe 2D", 
+      "year": "2000", 
+      "model": "Alero", 
+      "car_id": "6765"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/1999-oldsmobile-alero/gx-coupe-2d/options/?vehicleid=5910&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Coupe 2D", 
+      "year": "1999", 
+      "model": "Alero", 
+      "car_id": "5910"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/1999-oldsmobile-alero/gl-coupe-2d/options/?vehicleid=5908&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Coupe 2D", 
+      "year": "1999", 
+      "model": "Alero", 
+      "car_id": "5908"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "/oldsmobile/alero/1999-oldsmobile-alero/gls-coupe-2d/options/?vehicleid=5903&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Coupe 2D", 
+      "year": "1999", 
+      "model": "Alero", 
+      "car_id": "5903"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/oldsmobile/cutlass-supreme/1997-oldsmobile-cutlass-supreme/sl-coupe-2d/options/?vehicleid=8257&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sl-coupe-2d", 
+      "year": "1997", 
+      "model": "Cutlass Supreme", 
+      "car_id": "8257"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/oldsmobile/cutlass-supreme/1996-oldsmobile-cutlass-supreme/sl-coupe-2d/options/?vehicleid=9578&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sl-coupe-2d", 
+      "year": "1996", 
+      "model": "Cutlass Supreme", 
+      "car_id": "9578"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/oldsmobile/cutlass-supreme/1995-oldsmobile-cutlass-supreme/s-coupe-2d/options/?vehicleid=8232&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "s-coupe-2d", 
+      "year": "1995", 
+      "model": "Cutlass Supreme", 
+      "car_id": "8232"
+    }, 
+    {
+      "category": "Coupes", 
+      "url": "http://www.kbb.com/oldsmobile/cutlass-supreme/1994-oldsmobile-cutlass-supreme/s-coupe-2d/options/?vehicleid=9662&intent=buy-used&category=coupe", 
+      "make": "Oldsmobile", 
+      "sub_cat": "s-coupe-2d", 
+      "year": "1994", 
+      "model": "Cutlass Supreme", 
+      "car_id": "9662"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/88/1999-oldsmobile-88/sedan-4d/options/?vehicleid=5906&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1999", 
+      "model": "88", 
+      "car_id": "5906"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/88/1999-oldsmobile-88/ls-sedan-4d/options/?vehicleid=5901&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1999", 
+      "model": "88", 
+      "car_id": "5901"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/88/1998-oldsmobile-88/sedan-4d/options/?vehicleid=6914&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1998", 
+      "model": "88", 
+      "car_id": "6914"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/88/1998-oldsmobile-88/ls-sedan-4d/options/?vehicleid=6920&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1998", 
+      "model": "88", 
+      "car_id": "6920"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/88/1997-oldsmobile-88/sedan-4d/options/?vehicleid=8242&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1997", 
+      "model": "88", 
+      "car_id": "8242"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/88/1997-oldsmobile-88/ls-sedan-4d/options/?vehicleid=8231&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1997", 
+      "model": "88", 
+      "car_id": "8231"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/88/1996-oldsmobile-88/sedan-4d/options/?vehicleid=9540&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1996", 
+      "model": "88", 
+      "car_id": "9540"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/88/1996-oldsmobile-88/ls-sedan-4d/options/?vehicleid=9546&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "LS Sedan 4D", 
+      "year": "1996", 
+      "model": "88", 
+      "car_id": "9546"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/88/1996-oldsmobile-88/lss-sedan-4d/options/?vehicleid=9553&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "LSS Sedan 4D", 
+      "year": "1996", 
+      "model": "88", 
+      "car_id": "9553"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/88/1995-oldsmobile-88/royale-sedan-4d/options/?vehicleid=8204&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Royale Sedan 4D", 
+      "year": "1995", 
+      "model": "88", 
+      "car_id": "8204"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/88/1995-oldsmobile-88/royale-ls-sedan-4d/options/?vehicleid=8203&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Royale LS Sedan 4D", 
+      "year": "1995", 
+      "model": "88", 
+      "car_id": "8203"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/88/1994-oldsmobile-88/royale-sedan-4d/options/?vehicleid=9629&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Royale Sedan 4D", 
+      "year": "1994", 
+      "model": "88", 
+      "car_id": "9629"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/88/1994-oldsmobile-88/royale-ls-sedan-4d/options/?vehicleid=9635&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Royale LS Sedan 4D", 
+      "year": "1994", 
+      "model": "88", 
+      "car_id": "9635"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/98/1996-oldsmobile-98/regency-elite-sedan-4d/options/?vehicleid=9554&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "regency-elite-sedan-4d", 
+      "year": "1996", 
+      "model": "98", 
+      "car_id": "9554"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/98/1995-oldsmobile-98/regency-elite-sedan-4d/options/?vehicleid=8208&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "regency-elite-sedan-4d", 
+      "year": "1995", 
+      "model": "98", 
+      "car_id": "8208"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/98/1994-oldsmobile-98/regency-sedan-4d/options/?vehicleid=9637&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Regency Sedan 4D", 
+      "year": "1994", 
+      "model": "98", 
+      "car_id": "9637"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/98/1994-oldsmobile-98/regency-elite-sedan-4d/options/?vehicleid=9640&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Regency Elite Sedan 4D", 
+      "year": "1994", 
+      "model": "98", 
+      "car_id": "9640"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/achieva/1998-oldsmobile-achieva/sl-sedan-4d/options/?vehicleid=6925&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sl-sedan-4d", 
+      "year": "1998", 
+      "model": "Achieva", 
+      "car_id": "6925"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/achieva/1997-oldsmobile-achieva/sl-sedan-4d/options/?vehicleid=8238&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sl-sedan-4d", 
+      "year": "1997", 
+      "model": "Achieva", 
+      "car_id": "8238"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/achieva/1996-oldsmobile-achieva/sl-sedan-4d/options/?vehicleid=9558&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sl-sedan-4d", 
+      "year": "1996", 
+      "model": "Achieva", 
+      "car_id": "9558"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/achieva/1995-oldsmobile-achieva/s-sedan-4d/options/?vehicleid=8213&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "s-sedan-4d", 
+      "year": "1995", 
+      "model": "Achieva", 
+      "car_id": "8213"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/achieva/1994-oldsmobile-achieva/s-sedan-4d/options/?vehicleid=9642&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "S Sedan 4D", 
+      "year": "1994", 
+      "model": "Achieva", 
+      "car_id": "9642"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/achieva/1994-oldsmobile-achieva/sl-sedan-4d/options/?vehicleid=9644&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "SL Sedan 4D", 
+      "year": "1994", 
+      "model": "Achieva", 
+      "car_id": "9644"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2004-oldsmobile-alero/gx-sedan-4d/options/?vehicleid=3257&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Sedan 4D", 
+      "year": "2004", 
+      "model": "Alero", 
+      "car_id": "3257"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2004-oldsmobile-alero/gl-sedan-4d/options/?vehicleid=3248&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Sedan 4D", 
+      "year": "2004", 
+      "model": "Alero", 
+      "car_id": "3248"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2004-oldsmobile-alero/gls-sedan-4d/options/?vehicleid=3247&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Sedan 4D", 
+      "year": "2004", 
+      "model": "Alero", 
+      "car_id": "3247"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2003-oldsmobile-alero/gx-sedan-4d/options/?vehicleid=2975&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Sedan 4D", 
+      "year": "2003", 
+      "model": "Alero", 
+      "car_id": "2975"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2003-oldsmobile-alero/gl-sedan-4d/options/?vehicleid=2973&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Sedan 4D", 
+      "year": "2003", 
+      "model": "Alero", 
+      "car_id": "2973"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2003-oldsmobile-alero/gls-sedan-4d/options/?vehicleid=2981&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Sedan 4D", 
+      "year": "2003", 
+      "model": "Alero", 
+      "car_id": "2981"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2002-oldsmobile-alero/gx-sedan-4d/options/?vehicleid=4603&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Sedan 4D", 
+      "year": "2002", 
+      "model": "Alero", 
+      "car_id": "4603"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2002-oldsmobile-alero/gl-sedan-4d/options/?vehicleid=4607&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Sedan 4D", 
+      "year": "2002", 
+      "model": "Alero", 
+      "car_id": "4607"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2002-oldsmobile-alero/gls-sedan-4d/options/?vehicleid=4617&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Sedan 4D", 
+      "year": "2002", 
+      "model": "Alero", 
+      "car_id": "4617"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2001-oldsmobile-alero/gx-sedan-4d/options/?vehicleid=4871&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Sedan 4D", 
+      "year": "2001", 
+      "model": "Alero", 
+      "car_id": "4871"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2001-oldsmobile-alero/gl-sedan-4d/options/?vehicleid=4866&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Sedan 4D", 
+      "year": "2001", 
+      "model": "Alero", 
+      "car_id": "4866"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2001-oldsmobile-alero/gls-sedan-4d/options/?vehicleid=4876&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Sedan 4D", 
+      "year": "2001", 
+      "model": "Alero", 
+      "car_id": "4876"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2000-oldsmobile-alero/gx-sedan-4d/options/?vehicleid=6769&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Sedan 4D", 
+      "year": "2000", 
+      "model": "Alero", 
+      "car_id": "6769"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2000-oldsmobile-alero/gl-sedan-4d/options/?vehicleid=6758&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Sedan 4D", 
+      "year": "2000", 
+      "model": "Alero", 
+      "car_id": "6758"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/2000-oldsmobile-alero/gls-sedan-4d/options/?vehicleid=6771&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Sedan 4D", 
+      "year": "2000", 
+      "model": "Alero", 
+      "car_id": "6771"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/1999-oldsmobile-alero/gx-sedan-4d/options/?vehicleid=5905&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Sedan 4D", 
+      "year": "1999", 
+      "model": "Alero", 
+      "car_id": "5905"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/1999-oldsmobile-alero/gl-sedan-4d/options/?vehicleid=5902&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Sedan 4D", 
+      "year": "1999", 
+      "model": "Alero", 
+      "car_id": "5902"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/alero/1999-oldsmobile-alero/gls-sedan-4d/options/?vehicleid=5912&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Sedan 4D", 
+      "year": "1999", 
+      "model": "Alero", 
+      "car_id": "5912"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/aurora/2003-oldsmobile-aurora/sedan-4d/options/?vehicleid=2985&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sedan-4d", 
+      "year": "2003", 
+      "model": "Aurora", 
+      "car_id": "2985"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/aurora/2002-oldsmobile-aurora/v6-sedan-4d/options/?vehicleid=4623&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "V6 Sedan 4D", 
+      "year": "2002", 
+      "model": "Aurora", 
+      "car_id": "4623"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/aurora/2002-oldsmobile-aurora/v8-sedan-4d/options/?vehicleid=4626&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "V8 Sedan 4D", 
+      "year": "2002", 
+      "model": "Aurora", 
+      "car_id": "4626"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/aurora/2001-oldsmobile-aurora/v6-sedan-4d/options/?vehicleid=4873&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "V6 Sedan 4D", 
+      "year": "2001", 
+      "model": "Aurora", 
+      "car_id": "4873"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/aurora/2001-oldsmobile-aurora/v8-sedan-4d/options/?vehicleid=4877&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "V8 Sedan 4D", 
+      "year": "2001", 
+      "model": "Aurora", 
+      "car_id": "4877"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/aurora/1999-oldsmobile-aurora/sedan-4d/options/?vehicleid=5909&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sedan-4d", 
+      "year": "1999", 
+      "model": "Aurora", 
+      "car_id": "5909"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/aurora/1998-oldsmobile-aurora/sedan-4d/options/?vehicleid=6927&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sedan-4d", 
+      "year": "1998", 
+      "model": "Aurora", 
+      "car_id": "6927"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/aurora/1997-oldsmobile-aurora/sedan-4d/options/?vehicleid=8240&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sedan-4d", 
+      "year": "1997", 
+      "model": "Aurora", 
+      "car_id": "8240"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/aurora/1996-oldsmobile-aurora/sedan-4d/options/?vehicleid=9561&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sedan-4d", 
+      "year": "1996", 
+      "model": "Aurora", 
+      "car_id": "9561"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/aurora/1995-oldsmobile-aurora/sedan-4d/options/?vehicleid=8220&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sedan-4d", 
+      "year": "1995", 
+      "model": "Aurora", 
+      "car_id": "8220"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/cutlass/1999-oldsmobile-cutlass/gl-sedan-4d/options/?vehicleid=5911&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Sedan 4D", 
+      "year": "1999", 
+      "model": "Cutlass", 
+      "car_id": "5911"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/cutlass/1999-oldsmobile-cutlass/gls-sedan-4d/options/?vehicleid=5916&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Sedan 4D", 
+      "year": "1999", 
+      "model": "Cutlass", 
+      "car_id": "5916"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/cutlass/1998-oldsmobile-cutlass/gl-sedan-4d/options/?vehicleid=6933&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Sedan 4D", 
+      "year": "1998", 
+      "model": "Cutlass", 
+      "car_id": "6933"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/cutlass/1998-oldsmobile-cutlass/gls-sedan-4d/options/?vehicleid=6929&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Sedan 4D", 
+      "year": "1998", 
+      "model": "Cutlass", 
+      "car_id": "6929"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/cutlass/1997-oldsmobile-cutlass/sedan-4d/options/?vehicleid=8245&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1997", 
+      "model": "Cutlass", 
+      "car_id": "8245"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/cutlass/1997-oldsmobile-cutlass/gls-sedan-4d/options/?vehicleid=8246&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Sedan 4D", 
+      "year": "1997", 
+      "model": "Cutlass", 
+      "car_id": "8246"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/cutlass-ciera/1995-oldsmobile-cutlass-ciera/sl-sedan-4d/options/?vehicleid=382875&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sl-sedan-4d", 
+      "year": "1995", 
+      "model": "Cutlass Ciera", 
+      "car_id": "382875"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/cutlass-ciera/1994-oldsmobile-cutlass-ciera/s-sedan-4d/options/?vehicleid=382873&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "s-sedan-4d", 
+      "year": "1994", 
+      "model": "Cutlass Ciera", 
+      "car_id": "382873"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/cutlass-supreme/1997-oldsmobile-cutlass-supreme/sl-sedan-4d/options/?vehicleid=8250&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sl-sedan-4d", 
+      "year": "1997", 
+      "model": "Cutlass Supreme", 
+      "car_id": "8250"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/cutlass-supreme/1996-oldsmobile-cutlass-supreme/sl-sedan-4d/options/?vehicleid=9570&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sl-sedan-4d", 
+      "year": "1996", 
+      "model": "Cutlass Supreme", 
+      "car_id": "9570"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/cutlass-supreme/1995-oldsmobile-cutlass-supreme/s-sedan-4d/options/?vehicleid=8227&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "s-sedan-4d", 
+      "year": "1995", 
+      "model": "Cutlass Supreme", 
+      "car_id": "8227"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/cutlass-supreme/1994-oldsmobile-cutlass-supreme/s-sedan-4d/options/?vehicleid=9655&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "s-sedan-4d", 
+      "year": "1994", 
+      "model": "Cutlass Supreme", 
+      "car_id": "9655"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/2002-oldsmobile-intrigue/gx-sedan-4d/options/?vehicleid=4618&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Sedan 4D", 
+      "year": "2002", 
+      "model": "Intrigue", 
+      "car_id": "4618"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/2002-oldsmobile-intrigue/gl-sedan-4d/options/?vehicleid=4624&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Sedan 4D", 
+      "year": "2002", 
+      "model": "Intrigue", 
+      "car_id": "4624"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/2002-oldsmobile-intrigue/gls-sedan-4d/options/?vehicleid=4630&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Sedan 4D", 
+      "year": "2002", 
+      "model": "Intrigue", 
+      "car_id": "4630"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/2001-oldsmobile-intrigue/gx-sedan-4d/options/?vehicleid=4883&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Sedan 4D", 
+      "year": "2001", 
+      "model": "Intrigue", 
+      "car_id": "4883"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/2001-oldsmobile-intrigue/gl-sedan-4d/options/?vehicleid=4889&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Sedan 4D", 
+      "year": "2001", 
+      "model": "Intrigue", 
+      "car_id": "4889"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/2001-oldsmobile-intrigue/gls-sedan-4d/options/?vehicleid=4893&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Sedan 4D", 
+      "year": "2001", 
+      "model": "Intrigue", 
+      "car_id": "4893"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/2000-oldsmobile-intrigue/gx-sedan-4d/options/?vehicleid=6773&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Sedan 4D", 
+      "year": "2000", 
+      "model": "Intrigue", 
+      "car_id": "6773"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/2000-oldsmobile-intrigue/gl-sedan-4d/options/?vehicleid=6776&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Sedan 4D", 
+      "year": "2000", 
+      "model": "Intrigue", 
+      "car_id": "6776"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/2000-oldsmobile-intrigue/gls-sedan-4d/options/?vehicleid=6785&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Sedan 4D", 
+      "year": "2000", 
+      "model": "Intrigue", 
+      "car_id": "6785"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/1999-oldsmobile-intrigue/gx-sedan-4d/options/?vehicleid=5918&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GX Sedan 4D", 
+      "year": "1999", 
+      "model": "Intrigue", 
+      "car_id": "5918"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/1999-oldsmobile-intrigue/gl-sedan-4d/options/?vehicleid=5920&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Sedan 4D", 
+      "year": "1999", 
+      "model": "Intrigue", 
+      "car_id": "5920"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/1999-oldsmobile-intrigue/gls-sedan-4d/options/?vehicleid=5919&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Sedan 4D", 
+      "year": "1999", 
+      "model": "Intrigue", 
+      "car_id": "5919"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/1998-oldsmobile-intrigue/sedan-4d/options/?vehicleid=6934&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Sedan 4D", 
+      "year": "1998", 
+      "model": "Intrigue", 
+      "car_id": "6934"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/1998-oldsmobile-intrigue/gl-sedan-4d/options/?vehicleid=6938&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Sedan 4D", 
+      "year": "1998", 
+      "model": "Intrigue", 
+      "car_id": "6938"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "/oldsmobile/intrigue/1998-oldsmobile-intrigue/gls-sedan-4d/options/?vehicleid=6930&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Sedan 4D", 
+      "year": "1998", 
+      "model": "Intrigue", 
+      "car_id": "6930"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/lss/1999-oldsmobile-lss/sedan-4d/options/?vehicleid=5924&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sedan-4d", 
+      "year": "1999", 
+      "model": "LSS", 
+      "car_id": "5924"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/lss/1998-oldsmobile-lss/sedan-4d/options/?vehicleid=6936&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sedan-4d", 
+      "year": "1998", 
+      "model": "LSS", 
+      "car_id": "6936"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/lss/1997-oldsmobile-lss/sedan-4d/options/?vehicleid=8265&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sedan-4d", 
+      "year": "1997", 
+      "model": "LSS", 
+      "car_id": "8265"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/regency/1998-oldsmobile-regency/sedan-4d/options/?vehicleid=6942&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sedan-4d", 
+      "year": "1998", 
+      "model": "Regency", 
+      "car_id": "6942"
+    }, 
+    {
+      "category": "Sedans", 
+      "url": "http://www.kbb.com/oldsmobile/regency/1997-oldsmobile-regency/sedan-4d/options/?vehicleid=8251&intent=buy-used&category=sedan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sedan-4d", 
+      "year": "1997", 
+      "model": "Regency", 
+      "car_id": "8251"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/oldsmobile/bravada/2004-oldsmobile-bravada/sport-utility-4d/options/?vehicleid=3258&intent=buy-used&category=suv", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sport-utility-4d", 
+      "year": "2004", 
+      "model": "Bravada", 
+      "car_id": "3258"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/oldsmobile/bravada/2003-oldsmobile-bravada/sport-utility-4d/options/?vehicleid=2986&intent=buy-used&category=suv", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sport-utility-4d", 
+      "year": "2003", 
+      "model": "Bravada", 
+      "car_id": "2986"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/oldsmobile/bravada/2002-oldsmobile-bravada/sport-utility-4d/options/?vehicleid=4628&intent=buy-used&category=suv", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sport-utility-4d", 
+      "year": "2002", 
+      "model": "Bravada", 
+      "car_id": "4628"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/oldsmobile/bravada/2001-oldsmobile-bravada/sport-utility-4d/options/?vehicleid=4887&intent=buy-used&category=suv", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sport-utility-4d", 
+      "year": "2001", 
+      "model": "Bravada", 
+      "car_id": "4887"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/oldsmobile/bravada/2000-oldsmobile-bravada/sport-utility-4d/options/?vehicleid=6791&intent=buy-used&category=suv", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sport-utility-4d", 
+      "year": "2000", 
+      "model": "Bravada", 
+      "car_id": "6791"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/oldsmobile/bravada/1999-oldsmobile-bravada/sport-utility-4d/options/?vehicleid=5928&intent=buy-used&category=suv", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sport-utility-4d", 
+      "year": "1999", 
+      "model": "Bravada", 
+      "car_id": "5928"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/oldsmobile/bravada/1998-oldsmobile-bravada/sport-utility-4d/options/?vehicleid=6932&intent=buy-used&category=suv", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sport-utility-4d", 
+      "year": "1998", 
+      "model": "Bravada", 
+      "car_id": "6932"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/oldsmobile/bravada/1997-oldsmobile-bravada/sport-utility-4d/options/?vehicleid=8260&intent=buy-used&category=suv", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sport-utility-4d", 
+      "year": "1997", 
+      "model": "Bravada", 
+      "car_id": "8260"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/oldsmobile/bravada/1996-oldsmobile-bravada/sport-utility-4d/options/?vehicleid=9581&intent=buy-used&category=suv", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sport-utility-4d", 
+      "year": "1996", 
+      "model": "Bravada", 
+      "car_id": "9581"
+    }, 
+    {
+      "category": "SUVs", 
+      "url": "http://www.kbb.com/oldsmobile/bravada/1994-oldsmobile-bravada/sport-utility-4d/options/?vehicleid=9657&intent=buy-used&category=suv", 
+      "make": "Oldsmobile", 
+      "sub_cat": "sport-utility-4d", 
+      "year": "1994", 
+      "model": "Bravada", 
+      "car_id": "9657"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2004-oldsmobile-silhouette/gl-extended-minivan-4d/options/?vehicleid=3263&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Extended Minivan 4D", 
+      "year": "2004", 
+      "model": "Silhouette", 
+      "car_id": "3263"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2004-oldsmobile-silhouette/gls-extended-minivan-4d/options/?vehicleid=3267&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Extended Minivan 4D", 
+      "year": "2004", 
+      "model": "Silhouette", 
+      "car_id": "3267"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2004-oldsmobile-silhouette/premiere-extended-minivan-4d/options/?vehicleid=3278&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Premiere Extended Minivan 4D", 
+      "year": "2004", 
+      "model": "Silhouette", 
+      "car_id": "3278"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2003-oldsmobile-silhouette/gl-extended-minivan-4d/options/?vehicleid=2994&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Extended Minivan 4D", 
+      "year": "2003", 
+      "model": "Silhouette", 
+      "car_id": "2994"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2003-oldsmobile-silhouette/gls-extended-minivan-4d/options/?vehicleid=3004&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Extended Minivan 4D", 
+      "year": "2003", 
+      "model": "Silhouette", 
+      "car_id": "3004"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2003-oldsmobile-silhouette/premiere-extended-minivan-4d/options/?vehicleid=3011&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Premiere Extended Minivan 4D", 
+      "year": "2003", 
+      "model": "Silhouette", 
+      "car_id": "3011"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2002-oldsmobile-silhouette/gl-extended-minivan/options/?vehicleid=4632&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Extended Minivan", 
+      "year": "2002", 
+      "model": "Silhouette", 
+      "car_id": "4632"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2002-oldsmobile-silhouette/gls-extended-minivan/options/?vehicleid=4637&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Extended Minivan", 
+      "year": "2002", 
+      "model": "Silhouette", 
+      "car_id": "4637"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2002-oldsmobile-silhouette/premiere-extended-minivan/options/?vehicleid=4633&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Premiere Extended Minivan", 
+      "year": "2002", 
+      "model": "Silhouette", 
+      "car_id": "4633"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2001-oldsmobile-silhouette/gl-extended-minivan/options/?vehicleid=4891&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Extended Minivan", 
+      "year": "2001", 
+      "model": "Silhouette", 
+      "car_id": "4891"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2001-oldsmobile-silhouette/gls-extended-minivan/options/?vehicleid=4898&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Extended Minivan", 
+      "year": "2001", 
+      "model": "Silhouette", 
+      "car_id": "4898"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2001-oldsmobile-silhouette/premiere-edition-extended-minivan/options/?vehicleid=4886&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Premiere Edition Extended Minivan", 
+      "year": "2001", 
+      "model": "Silhouette", 
+      "car_id": "4886"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2000-oldsmobile-silhouette/gl-extended-minivan/options/?vehicleid=6799&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Extended Minivan", 
+      "year": "2000", 
+      "model": "Silhouette", 
+      "car_id": "6799"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2000-oldsmobile-silhouette/gls-extended-minivan/options/?vehicleid=6795&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Extended Minivan", 
+      "year": "2000", 
+      "model": "Silhouette", 
+      "car_id": "6795"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/2000-oldsmobile-silhouette/premiere-edition-extended-minivan/options/?vehicleid=6807&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Premiere Edition Extended Minivan", 
+      "year": "2000", 
+      "model": "Silhouette", 
+      "car_id": "6807"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/1999-oldsmobile-silhouette/gl-extended-minivan/options/?vehicleid=5927&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Extended Minivan", 
+      "year": "1999", 
+      "model": "Silhouette", 
+      "car_id": "5927"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/1999-oldsmobile-silhouette/gs-minivan/options/?vehicleid=5922&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GS Minivan", 
+      "year": "1999", 
+      "model": "Silhouette", 
+      "car_id": "5922"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/1999-oldsmobile-silhouette/gls-extended-minivan/options/?vehicleid=5933&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Extended Minivan", 
+      "year": "1999", 
+      "model": "Silhouette", 
+      "car_id": "5933"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/1999-oldsmobile-silhouette/premiere-edition-extended-minivan/options/?vehicleid=5921&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Premiere Edition Extended Minivan", 
+      "year": "1999", 
+      "model": "Silhouette", 
+      "car_id": "5921"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/1998-oldsmobile-silhouette/gl-extended-minivan/options/?vehicleid=6941&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Extended Minivan", 
+      "year": "1998", 
+      "model": "Silhouette", 
+      "car_id": "6941"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/1998-oldsmobile-silhouette/gs-minivan/options/?vehicleid=6935&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GS Minivan", 
+      "year": "1998", 
+      "model": "Silhouette", 
+      "car_id": "6935"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/1998-oldsmobile-silhouette/gls-extended-minivan/options/?vehicleid=6943&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Extended Minivan", 
+      "year": "1998", 
+      "model": "Silhouette", 
+      "car_id": "6943"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/1997-oldsmobile-silhouette/minivan/options/?vehicleid=8263&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Minivan", 
+      "year": "1997", 
+      "model": "Silhouette", 
+      "car_id": "8263"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/1997-oldsmobile-silhouette/extended-minivan/options/?vehicleid=8259&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "Extended Minivan", 
+      "year": "1997", 
+      "model": "Silhouette", 
+      "car_id": "8259"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/1997-oldsmobile-silhouette/gl-extended-minivan/options/?vehicleid=8268&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GL Extended Minivan", 
+      "year": "1997", 
+      "model": "Silhouette", 
+      "car_id": "8268"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "/oldsmobile/silhouette/1997-oldsmobile-silhouette/gls-extended-minivan/options/?vehicleid=8270&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "GLS Extended Minivan", 
+      "year": "1997", 
+      "model": "Silhouette", 
+      "car_id": "8270"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "http://www.kbb.com/oldsmobile/silhouette/1996-oldsmobile-silhouette/minivan/options/?vehicleid=9573&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "minivan", 
+      "year": "1996", 
+      "model": "Silhouette", 
+      "car_id": "9573"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "http://www.kbb.com/oldsmobile/silhouette/1995-oldsmobile-silhouette/minivan/options/?vehicleid=8229&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "minivan", 
+      "year": "1995", 
+      "model": "Silhouette", 
+      "car_id": "8229"
+    }, 
+    {
+      "category": "Vans/Minivans", 
+      "url": "http://www.kbb.com/oldsmobile/silhouette/1994-oldsmobile-silhouette/minivan/options/?vehicleid=9661&intent=buy-used&category=van%2fminivan", 
+      "make": "Oldsmobile", 
+      "sub_cat": "minivan", 
+      "year": "1994", 
+      "model": "Silhouette", 
+      "car_id": "9661"
+    }
+  ]
+}

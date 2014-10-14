@@ -1,0 +1,1993 @@
+{
+  "car": [
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2014-ram-1500-crew-cab/express-pickup-4d-5-1-2-ft/options/?vehicleid=391636&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Express Pickup 4D 5 1/2 ft", 
+      "year": "2014", 
+      "model": "1500 Crew Cab", 
+      "car_id": "391636"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2014-ram-1500-crew-cab/big-horn-pickup-4d-5-1-2-ft/options/?vehicleid=391637&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 5 1/2 ft", 
+      "year": "2014", 
+      "model": "1500 Crew Cab", 
+      "car_id": "391637"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2014-ram-1500-crew-cab/big-horn-pickup-4d-6-1-3-ft/options/?vehicleid=391640&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 6 1/3 ft", 
+      "year": "2014", 
+      "model": "1500 Crew Cab", 
+      "car_id": "391640"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2014-ram-1500-crew-cab/laramie-pickup-4d-5-1-2-ft/options/?vehicleid=391647&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 5 1/2 ft", 
+      "year": "2014", 
+      "model": "1500 Crew Cab", 
+      "car_id": "391647"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2014-ram-1500-crew-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=391646&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2014", 
+      "model": "1500 Crew Cab", 
+      "car_id": "391646"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/tradesman-pickup-4d-5-1-2-ft/options/?vehicleid=382590&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Tradesman Pickup 4D 5 1/2 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "382590"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/tradesman-pickup-4d-6-1-3-ft/options/?vehicleid=390115&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Tradesman Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "390115"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/express-pickup-4d-5-1-2-ft/options/?vehicleid=382592&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Express Pickup 4D 5 1/2 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "382592"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/slt-pickup-4d-5-1-2-ft/options/?vehicleid=382591&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 5 1/2 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "382591"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/big-horn-pickup-4d-5-1-2-ft/options/?vehicleid=382593&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 5 1/2 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "382593"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/lone-star-pickup-4d-5-1-2-ft/options/?vehicleid=382594&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 5 1/2 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "382594"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/outdoorsman-pickup-4d-5-1-2-ft/options/?vehicleid=382595&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 4D 5 1/2 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "382595"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/big-horn-pickup-4d-6-1-3-ft/options/?vehicleid=390116&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "390116"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/lone-star-pickup-4d-6-1-3-ft/options/?vehicleid=390119&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "390119"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/outdoorsman-pickup-4d-6-1-3-ft/options/?vehicleid=390118&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "390118"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/sport-pickup-4d-5-1-2-ft/options/?vehicleid=382596&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Sport Pickup 4D 5 1/2 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "382596"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/sport-pickup-4d-6-1-3-ft/options/?vehicleid=390117&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Sport Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "390117"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=391555&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "391555"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/laramie-pickup-4d-5-1-2-ft/options/?vehicleid=382597&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 5 1/2 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "382597"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=390121&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "390121"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/laramie-longhorn-edition-pickup-4d-5-1-2-ft/options/?vehicleid=382600&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 5 1/2 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "382600"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/laramie-longhorn-edition-pickup-4d-6-1-3-ft/options/?vehicleid=390120&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "390120"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/laramie-longhorn-limited-edition-pickup-4d-5-1-2-ft/options/?vehicleid=391556&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Limited Edition Pickup 4D 5 1/2 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "391556"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2013-ram-1500-crew-cab/laramie-longhorn-limited-edition-pickup-4d-6-1-3-ft/options/?vehicleid=391557&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Limited Edition Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Crew Cab", 
+      "car_id": "391557"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2012-ram-1500-crew-cab/tradesman-pickup-4d-5-1-2-ft/options/?vehicleid=379409&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Tradesman Pickup 4D 5 1/2 ft", 
+      "year": "2012", 
+      "model": "1500 Crew Cab", 
+      "car_id": "379409"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2012-ram-1500-crew-cab/st-pickup-4d-5-1-2-ft/options/?vehicleid=371352&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 4D 5 1/2 ft", 
+      "year": "2012", 
+      "model": "1500 Crew Cab", 
+      "car_id": "371352"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2012-ram-1500-crew-cab/express-pickup-4d-5-1-2-ft/options/?vehicleid=371353&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Express Pickup 4D 5 1/2 ft", 
+      "year": "2012", 
+      "model": "1500 Crew Cab", 
+      "car_id": "371353"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2012-ram-1500-crew-cab/slt-pickup-4d-5-1-2-ft/options/?vehicleid=371355&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 5 1/2 ft", 
+      "year": "2012", 
+      "model": "1500 Crew Cab", 
+      "car_id": "371355"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2012-ram-1500-crew-cab/big-horn-pickup-4d-5-1-2-ft/options/?vehicleid=371357&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 5 1/2 ft", 
+      "year": "2012", 
+      "model": "1500 Crew Cab", 
+      "car_id": "371357"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2012-ram-1500-crew-cab/lone-star-pickup-4d-5-1-2-ft/options/?vehicleid=371356&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 5 1/2 ft", 
+      "year": "2012", 
+      "model": "1500 Crew Cab", 
+      "car_id": "371356"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2012-ram-1500-crew-cab/outdoorsman-pickup-4d-5-1-2-ft/options/?vehicleid=371354&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 4D 5 1/2 ft", 
+      "year": "2012", 
+      "model": "1500 Crew Cab", 
+      "car_id": "371354"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2012-ram-1500-crew-cab/sport-pickup-4d-5-1-2-ft/options/?vehicleid=371358&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Sport Pickup 4D 5 1/2 ft", 
+      "year": "2012", 
+      "model": "1500 Crew Cab", 
+      "car_id": "371358"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2012-ram-1500-crew-cab/laramie-pickup-4d-5-1-2-ft/options/?vehicleid=371359&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 5 1/2 ft", 
+      "year": "2012", 
+      "model": "1500 Crew Cab", 
+      "car_id": "371359"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2012-ram-1500-crew-cab/laramie-longhorn-edition-pickup-4d-5-1-2-ft/options/?vehicleid=371360&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 5 1/2 ft", 
+      "year": "2012", 
+      "model": "1500 Crew Cab", 
+      "car_id": "371360"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2012-ram-1500-crew-cab/laramie-limited-edition-pickup-4d-5-1-2-ft/options/?vehicleid=379408&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Limited Edition Pickup 4D 5 1/2 ft", 
+      "year": "2012", 
+      "model": "1500 Crew Cab", 
+      "car_id": "379408"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2011-ram-1500-crew-cab/st-pickup-4d-5-1-2-ft/options/?vehicleid=352710&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 4D 5 1/2 ft", 
+      "year": "2011", 
+      "model": "1500 Crew Cab", 
+      "car_id": "352710"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2011-ram-1500-crew-cab/slt-pickup-4d-5-1-2-ft/options/?vehicleid=352702&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 5 1/2 ft", 
+      "year": "2011", 
+      "model": "1500 Crew Cab", 
+      "car_id": "352702"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2011-ram-1500-crew-cab/sport-pickup-4d-5-1-2-ft/options/?vehicleid=352701&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Sport Pickup 4D 5 1/2 ft", 
+      "year": "2011", 
+      "model": "1500 Crew Cab", 
+      "car_id": "352701"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2011-ram-1500-crew-cab/laramie-pickup-4d-5-1-2-ft/options/?vehicleid=352713&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 5 1/2 ft", 
+      "year": "2011", 
+      "model": "1500 Crew Cab", 
+      "car_id": "352713"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-crew-cab/2011-ram-1500-crew-cab/laramie-longhorn-ed-pickup-4d-5-1-2-ft/options/?vehicleid=360468&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Ed Pickup 4D 5 1/2 ft", 
+      "year": "2011", 
+      "model": "1500 Crew Cab", 
+      "car_id": "360468"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2014-ram-1500-quad-cab/express-pickup-4d-6-1-3-ft/options/?vehicleid=391654&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Express Pickup 4D 6 1/3 ft", 
+      "year": "2014", 
+      "model": "1500 Quad Cab", 
+      "car_id": "391654"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2014-ram-1500-quad-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=391655&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2014", 
+      "model": "1500 Quad Cab", 
+      "car_id": "391655"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2014-ram-1500-quad-cab/big-horn-pickup-4d-6-1-3-ft/options/?vehicleid=391656&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 6 1/3 ft", 
+      "year": "2014", 
+      "model": "1500 Quad Cab", 
+      "car_id": "391656"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2013-ram-1500-quad-cab/tradesman-pickup-4d-6-1-3-ft/options/?vehicleid=382574&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Tradesman Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Quad Cab", 
+      "car_id": "382574"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2013-ram-1500-quad-cab/express-pickup-4d-6-1-3-ft/options/?vehicleid=382575&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Express Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Quad Cab", 
+      "car_id": "382575"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2013-ram-1500-quad-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=382576&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Quad Cab", 
+      "car_id": "382576"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2013-ram-1500-quad-cab/big-horn-pickup-4d-6-1-3-ft/options/?vehicleid=382578&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Quad Cab", 
+      "car_id": "382578"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2013-ram-1500-quad-cab/lone-star-pickup-4d-6-1-3-ft/options/?vehicleid=382579&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Quad Cab", 
+      "car_id": "382579"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2013-ram-1500-quad-cab/outdoorsman-pickup-4d-6-1-3-ft/options/?vehicleid=382580&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Quad Cab", 
+      "car_id": "382580"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2013-ram-1500-quad-cab/sport-pickup-4d-6-1-3-ft/options/?vehicleid=382577&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Sport Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Quad Cab", 
+      "car_id": "382577"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2013-ram-1500-quad-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=382583&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Quad Cab", 
+      "car_id": "382583"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2012-ram-1500-quad-cab/st-pickup-4d-6-1-3-ft/options/?vehicleid=371210&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Quad Cab", 
+      "car_id": "371210"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2012-ram-1500-quad-cab/tradesman-pickup-4d-6-1-3-ft/options/?vehicleid=378480&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Tradesman Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Quad Cab", 
+      "car_id": "378480"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2012-ram-1500-quad-cab/express-pickup-4d-6-1-3-ft/options/?vehicleid=371216&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Express Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Quad Cab", 
+      "car_id": "371216"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2012-ram-1500-quad-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=371212&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Quad Cab", 
+      "car_id": "371212"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2012-ram-1500-quad-cab/big-horn-pickup-4d-6-1-3-ft/options/?vehicleid=371220&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Quad Cab", 
+      "car_id": "371220"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2012-ram-1500-quad-cab/lone-star-pickup-4d-6-1-3-ft/options/?vehicleid=371218&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Quad Cab", 
+      "car_id": "371218"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2012-ram-1500-quad-cab/outdoorsman-pickup-4d-6-1-3-ft/options/?vehicleid=371221&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Quad Cab", 
+      "car_id": "371221"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2012-ram-1500-quad-cab/sport-pickup-4d-6-1-3-ft/options/?vehicleid=371209&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Sport Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Quad Cab", 
+      "car_id": "371209"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2012-ram-1500-quad-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=371211&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Quad Cab", 
+      "car_id": "371211"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2011-ram-1500-quad-cab/st-pickup-4d-6-1-3-ft/options/?vehicleid=352720&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "1500 Quad Cab", 
+      "car_id": "352720"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2011-ram-1500-quad-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=352723&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "1500 Quad Cab", 
+      "car_id": "352723"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2011-ram-1500-quad-cab/sport-pickup-4d-6-1-3-ft/options/?vehicleid=352714&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Sport Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "1500 Quad Cab", 
+      "car_id": "352714"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-quad-cab/2011-ram-1500-quad-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=352721&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "1500 Quad Cab", 
+      "car_id": "352721"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2013-ram-1500-regular-cab/tradesman-pickup-2d-6-1-3-ft/options/?vehicleid=382611&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Tradesman Pickup 2D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Regular Cab", 
+      "car_id": "382611"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2013-ram-1500-regular-cab/tradesman-pickup-2d-8-ft/options/?vehicleid=382612&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Tradesman Pickup 2D 8 ft", 
+      "year": "2013", 
+      "model": "1500 Regular Cab", 
+      "car_id": "382612"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2013-ram-1500-regular-cab/express-pickup-2d-6-1-3-ft/options/?vehicleid=382613&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Express Pickup 2D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Regular Cab", 
+      "car_id": "382613"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2013-ram-1500-regular-cab/slt-pickup-2d-6-1-3-ft/options/?vehicleid=382614&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 2D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Regular Cab", 
+      "car_id": "382614"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2013-ram-1500-regular-cab/slt-pickup-2d-8-ft/options/?vehicleid=382615&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 2D 8 ft", 
+      "year": "2013", 
+      "model": "1500 Regular Cab", 
+      "car_id": "382615"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2013-ram-1500-regular-cab/hfe-pickup-2d-6-1-3-ft/options/?vehicleid=382616&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "HFE Pickup 2D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Regular Cab", 
+      "car_id": "382616"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2013-ram-1500-regular-cab/r-t-pickup-2d-6-1-3-ft/options/?vehicleid=382545&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "R/T Pickup 2D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Regular Cab", 
+      "car_id": "382545"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2013-ram-1500-regular-cab/sport-pickup-2d-6-1-3-ft/options/?vehicleid=382546&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Sport Pickup 2D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "1500 Regular Cab", 
+      "car_id": "382546"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2012-ram-1500-regular-cab/st-pickup-2d-6-1-3-ft/options/?vehicleid=371214&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 2D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Regular Cab", 
+      "car_id": "371214"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2012-ram-1500-regular-cab/st-pickup-2d-8-ft/options/?vehicleid=371219&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 2D 8 ft", 
+      "year": "2012", 
+      "model": "1500 Regular Cab", 
+      "car_id": "371219"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2012-ram-1500-regular-cab/tradesman-pickup-2d-6-1-3-ft/options/?vehicleid=371226&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Tradesman Pickup 2D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Regular Cab", 
+      "car_id": "371226"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2012-ram-1500-regular-cab/tradesman-pickup-2d-8-ft/options/?vehicleid=371227&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Tradesman Pickup 2D 8 ft", 
+      "year": "2012", 
+      "model": "1500 Regular Cab", 
+      "car_id": "371227"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2012-ram-1500-regular-cab/express-pickup-2d-6-1-3-ft/options/?vehicleid=371225&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Express Pickup 2D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Regular Cab", 
+      "car_id": "371225"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2012-ram-1500-regular-cab/slt-pickup-2d-6-1-3-ft/options/?vehicleid=371213&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 2D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Regular Cab", 
+      "car_id": "371213"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2012-ram-1500-regular-cab/slt-pickup-2d-8-ft/options/?vehicleid=371222&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 2D 8 ft", 
+      "year": "2012", 
+      "model": "1500 Regular Cab", 
+      "car_id": "371222"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2012-ram-1500-regular-cab/outdoorsman-pickup-2d-6-1-3-ft/options/?vehicleid=371229&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 2D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Regular Cab", 
+      "car_id": "371229"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2012-ram-1500-regular-cab/outdoorsman-pickup-2d-8-ft/options/?vehicleid=371230&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 2D 8 ft", 
+      "year": "2012", 
+      "model": "1500 Regular Cab", 
+      "car_id": "371230"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2012-ram-1500-regular-cab/tradesman-heavy-duty-pickup-2d-8-ft/options/?vehicleid=377697&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Tradesman Heavy Duty Pickup 2D 8 ft", 
+      "year": "2012", 
+      "model": "1500 Regular Cab", 
+      "car_id": "377697"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2012-ram-1500-regular-cab/sport-pickup-2d-6-1-3-ft/options/?vehicleid=371223&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Sport Pickup 2D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Regular Cab", 
+      "car_id": "371223"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2012-ram-1500-regular-cab/r-t-pickup-2d-6-1-3-ft/options/?vehicleid=377694&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "R/T Pickup 2D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "1500 Regular Cab", 
+      "car_id": "377694"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2011-ram-1500-regular-cab/st-pickup-2d-6-1-3-ft/options/?vehicleid=352705&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 2D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "1500 Regular Cab", 
+      "car_id": "352705"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2011-ram-1500-regular-cab/st-pickup-2d-8-ft/options/?vehicleid=352709&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 2D 8 ft", 
+      "year": "2011", 
+      "model": "1500 Regular Cab", 
+      "car_id": "352709"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2011-ram-1500-regular-cab/slt-pickup-2d-6-1-3-ft/options/?vehicleid=352708&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 2D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "1500 Regular Cab", 
+      "car_id": "352708"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2011-ram-1500-regular-cab/slt-pickup-2d-8-ft/options/?vehicleid=352700&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 2D 8 ft", 
+      "year": "2011", 
+      "model": "1500 Regular Cab", 
+      "car_id": "352700"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/1500-regular-cab/2011-ram-1500-regular-cab/sport-pickup-2d-6-1-3-ft/options/?vehicleid=352704&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Sport Pickup 2D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "1500 Regular Cab", 
+      "car_id": "352704"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2014-ram-2500-crew-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=393519&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2014", 
+      "model": "2500 Crew Cab", 
+      "car_id": "393519"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2014-ram-2500-crew-cab/slt-pickup-4d-8-ft/options/?vehicleid=393520&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 8 ft", 
+      "year": "2014", 
+      "model": "2500 Crew Cab", 
+      "car_id": "393520"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2014-ram-2500-crew-cab/big-horn-pickup-4d-6-1-3-ft/options/?vehicleid=393521&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 6 1/3 ft", 
+      "year": "2014", 
+      "model": "2500 Crew Cab", 
+      "car_id": "393521"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2014-ram-2500-crew-cab/big-horn-pickup-4d-8-ft/options/?vehicleid=393522&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 8 ft", 
+      "year": "2014", 
+      "model": "2500 Crew Cab", 
+      "car_id": "393522"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/tradesman-pickup-4d-6-1-3-ft/options/?vehicleid=385193&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Tradesman Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385193"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/tradesman-pickup-4d-8-ft/options/?vehicleid=385192&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Tradesman Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385192"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=385194&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385194"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/slt-pickup-4d-8-ft/options/?vehicleid=385195&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385195"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/big-horn-pickup-4d-6-1-3-ft/options/?vehicleid=385196&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385196"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/lone-star-pickup-4d-6-1-3-ft/options/?vehicleid=385197&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385197"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/lone-star-pickup-4d-8-ft/options/?vehicleid=385199&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385199"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/big-horn-pickup-4d-8-ft/options/?vehicleid=385198&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385198"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=385201&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385201"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/laramie-pickup-4d-8-ft/options/?vehicleid=385202&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385202"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/outdoorsman-pickup-4d-6-1-3-ft/options/?vehicleid=385204&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385204"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/outdoorsman-pickup-4d-8-ft/options/?vehicleid=385203&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385203"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/power-wagon-pickup-4d-6-1-3-ft/options/?vehicleid=385205&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Power Wagon Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385205"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/laramie-longhorn-edition-pickup-4d-6-1-3-ft/options/?vehicleid=385206&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385206"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/laramie-longhorn-edition-pickup-4d-8-ft/options/?vehicleid=385207&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385207"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/tradesman-power-wagon-pickup-4d-6-1-3-ft/options/?vehicleid=385200&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Tradesman Power Wagon Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385200"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/laramie-longhorn-limited-edition-pickup-4d-6-1-3-ft/options/?vehicleid=390935&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Limited Edition Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "390935"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/laramie-longhorn-limited-edition-pickup-4d-8-ft/options/?vehicleid=390932&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Limited Edition Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "390932"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2013-ram-2500-crew-cab/laramie-power-wagon-pickup-4d-6-1-3-ft/options/?vehicleid=385208&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Power Wagon Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Crew Cab", 
+      "car_id": "385208"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/st-pickup-4d-6-1-3-ft/options/?vehicleid=374591&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374591"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/st-pickup-4d-8-ft/options/?vehicleid=374590&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374590"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=374592&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374592"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/slt-pickup-4d-8-ft/options/?vehicleid=374594&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374594"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/big-horn-pickup-4d-6-1-3-ft/options/?vehicleid=374597&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374597"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/lone-star-pickup-4d-6-1-3-ft/options/?vehicleid=374593&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374593"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/big-horn-pickup-4d-8-ft/options/?vehicleid=374596&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374596"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/lone-star-pickup-4d-8-ft/options/?vehicleid=374598&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374598"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/outdoorsman-pickup-4d-6-1-3-ft/options/?vehicleid=374595&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374595"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/outdoorsman-pickup-4d-8-ft/options/?vehicleid=374599&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374599"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=374600&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374600"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/laramie-pickup-4d-8-ft/options/?vehicleid=374602&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374602"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/power-wagon-pickup-4d-6-1-3-ft/options/?vehicleid=374601&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Power Wagon Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374601"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/laramie-longhorn-edition-pickup-4d-6-1-3-ft/options/?vehicleid=374603&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374603"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/laramie-longhorn-edition-pickup-4d-8-ft/options/?vehicleid=374604&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "374604"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/laramie-longhorn-limited-edition-pickup-4d-6-1-3-ft/options/?vehicleid=378667&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Limited Edition Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "378667"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2012-ram-2500-crew-cab/laramie-longhorn-limited-edition-pickup-4d-8-ft/options/?vehicleid=378666&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Limited Edition Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "2500 Crew Cab", 
+      "car_id": "378666"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2011-ram-2500-crew-cab/st-pickup-4d-6-1-3-ft/options/?vehicleid=353016&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "2500 Crew Cab", 
+      "car_id": "353016"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2011-ram-2500-crew-cab/st-pickup-4d-8-ft/options/?vehicleid=353017&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 4D 8 ft", 
+      "year": "2011", 
+      "model": "2500 Crew Cab", 
+      "car_id": "353017"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2011-ram-2500-crew-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=353018&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "2500 Crew Cab", 
+      "car_id": "353018"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2011-ram-2500-crew-cab/slt-pickup-4d-8-ft/options/?vehicleid=353021&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 8 ft", 
+      "year": "2011", 
+      "model": "2500 Crew Cab", 
+      "car_id": "353021"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2011-ram-2500-crew-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=353024&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "2500 Crew Cab", 
+      "car_id": "353024"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2011-ram-2500-crew-cab/laramie-pickup-4d-8-ft/options/?vehicleid=353019&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 8 ft", 
+      "year": "2011", 
+      "model": "2500 Crew Cab", 
+      "car_id": "353019"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2011-ram-2500-crew-cab/laramie-longhorn-edition-pickup-4d-6-1-3-ft/options/?vehicleid=360865&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "2500 Crew Cab", 
+      "car_id": "360865"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2011-ram-2500-crew-cab/laramie-longhorn-edition-pickup-4d-8-ft/options/?vehicleid=360863&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 8 ft", 
+      "year": "2011", 
+      "model": "2500 Crew Cab", 
+      "car_id": "360863"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-crew-cab/2011-ram-2500-crew-cab/powerwagon-pickup-4d-6-1-3-ft/options/?vehicleid=353020&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Powerwagon Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "2500 Crew Cab", 
+      "car_id": "353020"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2013-ram-2500-mega-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=384725&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Mega Cab", 
+      "car_id": "384725"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2013-ram-2500-mega-cab/big-horn-pickup-4d-6-1-3-ft/options/?vehicleid=384728&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Mega Cab", 
+      "car_id": "384728"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2013-ram-2500-mega-cab/lone-star-pickup-4d-6-1-3-ft/options/?vehicleid=384727&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Mega Cab", 
+      "car_id": "384727"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2013-ram-2500-mega-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=384726&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Mega Cab", 
+      "car_id": "384726"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2013-ram-2500-mega-cab/laramie-longhorn-edition-pickup-4d-6-1-3-ft/options/?vehicleid=384729&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Mega Cab", 
+      "car_id": "384729"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2013-ram-2500-mega-cab/laramie-longhorn-limited-edition-pickup-4d-6-1-3-ft/options/?vehicleid=390933&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Limited Edition Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "2500 Mega Cab", 
+      "car_id": "390933"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2012-ram-2500-mega-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=374154&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Mega Cab", 
+      "car_id": "374154"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2012-ram-2500-mega-cab/big-horn-pickup-4d-6-1-3-ft/options/?vehicleid=374156&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Mega Cab", 
+      "car_id": "374156"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2012-ram-2500-mega-cab/lone-star-pickup-4d-6-1-3-ft/options/?vehicleid=374157&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Mega Cab", 
+      "car_id": "374157"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2012-ram-2500-mega-cab/outdoorsman-pickup-4d-6-1-3-ft/options/?vehicleid=374159&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Mega Cab", 
+      "car_id": "374159"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2012-ram-2500-mega-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=374155&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Mega Cab", 
+      "car_id": "374155"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2012-ram-2500-mega-cab/laramie-longhorn-edition-pickup-4d-6-1-3-ft/options/?vehicleid=374161&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Mega Cab", 
+      "car_id": "374161"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2012-ram-2500-mega-cab/laramie-longhorn-limited-edition-pickup-4d-6-1-3-ft/options/?vehicleid=377605&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Limited Edition Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "2500 Mega Cab", 
+      "car_id": "377605"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2011-ram-2500-mega-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=353025&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "2500 Mega Cab", 
+      "car_id": "353025"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2011-ram-2500-mega-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=353028&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "2500 Mega Cab", 
+      "car_id": "353028"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-mega-cab/2011-ram-2500-mega-cab/laramie-longhorn-edition-pickup-4d-6-1-3-ft/options/?vehicleid=360834&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "2500 Mega Cab", 
+      "car_id": "360834"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-regular-cab/2013-ram-2500-regular-cab/tradesman-pickup-2d-8-ft/options/?vehicleid=384675&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Tradesman Pickup 2D 8 ft", 
+      "year": "2013", 
+      "model": "2500 Regular Cab", 
+      "car_id": "384675"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-regular-cab/2013-ram-2500-regular-cab/slt-pickup-2d-8-ft/options/?vehicleid=384676&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 2D 8 ft", 
+      "year": "2013", 
+      "model": "2500 Regular Cab", 
+      "car_id": "384676"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-regular-cab/2012-ram-2500-regular-cab/st-pickup-2d-8-ft/options/?vehicleid=373833&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 2D 8 ft", 
+      "year": "2012", 
+      "model": "2500 Regular Cab", 
+      "car_id": "373833"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-regular-cab/2012-ram-2500-regular-cab/slt-pickup-2d-8-ft/options/?vehicleid=373837&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 2D 8 ft", 
+      "year": "2012", 
+      "model": "2500 Regular Cab", 
+      "car_id": "373837"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-regular-cab/2012-ram-2500-regular-cab/outdoorsman-pickup-2d-8-ft/options/?vehicleid=373838&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 2D 8 ft", 
+      "year": "2012", 
+      "model": "2500 Regular Cab", 
+      "car_id": "373838"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-regular-cab/2011-ram-2500-regular-cab/st-pickup-2d-8-ft/options/?vehicleid=353026&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 2D 8 ft", 
+      "year": "2011", 
+      "model": "2500 Regular Cab", 
+      "car_id": "353026"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/2500-regular-cab/2011-ram-2500-regular-cab/slt-pickup-2d-8-ft/options/?vehicleid=353027&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 2D 8 ft", 
+      "year": "2011", 
+      "model": "2500 Regular Cab", 
+      "car_id": "353027"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2013-ram-3500-crew-cab/st-tradesman-pickup-4d-6-1-3-ft/options/?vehicleid=385246&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Tradesman Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "3500 Crew Cab", 
+      "car_id": "385246"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2013-ram-3500-crew-cab/st-tradesman-pickup-4d-8-ft/options/?vehicleid=385247&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Tradesman Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "3500 Crew Cab", 
+      "car_id": "385247"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2013-ram-3500-crew-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=385250&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "3500 Crew Cab", 
+      "car_id": "385250"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2013-ram-3500-crew-cab/slt-pickup-4d-8-ft/options/?vehicleid=385248&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "3500 Crew Cab", 
+      "car_id": "385248"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2013-ram-3500-crew-cab/lone-star-pickup-4d-6-1-3-ft/options/?vehicleid=385252&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "3500 Crew Cab", 
+      "car_id": "385252"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2013-ram-3500-crew-cab/big-horn-pickup-4d-6-1-3-ft/options/?vehicleid=385249&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "3500 Crew Cab", 
+      "car_id": "385249"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2013-ram-3500-crew-cab/big-horn-pickup-4d-8-ft/options/?vehicleid=385253&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "3500 Crew Cab", 
+      "car_id": "385253"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2013-ram-3500-crew-cab/lone-star-pickup-4d-8-ft/options/?vehicleid=385251&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "3500 Crew Cab", 
+      "car_id": "385251"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2013-ram-3500-crew-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=385254&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "3500 Crew Cab", 
+      "car_id": "385254"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2013-ram-3500-crew-cab/laramie-pickup-4d-8-ft/options/?vehicleid=385255&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "3500 Crew Cab", 
+      "car_id": "385255"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2013-ram-3500-crew-cab/laramie-longhorn-edition-pickup-4d-6-1-3-ft/options/?vehicleid=385256&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "3500 Crew Cab", 
+      "car_id": "385256"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2013-ram-3500-crew-cab/laramie-longhorn-edition-pickup-4d-8-ft/options/?vehicleid=385258&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "3500 Crew Cab", 
+      "car_id": "385258"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2013-ram-3500-crew-cab/laramie-longhorn-limited-edition-pickup-4d-6-1-3-ft/options/?vehicleid=396468&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Limited Edition Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "3500 Crew Cab", 
+      "car_id": "396468"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2013-ram-3500-crew-cab/laramie-longhorn-limited-edition-pickup-4d-8-ft/options/?vehicleid=385257&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Limited Edition Pickup 4D 8 ft", 
+      "year": "2013", 
+      "model": "3500 Crew Cab", 
+      "car_id": "385257"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/st-pickup-4d-6-1-3-ft/options/?vehicleid=374570&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "374570"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/st-pickup-4d-8-ft/options/?vehicleid=374569&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "374569"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=374573&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "374573"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/slt-pickup-4d-8-ft/options/?vehicleid=374574&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "374574"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/lone-star-pickup-4d-6-1-3-ft/options/?vehicleid=374571&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "374571"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/big-horn-pickup-4d-6-1-3-ft/options/?vehicleid=374572&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "374572"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/outdoorsman-pickup-4d-8-ft/options/?vehicleid=374577&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "374577"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/lone-star-pickup-4d-8-ft/options/?vehicleid=374578&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "374578"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/big-horn-pickup-4d-8-ft/options/?vehicleid=374575&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "374575"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/outdoorsman-pickup-4d-6-1-3-ft/options/?vehicleid=374576&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "374576"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=374579&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "374579"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/laramie-pickup-4d-8-ft/options/?vehicleid=374580&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "374580"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/laramie-longhorn-edition-pickup-4d-6-1-3-ft/options/?vehicleid=374582&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "374582"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/laramie-longhorn-edition-pickup-4d-8-ft/options/?vehicleid=374581&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "374581"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/laramie-longhorn-limited-edition-pickup-4d-6-1-3-ft/options/?vehicleid=377600&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Limited Edition Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "377600"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2012-ram-3500-crew-cab/laramie-longhorn-limited-edition-pickup-4d-8-ft/options/?vehicleid=377601&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Limited Edition Pickup 4D 8 ft", 
+      "year": "2012", 
+      "model": "3500 Crew Cab", 
+      "car_id": "377601"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2011-ram-3500-crew-cab/st-pickup-4d-6-1-3-ft/options/?vehicleid=353030&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "3500 Crew Cab", 
+      "car_id": "353030"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2011-ram-3500-crew-cab/st-pickup-4d-8-ft/options/?vehicleid=353035&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 4D 8 ft", 
+      "year": "2011", 
+      "model": "3500 Crew Cab", 
+      "car_id": "353035"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2011-ram-3500-crew-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=353034&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "3500 Crew Cab", 
+      "car_id": "353034"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2011-ram-3500-crew-cab/slt-pickup-4d-8-ft/options/?vehicleid=353043&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 8 ft", 
+      "year": "2011", 
+      "model": "3500 Crew Cab", 
+      "car_id": "353043"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2011-ram-3500-crew-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=353022&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "3500 Crew Cab", 
+      "car_id": "353022"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2011-ram-3500-crew-cab/laramie-pickup-4d-8-ft/options/?vehicleid=353042&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 8 ft", 
+      "year": "2011", 
+      "model": "3500 Crew Cab", 
+      "car_id": "353042"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2011-ram-3500-crew-cab/laramie-longhorn-edition-pickup-4d-6-1-3-ft/options/?vehicleid=360867&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "3500 Crew Cab", 
+      "car_id": "360867"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-crew-cab/2011-ram-3500-crew-cab/laramie-longhorn-edition-pickup-4d-8-ft/options/?vehicleid=360868&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 8 ft", 
+      "year": "2011", 
+      "model": "3500 Crew Cab", 
+      "car_id": "360868"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2013-ram-3500-mega-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=385007&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "3500 Mega Cab", 
+      "car_id": "385007"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2013-ram-3500-mega-cab/big-horn-pickup-4d-6-1-3-ft/options/?vehicleid=384995&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "3500 Mega Cab", 
+      "car_id": "384995"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2013-ram-3500-mega-cab/lone-star-pickup-4d-6-1-3-ft/options/?vehicleid=384997&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "3500 Mega Cab", 
+      "car_id": "384997"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2013-ram-3500-mega-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=385001&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "3500 Mega Cab", 
+      "car_id": "385001"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2013-ram-3500-mega-cab/laramie-longhorn-edition-pickup-4d-6-1-3-ft/options/?vehicleid=384998&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "3500 Mega Cab", 
+      "car_id": "384998"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2013-ram-3500-mega-cab/laramie-longhorn-limited-edition-pickup-4d-6-1-3-ft/options/?vehicleid=395476&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Limited Edition Pickup 4D 6 1/3 ft", 
+      "year": "2013", 
+      "model": "3500 Mega Cab", 
+      "car_id": "395476"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2012-ram-3500-mega-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=374158&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Mega Cab", 
+      "car_id": "374158"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2012-ram-3500-mega-cab/outdoorsman-pickup-4d-6-1-3-ft/options/?vehicleid=374162&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Outdoorsman Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Mega Cab", 
+      "car_id": "374162"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2012-ram-3500-mega-cab/big-horn-pickup-4d-6-1-3-ft/options/?vehicleid=374160&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Big Horn Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Mega Cab", 
+      "car_id": "374160"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2012-ram-3500-mega-cab/lone-star-pickup-4d-6-1-3-ft/options/?vehicleid=374164&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Lone Star Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Mega Cab", 
+      "car_id": "374164"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2012-ram-3500-mega-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=374167&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Mega Cab", 
+      "car_id": "374167"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2012-ram-3500-mega-cab/laramie-longhorn-edition-pickup-4d-6-1-3-ft/options/?vehicleid=374168&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Mega Cab", 
+      "car_id": "374168"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2012-ram-3500-mega-cab/laramie-longhorn-limited-edition-pickup-4d-6-1-3-ft/options/?vehicleid=374639&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Limited Edition Pickup 4D 6 1/3 ft", 
+      "year": "2012", 
+      "model": "3500 Mega Cab", 
+      "car_id": "374639"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2011-ram-3500-mega-cab/slt-pickup-4d-6-1-3-ft/options/?vehicleid=353023&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "3500 Mega Cab", 
+      "car_id": "353023"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2011-ram-3500-mega-cab/laramie-pickup-4d-6-1-3-ft/options/?vehicleid=353044&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "3500 Mega Cab", 
+      "car_id": "353044"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-mega-cab/2011-ram-3500-mega-cab/laramie-longhorn-edition-pickup-4d-6-1-3-ft/options/?vehicleid=360896&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "Laramie Longhorn Edition Pickup 4D 6 1/3 ft", 
+      "year": "2011", 
+      "model": "3500 Mega Cab", 
+      "car_id": "360896"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-regular-cab/2013-ram-3500-regular-cab/st-tradesman-pickup-2d-8-ft/options/?vehicleid=384862&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Tradesman Pickup 2D 8 ft", 
+      "year": "2013", 
+      "model": "3500 Regular Cab", 
+      "car_id": "384862"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-regular-cab/2013-ram-3500-regular-cab/slt-pickup-2d-8-ft/options/?vehicleid=384867&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 2D 8 ft", 
+      "year": "2013", 
+      "model": "3500 Regular Cab", 
+      "car_id": "384867"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-regular-cab/2012-ram-3500-regular-cab/st-pickup-2d-8-ft/options/?vehicleid=373823&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 2D 8 ft", 
+      "year": "2012", 
+      "model": "3500 Regular Cab", 
+      "car_id": "373823"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-regular-cab/2012-ram-3500-regular-cab/slt-pickup-2d-8-ft/options/?vehicleid=373824&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 2D 8 ft", 
+      "year": "2012", 
+      "model": "3500 Regular Cab", 
+      "car_id": "373824"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-regular-cab/2011-ram-3500-regular-cab/st-pickup-2d-8-ft/options/?vehicleid=353040&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "ST Pickup 2D 8 ft", 
+      "year": "2011", 
+      "model": "3500 Regular Cab", 
+      "car_id": "353040"
+    }, 
+    {
+      "category": "Pickups", 
+      "url": "/ram/3500-regular-cab/2011-ram-3500-regular-cab/slt-pickup-2d-8-ft/options/?vehicleid=353039&intent=buy-used&category=pickup", 
+      "make": "Ram", 
+      "sub_cat": "SLT Pickup 2D 8 ft", 
+      "year": "2011", 
+      "model": "3500 Regular Cab", 
+      "car_id": "353039"
+    }
+  ]
+}
