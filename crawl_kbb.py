@@ -152,7 +152,7 @@ def get_info_from_url(url):
         sub_cat= m.groupdict().get('sub_cat', '')
         year   = m.groupdict().get('year', '')
     else:
-        print ">>>>>>>>>>>>>>>>>>>>>>", url
+        print(getTime(1)+"| Error: "+ url)
         car_id, sub_cat, year = '', '', ''
     return car_id, sub_cat, year
 
