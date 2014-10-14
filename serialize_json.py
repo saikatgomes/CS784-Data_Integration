@@ -46,8 +46,8 @@ def serialize_kbb(fname = 'data/all_makes.json'):
               indent=True, sort_keys=True)
     
 
-def serialize_craiglist(fname = 'craiglist/car_data_present.json'):
-    add_name = 'craiglist/car_data_new.json'
+def serialize_craiglist(fname = 'craiglist_data/car_data_present.json'):
+    add_name = 'craiglist_data/car_data.json'
     D = json.load(open(fname))
     cat = set([x for t in D\
                    for x in t.keys()])
