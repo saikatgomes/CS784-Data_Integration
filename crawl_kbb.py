@@ -36,6 +36,7 @@ def create_vodro_dir(_dir_, next):
         os.mkdir(_dir_)
     return _dir_
 
+
 # current time for logging
 def getTime(f=1):
     ts = time.time()
@@ -46,6 +47,7 @@ def getTime(f=1):
         fmt='%Y%m%d%H%M%S%f'
     dt = datetime.datetime.fromtimestamp(ts).strftime(fmt)+"--["+str(C_COUNT)+"]"
     return dt
+
 
 def crawl_one_page(url,main_str, text_str, url_str, save_path):
     global C_COUNT
@@ -65,6 +67,7 @@ def crawl_one_page(url,main_str, text_str, url_str, save_path):
         with open(save_path,'w') as f:
             f.write(main_page.text.encode("ascii",errors="ignore"))
     return text_list,url_list,redir_url
+
 
 def get_attributes(url,save_path):
     global C_COUNT
@@ -123,6 +126,7 @@ def get_all_makes(url,tp):
             json.dump({'car_makes_link':MAKES},f,indent=2)
         if randint(0,10)<2: time.sleep(1)
 
+
 def schedule_crawl():
     global MAKES
     make_list=[]
@@ -142,6 +146,7 @@ def schedule_crawl():
         crawl_make(make,url) 
     #done
 
+
 import re
 def get_info_from_url(url):
     #print url
@@ -155,6 +160,7 @@ def get_info_from_url(url):
         print(getTime(1)+"| Error: "+ url)
         car_id, sub_cat, year = '', '', ''
     return car_id, sub_cat, year
+
 
 def crawl_make(make,url):
     print(getTime(1)+"|> Starting crawling for MAKE="+make)
@@ -201,12 +207,14 @@ def crawl_make(make,url):
             this_cat=X[1]
             this_model=X[2]
             try:
-                car_id, xSub_cat, xYear = get_info_from_url(redir_url)
-                if not (car_id and xSub_cat and xYear):
-                    raise KeyError
+                #NOTE: the following may not yeild a xYear etc
+                #need to savelu creat dir
+                car_id, xSub_cat, xYear = get_info_from_url(url)
+                #if not (car_id and xSub_cat and xYear):
+                #    raise KeyError
                 last_dir=create_vodro_dir("kbb_data/html/%s/%s/%s" % (make.replace('/', '_'), 
                                                                       this_cat.replace('/', '_'),
-                                                                      this_model.replace('/', '_')), this_year)
+                                                                      this_model.replace('/', '_')), xYear)
                 DATA = get_one_car(url,make,this_cat,this_model,'',DATA, last_dir)
             except KeyError:
                 print(getTime(1)+"|\t\t\t\t()URL  ="+url)
@@ -215,6 +223,7 @@ def crawl_make(make,url):
     with open(fileName,"w") as f:
         json.dump({'car':DATA},f,indent=2)
     os.remove(lockfile)
+
 
 def get_one_car(url,make,this_cat,this_model,this_year,DATA,_dir_):
     global SUB_MAIN_STR,SUB_TEXT_STR,SUB_URL_STR
@@ -243,7 +252,6 @@ def get_one_car(url,make,this_cat,this_model,this_year,DATA,_dir_):
         DATA.append({'make':make,'category':this_cat,'model':this_model,'year':xYear,'sub_cat':one_cat,'url':one_url,'car_id':car_id,'att':a})
         print(getTime(1)+"|\t\t\t\t\t\tmake="+make+",cat="+this_cat+",mode="+this_model+",year="+xYear+",sub="+one_cat+",id="+car_id)
     return DATA
- 
 
 
 if __name__ == "__main__":
