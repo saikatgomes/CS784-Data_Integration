@@ -165,10 +165,10 @@
         ]
       ], 
       "sub_cat": "LS Sedan 4D", 
-      "year": "", 
+      "year": "1995", 
       "url": "/alfa-romeo/164/1995-alfa-romeo-164/ls-sedan-4d/options/?vehicleid=7199&intent=buy-used&category=sedan", 
       "make": "Alfa Romeo", 
-      "car_id": "", 
+      "car_id": "7199", 
       "model": "164"
     }, 
     {
@@ -328,10 +328,10 @@
         ]
       ], 
       "sub_cat": "Q Sedan 4D", 
-      "year": "", 
+      "year": "1995", 
       "url": "/alfa-romeo/164/1995-alfa-romeo-164/q-sedan-4d/options/?vehicleid=7203&intent=buy-used&category=sedan", 
       "make": "Alfa Romeo", 
-      "car_id": "", 
+      "car_id": "7203", 
       "model": "164"
     }, 
     {
@@ -499,10 +499,10 @@
         ]
       ], 
       "sub_cat": "LS Sedan 4D", 
-      "year": "", 
+      "year": "1994", 
       "url": "/alfa-romeo/164/1994-alfa-romeo-164/ls-sedan-4d/options/?vehicleid=8592&intent=buy-used&category=sedan", 
       "make": "Alfa Romeo", 
-      "car_id": "", 
+      "car_id": "8592", 
       "model": "164"
     }, 
     {
@@ -662,11 +662,313 @@
         ]
       ], 
       "sub_cat": "Q Sedan 4D", 
-      "year": "", 
+      "year": "1994", 
       "url": "/alfa-romeo/164/1994-alfa-romeo-164/q-sedan-4d/options/?vehicleid=8596&intent=buy-used&category=sedan", 
       "make": "Alfa Romeo", 
-      "car_id": "", 
+      "car_id": "8596", 
       "model": "164"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "4-Cyl, 2.0 Liter", 
+          "chgBox317993", 
+          "cbxOptionId317993", 
+          "317993"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox317995", 
+          "cbxOptionId317995", 
+          "317995"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox317997", 
+          "cbxOptionId317997", 
+          "317997"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox318003", 
+          "cbxOptionId318003", 
+          "318003"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox318015", 
+          "cbxOptionId318015", 
+          "318015"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox318016", 
+          "cbxOptionId318016", 
+          "318016"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox318020", 
+          "cbxOptionId318020", 
+          "318020"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox318008", 
+          "cbxOptionId318008", 
+          "318008"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox318018", 
+          "cbxOptionId318018", 
+          "318018"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox318022", 
+          "cbxOptionId318022", 
+          "318022"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox318024", 
+          "cbxOptionId318024", 
+          "318024"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox318029", 
+          "cbxOptionId318029", 
+          "318029"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox318043", 
+          "cbxOptionId318043", 
+          "318043"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox318062", 
+          "cbxOptionId318062", 
+          "318062"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Hard Top/Soft Top", 
+          "chgBox317998", 
+          "cbxOptionId317998", 
+          "317998"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox4232782", 
+          "cbxOptionId4232782", 
+          "4232782"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox318069", 
+          "cbxOptionId318069", 
+          "318069"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox318071", 
+          "cbxOptionId318071", 
+          "318071"
+        ]
+      ], 
+      "sub_cat": "Convertible 2D", 
+      "year": "1994", 
+      "url": "/alfa-romeo/spider/1994-alfa-romeo-spider/convertible-2d/options/?vehicleid=8595&intent=buy-used&category=convertible", 
+      "make": "Alfa Romeo", 
+      "car_id": "8595", 
+      "model": "Spider"
+    }, 
+    {
+      "category": "Convertibles", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "4-Cyl, 2.0 Liter", 
+          "chgBox318087", 
+          "cbxOptionId318087", 
+          "318087"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox318089", 
+          "cbxOptionId318089", 
+          "318089"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "RWD", 
+          "chgBox318092", 
+          "cbxOptionId318092", 
+          "318092"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox318103", 
+          "cbxOptionId318103", 
+          "318103"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox318113", 
+          "cbxOptionId318113", 
+          "318113"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox318115", 
+          "cbxOptionId318115", 
+          "318115"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox318117", 
+          "cbxOptionId318117", 
+          "318117"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox318108", 
+          "cbxOptionId318108", 
+          "318108"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox318116", 
+          "cbxOptionId318116", 
+          "318116"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox318119", 
+          "cbxOptionId318119", 
+          "318119"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox318121", 
+          "cbxOptionId318121", 
+          "318121"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox318125", 
+          "cbxOptionId318125", 
+          "318125"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox318134", 
+          "cbxOptionId318134", 
+          "318134"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox318166", 
+          "cbxOptionId318166", 
+          "318166"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Hard Top/Soft Top", 
+          "chgBox318096", 
+          "cbxOptionId318096", 
+          "318096"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox318178", 
+          "cbxOptionId318178", 
+          "318178"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox318183", 
+          "cbxOptionId318183", 
+          "318183"
+        ]
+      ], 
+      "sub_cat": "Veloce Ce Convertible 2D", 
+      "year": "1994", 
+      "url": "/alfa-romeo/spider/1994-alfa-romeo-spider/veloce-ce-convertible-2d/options/?vehicleid=8599&intent=buy-used&category=convertible", 
+      "make": "Alfa Romeo", 
+      "car_id": "8599", 
+      "model": "Spider"
     }
   ]
 }
