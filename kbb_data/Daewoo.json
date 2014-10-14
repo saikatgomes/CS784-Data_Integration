@@ -12929,6 +12929,564 @@
       "make": "Daewoo", 
       "car_id": "5280", 
       "model": "Nubira"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "4-Cyl, 2.0 Liter", 
+          "chgBox202388", 
+          "cbxOptionId202388", 
+          "202388"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic", 
+          "chgBox202392", 
+          "cbxOptionId202392", 
+          "202392"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox202389", 
+          "cbxOptionId202389", 
+          "202389"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "FWD", 
+          "chgBox202394", 
+          "cbxOptionId202394", 
+          "202394"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox202485", 
+          "cbxOptionId202485", 
+          "202485"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox202398", 
+          "cbxOptionId202398", 
+          "202398"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox202409", 
+          "cbxOptionId202409", 
+          "202409"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox202416", 
+          "cbxOptionId202416", 
+          "202416"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox202434", 
+          "cbxOptionId202434", 
+          "202434"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox202403", 
+          "cbxOptionId202403", 
+          "202403"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox202426", 
+          "cbxOptionId202426", 
+          "202426"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox202438", 
+          "cbxOptionId202438", 
+          "202438"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox202449", 
+          "cbxOptionId202449", 
+          "202449"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox202454", 
+          "cbxOptionId202454", 
+          "202454"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox202460", 
+          "cbxOptionId202460", 
+          "202460"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox547462", 
+          "cbxOptionId547462", 
+          "547462"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox547463", 
+          "cbxOptionId547463", 
+          "547463"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox202470", 
+          "cbxOptionId202470", 
+          "202470"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox1355327", 
+          "cbxOptionId1355327", 
+          "1355327"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox202477", 
+          "cbxOptionId202477", 
+          "202477"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox202479", 
+          "cbxOptionId202479", 
+          "202479"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox202481", 
+          "cbxOptionId202481", 
+          "202481"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "F&R Side Air Bags", 
+          "chgBox202484", 
+          "cbxOptionId202484", 
+          "202484"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Power Seat", 
+          "chgBox202500", 
+          "cbxOptionId202500", 
+          "202500"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Dual Power Seats", 
+          "chgBox202506", 
+          "cbxOptionId202506", 
+          "202506"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox202492", 
+          "cbxOptionId202492", 
+          "202492"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Sun Roof (Flip-Up)", 
+          "chgBox202514", 
+          "cbxOptionId202514", 
+          "202514"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Sun Roof (Sliding)", 
+          "chgBox202520", 
+          "cbxOptionId202520", 
+          "202520"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Moon Roof", 
+          "chgBox202527", 
+          "cbxOptionId202527", 
+          "202527"
+        ], 
+        [
+          "Options", 
+          "Exterior", 
+          "Rear Spoiler", 
+          "chgBox202533", 
+          "cbxOptionId202533", 
+          "202533"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Steel Wheels", 
+          "chgBox4233655", 
+          "cbxOptionId4233655", 
+          "4233655"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox202539", 
+          "cbxOptionId202539", 
+          "202539"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox202548", 
+          "cbxOptionId202548", 
+          "202548"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox547469", 
+          "cbxOptionId547469", 
+          "547469"
+        ]
+      ], 
+      "sub_cat": "SX Hatchback 4D", 
+      "year": "1999", 
+      "url": "/daewoo/nubira/1999-daewoo-nubira/sx-hatchback-4d/options/?vehicleid=5279&intent=buy-used&category=hatchback", 
+      "make": "Daewoo", 
+      "car_id": "5279", 
+      "model": "Nubira"
+    }, 
+    {
+      "category": "Hatchbacks", 
+      "att": [
+        [
+          "Powertrain", 
+          "Engine", 
+          "4-Cyl, 2.0 Liter", 
+          "chgBox202459", 
+          "cbxOptionId202459", 
+          "202459"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Automatic", 
+          "chgBox202471", 
+          "cbxOptionId202471", 
+          "202471"
+        ], 
+        [
+          "Powertrain", 
+          "Transmission", 
+          "Manual, 5-Spd", 
+          "chgBox202462", 
+          "cbxOptionId202462", 
+          "202462"
+        ], 
+        [
+          "Powertrain", 
+          "Drivetrain", 
+          "FWD", 
+          "chgBox202472", 
+          "cbxOptionId202472", 
+          "202472"
+        ], 
+        [
+          "Options", 
+          "Braking and Traction", 
+          "ABS (4-Wheel)", 
+          "chgBox202557", 
+          "cbxOptionId202557", 
+          "202557"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Air Conditioning", 
+          "chgBox202475", 
+          "cbxOptionId202475", 
+          "202475"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Windows", 
+          "chgBox202489", 
+          "cbxOptionId202489", 
+          "202489"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Power Door Locks", 
+          "chgBox202499", 
+          "cbxOptionId202499", 
+          "202499"
+        ], 
+        [
+          "Options", 
+          "Comfort and Convenience", 
+          "Cruise Control", 
+          "chgBox202511", 
+          "cbxOptionId202511", 
+          "202511"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Power Steering", 
+          "chgBox202483", 
+          "cbxOptionId202483", 
+          "202483"
+        ], 
+        [
+          "Options", 
+          "Steering", 
+          "Tilt Wheel", 
+          "chgBox202504", 
+          "cbxOptionId202504", 
+          "202504"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "AM/FM Stereo", 
+          "chgBox202518", 
+          "cbxOptionId202518", 
+          "202518"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Cassette", 
+          "chgBox202525", 
+          "cbxOptionId202525", 
+          "202525"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Single Disc)", 
+          "chgBox202531", 
+          "cbxOptionId202531", 
+          "202531"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "CD (Multi Disc)", 
+          "chgBox202536", 
+          "cbxOptionId202536", 
+          "202536"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Single Disc)", 
+          "chgBox547474", 
+          "cbxOptionId547474", 
+          "547474"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "MP3 (Multi Disc)", 
+          "chgBox547475", 
+          "cbxOptionId547475", 
+          "547475"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Premium Sound", 
+          "chgBox202544", 
+          "cbxOptionId202544", 
+          "202544"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "Navigation System", 
+          "chgBox1355331", 
+          "cbxOptionId1355331", 
+          "1355331"
+        ], 
+        [
+          "Options", 
+          "Entertainment and Instrumentation", 
+          "DVD System", 
+          "chgBox202552", 
+          "cbxOptionId202552", 
+          "202552"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Dual Air Bags", 
+          "chgBox202553", 
+          "cbxOptionId202553", 
+          "202553"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "Side Air Bags", 
+          "chgBox202554", 
+          "cbxOptionId202554", 
+          "202554"
+        ], 
+        [
+          "Options", 
+          "Safety and Security", 
+          "F&R Side Air Bags", 
+          "chgBox202555", 
+          "cbxOptionId202555", 
+          "202555"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Power Seat", 
+          "chgBox202567", 
+          "cbxOptionId202567", 
+          "202567"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Dual Power Seats", 
+          "chgBox202573", 
+          "cbxOptionId202573", 
+          "202573"
+        ], 
+        [
+          "Options", 
+          "Seats", 
+          "Leather", 
+          "chgBox202563", 
+          "cbxOptionId202563", 
+          "202563"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Sun Roof (Flip-Up)", 
+          "chgBox202579", 
+          "cbxOptionId202579", 
+          "202579"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Sun Roof (Sliding)", 
+          "chgBox202585", 
+          "cbxOptionId202585", 
+          "202585"
+        ], 
+        [
+          "Options", 
+          "Roof and Glass", 
+          "Moon Roof", 
+          "chgBox202588", 
+          "cbxOptionId202588", 
+          "202588"
+        ], 
+        [
+          "Options", 
+          "Exterior", 
+          "Rear Spoiler", 
+          "chgBox202593", 
+          "cbxOptionId202593", 
+          "202593"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Alloy Wheels", 
+          "chgBox202598", 
+          "cbxOptionId202598", 
+          "202598"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels", 
+          "chgBox202601", 
+          "cbxOptionId202601", 
+          "202601"
+        ], 
+        [
+          "Options", 
+          "Wheels and Tires", 
+          "Premium Wheels 19\"+", 
+          "chgBox547480", 
+          "cbxOptionId547480", 
+          "547480"
+        ]
+      ], 
+      "sub_cat": "CDX Hatchback 4D", 
+      "year": "1999", 
+      "url": "/daewoo/nubira/1999-daewoo-nubira/cdx-hatchback-4d/options/?vehicleid=5282&intent=buy-used&category=hatchback", 
+      "make": "Daewoo", 
+      "car_id": "5282", 
+      "model": "Nubira"
     }
   ]
 }
