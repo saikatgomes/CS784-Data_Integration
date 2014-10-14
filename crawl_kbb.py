@@ -145,13 +145,14 @@ def schedule_crawl():
 import re
 def get_info_from_url(url):
     #print url
-    vid = re.compile(r'.*kbb.com/\w+/\w+/(?P<year>\d{4})-[^/]*/(?P<sub_cat>[\w-]+)/.*/?vehicleid=(?P<vid>\d+).*')
+    vid = re.compile(r'.*kbb.com/[^/]+/[^/]+/(?P<year>\d{4})-[^/]*/(?P<sub_cat>[\w-]+)/.*/?vehicleid=(?P<vid>\d+).*')
     m = vid.match(url)
     if m:
         car_id = m.groupdict().get('vid', '')
         sub_cat= m.groupdict().get('sub_cat', '')
         year   = m.groupdict().get('year', '')
     else:
+        print ">>>>>>>>>>>>>>>>>>>>>>", url
         car_id, sub_cat, year = '', '', ''
     return car_id, sub_cat, year
 

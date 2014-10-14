@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CS 784 - Data Integration Project</title>
-
+    <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
     <!-- Bootstrap -->
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -55,13 +55,16 @@
         <div class="panel-heading">
              <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                    crawl_craiglist_car.py
+                  crawl_craiglist_cars.py 
                 </a>
              </h4>
         </div>
         <div id="collapseOne" class="panel-collapse collapse">
             <div class="panel-body">
-                Craiglist postings about used cars crawler.
+              Craiglist postings about used cars crawler. <br/>
+	      <pre class="prettyprint linenums">
+		<?php echo file_get_contents('../crawl_craiglist_cars.py', FILE_USE_INCLUDE_PATH); ?>
+	      </pre>
             </div>
         </div>
     </div>
@@ -75,7 +78,10 @@
         </div>
         <div id="collapseTwo" class="panel-collapse collapse">
             <div class="panel-body">
-                Script to crawl KKB.com
+                Script to crawl KKB.com <br/>
+	      <pre class="prettyprint linenums">
+		<?php echo file_get_contents('../crawl_kbb.py', FILE_USE_INCLUDE_PATH); ?>
+	      </pre>
             </div>
         </div>
     </div>
@@ -89,7 +95,10 @@
         </div>
         <div id="collapseThree" class="panel-collapse collapse">
             <div class="panel-body">
-                Run KBB crawler in a distributed cluster.
+                Run KBB crawler in a distributed cluster.<br/>
+	      <pre class="prettyprint linenums">
+		<?php echo file_get_contents('../distribute_kbb.sh', FILE_USE_INCLUDE_PATH); ?>
+	      </pre>
             </div>
         </div>
     </div>
@@ -103,21 +112,10 @@
         </div>
         <div id="collapseFour" class="panel-collapse collapse">
             <div class="panel-body">
-                Serializes the json data from both the sources into the requried format.
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordian" href="#collapseFive">
-                    kbb_crawler.sh
-                </a>
-            </h4>
-        </div>
-        <div id="collapseFive" class="panel-collapse collapse">
-            <div class="panel-body">
-                Run KBB crawler in a single instance of a cluster.
+                Serializes the json data from both the sources into the requried format.<br/>
+	      <pre class="prettyprint linenums">
+		<?php echo file_get_contents('../serialize_json.py', FILE_USE_INCLUDE_PATH); ?>
+	      </pre>
             </div>
         </div>
     </div>
@@ -131,7 +129,10 @@
         </div>
         <div id="collapseSix" class="panel-collapse collapse">
             <div class="panel-body">
-                combines all the data crawled from kbb.com in a cluster.
+                combines all the data crawled from kbb.com in a cluster. <br/>
+	      <pre class="prettyprint linenums">
+		<?php echo file_get_contents('../combine.py', FILE_USE_INCLUDE_PATH); ?>
+	      </pre>
             </div>
         </div>
     </div>

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CS 784 - Data Integration Project</title>
-
+    <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
     <!-- Bootstrap -->
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -33,8 +33,8 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="data.html">Data</a></li>
+        <li><a href="index.html">Home</a></li>
+        <li class="active"><a href="data.html">Data</a></li>
         <li><a href="code.php">Code</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -44,33 +44,13 @@
   </div><!-- /.container-fluid -->
 </nav>
 
-<br>
-<br>
-
 <div class="row">
   <div class="col-md-1"></div>
-  <div class="col-md-5">
-    <br>
-    <br>
-    <img src="img/car.png" class="img-responsive" alt="Responsive image">
-  </div>
-  <br>
-  <div class="col-md-5">
-   <div class="jumbotron">
-     <h1>Data Integration</h1>
-     <p><br></p>
-     <p>Buying and selling used cars is a huge industry. For this project we deccied to crawl
-     <b><a href='https://madison.craigslist.org/search/cta'>Craiglist</a></b> and
-     <b><a href="https://www.kbb.com">Kelly Blue Book</a></b> for used cars. Our goal is to extract
-     relavent information from the unstructed Craiglist post and match the post with a car
-     configuration on Kelly Blue Book website. We have crawled <u>2470</u> Craiglist postings and about
-     <u>25412</u> Kelly Blue Book listings.</p>
-     <p><br></p>
-     <p>
-        <a class="btn btn-primary btn-lg" role="button" href="data.html">See Data</a>
-        <a class="btn btn-primary btn-lg" role="button" href="code.php">See Code</a>
-     </p>
-   </div> 
+
+  <div class="col-md-10">
+    <pre class="prettyprint linenums">
+      <?php echo file_get_contents('all_makes_table_craiglist.json', FILE_USE_INCLUDE_PATH); ?>
+   </pre>    
   </div>
   <div class="col-md-1"></div>
 </div>
