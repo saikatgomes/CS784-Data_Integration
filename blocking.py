@@ -118,6 +118,7 @@ def final_blocking():
         for k,v in tuple_pair.items():
             f.write('\n'.join("%d,%d,%d" % (pairid+i, int(k), x)
                               for i,x in enumerate(v)))
+            f.write('\n')
             pairid += len(v)
 
     largest =  max(tuple_pair.items(), key=lambda x: len(x[1])) 
@@ -128,8 +129,8 @@ def final_blocking():
 
 
 if __name__ == '__main__':
-    H = hash_kbb(sys.argv[1])
-    match_with_craiglist(sys.argv[2], H)
+    #H = hash_kbb(sys.argv[1])
+    #match_with_craiglist(sys.argv[2], H)
     final_blocking()
 
 
