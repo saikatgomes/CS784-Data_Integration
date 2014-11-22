@@ -1,6 +1,7 @@
 <?php
+ini_set('memory_limit', '-1');
+$gold_file = "data/golden_data.json";
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
-  $gold_file = "data/golden_data.json";
   $gold = json_decode(file_get_contents($gold_file), true);
   foreach($_POST as $k => $v) {
     if ($gold[$k] and $gold[$k] != $v) {
