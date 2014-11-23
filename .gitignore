@@ -5,3 +5,5 @@ kbb_data/
 logs/
 webpages/
 img/
+*.class
+*.jar
