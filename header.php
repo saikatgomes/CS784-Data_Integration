@@ -11,8 +11,8 @@
 
 <?php
 if (empty($HOME)) {
-    # $HOME="http://pages.cs.wisc.edu/~saikat/projects/data_integration/";
-    $HOME = $_SERVER['REQUEST_URI'];
+    $HOME="http://pages.cs.wisc.edu/~saikat/projects/data_integration/";
+    #$HOME = $_SERVER['REQUEST_URI'];
 }
 $home_class="";
 $data_class="";
