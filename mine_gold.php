@@ -152,7 +152,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 	     }
 	     if (!library)
 		 var library = {};
-	     library.json = {
+	     /*library.json = {
 		 replacer: function(match, pIndent, pKey, pVal, pEnd) {
 		     var key = '<span class=json-key>';
 		     var val = '<span class=json-value>';
@@ -171,7 +171,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 			 .replace(/</g, '&lt;').replace(/>/g, '&gt;')
 			 .replace(jsonLine, library.json.replacer);
 		 }
-	     };
+	     };*/
 	     function Submit() {
 		 $.post("mine_gold.php", M, function(returnedData) {
 		     // This callback is executed if the post was successful 
@@ -185,7 +185,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 		 $('#desc-'+id).html(JSON.stringify(KBB_DIC[val[0]], undefined, 4));
 		 b = $('.button-'+id)[0];
 		 b.id = val[1];
-		 b.value = M[id] || "MAYBE";
+		 b.value = M[val[1]] || "MAYBE";
 	     }
 	    </script>
 	    <footer align="center">All rights reserverd to Rahul and Saikat !</footer>
