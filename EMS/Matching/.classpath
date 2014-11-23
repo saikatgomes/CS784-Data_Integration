@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/sanjib/work/Matching/lib/javax.json-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/sanjib/work/Matching/lib/secondstring-20120620.jar"/>
+	<classpathentry kind="lib" path="/home/sanjib/work/Matching/lib/simmetrics_jar_v1_6_2_d07_02_07.jar"/>
+	<classpathentry kind="lib" path="/home/sanjib/work/Matching/lib/guava-17.0.jar"/>
+	<classpathentry kind="lib" path="/home/sanjib/work/Matching/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/home/sanjib/work/MatchingWebApp/lib/combinatoricslib-2.0.jar"/>
+	<classpathentry kind="lib" path="/home/sanjib/work/Matching/lib/commons-csv-1.0-20130523.182105-203.jar"/>
+	<classpathentry kind="lib" path="/home/sanjib/work/Matching/lib/newWeka.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

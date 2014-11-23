@@ -1,0 +1,54 @@
+@(pageTitle: String, topbar: Html, topnav: Html, mainContent: Html, dynamicCss: List[Call], dynamicJs: List[Call])
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+			
+		<!-- Include all the CSS -->
+		<link rel="stylesheet" type="text/css" href="@routes.Assets.at("stylesheets/bootstrap/bootstrap.min.css")">
+		<link rel="stylesheet" type="text/css" href="@routes.Assets.at("stylesheets/layout.css")">
+		<link rel="stylesheet" type="text/css" href="@routes.Assets.at("stylesheets/main.css")">		
+		
+		@for(cssFile <- dynamicCss){
+			<link rel="stylesheet" type="text/css" href="@cssFile">		
+		}
+	
+		<meta charset="UTF-8" />
+		<title> @pageTitle </title>
+		
+	</head>
+	
+	<body>
+	
+		<div id="topbar">
+			<a href="/">
+				<div id="dashboard-logo">
+					<i class="icon-list icon-white" id="dashboard-icon"></i>
+				</div>
+			</a>
+			
+			@topbar
+			
+		</div>
+		
+		<div id="topnav">
+			@topnav
+		</div>
+						
+		<div id="mainContent">
+			@mainContent
+		</div>
+		
+		
+		<!-- Include all the JS -->
+		<script type="text/javascript" src="@routes.Assets.at("javascripts/jquery-2.1.1.min.js")"></script>
+		<script type="text/javascript" src="@routes.Assets.at("javascripts/bootstrap/bootstrap.min.js")"></script>
+		<script type="text/javascript" src="@routes.Assets.at("javascripts/bootstrap/jquery.tablesorter.min.js")"></script>
+		<script type="text/javascript" src="@routes.Assets.at("javascripts/main.js")"></script>
+		
+		@for(jsFile <- dynamicJs){
+			<script type="text/javascript" src="@jsFile"></script>
+		}
+						
+	</body>
+</html>

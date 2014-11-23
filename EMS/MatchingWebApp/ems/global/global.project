@@ -1,0 +1,19 @@
+
+{
+    "project":{
+        "name":"global",
+        "description":"Global project created by admin",
+        "createdOn":"7/29/14 3:54 PM",
+        "lastModifiedOn":"7/29/14 3:54 PM",
+        "tables":[
+        ],
+        "functions":[
+        ],
+        "features":[
+        ],
+        "rules":[
+        ],
+        "matchers":[
+        ]
+    }
+}

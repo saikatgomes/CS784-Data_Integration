@@ -1,0 +1,47 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Edit rule modal -->
+<div class="modal hide fade" id="edit_rule_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Edit a rule</h4>
+      </div>
+      <div class="modal-body">
+    	<form class="form-horizontal" id="edit_rule_form" data-target="#edit_rule_modal" method="post" 
+    	action="@controllers.project.routes.RuleController.editRule(project.getName())" role="form">
+    
+       <fieldset>
+       		<div class="control-group">        
+	        	<label class="control-label" for="rule"><b>Rule Name</b></label>  
+            	<div class="controls">  
+                	<select id="rule_name_e" name="rule_name_e" project_name="@project.getName()">
+                         @for(ruleName <- project.getRuleNames()){
+                         	<option value="@ruleName">@ruleName</option>
+                         }
+                    </select>  
+               	</div>
+            </div>
+            <div class="control-group">
+               <label class="control-label" for="rule_string"><b>Rule string</b></label>
+               <div class="controls">
+                   <textarea id="rule_string" name="rule_string" rows="3"></textarea>
+               </div>
+           </div>
+           <div class="control-group">
+           		<div class="controls">
+               		<input type="checkbox" name="save_to_disk" checked> Save the rule to disk
+           		</div>
+           </div>  		          	                            
+       </fieldset>
+                             
+    </form>
+      </div>
+      <div class="modal-footer">
+    	<button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+    	<button id="edit_rule_btn" form="edit_rule_form" class="btn btn-primary" type="submit">Submit</button>
+	  </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

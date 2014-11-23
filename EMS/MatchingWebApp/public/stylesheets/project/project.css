@@ -1,0 +1,49 @@
+#dashboard {
+	margin-left: 50px;
+	margin-top: 20px;
+	width: 70%;
+}
+
+.dashboard-title {
+	//color: yellow;
+}
+
+/*#context {
+	margin-left: 30px;
+	margin-top: 30px;
+	width: 55%;
+}*/
+
+#tabs {
+	margin-left: 30px;
+	margin-top: 30px;
+	width: 55%;
+}
+
+#project-main {
+	margin-left: 30px;
+	margin-top: 20px;
+	width: 55%;
+}
+
+#browse_functions_modal 
+{
+    width: 1000px;
+    margin-left: -500px;  
+}
+
+#browse_rules_modal 
+{
+    width: 800px;
+    margin-left: -400px;  
+}
+
+#browse_matchers_modal 
+{
+    width: 1000px;
+    margin-left: -500px;  
+}
+
+.functionName-tooltip-wrap .popover {
+    max-width: none;
+}

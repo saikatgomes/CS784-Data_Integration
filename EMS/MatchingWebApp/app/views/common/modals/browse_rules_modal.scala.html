@@ -1,0 +1,42 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Browse rules modal -->
+<div class="modal hide fade" id="browse_rules_modal">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Rule library (@project.getRuleNames().size() rule)</h4>
+      </div>
+      <div class="modal-body">
+      	
+
+    <table class="table table-condensed">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Table 1</th>
+                <th>Table 2</th>
+                <th>Rule String</th>
+            </tr>
+        </thead>
+        <tbody>
+        	@for(ruleName <- project.getRuleNames()){
+            	<tr>
+                	<td>@ruleName</td>
+                	<td>@project.findRuleByName(ruleName).getTable1Name()</td>
+                	<td>@project.findRuleByName(ruleName).getTable2Name()</td>
+                	<td>@project.findRuleByName(ruleName).getDisplayString()</td>
+            	</tr>
+			}
+        </tbody>
+    </table>
+
+
+      </div>
+      <div class="modal-footer">
+    	<button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+	  </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

@@ -1,0 +1,113 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Evaluation with gold modal -->
+<div class="modal hide fade" id="evaluate_with_labeled_data_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Evaluate matcher using labeled data</h4>
+      </div>
+      <div class="modal-body">
+      	@if(project.getTableNames() == null || project.getTableNames().isEmpty()) {
+            <p class="text-center danger"><b>No tables found</b></p>
+        }
+        @if(project.getTableNames() != null && !project.getTableNames().isEmpty()) {
+	      	<form class="form-horizontal" id="evaluate_labeled_data_form"
+	      			data-target="#evaluate_labeled_data_modal" method="post"
+	                action="@controllers.project.routes.EvaluationController.evaluateWithLabeledData(project.getName())" role="form">
+	        	
+	           	<fieldset>
+	           		<div class="control-group">        
+	                   	<label class="control-label" for="table1"><b>Table 1 Name</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="table1_name_el" name="table1_name_el">
+	                        	@for(tableName <- project.getTableNames()) {
+	                        		@if(tableName.equals(project.getDefaultTable1())) {
+	                               		<option value="@tableName" selected>@tableName</option>
+	                               	}
+	                               	@if(!tableName.equals(project.getDefaultTable1())) {
+	                               		<option value="@tableName">@tableName</option>
+	                               	}
+	                           	}
+	                        </select>  
+	                   	</div>
+	               	</div>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="table2"><b>Table 2 Name</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="table2_name_el" name="table2_name_el">
+	                        	@for(tableName <- project.getTableNames()) {
+	                        		@if(tableName.equals(project.getDefaultTable2())) {
+	                               		<option value="@tableName" selected>@tableName</option>
+	                               	}
+	                               	@if(!tableName.equals(project.getDefaultTable2())) {
+	                               		<option value="@tableName">@tableName</option>
+	                               	}
+	                           	}
+	                        </select>  
+	                   	</div>
+	               	</div>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="labeled_data"><b>Labeled Data Name</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="labeled_data_el" name="labeled_data_el">
+	                        	@for(tableName <- project.getTableNames()) {
+	                        		@if(tableName.equals(project.getDefaultGold())) {
+	                               		<option value="@tableName" selected>@tableName</option>
+	                               	}
+	                               	@if(!tableName.equals(project.getDefaultGold())) {
+	                               		<option value="@tableName">@tableName</option>
+	                               	}
+	                           	}
+	                        </select>  
+	                   	</div>
+	               	</div>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="matcher"><b>Matcher Name</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="matcher_name_el" name="matcher_name_el">
+	                        	@for(matcherName <- project.getMatcherNames()) {
+	                               	<option value="@matcherName">@matcherName</option>
+	                           	}
+	                        </select>  
+	                   	</div>
+	               	</div>
+	               	<div class="control-group">
+                       <label class="control-label" for="matches"><b>Output Matches' Name</b></label>
+                       <div class="controls">
+                           <input type="text" id="matches_name_el" name="matches_name_el" required>
+                       </div>
+                    </div>
+                    <div class="control-group">
+                       <label class="control-label" for="matching"><b>Output Matching Summary Name</b></label>
+                       <div class="controls">
+                           <input type="text" id="matching_summary_name_el" name="matching_summary_name_el" required>
+                       </div>
+                    </div>              
+                    <div class="control-group">
+                       <label class="control-label" for="evaluation"><b>Output Evaluation Summary Name</b></label>
+                       <div class="controls">
+                           <input type="text" id="evaluation_summary_name_el" name="evaluation_summary_name_el" required>
+                       </div>
+                    </div>
+                    <div class="control-group">
+                       <div class="controls">
+                           <input type="checkbox" name="matches_default" checked> Set this as default matches
+                       </div>
+                       <div class="controls">
+                           <input type="checkbox" name="save_to_disk" checked> Save the matches to disk
+                       </div>
+                   </div>
+                </fieldset>
+                 
+	        </form>
+      	}
+      </div>
+      <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+        <button id="evaluate_labeled_data_btn" form="evaluate_labeled_data_form" class="btn btn-primary" type="submit">Evaluate</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

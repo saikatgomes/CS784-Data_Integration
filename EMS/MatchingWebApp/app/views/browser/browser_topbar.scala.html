@@ -1,0 +1,80 @@
+@(projectName: String, tableName: String, tableSize: Long, candsetView: Boolean)
+
+<div id="status-message"></div>
+	
+<div id="context">
+	<h4> Project <a href="@controllers.project.routes.ProjectController.showProject(projectName)">@projectName</a> &#8594; 
+	
+	<!--<input type="text" value="@tableName"></input>--> Table @tableName </h4>
+</div>
+
+<div id="browser-top-nav-buttons">
+	@if(candsetView) {
+		<form action="@controllers.debug.routes.DebugController.getIndexCandsetView(projectName, tableName)" style="display: inline" target="_blank">
+	    		<button id="candset-view-button" type="submit" class="btn btn-default">Open candidate set view</button>
+		</form>
+	}
+	<form action="@controllers.browser.routes.BrowserController.openCopy()" style="display: inline" target="_blank">
+    		<button id="table-copy-button" type="submit" class="btn btn-default">Open a copy</button>
+	</form>
+	<button id="table-save-button" type="button" class="btn btn-default">Save</button>
+</div>
+
+<div id="browser-status">
+</div>
+
+<!-- TODO: separate modals to their own views.-->
+<div class="modal hide fade" id="cell-edit-modal" attrName="dummy" itemid="dummy">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Edit value</h4>
+      </div>
+      <div class="modal-body">
+			<textarea></textarea>
+	  </div>
+      <div class="modal-footer">
+	   	<div class="modal-footer">
+	        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+	        <button type="button" class="btn btn-primary" id="cell-edit-modal-submit">Save changes</button>
+		</div>
+	  </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+<div class="modal hide fade" id="sample-modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Take a sample of @tableName </h4>
+      </div>
+      <div class="modal-body">
+      	<form id="sample-table-form" class="form-horizontal" action="@controllers.browser.routes.BrowserController.sample()" method="post">
+       		<div class="control-group"> 
+       		
+       				<label class="control-label" for="sample_size"><b>Sample size:</b></label>
+                    <div class="controls">
+                           <input type="text" id="sample_size" name="sample_size" required> out of @tableSize rows
+                    </div>  
+                    
+                    <br>
+                     
+		            <label class="control-label" for="sample_table_name"><b>Name of the table to save the sample in:</b></label>
+                    <div class="controls">
+                           <input type="text" id="sample_table_name" name="sample_table_name" required>
+                    </div>
+		     </div>                                
+    	</form>
+	  </div>
+	  
+	   	<div class="modal-footer">
+	        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+	        <button type="submit" class="btn btn-primary" id="sample-submit" form="sample-table-form">Submit</button>
+		</div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

@@ -1,0 +1,125 @@
+#browser-top-nav-buttons {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	margin-right:20px;
+	//margin-top: 10px;
+}
+
+.explorerContainer {
+	position: relative;
+	width: 85%;
+	height: 300px;
+	margin: 0 auto;
+	margin-top: 10px;
+	background-color: #e3e9ff;
+	border: 1px solid #bcf;
+	border-radius: 7px;
+}
+
+.explorerHeader {
+	height: 25px;
+	line-height: 25px;
+	background-color: #bcf;
+	border-top-left-radius: inherit;
+	border-top-right-radius: inherit;
+	padding: 0px 10px 0px 10px;
+}
+
+.explorerDetails {
+	height: 30px;
+	padding: 0px 10px 0px 10px;
+	font-size: 12px;
+ }
+
+.explorerBody {
+	height: 240px;
+	background-color: white;
+	overflow-y: auto;
+}
+
+#allExplorerTable td {
+	font-size: 12px;
+}
+
+#allExplorerTable th {
+	font-size: 12px;
+}
+
+.filterContainer, .queryContainer{
+	position: relative;
+	width: 85%;
+	margin: 0 auto;
+	margin-top: 10px;
+	background-color: #e3e9ff;
+	border: 1px solid #bcf;
+	border-radius: 7px;
+}
+
+.filterContainer {
+	height: 70px;
+}
+
+.queryContainer {
+	height: 100px;
+}
+
+.filterHeader, .queryHeader{
+	height: 25px;
+	line-height: 25px;
+	background-color: #bcf;
+	border-top-left-radius: inherit;
+	border-top-right-radius: inherit;
+	padding: 0px 10px 0px 10px;
+}
+
+.filterTextArea, .queryTextArea{
+	height: 20px;
+}
+
+/**********/
+.header-dropdown {
+	float: left;
+}
+
+.header-dropdown > button {
+	line-height: 10px;
+	padding: 0px 2px;
+}
+
+.header-dropdown > button > span {
+	margin-top: 2px;
+}
+
+.browser-header-name {
+	float: left;
+}
+
+.browser-dropdown-menu {
+	text-align: left;
+}
+
+.editable-cell {
+	position: relative;
+}
+
+.edit-container {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 25px;
+	height: 16px;
+	text-decoration: none;
+	z-index: 10;
+}
+.data-table-cell-edit {
+	position: absolute;
+	top: inherit;
+	right: inherit;
+	width: inherit;
+	height: inherit;
+	background-image: url(../../images/browser/edit-map.png);
+	background-repeat: no-repeat;
+	visibility: hidden;
+}
+

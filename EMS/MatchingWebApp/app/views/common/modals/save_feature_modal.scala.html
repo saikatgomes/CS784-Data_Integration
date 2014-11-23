@@ -1,0 +1,42 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Save feature modal -->
+<div class="modal hide fade" id="save_feature_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Save an unsaved feature to disk</h4>
+      </div>
+      <div class="modal-body">
+      	@if(project.getUnsavedFeatures() == null || project.getUnsavedFeatures().isEmpty()) {
+            <p class="text-center danger"><b>No unsaved features found</b></p>
+        }
+        @if(project.getUnsavedFeatures() != null && !project.getUnsavedFeatures().isEmpty()) {
+	      	<form class="form-horizontal" id="save_feature_form"
+	      			data-target="#save_feature_modal" method="post"
+	                action="@controllers.project.routes.RuleController.saveFeature(project.getName())" role="form"
+	         >
+	     
+	           	<fieldset>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="feature"><b>Feature Name</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="feature_name" name="feature_name">
+	                        	@for(featureName <- project.getUnsavedFeatures()) {
+	                               	<option value="@featureName">@featureName</option>
+	                           	}
+	                        </select>  
+	                   	</div>
+	               	</div>
+	            </fieldset> 
+	        </form>
+      	}
+      </div>
+      <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+        <button id="save_feature_btn" form="save_feature_form" class="btn btn-primary" type="submit">Save</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
