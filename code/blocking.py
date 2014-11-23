@@ -32,6 +32,10 @@ def hash_kbb( fname ):
             for k,v in H.items():
                 for y in str(t[k]).split():
                     v[y.lower()].append(t['id'])
+                for m,val in v.items():
+                    val = list(set(val))
+                    v[m] = val
+
     # for k in H:
     #     print len(H[k].keys())
     json.dump(H, 
@@ -94,8 +98,8 @@ def final_blocking():
     kbb_index = json.load(open('blocking_data/kbb-model_make_year_to_id.json'))
 
     # Play with this. Like a kid -- 6 year old
-    weights = {'make': 3.0, 'model': 2.0, 'year': 1.0} 
-    threshold = 6
+    weights = {'make': 3.0, 'model': 2.0, 'year': 6.0} 
+    threshold = 8.0;
     # --- play ends ---
  
     tuple_pair = {}
@@ -113,7 +117,7 @@ def final_blocking():
     # 1,9780226156439,4086892,
 
     with open('blocking_data/blocks.table', 'w') as f:
-        f.write("pairID:INTEGER,kbb.id:INTEGER,craiglist.id:INTEGER\n")
+        f.write("pairID:INTEGER,craiglist.id:INTEGER,kbb.id:INTEGER\n")
         pairid = 1
         for k,v in tuple_pair.items():
             f.write('\n'.join("%d,%d,%d" % (pairid+i, int(k), x)
