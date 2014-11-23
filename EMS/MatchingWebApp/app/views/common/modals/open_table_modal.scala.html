@@ -1,0 +1,33 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Open table modal -->
+<div class="modal fade hide" id="open-table-modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Browse table</h4>
+      </div>
+      <div class="modal-body">
+    	<form id="select_table_form" class="form-horizontal" action="@controllers.browser.routes.BrowserController.postIndex()" method="post">
+       		<div class="control-group">    
+       				<label class="control-label" for="table"><b>Table name</b></label>  
+		            <div class="controls">
+		              	<input type="hidden" name="project_name" value="@project.getName()" />
+		            	<input type="hidden" name="copy" value="false" />
+	                   	<select id="table_name" name="table_name">
+		              		@for(tableName <- project.getTableNames()){
+								<option value="@tableName">@tableName</option>
+							}
+                      	</select>  
+		            </div>
+		     </div>                                
+    	</form>
+      </div>
+      <div class="modal-footer">
+    	<button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+    	<button id="select_table_button" form="select_table_form" class="btn btn-primary" type="submit">Browse</button>
+	  </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

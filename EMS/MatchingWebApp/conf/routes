@@ -1,0 +1,134 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Handles routing in js files
+GET     /browserJavascriptRoutes     controllers.browser.BrowserController.javascriptRoutes()
+GET     /debugJavascriptRoutes     controllers.debug.DebugController.javascriptRoutes()
+GET     /projectJavascriptRoutes     controllers.project.ProjectController.javascriptRoutes()
+
+# Home page
+GET		/							controllers.project.ProjectController.index()
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.at(path="/public", file)
+
+# Browser
+GET /browser									controllers.browser.BrowserController.indexRefresh()
+POST /browser						controllers.browser.BrowserController.postIndex()
+GET	  /browser/:projectName/:tableName/:copy	controllers.browser.BrowserController.getIndex(projectName: String, tableName: String, copy: String)
+GET	  /browser/:projectName/:tableName	controllers.browser.BrowserController.getIndexNoCopy(projectName: String, tableName: String)
+POST /browserSample			controllers.browser.BrowserController.sample()
+GET /browserOpenCopy						controllers.browser.BrowserController.openCopy()
+GET /browserGetAllIds						controllers.browser.BrowserController.getAllIds()
+POST /browserGetTuplesForIds				controllers.browser.BrowserController.getTuplesForIds()
+POST /browserSaveTable						controllers.browser.BrowserController.saveTable()
+POST /browserSaveCellEdit			controllers.browser.BrowserController.saveCellEdit()
+GET /browserAllExplorerData				controllers.browser.BrowserController.getAllExplorerData()
+GET /browserExplorerData				controllers.browser.BrowserController.getExplorerData(attrName: String)
+POST /browserQuery						controllers.browser.BrowserController.getBrowserQueryResults()
+POST /browserRemoveRows			controllers.browser.BrowserController.removeRows()
+GET /browserRemoveColumn/:attrName			controllers.browser.BrowserController.removeColumn(attrName: String)
+GET /browserGetSortedIds/:attrName			controllers.browser.BrowserController.getSortedIds(attrName: String)
+
+# Debug
+POST /debugOnFly				controllers.debug.DebugController.postIndexOnFly(projectName: String)
+POST /debugOnFlyWithLabeledData				controllers.debug.DebugController.postIndexOnFlyWithLabeledData(projectName: String)
+POST /debugUsingResults				controllers.debug.DebugController.postIndexUsingResults(projectName: String)
+GET /debugCandsetView/:projectName/:candsetName				controllers.debug.DebugController.getIndexCandsetView(projectName: String, candsetName: String)
+GET	  /debug/:projectName/:table1Name/:table2Name/:candsetName/:matcherName/:goldName	controllers.debug.DebugController.getIndex(projectName: String, table1Name: String, table2Name: String, candsetName: String, matcherName: String, goldName: String)
+GET /debugGetAllIds						controllers.debug.DebugController.getAllIds()
+GET /debugGetIdsByMatchingStatus		controllers.debug.DebugController.getIdsByMatchingStatus(status: String)
+GET /debugGetIdsByErrorStatus			controllers.debug.DebugController.getIdsByErrorStatus(status: String)
+GET /debugGetIdsByRuleName				controllers.debug.DebugController.getIdsByRuleName(ruleName: String)
+POST /debugGetIdsBySkyline				controllers.debug.DebugController.getIdsBySkyline()
+GET /debugGetAllRuleNames					controllers.debug.DebugController.getAllRuleNames()
+GET /debugGetAllFeatureNames					controllers.debug.DebugController.getAllFeatureNames()
+POST /debugGetTuplesForIds				controllers.debug.DebugController.getTuplesForIds()
+GET /debugGetMatchingSummaryJson		controllers.debug.DebugController.getMatchingSummaryJson()
+POST /debugQuery						controllers.debug.DebugController.getDebugQueryResults()
+GET /debugGetOperationMode				controllers.debug.DebugController.getOperationMode()
+
+# Project
+POST    /createNewProject                       controllers.project.ProjectController.createNewProject()
+GET     /project/:projectName              controllers.project.ProjectController.showProject(projectName)
+GET     /projects                   controllers.project.ProjectController.index()
+GET     /attribs/:projectName/:tableName	controllers.project.ProjectController.getAttributes(projectName, tableName)
+GET     /features/:projectName	controllers.project.ProjectController.getFeatureNames(projectName)
+GET     /relops					controllers.project.ProjectController.getRelationalOperatorNames()
+GET		/project/:projectName/save					controllers.project.ProjectController.saveProject(projectName)
+GET		/project/:projectName/saveAndExit					controllers.project.ProjectController.saveAndExit(projectName)
+
+# Set Defaults
+POST	/projectSetDefaults					controllers.project.ProjectController.setDefaults(projectName)
+
+# Import Table
+POST    /project/:projectName/importTableFromCSV      controllers.project.ProjectController.importTableFromCSV(projectName)
+POST    /project/:projectName/importTable      controllers.project.ProjectController.importTable(projectName)
+
+# Save Table
+POST    /project/:projectName/saveTable      controllers.project.ProjectController.saveTable(projectName)
+GET    /project/:projectName/saveAllTables      controllers.project.ProjectController.saveAllTables(projectName)
+
+# Blocking
+POST    /project/:projectName/block     controllers.project.ProjectController.block(projectName)
+
+# Add Function
+POST    /project/:name/addFunction     controllers.project.RuleController.addFunction(name)
+
+# Import Functions
+POST    /project/:name/importFunctions     controllers.project.RuleController.importFunctions(name)
+
+# Save Function
+POST    /project/:projectName/saveFunction      controllers.project.RuleController.saveFunction(projectName)
+GET    /project/:projectName/saveAllFunctions      controllers.project.RuleController.saveAllFunctions(projectName)
+
+# Add Feature
+POST    /project/:name/addFeature     controllers.project.RuleController.addFeature(name)
+POST	/project/:name/getRecommendedFunctions controllers.project.RuleController.getRecommendedFunctions(name)
+
+# Import Features
+POST    /project/:name/importFeatures     controllers.project.RuleController.importFeatures(name)
+
+# Edit Feature
+POST    /project/:name/editFeature     controllers.project.RuleController.editFeature(name)
+GET     /featurestring/:projectName/:featureName	controllers.project.RuleController.getFeatureString(projectName, featureName)
+
+# Save Feature
+POST    /project/:projectName/saveFeature      controllers.project.RuleController.saveFeature(projectName)
+GET    /project/:projectName/saveAllFeatures      controllers.project.RuleController.saveAllFeatures(projectName)
+
+# Add Rule
+POST    /project/:name/addRule     controllers.project.RuleController.addRule(name)
+
+# Edit Rule
+POST    /project/:name/editRule     controllers.project.RuleController.editRule(name)
+GET     /rulestring/:projectName/:ruleName	controllers.project.RuleController.getRuleString(projectName, ruleName)
+
+# Import Rules
+POST    /project/:name/importRules     controllers.project.RuleController.importRules(name)
+
+# Save Rule
+POST    /project/:projectName/saveRule      controllers.project.RuleController.saveRule(projectName)
+GET    /project/:projectName/saveAllRules      controllers.project.RuleController.saveAllRules(projectName)
+
+# Add Matcher
+POST    /project/:name/addMatcher     controllers.project.RuleController.addMatcher(name)
+
+# Import Matcher
+POST    /project/:name/importMatchers     controllers.project.RuleController.importMatchers(name)
+
+# Edit Matcher
+POST    /project/:name/editMatcher     controllers.project.RuleController.editMatcher(name)
+GET     /matcherstring/:projectName/:matcherName	controllers.project.RuleController.getMatcherString(projectName, matcherName)
+
+# Save Matcher
+POST    /project/:projectName/saveMatcher      controllers.project.RuleController.saveMatcher(projectName)
+GET    /project/:projectName/saveAllMatchers      controllers.project.RuleController.saveAllMatchers(projectName)
+
+# Matching
+POST    /project/:name/doMatch     	controllers.project.RuleController.doMatch(name)
+POST    /project/:name/doMatchDebug     	controllers.project.RuleController.doMatchDebug(name)
+
+# Evaluate
+POST    /project/:name/evaluateGold     	controllers.project.EvaluationController.evaluateWithGold(name)
+POST    /project/:name/evaluateLabeledData     	controllers.project.EvaluationController.evaluateWithLabeledData(name)

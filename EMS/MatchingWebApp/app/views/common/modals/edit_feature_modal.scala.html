@@ -1,0 +1,47 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Edit feature modal -->
+<div class="modal hide fade" id="edit_feature_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Edit a feature</h4>
+      </div>
+      <div class="modal-body">
+    	<form class="form-horizontal" id="edit_feature_form" data-target="#edit_feature_modal" method="post" 
+    	action="@controllers.project.routes.RuleController.editFeature(project.getName())" role="form">
+    
+       <fieldset>
+       		<div class="control-group">        
+	        	<label class="control-label" for="feature"><b>Feature Name</b></label>  
+            	<div class="controls">  
+                	<select id="feature_name_ed" name="feature_name_ed" project_name="@project.getName()">
+                         @for(featureName <- project.getFeatureNames()){
+                         	<option value="@featureName">@featureName</option>
+                         }
+                    </select>  
+               	</div>
+            </div>
+            <div class="control-group">
+               <label class="control-label" for="feature_string"><b>Feature string</b></label>
+               <div class="controls">
+                   <textarea id="feature_string" name="feature_string" rows="3"></textarea>
+               </div>
+           </div>
+           <div class="control-group">
+           		<div class="controls">
+               		<input type="checkbox" name="save_to_disk" checked> Save the feature to disk
+                </div>
+           </div>   		          	                            
+       </fieldset>
+                             
+    </form>
+      </div>
+      <div class="modal-footer">
+    	<button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+    	<button id="edit_feature_btn" form="edit_feature_form" class="btn btn-primary" type="submit">Submit</button>
+	  </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

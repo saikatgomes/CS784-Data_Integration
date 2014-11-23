@@ -1,0 +1,47 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Edit matcher modal -->
+<div class="modal hide fade" id="edit_matcher_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Edit a matcher</h4>
+      </div>
+      <div class="modal-body">
+    	<form class="form-horizontal" id="edit_matcher_form" data-target="#edit_matcher_modal" method="post" 
+    	action="@controllers.project.routes.RuleController.editMatcher(project.getName())" role="form">
+    
+       <fieldset>
+       		<div class="control-group">        
+	        	<label class="control-label" for="matcher"><b>Matcher Name</b></label>  
+            	<div class="controls">  
+                	<select id="matcher_name_ed" name="matcher_name_ed" project_name="@project.getName()">
+                         @for(matcherName <- project.getMatcherNames()){
+                         	<option value="@matcherName">@matcherName</option>
+                         }
+                    </select>  
+               	</div>
+            </div>
+            <div class="control-group">
+               <label class="control-label" for="matcher_string"><b>Matcher string</b></label>
+               <div class="controls">
+                   <textarea id="matcher_string" name="matcher_string" rows="3"></textarea>
+               </div>
+           </div>
+           <div class="control-group">
+           		<div class="controls">
+               		<input type="checkbox" name="save_to_disk" checked> Save the matcher to disk
+                </div>
+           </div>  		          	                            
+       </fieldset>
+                             
+    </form>
+      </div>
+      <div class="modal-footer">
+    	<button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+    	<button id="edit_matcher_btn" form="edit_matcher_form" class="btn btn-primary" type="submit">Submit</button>
+	  </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

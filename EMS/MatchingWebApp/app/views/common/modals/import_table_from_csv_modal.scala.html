@@ -1,0 +1,61 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Import Table from .csv file modal -->
+<div class="modal hide fade" id="import_table_from_csv_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Import a table from a csv file</h4>
+      </div>
+      <div class="modal-body">
+    	<form class="form-horizontal" id="import_table_from_csv_form" data-target="#import_table_from_csv_modal" method="post" 
+    	action="@controllers.project.routes.ProjectController.importTableFromCSV(project.getName())" role="form" 
+    	enctype="multipart/form-data">
+    
+       <fieldset>
+       <div>               
+           <div class="control-group">
+               <label class="control-label" for="table_name"><b>Table Name</b></label>
+               <div class="controls">
+                   <input type="text" id="table_name" name="table_name" required>
+               </div>
+           </div>
+       </div>  		          	           
+		<div class="control-group">  
+			<label class="control-label" for="csv_file_path"><b>CSV File</b></label>  
+			<div class="controls">  
+	    		<input class="input-file" id="csv_file_path" name="csv_file_path" type="file">  
+	    	</div>  
+		</div>
+		<div class="control-group">
+        	<div class="controls">
+            	<input type="checkbox" name="table1_default"> Set this as default table 1
+            </div>
+            <div class="controls">
+            	<input type="checkbox" name="table2_default"> Set this as default table 2
+            </div>
+            <div class="controls">
+            	<input type="checkbox" name="candset_default"> Set this as default candidate set
+            </div>
+            <div class="controls">
+            	<input type="checkbox" name="matches_default"> Set this as default matches
+            </div>
+            <div class="controls">
+            	<input type="checkbox" name="gold_default"> Set this as default gold
+            </div>
+            <div class="controls">
+            	<input type="checkbox" name="save_to_disk" checked> Save the table to disk
+            </div>
+        </div>                  
+       </fieldset>
+                             
+    </form>
+      </div>
+      <div class="modal-footer">
+    	<button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+    	<button id="import_table_from_csv_btn" form="import_table_from_csv_form" class="btn btn-primary" type="submit">Import</button>
+	  </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

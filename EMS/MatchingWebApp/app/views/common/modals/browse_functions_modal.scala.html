@@ -1,0 +1,42 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Browse functions modal -->
+<div class="modal hide fade" id="browse_functions_modal">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Function library (@project.getFunctionNames().size() functions)</h4>
+      </div>
+      <div class="modal-body">
+      	
+
+    <table id="browse_functions_table" class="table table-condensed">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Return type</th>
+                <th>Arguments</th>
+            </tr>
+        </thead>
+        <tbody>
+        	@for(functionName <- project.getFunctionNames()){
+            	<tr>
+                	<td>@functionName</td>
+                	<td>@project.findFunctionByName(functionName).getDescription()</td>
+                	<td>@project.findFunctionByName(functionName).getReturnType()</td>
+                	<td>@project.findFunctionByName(functionName).getArguments()</td>
+            	</tr>
+			}
+        </tbody>
+    </table>
+
+
+      </div>
+      <div class="modal-footer">
+    	<button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+	  </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

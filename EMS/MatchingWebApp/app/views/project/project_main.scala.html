@@ -1,0 +1,84 @@
+@(project: com.walmart.productgenome.matching.models.data.Project,
+	statusMessage : String)
+
+	<div id="project-main">
+
+<div id = "status">
+	@if(statusMessage != null && !statusMessage.isEmpty()) {
+    	<pre ><p>@statusMessage</p></pre>
+	}
+</div>
+
+<div>
+	<ul>
+		<li><b>Tables (@project.getTableNames().size())</b>
+			<ul>
+				@for(tableName <- project.getTableNames()){
+        			<li><a href="@controllers.browser.routes.BrowserController.getIndexNoCopy(project.getName(),tableName)">@tableName</a></a></li>
+	    		}
+	    	</ul>
+	    </li>
+        <li><b>Functions (@project.getFunctionNames().size())</b>
+        	<ul>
+				@for(functionName <- project.getFunctionNames()){
+        			<li>@functionName
+        				<span class="functionName-tooltip-wrap">
+	        				<span class="functionName-tooltip" data-trigger="hover"><i class="icon-question-sign"></i>
+</span>
+							<div class="functionName-popover" style="display: none">
+		        				<table class="table table-bordered table-condensed table-hover tablesorter">
+		        					<tbody>
+					        			<tr><td>Function Name</td><td>@functionName</td></tr>
+					                	<tr><td>Description</td><td>@project.findFunctionByName(functionName).getDescription()</td></tr>
+					                	<tr><td>Arguments</td><td>@project.findFunctionByName(functionName).getArguments()</td></tr>
+					                	<tr><td>Return Type</td><td>@project.findFunctionByName(functionName).getReturnType()</td></tr>
+			                		</tbody>
+			                	</table>
+				        			<!--Function Name: @functionName <br>
+				                	Description: @project.findFunctionByName(functionName).getDescription() <br>
+				                	Arguments: @project.findFunctionByName(functionName).getArguments() <br>
+				                	Return Type: @project.findFunctionByName(functionName).getReturnType() <br>-->
+		        			</div>
+						</span>
+        			</li>
+	    		}
+	    	</ul>
+        </li>
+        <li><b>Features (@project.getFeatureNames().size())</b>
+        	<ul>
+				@for(featureName <- project.getFeatureNames()){
+        			<li>@featureName</li>
+	    		}
+	    	</ul>
+        </li>
+        <li><b>Rules (@project.getRuleNames().size())</b>
+        	<ul>
+				@for(ruleName <- project.getRuleNames()){
+        			<li>@ruleName</li>
+	    		}
+	    	</ul>
+        </li>
+        <li><b>Matchers (@project.getMatcherNames().size())</b>
+        	<ul>
+				@for(matcherName <- project.getMatcherNames()){
+        			<li>@matcherName</li>
+	    		}
+	    	</ul>
+        </li>
+        <li><b>Matching Summaries (@project.getMatchingSummaryNames().size())</b>
+        	<ul>
+				@for(matchingSummaryName <- project.getMatchingSummaryNames()){
+        			<li>@matchingSummaryName</li>
+	    		}
+	    	</ul>
+        </li>
+        <li><b>Evaluation Summaries (@project.getEvaluationSummaryNames().size())</b>
+        	<ul>
+				@for(evaluationSummaryName <- project.getEvaluationSummaryNames()){
+        			<li>@evaluationSummaryName</li>
+	    		}
+	    	</ul>
+        </li>
+    </ul>
+</div>
+</div>

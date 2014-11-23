@@ -1,0 +1,118 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Matching modal normal mode -->
+<div class="modal hide fade" id="matching_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Perform matching on a candidate set using a matcher</h4>
+      </div>
+      <div class="modal-body">
+      	@if(project.getMatcherNames() == null || project.getMatcherNames().isEmpty()) {
+			<p class="text-center danger"><b>No matchers found</b></p>
+		}
+      	@if(project.getTableNames() == null || project.getTableNames().isEmpty()) {
+            <p class="text-center danger"><b>No tables found</b></p>
+        }
+        @if(project.getMatcherNames() != null && !project.getMatcherNames().isEmpty() && project.getTableNames() != null && !project.getTableNames().isEmpty()) {
+	      	<form class="form-horizontal" id="matching_form"
+	      			data-target="#matching_modal" method="post"
+	                action="/project/@project.getName()/doMatch" role="form">
+	        	
+	           	<fieldset>
+	           		<div class="control-group">        
+	                   	<label class="control-label" for="table1"><b>Table 1</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="table1_name_m" name="table1_name_m" project_name="@project.getName()">
+	                        	@for(tableName <- project.getTableNames()) {
+	                        		@if(tableName.equals(project.getDefaultTable1())) {
+	                               		<option value="@tableName" selected>@tableName</option>
+	                               	}
+	                               	@if(!tableName.equals(project.getDefaultTable1())) {
+	                               		<option value="@tableName">@tableName</option>
+	                               	}
+	                           	}
+	                        </select>  
+	                   	</div>
+	               	</div>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="table2"><b>Table 2</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="table2_name_m" name="table2_name_m" project_name="@project.getName()">
+	                        	@for(tableName <- project.getTableNames()) {
+	                        		@if(tableName.equals(project.getDefaultTable2())) {
+	                               		<option value="@tableName" selected>@tableName</option>
+	                               	}
+	                               	@if(!tableName.equals(project.getDefaultTable2())) {
+	                               		<option value="@tableName">@tableName</option>
+	                               	}
+	                           	}
+	                        </select>  
+	                   	</div>
+	               	</div>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="candset"><b>Candidate Set</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="candset_name" name="candset_name">
+	                        	@for(tableName <- project.getTableNames()) {
+	                        		@if(tableName.equals(project.getDefaultCandset())) {
+	                               		<option value="@tableName" selected>@tableName</option>
+	                               	}
+	                               	@if(!tableName.equals(project.getDefaultCandset())) {
+	                               		<option value="@tableName">@tableName</option>
+	                               	}
+	                           	}
+	                        </select>  
+	                   	</div>
+	               	</div>
+	               	<div class="control-group">        
+        				<label class="control-label" for="matcher"><b>Matcher</b></label>  
+            			<div class="controls">  
+            				<select id="matcher_name" name="matcher_name">
+              					@for(matcherName <- project.getMatcherNames()){
+									<option value="@matcherName">@matcherName</option>
+								}
+              				</select>  
+            			</div>
+        			</div>
+        			<div class="control-group">
+               			<label class="control-label" for="matches_name"><b>Output Matches' Name</b></label>
+               			<div class="controls">
+                   			<input type="text" id="matches_name" name="matches_name" required>
+               			</div>
+           			</div>
+           			<div class="control-group">        
+	                   	<label class="control-label" for="table1"><b>Table 1 attributes to retain in the matches (id will be retained by default)</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="attr1_names_m" name="attr1_names_m[]" multiple>
+                      		</select>  
+	                   	</div>
+	               	</div>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="table2"><b>Table 2 attributes to retain in the matches (id will be retained by default)</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="attr2_names_m" name="attr2_names_m[]" multiple>
+                      		</select>  
+	                   	</div>
+	               	</div>
+           			<div class="control-group">
+                       <div class="controls">
+                           <input type="checkbox" name="matches_default" checked> Set this as default matches
+                       </div>
+                       <div class="controls">
+                           <input type="checkbox" name="save_to_disk" checked> Save the matches to disk
+                       </div>
+                   </div>
+	            </fieldset>
+	            
+	        </form>
+      	}
+      </div>
+      <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+        <button id="matching_btn" form="matching_form" class="btn btn-primary" type="submit">Match</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

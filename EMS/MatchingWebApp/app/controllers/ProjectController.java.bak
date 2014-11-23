@@ -1,0 +1,186 @@
+package controllers;
+
+import static play.data.Form.form;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
+import models.Constants;
+
+import com.fasterxml.jackson.databind.node.ObjectNode;
+
+import com.walmart.productgenome.matching.daos.BlockingDao;
+import com.walmart.productgenome.matching.daos.ProjectDao;
+import com.walmart.productgenome.matching.daos.TableDao;
+
+import com.walmart.productgenome.matching.models.data.ItemPairTable;
+import com.walmart.productgenome.matching.models.data.Project;
+import com.walmart.productgenome.matching.models.data.Table;
+
+import play.Logger;
+//import play.api.mvc.MultipartFormData;
+//import play.api.mvc.MultipartFormData.FilePart;
+import play.data.DynamicForm;
+import play.data.Form;
+import play.libs.Json;
+import play.mvc.Controller;
+import play.mvc.Http.MultipartFormData;
+import play.mvc.Http.MultipartFormData.FilePart;
+import play.mvc.Result;
+import play.mvc.Results;
+import play.twirl.api.Html;
+
+import views.html.project.project_dashboard;
+import views.html.project.project_setup;
+import views.html.project.show;
+import views.html.project.import_table;
+import views.html.project.show_blocking_form;
+
+public class ProjectController extends Controller {
+
+	private static final Form<Project> projectForm = form(Project.class);
+
+	public static Result index() {
+		Set<Project> projects = ProjectDao.list();
+		Html content = project_dashboard.render(projects); 
+		return ok(getJsonResponse(content));
+	}
+
+	public static Result createProject()
+	{
+		return ok(project_setup.render());
+	}
+	
+	/*
+	 * Show a project
+	 */
+	public static Result show(String name) {
+		final Project project = ProjectDao.open(name);
+		if (project == null) {
+			return notFound(String.format("Project %s does not exist.", name));
+		}
+		String jsonString = project.toJSONString();
+		/*		
+		//String title = "pgMatching";
+		String title = name;
+
+	    Map<String, String> topTabs = new LinkedHashMap<String, String>();
+	    topTabs.put("Dashboard", "dashboard");
+	    topTabs.put("Project", "project");
+	    topTabs.put("Tables", "tables");
+	    topTabs.put("Block", "block");
+	    topTabs.put("Rules", "rules");
+	    topTabs.put("Match", "match");
+	    topTabs.put("Accuracy", "accuracy");
+	    topTabs.put("Summary", "summary");
+	    topTabs.put("Explorer", "explorer");
+
+	    String activeId = "summary";
+
+	    Tabs tabs = new Tabs(topTabs, activeId);
+
+	    Html topNav = new Html(jsonString);
+
+	    Html page = new MainPage(title, tabs.getTabsHtml(), topNav, 
+	        tabs.getTabContentHtml(), null, null).getHtml();
+
+	    return ok(page);
+		 */
+		//return ok(Json.parse(jsonString));
+
+		return ok(show.render(name,jsonString));
+
+	}
+
+	/*
+	 * Save a project
+	 */
+	public static Result save() {
+		//		Form<Project> boundForm = projectForm.bindFromRequest();
+		//		if(boundForm.hasErrors()) {
+		//			flash("error", "Please correct the form below.");
+		//			return badRequest(show.render(boundForm));
+		//		}
+		//
+		//		Project project = boundForm.get();
+		DynamicForm form = form().bindFromRequest();
+		Logger.info("PARAMETERS : " + form.data().toString());
+		String projectName = form.get("project_name");
+		String projectDescr = form.get("project_desc");
+		Project project = new Project(projectName, projectDescr);
+		ProjectDao.save(project);
+		flash("success", String.format("Successfully added project %s", project));
+
+		return redirect(routes.ProjectController.show(projectName));
+	}
+
+	public static ObjectNode getJsonResponse(Html content) {
+		ObjectNode result = Json.newObject();
+		result.put("data", content.toString());
+		return result;
+	}
+
+	public static Result showImportTableForm(String name)
+	{
+		return ok(import_table.render(name));
+	}
+
+	public static Result importTable(String name){
+		DynamicForm form = form().bindFromRequest();
+		Logger.info("PARAMETERS : " + form.data().toString());
+		String tableName = form.get("table_name");
+
+		MultipartFormData body = request().body().asMultipartFormData();
+		FilePart fp = body.getFile("csv_file_path");
+		
+		if (fp != null) {
+			String fileName = fp.getFilename();
+			String contentType = fp.getContentType();
+			Logger.info("fileName: " + fileName + ", contentType: " + contentType);
+			File file = fp.getFile();
+			try{
+				Table table = TableDao.importFromCSVWithHeader(name, tableName,
+					file.getAbsolutePath());
+				// save the table - this automatically updates and saves the project
+				TableDao.save(table);
+			}
+			catch(IOException ioe){
+				flash("error", ioe.getMessage());
+			}
+		} else {
+			flash("error", "Missing file");    
+		}
+		return redirect(routes.ProjectController.show(name));
+	}
+	
+	public static Result showBlockingForm(String projectName)
+	{
+		Set<String> tableNames = TableDao.listTableNames(projectName);
+		return ok(show_blocking_form.render(projectName,tableNames));
+	}
+	
+	public static Result block(String projectName)
+	{
+		DynamicForm form = form().bindFromRequest();
+		Logger.info("PARAMETERS : " + form.data().toString());
+		String table1Name = form.get("table1_name");
+		String table2Name = form.get("table2_name");
+		String attr1Name = form.get("attr1_name");
+		String attr2Name = form.get("attr2_name");
+		String candsetName = form.get("candset_name");
+		
+		try {
+			ItemPairTable itemPairTable = BlockingDao.block(projectName, table1Name,
+					table2Name, attr1Name, attr2Name, candsetName);
+			// save the item pair table - this automatically updates and saves the project
+			TableDao.save(itemPairTable);
+		} catch (IOException ioe) {
+			flash("error", ioe.getMessage());
+		}
+		return redirect(routes.ProjectController.show(projectName));
+	}
+}

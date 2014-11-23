@@ -1,0 +1,73 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Import Matchers modal -->
+<div class="modal hide fade" id="import_matchers_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Import matchers from a file</h4>
+      </div>
+      <div class="modal-body">
+      	@if(project.getTableNames() == null || project.getTableNames().isEmpty()) {
+            <p class="text-center danger"><b>No tables found</b></p>
+        }
+        @if(project.getTableNames() != null && !project.getTableNames().isEmpty()) {
+        	<form class="form-horizontal" id="import_matchers_form" 
+        		data-target="#import_matchers_modal" method="post" 
+    			action="/project/@project.getName()/importMatchers" role="form" 
+    			enctype="multipart/form-data">
+	        	
+	           	<fieldset>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="table1"><b>Table 1</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="table1_name_im" name="table1_name_im">
+	                        	@for(tableName <- project.getTableNames()) {
+	                        		@if(tableName.equals(project.getDefaultTable1())) {
+	                               		<option value="@tableName" selected>@tableName</option>
+	                               	}
+	                               	@if(!tableName.equals(project.getDefaultTable1())) {
+	                               		<option value="@tableName">@tableName</option>
+	                               	}
+	                           	}
+	                        </select>  
+	                   	</div>
+	               	</div>
+	           		<div class="control-group">        
+	                   	<label class="control-label" for="table2"><b>Table 2</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="table2_name_im" name="table2_name_im">
+	                        	@for(tableName <- project.getTableNames()) {
+	                        		@if(tableName.equals(project.getDefaultTable2())) {
+	                               		<option value="@tableName" selected>@tableName</option>
+	                               	}
+	                               	@if(!tableName.equals(project.getDefaultTable2())) {
+	                               		<option value="@tableName">@tableName</option>
+	                               	}
+	                           	}
+	                        </select>  
+	                   	</div>
+	               	</div>
+	               	<div class="control-group">  
+						<label class="control-label" for="csv_file_path"><b>Matcher File</b></label>  
+						<div class="controls">  
+	    					<input class="input-file" id="csv_file_path" name="csv_file_path" type="file">  
+	    				</div>  
+					</div>
+					<div class="control-group">
+        				<div class="controls">
+            				<input type="checkbox" name="save_to_disk" checked> Save the matchers to disk
+            			</div>
+        			</div>
+	            </fieldset>       
+	        </form>
+      	}
+      </div>
+      <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+        <button id="import_matchers_btn" form="import_matchers_form" class="btn btn-primary" type="submit">Import</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

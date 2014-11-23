@@ -1,0 +1,33 @@
+<!-- New project modal -->
+<div class="modal hide fade" id="new-project-modal1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Create a new project</h4>
+      </div>
+      <div class="modal-body">
+    	<form id="new_project_form" class="form-horizontal" action="@controllers.project.routes.ProjectController.createNewProject()" method="post">
+       	<div>               
+           <div class="control-group">
+               <label class="control-label" for="project_name"><b>Name</b></label>
+               <div class="controls">
+                   <input type="text" id="project_name" name="project_name" required>
+               </div>
+           </div>
+           <div class="control-group">
+               <label class="control-label" for="project_desc"><b>Description</b></label>
+               <div class="controls">
+                   <textarea id="project_desc" name="project_desc" rows="3"></textarea>
+               </div>
+           </div>
+       	</div>                                              
+    	</form>
+      </div>
+      <div class="modal-footer">
+    	<button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+    	<button id="save_project_btn" form="new_project_form" class="btn btn-primary" type="submit">Save</button>
+	  </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

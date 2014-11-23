@@ -1,0 +1,41 @@
+#results_loading {
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    width:30em;
+    height:18em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/    
+ }
+ 
+/* Table header should have a distinguishing color*/ 
+table thead tr th {
+	background-color: #e6EEEE;
+	border: 1px solid #FFF;
+	padding: 4px;
+	text-align : center;
+	font-size: 12pt;		
+}
+
+table tbody tr td {
+	font-size: 11pt;
+}
+
+#status-message {
+	position:relative;
+	display: table;
+    margin:0 auto;
+    clear:left;
+    height:auto;
+    z-index: 10;
+    text-align:center;/* Add This*/
+    background-color: #FFE57E;
+    border-color: #FFCC00;
+    color: black;
+}
+
+.virtual_link {
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}

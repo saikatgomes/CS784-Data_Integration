@@ -1,0 +1,42 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Save rule modal -->
+<div class="modal hide fade" id="save_rule_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Save an unsaved rule to disk</h4>
+      </div>
+      <div class="modal-body">
+      	@if(project.getUnsavedRules() == null || project.getUnsavedRules().isEmpty()) {
+            <p class="text-center danger"><b>No unsaved rules found</b></p>
+        }
+        @if(project.getUnsavedRules() != null && !project.getUnsavedRules().isEmpty()) {
+	      	<form class="form-horizontal" id="save_rule_form"
+	      			data-target="#save_rule_modal" method="post"
+	                action="@controllers.project.routes.RuleController.saveRule(project.getName())" role="form"
+	         >
+	     
+	           	<fieldset>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="rule"><b>Rule Name</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="rule_name" name="rule_name">
+	                        	@for(ruleName <- project.getUnsavedRules()) {
+	                               	<option value="@ruleName">@ruleName</option>
+	                           	}
+	                        </select>  
+	                   	</div>
+	               	</div>
+	            </fieldset> 
+	        </form>
+      	}
+      </div>
+      <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+        <button id="save_rule_btn" form="save_rule_form" class="btn btn-primary" type="submit">Save</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

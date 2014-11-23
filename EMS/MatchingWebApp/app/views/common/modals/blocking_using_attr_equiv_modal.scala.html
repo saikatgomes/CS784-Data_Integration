@@ -1,0 +1,113 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Blocking using attribute equivalence modal -->
+<div class="modal hide fade" id="blocking_key_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Perform blocking using attribute equivalence</h4>
+      </div>
+      <div class="modal-body">
+      	@if(project.getTableNames() == null || project.getTableNames().isEmpty()) {
+            <p class="text-center danger"><b>No tables found</b></p>
+        }
+        @if(project.getTableNames() != null && !project.getTableNames().isEmpty()) {
+	      	<form class="form-horizontal" id="blocking_key_form"
+	      			data-target="#blocking_key_modal" method="post"
+	                action="@controllers.project.routes.ProjectController.block(project.getName())" role="form"
+	         >
+	        	
+	        	<legend>Table 1</legend>
+	           	<fieldset>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="table1"><b>Name</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="table1_name" name="table1_name" project_name="@project.getName()">
+	                        	@for(tableName <- project.getTableNames()) {
+	                        		@if(tableName.equals(project.getDefaultTable1())) {
+	                               		<option value="@tableName" selected>@tableName</option>
+	                               	}
+	                               	@if(!tableName.equals(project.getDefaultTable1())) {
+	                               		<option value="@tableName">@tableName</option>
+	                               	}
+	                           	}
+	                        </select>  
+	                   	</div>
+	               	</div>
+	           		<div class="control-group">        
+	                   	<label class="control-label" for="table1"><b>Blocking Attribute</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="attr1_name" name="attr1_name">
+                      		</select>  
+	                   	</div>
+	               	</div>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="table1"><b>Attributes to retain in the candidate set (id will be retained by default)</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="attr1_names" name="attr1_names[]" multiple>
+                      		</select>  
+	                   	</div>
+	               	</div>
+	            </fieldset>
+	            
+	            <legend>Table 2</legend>
+                <fieldset>
+                	<div class="control-group">        
+                    	<label class="control-label" for="table2"><b>Name</b></label>  
+                    	<div class="controls">  
+                        	<select id="table2_name" name="table2_name" project_name="@project.getName()">
+                            	@for(tableName <- project.getTableNames()) {
+	                        		@if(tableName.equals(project.getDefaultTable2())) {
+	                               		<option value="@tableName" selected>@tableName</option>
+	                               	}
+	                               	@if(!tableName.equals(project.getDefaultTable2())) {
+	                               		<option value="@tableName">@tableName</option>
+	                               	}
+	                           	}
+                          	</select>  
+                    	</div>
+                	</div>
+                	<div class="control-group">        
+                    	<label class="control-label" for="table2"><b>Blocking Attribute</b></label>  
+                    	<div class="controls">  
+                        	<select id="attr2_name" name="attr2_name">
+                      		</select>
+                    	</div>
+                	</div>
+                	<div class="control-group">        
+	                   	<label class="control-label" for="table2"><b>Attributes to retain in the candidate set (id will be retained by default)</b></label>  
+	                   	<div class="controls">  
+                       		<select id="attr2_names" name="attr2_names[]" multiple>
+                   			</select>  
+                   		</div>
+	               	</div>
+                </fieldset>
+                
+                <legend>Output Candidate Set</legend>
+                <fieldset>               
+                   <div class="control-group">
+                       <label class="control-label" for="candset_name"><b>Name</b></label>
+                       <div class="controls">
+                           <input type="text" id="candset_name" name="candset_name" required>
+                       </div>
+                   </div>
+                   <div class="control-group">
+                       <div class="controls">
+                           <input type="checkbox" name="candset_default" checked> Set this as default candidate set
+                       </div>
+                       <div class="controls">
+                           <input type="checkbox" name="save_to_disk" checked> Save the candidate set to disk
+                       </div>
+                   </div>
+                </fieldset> 
+	        </form>
+      	}
+      </div>
+      <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+        <button id="blocking_key_btn" form="blocking_key_form" class="btn btn-primary" type="submit">Block</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

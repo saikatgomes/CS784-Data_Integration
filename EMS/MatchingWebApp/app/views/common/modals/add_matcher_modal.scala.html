@@ -1,0 +1,155 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Add matcher modal -->
+<div class="modal hide fade" id="add_matcher_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Add a matcher</h4>
+      </div>
+      <div class="modal-body">
+        @if(project.getTableNames() == null || project.getTableNames().isEmpty()) {
+            <p class="text-center danger"><b>No tables found</b></p>
+        }
+        @if(project.getRuleNames() == null || project.getRuleNames().isEmpty()) {
+            <p class="text-center danger"><b>No rules found</b></p>
+        }
+        @if(project.getTableNames() != null && !project.getTableNames().isEmpty() && project.getRuleNames() != null && !project.getRuleNames().isEmpty()) {
+              <form class="form-horizontal" id="add_matcher_form"
+                      data-target="#add_matcher_modal" method="post"
+                    action="@controllers.project.routes.RuleController.addMatcher(project.getName())" role="form">
+                
+                   <fieldset>              
+                   <div class="control-group">
+                       <label class="control-label" for="matcher_name"><b>Matcher Name</b></label>
+                       <div class="controls">
+                           <input type="text" id="matcher_name" name="matcher_name" required>
+                       </div>
+                   </div>
+                   </fieldset>
+     
+                   <fieldset>
+                       <div class="control-group">        
+                           <label class="control-label" for="table1"><b>Table 1</b></label>  
+                           <div class="controls">  
+                               <select id="table1_name_am" name="table1_name_m">
+                                @for(tableName <- project.getTableNames()) {
+	                        		@if(tableName.equals(project.getDefaultTable1())) {
+	                               		<option value="@tableName" selected>@tableName</option>
+	                               	}
+	                               	@if(!tableName.equals(project.getDefaultTable1())) {
+	                               		<option value="@tableName">@tableName</option>
+	                               	}
+	                           	}
+                            </select>  
+                           </div>
+                       </div>
+                       <div class="control-group">        
+                           <label class="control-label" for="table2"><b>Table 2</b></label>  
+                           <div class="controls">  
+                               <select id="table2_name_am" name="table2_name_m">
+                                @for(tableName <- project.getTableNames()) {
+	                        		@if(tableName.equals(project.getDefaultTable2())) {
+	                               		<option value="@tableName" selected>@tableName</option>
+	                               	}
+	                               	@if(!tableName.equals(project.getDefaultTable2())) {
+	                               		<option value="@tableName">@tableName</option>
+	                               	}
+	                           	}
+                            </select>  
+                           </div>
+                       </div>
+                   </fieldset>
+                   
+              		<table align="center">
+              			<tr>
+              				<th>Rule Name</th>
+              				<th></th>
+              			</tr>
+   						<tr>
+     						<td>  
+                               <select id="rule1" name="rule1">
+                               		<option value=""></option>
+                                	@for(ruleName <- project.getRuleNames()){
+                                   		<option value="@ruleName">@ruleName</option>
+                                   	}
+                            	</select>  
+                       		</td>
+                       		<td><b>OR</b></td>
+                       	</tr>
+                       	
+                    	<tr>
+     						<td>  
+                               <select id="rule2" name="rule2">
+                               		<option value=""></option>
+                                	@for(ruleName <- project.getRuleNames()){
+                                   		<option value="@ruleName">@ruleName</option>
+                                   	}
+                            	</select>  
+                       		</td>
+                       		<td><b>OR</b></td>
+                       	</tr>
+                       	
+                       	<tr>
+     						<td>  
+                               <select id="rule3" name="rule3">
+                               		<option value=""></option>
+                                	@for(ruleName <- project.getRuleNames()){
+                                   		<option value="@ruleName">@ruleName</option>
+                                   	}
+                            	</select>  
+                       		</td>
+                       		<td><b>OR</b></td>
+                       	</tr>
+                       	
+                       	<tr>
+     						<td>  
+                               <select id="rule4" name="rule4">
+                               		<option value=""></option>
+                                	@for(ruleName <- project.getRuleNames()){
+                                   		<option value="@ruleName">@ruleName</option>
+                                   	}
+                            	</select>  
+                       		</td>
+                       		<td><b>OR</b></td>
+                       	</tr>
+                       	<tr>
+     						<td>  
+                               <select id="rule5" name="rule5">
+                               		<option value=""></option>
+                                	@for(ruleName <- project.getRuleNames()){
+                                   		<option value="@ruleName">@ruleName</option>
+                                   	}
+                            	</select>  
+                       		</td>
+                       		<td><b>OR</b></td>
+                       		<td></td>
+                       	</tr>
+                       	<tr>
+     						<td>  
+                               <select id="rule6" name="rule6">
+                               		<option value=""></option>
+                                	@for(ruleName <- project.getRuleNames()){
+                                   		<option value="@ruleName">@ruleName</option>
+                                   	}
+                            	</select>  
+                       		</td>
+                       		<td></td>
+                       	</tr>
+					</table>
+					<div class="control-group">
+                       <div class="controls">
+                           <input type="checkbox" name="save_to_disk" checked> Save the matcher to disk
+                       </div>
+                    </div>
+            </form>
+          }
+      </div>
+      <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+        <button id="add_matcher_btn" form="add_matcher_form" class="btn btn-primary" type="submit">Add</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

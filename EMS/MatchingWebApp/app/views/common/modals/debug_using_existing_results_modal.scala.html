@@ -1,0 +1,59 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Matching Details Modal -->
+<div class="modal hide fade" id="matching_details_using_results_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Debug using existing results</h4>
+      </div>
+      <div class="modal-body">
+        @if(project.getTableNames() == null || project.getTableNames().isEmpty()) {
+	       <p class="text-center danger"><b>No tables found</b></p>
+	       </div>
+        }	    
+        @if(project.getMatchingSummaryNames() != null ||
+        	project.getEvaluationSummaryNames() != null) {
+        	        	        	
+        	<form class="form-horizontal" id="matching_details_results_form"         	
+        		data-target="#matching_details_using_results_modal" method="post" 
+    			action="@controllers.debug.routes.DebugController.postIndexUsingResults(project.getName())" role="form" 
+    			enctype="multipart/form-data">
+	        	
+	           	<fieldset>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="matching_summary"><b>Matching Summary</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="matching_summary_name" name="matching_summary_name">
+	                        	@for(matchingSummaryName <- project.getMatchingSummaryNames()) {
+	                               	<option value="@matchingSummaryName">@matchingSummaryName</option>
+	                            }
+	                        </select>  
+	                   	</div>
+	               	</div>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="evaluation_summary"><b>Evaluation Summary</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="evaluation_summary_name" name="evaluation_summary_name">
+	                       		<option value="NO_EVAL_SUMMARY" selected>Do not use evaluation summary</option>
+	                        	@for(evaluationSummaryName <- project.getEvaluationSummaryNames()) {
+	                               	<option value="@evaluationSummaryName">@evaluationSummaryName</option>
+	                            }
+	                        </select>  
+	                   	</div>
+	               	</div>          	
+	            </fieldset>       
+	        </form>
+	  </div>
+      <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+        <button id="matching_details_btn" form="matching_details_results_form" class="btn btn-primary" type="submit">Submit</button>
+      </div>
+     } else {
+     	<p class="text-center danger"><b>No matching or evaluation summary found.</b></p>
+     	</div>
+     }
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

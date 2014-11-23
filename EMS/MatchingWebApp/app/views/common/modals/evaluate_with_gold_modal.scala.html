@@ -1,0 +1,68 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Evaluation with gold modal -->
+<div class="modal hide fade" id="evaluate_gold_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Evaluate matches using gold</h4>
+      </div>
+      <div class="modal-body">
+      	@if(project.getTableNames() == null || project.getTableNames().isEmpty()) {
+            <p class="text-center danger"><b>No tables found</b></p>
+        }
+        @if(project.getTableNames() != null && !project.getTableNames().isEmpty()) {
+	      	<form class="form-horizontal" id="evaluate_gold_form"
+	      			data-target="#evaluate_gold_modal" method="post"
+	                action="@controllers.project.routes.EvaluationController.evaluateWithGold(project.getName())" role="form">
+	        	
+	           	<fieldset>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="matches"><b>Matches' Name</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="matches_name_e" name="matches_name_e" project_name="@project.getName()">
+	                        	@for(tableName <- project.getTableNames()) {
+	                        		@if(tableName.equals(project.getDefaultMatches())) {
+	                               		<option value="@tableName" selected>@tableName</option>
+	                               	}
+	                               	@if(!tableName.equals(project.getDefaultMatches())) {
+	                               		<option value="@tableName">@tableName</option>
+	                               	}
+	                           	}
+	                        </select>  
+	                   	</div>
+	               	</div>
+	               	<div class="control-group">        
+	                   	<label class="control-label" for="gold"><b>Gold Name</b></label>  
+	                   	<div class="controls">  
+	                       	<select id="gold_name_e" name="gold_name_e" project_name="@project.getName()">
+	                        	@for(tableName <- project.getTableNames()) {
+	                        		@if(tableName.equals(project.getDefaultGold())) {
+	                               		<option value="@tableName" selected>@tableName</option>
+	                               	}
+	                               	@if(!tableName.equals(project.getDefaultGold())) {
+	                               		<option value="@tableName">@tableName</option>
+	                               	}
+	                           	}
+	                        </select>  
+	                   	</div>
+	               	</div>              
+                    <div class="control-group">
+                       <label class="control-label" for="evaluation"><b>Summary Name</b></label>
+                       <div class="controls">
+                           <input type="text" id="evaluation_name" name="evaluation_name" required>
+                       </div>
+                    </div>
+                </fieldset>
+                 
+	        </form>
+      	}
+      </div>
+      <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+        <button id="evaluate_gold_btn" form="evaluate_gold_form" class="btn btn-primary" type="submit">Evaluate</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

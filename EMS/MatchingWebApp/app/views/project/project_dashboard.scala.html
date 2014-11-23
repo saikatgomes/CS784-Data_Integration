@@ -1,0 +1,74 @@
+@(projects : List[com.walmart.productgenome.matching.models.data.Project])
+	
+<div id="dashboard">
+
+    <span class="dashboard-title"> 
+    	<h3> Projects </h3>
+    </span>
+            @if(projects == null || projects.isEmpty()) {
+                <p class="text-center danger"><b>No projects found</b></p>
+            }
+            
+            @if(projects != null && !projects.isEmpty()) {
+            <table id="projects_table" class="table table-bordered table-condensed table-hover">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Description</th>
+                        <th>Creation Time</th>
+                        <th>Last Modification Time</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for(project <- projects) {
+                    <tr>
+                        <td>
+                        	<a href="@controllers.project.routes.ProjectController.showProject(project.getName())">
+								@project.getName()
+							</a>
+						</td>
+                        <td>@project.getDescription()</td>
+                        <td>@project.getCreatedOn()</td>
+                        <td>@project.getLastModifiedOn()</td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+            }
+            
+            <button id="new_project_btn" class="btn btn-danger"> <i class="fa fa-plus"></i> &nbsp; Create New Project </button>
+</div>
+
+
+<div class="modal hide fade" id="new-project-modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Create a new project</h4>
+      </div>
+      <div class="modal-body">
+    	<form id="project_form" class="form-horizontal" action="@controllers.project.routes.ProjectController.createNewProject()" method="post">
+       	<div>               
+           <div class="control-group">
+               <label class="control-label" for="project_name"><b>Name</b></label>
+               <div class="controls">
+                   <input type="text" id="project_name" name="project_name" required>
+               </div>
+           </div>
+           <div class="control-group">
+               <label class="control-label" for="project_desc"><b>Description</b></label>
+               <div class="controls">
+                   <textarea id="project_desc" name="project_desc" rows="3"></textarea>
+               </div>
+           </div>
+       	</div>                                              
+    	</form>
+      </div>
+      <div class="modal-footer">
+    	<button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+    	<button id="save_project_btn" form="project_form" class="btn btn-primary" type="submit">Save</button>
+	  </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

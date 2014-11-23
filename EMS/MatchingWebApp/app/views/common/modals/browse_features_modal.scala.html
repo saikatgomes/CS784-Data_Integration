@@ -1,0 +1,43 @@
+@(project: com.walmart.productgenome.matching.models.data.Project)
+
+<!-- Browse features modal -->
+<div class="modal hide fade" id="browse_features_modal">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only"></span></button>
+        <h4 class="modal-title">Feature library (@project.getFeatureNames().size() features)</h4>
+      </div>
+      <div class="modal-body">
+      	
+
+    <table class="table table-condensed">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Function</th>
+                <th>Argument1</th>
+                <th>Argument2</th>
+            </tr>
+        </thead>
+        <tbody>
+        	@for(featureName <- project.getFeatureNames()){
+            	<tr>
+                	<td>@featureName</td>
+                	<td>@project.findFeatureByName(featureName).getFunction().getName()</td>
+                	<td>@project.findFeatureByName(featureName).getTable1Name().@project.findFeatureByName(featureName).getAttribute1().getName()</td>
+                	<td>@project.findFeatureByName(featureName).getTable2Name().@project.findFeatureByName(featureName).getAttribute2().getName()</td>
+            	</tr>
+			}
+        </tbody>
+
+    </table>
+
+
+      </div>
+      <div class="modal-footer">
+    	<button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+	  </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
