@@ -47,7 +47,7 @@ function send_result(aChoice){
     function(data){
         //alert("posted" + data + " ... reload!");
         var div = document.getElementById('srg');
-        [div].visible = true;
+        div.style.display = 'block';
         location.reload();
     });
 };
