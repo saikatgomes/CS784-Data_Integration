@@ -52,6 +52,7 @@ function setup($conf_file) {
 function sample($num_send=1) {
     # API: /?num_send=1 
     # read the sample file and pick one
+    global $sample_f, $result_f, $conf;
     $rand_sample = json_decode(file_get_contents($sample_f), true) or die("Unable to open conffile - ". $sample_f);
     $cnt_a = Array();
     foreach(file($result_f) as $l => $line) {
@@ -60,7 +61,7 @@ function sample($num_send=1) {
     }
     $arr = [];
     foreach ($cnt_a as $id => $c) {
-	for ($i=0; $i<$conf["Overlap"]-$c+1; $i++) {
+	for ($i=0; $i< ($conf["Overlap"]-$c+1); $i++) {
 	    array_push($arr, $id);
 	}
     }
