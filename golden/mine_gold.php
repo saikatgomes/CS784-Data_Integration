@@ -1,6 +1,16 @@
 <?php
 ini_set('memory_limit', '-1');
 
+switch ($_SERVER['HTTP_ORIGIN']) {
+    case 'http://pages.cs.wisc.edu': 
+    case 'https://pages.cs.wisc.edu':
+    header('Access-Control-Allow-Origin: '.$_SERVER['HTTP_ORIGIN']);
+    header('Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS');
+    header('Access-Control-Max-Age: 1000');
+    header('Access-Control-Allow-Headers: Content-Type, Authorization, X-Requested-With');
+    break;
+}
+
 $conf_file = "conf.json";
 $conf = json_decode(file_get_contents($conf_file), true) or die("Unable to open conffile - ". $conf_file);
 $sample_f = $conf["Outputdir"]."/sample_blocks.json";
