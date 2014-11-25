@@ -39,13 +39,13 @@
 
 function send_result(aChoice){
     console.log("SRG the best! "+ aChoice);
-    $.post("/golden/mine_gold.php",
+    $.post("golden/mine_gold.php",
     {
         blockingid: <?php echo $blocking_id?>,
         choice: aChoice
     },
     function(data){
-        //alert("posted" + data + " ... reload!");
+        alert("posted" + data + " ... reload!");
         var div = document.getElementById('srg');
         div.style.display = 'block';
         location.reload();

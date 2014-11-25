@@ -132,11 +132,11 @@ function order_attr( $json_obj ) {
 }
 
 if ($_SERVER['REQUEST_METHOD'] == "GET" ) {
-    # if ($_GET["setup"] == 1) {
-    # 	# Setup the stuffs
-    # 	# read conffile
-    # 	setup($_GET["conffile"]);
-    # }
+    if ($_GET["setup"] == 1) {
+     	# Setup the stuffs
+     	# read conffile
+     	setup($_GET["conffile"]);
+    }
     # else {
     # 	#n$num_send = $_GET["num_send"] || 1;
     # 	#sample($num_send);
