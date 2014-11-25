@@ -39,7 +39,7 @@
 
 function send_result(aChoice){
     console.log("SRG the best! "+ aChoice);
-    $.post("golden/mine_gold.php",
+    $.post("mine_gold.php",
     {
         blockingid: <?php echo $blocking_id?>,
         choice: aChoice
