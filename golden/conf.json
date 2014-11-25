@@ -1,0 +1,14 @@
+{
+	"NumGoldenSample": 100,
+	"Overlap": 4,
+	"TableInfo" : {
+		"BlockingTable": "../data/blocking_data/blocks.table",
+		"Table-1": "../data/all_makes_table_craiglist.json",
+		"Table-2": "../data/all_makes_table_kbb.json"
+	},
+	"blacklist_attrib": {
+	        "T1_attrib": [],
+	        "T2_attrib": []		
+	},
+	"Outputdir": "../gdata/"
+}
