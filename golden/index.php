@@ -30,23 +30,23 @@
 #print_r($json_data);
 
     #just take the first row for now!
-    $blocking_id = $json_data[0]['blockingId'];
-    $blocking_id = "123";
+    $blocking_id = $json_data[0]['blockingid'];
     $src1 = $json_data[0]['T1'];
     $src2 = $json_data[0]['T2'];
 
 ?>
 <script>
 
-function myFunction(){
-    alert("SRG the best!");
+function send_result(aChoice){
+    alert("SRG the best!"+aChoice);
     $.post("mine_gold.php",
     {
         blockingid: <?php echo $blocking_id?>,
-        choice: "1"
+        choice: aChoice
     },
     function(data){
-        alert("posted" + data);
+        alert("posted" + data + " ... reload!");
+        location.reload();
     });
 };
 
@@ -56,11 +56,11 @@ function myFunction(){
     <div class="col-md-12">
         <center>
         <form action="mine_gold.php" method="POST">
-        <button onclick="myFunction(1)" type="button" class="btn btn-success">Is A Match</button>
+        <button onclick="send_result(1)" type="button" class="btn btn-success">Is A Match</button>
         &nbsp;
-        <button onclick="myFunction(0)" type="button" class="btn btn-danger">Not A Match</button>
+        <button onclick="send_result(0)" type="button" class="btn btn-danger">Not A Match</button>
         &nbsp;
-        <button onclick="myFunction(-1)" type="button" class="btn btn-warning">Not Relevant</button>
+        <button onclick="send_result(-1)" type="button" class="btn btn-warning">Not Relevant</button>
         </form>
         </center>
     </div>
