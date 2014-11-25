@@ -6,7 +6,7 @@
 		"Table-1": "../data/all_makes_table_craiglist.json",
 		"Table-2": "../data/all_makes_table_kbb.json"
 	},
-	"blacklist_attrib": {
+	"attribs": {
 	        "T1_attrib": [],
 	        "T2_attrib": []		
 	},
