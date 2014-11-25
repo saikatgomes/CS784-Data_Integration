@@ -38,14 +38,14 @@
 <script>
 
 function send_result(aChoice){
-    alert("SRG the best!"+aChoice);
-    $.post("mine_gold.php",
+    console.log("SRG the best! "+ aChoice);
+    $.post("/golden/mine_gold.php",
     {
         blockingid: <?php echo $blocking_id?>,
         choice: aChoice
     },
-    function(data){
-        alert("posted" + data + " ... reload!");
+    function(d){
+	//alert("posted " + d + " ... reload!");
         location.reload();
     });
 };
