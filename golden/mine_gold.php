@@ -101,6 +101,7 @@ else if ($_SERVER['REQUEST_METHOD'] == "POST") {
     $fp = fopen($result_f, 'a');
     fwrite($fp, "{$blockid},{$res}\n");
     fclose($fp);
+    echo "BY GAOD: {$blockid}  {$res}";
 }
 
 #

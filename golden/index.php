@@ -29,18 +29,38 @@
     $json_data = json_decode($data,true);
 
     #just take the first row for now!
+    $blocking_id = $json_data[0]['blockingId'];
+    $blocking_id = "123";
     $src1 = $json_data[0]['T1'];
     $src2 = $json_data[0]['T2'];
 
 ?>
+<script>
+
+function myFunction(){
+    alert("SRG the best!");
+    $.post("mine_gold.php",
+    {
+        blockingid: <?php echo $blocking_id?>,
+        choice: "1"
+    },
+    function(data){
+        alert("posted" + data);
+    });
+};
+
+</script>
+
 <div class="row">
     <div class="col-md-12">
         <center>
-        <button type="button" class="btn btn-success">Is A Match</button>
+        <form action="mine_gold.php" method="POST">
+        <button onclick="myFunction(1)" type="button" class="btn btn-success">Is A Match</button>
         &nbsp;
-        <button type="button" class="btn btn-danger">Not A Match</button>
+        <button onclick="myFunction(0)" type="button" class="btn btn-danger">Not A Match</button>
         &nbsp;
-        <button type="button" class="btn btn-warning">Not Relevant</button>
+        <button onclick="myFunction(-1)" type="button" class="btn btn-warning">Not Relevant</button>
+        </form>
         </center>
     </div>
 </div>

@@ -11,8 +11,8 @@
 
 <?php
 if (empty($HOME)) {
-    # $HOME="http://pages.cs.wisc.edu/~saikat/projects/data_integration/";
-    $HOME = "/"; #$_SERVER['HTTP_HOST']."/";
+    $HOME="http://pages.cs.wisc.edu/~saikat/projects/data_integration/";
+    # $HOME = "/"; #$_SERVER['HTTP_HOST']."/";
 }
 $home_class="";
 $data_class="";
@@ -58,7 +58,7 @@ if (!empty($ACTIVE)){
 		<li <?php echo $data_class?>><a href=<?php echo $HOME."data.php" ?>>Data</a></li>
 		<li <?php echo $blocking_class?>><a href=<?php echo $HOME."block.php" ?>>Blocking</a></li>
 		<li <?php echo $code_class?>><a href=<?php echo $HOME."code.php" ?>>Code</a></li>
-		<li <?php echo $gold_class?>><a href=<?php echo $HOME."mine_gold.php" ?>>Mine Gold</a></li>
+		<li <?php echo $gold_class?>><a href=<?php echo $HOME."golden/" ?>>Mine Gold</a></li>
 	    </ul>
 	    <ul class="nav navbar-nav navbar-right">
 		<li <?php echo $team_class?>><a href=<?php echo $HOME."team.php" ?>>Team</a></li>
