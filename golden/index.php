@@ -27,6 +27,7 @@
     #$data = file_get_contents('test_tuples.json');
     $data = sample(1);
     $json_data = json_decode($data,true);
+#print_r($json_data);
 
     #just take the first row for now!
     $src1 = $json_data[0]['T1'];

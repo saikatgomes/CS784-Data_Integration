@@ -1,7 +1,6 @@
 <?php
 ini_set('memory_limit', '-1');
 
-
 $conf_file = "conf.json";
 $conf = json_decode(file_get_contents($conf_file), true) or die("Unable to open conffile - ". $conf_file);
 $sample_f = $conf["Outputdir"]."/sample_blocks.json";
@@ -49,6 +48,7 @@ function setup($conf_file) {
     file_put_contents($sample_f, $json_string);
     fclose($fp);
 }
+
 function sample($num_send=1) {
     # API: /?num_send=1 
     # read the sample file and pick one
@@ -68,18 +68,70 @@ function sample($num_send=1) {
     $res = [];
     $rand_get = array_rand($arr, $num_send);
     if ($num_send == 1) {
-	$res = $rand_sample[$arr[$rand_get]];
-	#print_r($res);
-	return json_encode([$res], JSON_PRETTY_PRINT);
+	$rand_get = [$rand_get];
     }
-    else {
-	foreach($rand_get as $x => $n) {
-	    array_push($res, $rand_sample[$arr[$n]]);
-	}
-	return json_encode($res, JSON_PRETTY_PRINT);
-	#print_r ($res);
+    foreach($rand_get as $x => $n) {
+	$r = order_attr($rand_sample[$arr[$n]]);
+	$r["blockingid"] = $arr[$n];
+	array_push($res, $r);
     }
+    return json_encode($res, JSON_PRETTY_PRINT);
+    #print_r ($res);
 }
+
+function save_res($post) {
+    # API: 
+    # blockingid=id
+    # res=1 (or 0,-1)
+    global $sample_f, $result_f, $conf;
+    $blockid = $post['blockingid'];
+    $res = $post['choice'];
+    
+    $fp = fopen($result_f, 'a');
+    fwrite($fp, "{$blockid},{$res}\n");
+    fclose($fp);    
+}
+
+function kbb_values( $str ){
+    $s = array();
+    foreach(explode('&', $str ) as $t) {
+	array_push($s,explode('|', $t)[0]);
+    }
+    return implode(',', $s);
+}
+    
+function order_attr( $json_obj ) {
+    # T1
+    $t1 = $json_obj["T1"];
+    $r1 = [];
+    $r1["id"]    = $t1["id"];
+    $r1["title"] = $t1["attr_title"] or $t1["title"];
+    $r1["year"]  = $t1["year"];
+    $r1["make"]  = $t1["make"];
+    $r1["type"]  = $t1["attr_type"];
+    $r1["cylinders"]  = $t1["attr_cylinders"];
+    $r1["transmission"]  = $t1["attr_transmission"];
+    $r1["drive"]  = $t1["attr_drive"];
+
+    #T2
+    $t2 = $json_obj["T2"];
+    $r2 = [];
+    $r2["id"]    = $t2["id"];
+    $r2["title"] = "{$t2['year']} {$t2['make']} {$t2['model']} {$t2['category']}" ;
+    $r2["year"]  = $t2["year"];
+    $r2["make"]  = "{$t2['make']} {$t2['model']}";
+    $r2["type"]  = "{$t2['category']} {$t2['sub_cat']}";
+    $r2["cylinders"]  = kbb_values($t2['attr_engine']);
+    $r2["transmission"]  = kbb_values($t2['attr_transmission']);
+    $r2["drive"]  = kbb_values($t2['attr_drivetrain']);
+    
+    $ret = array(
+	'T1' => $r1,
+	'T2' => $r2
+    );
+    return $ret;
+}
+
 if ($_SERVER['REQUEST_METHOD'] == "GET" ) {
     # if ($_GET["setup"] == 1) {
     # 	# Setup the stuffs
@@ -92,18 +144,12 @@ if ($_SERVER['REQUEST_METHOD'] == "GET" ) {
     # }
 }
 else if ($_SERVER['REQUEST_METHOD'] == "POST") {
-    # API: 
-    # blockingid=id
-    # res=1 (or 0,-1)
-    $blockid = $_POST['blockingid'];
-    $res = $_POST['choice'];
-    
-    $fp = fopen($result_f, 'a');
-    fwrite($fp, "{$blockid},{$res}\n");
-    fclose($fp);
+    save_res($_POST);
 }
 
 #
-#parse_str(implode('&', array_slice($argv, 1)), $_GET);
-#setup($_GET["conffile"]);
+# parse_str(implode('&', array_slice($argv, 1)), $_GET);
+# save_res($_GET);
+#
+
 ?>
