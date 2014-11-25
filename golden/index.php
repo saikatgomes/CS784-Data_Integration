@@ -23,31 +23,28 @@
     $ACTIVE="GOLD";
     include '../header.php';
     include "mine_gold.php";
-   
     
-    $data = file_get_contents('test_tuples.json');
-    $data2 = sample(1);
-    $json_data = json_decode($data2,true);
-    print_r($json_data);
+    #$data = file_get_contents('test_tuples.json');
+    $data = sample(1);
+    $json_data = json_decode($data,true);
 
-    echo "<br><br>";
-
-
-    foreach($json_data[0] as $key => $value){
-        echo $key . '=>' . $value . '<br/>';       
-    }
+    #just take the first row for now!
+    $src1 = $json_data[0]['T1'];
+    $src2 = $json_data[0]['T2'];
 
 ?>
 <div class="row">
     <div class="col-md-12">
         <center>
         <button type="button" class="btn btn-success">Is A Match</button>
+        &nbsp;
         <button type="button" class="btn btn-danger">Not A Match</button>
+        &nbsp;
         <button type="button" class="btn btn-warning">Not Relevant</button>
         </center>
     </div>
 </div>
-
+<br>
 <div class="row">
   <div class="col-md-1"></div>
   <div class="col-md-5">
@@ -56,100 +53,19 @@
 	<p>
 	<table class="table table-hover table-condensed">
 	      <thead>
-		<tr>
-		  <th>Attribute</th>
-		  <th>Description</th>
-		</tr>
-	      </thead>
-	      <tbody>
-		<tr>
-		  <td>id</td>
-		  <td>craiglist posting id</td>
-		</tr>
-		<tr>
-		  <td>title</td>
-		  <td>title of the posting</td>
-		</tr>
-		<tr>
-		  <td>body</td>
-		  <td>body fo the posting</td>
-		</tr>
-		<tr>
-		  <td>cost</td>
-		  <td>listed cost of the posting</td>
-		</tr>
-		<tr>
-		  <td>location</td>
-		  <td>location of the posting</td>
-		</tr>
-		<tr>
-		  <td>make</td>
-		  <td>make of the car</td>
-		</tr>
-		<tr>
-		  <td>year</td>
-		  <td>year of the car</td>
-		</tr>
-		<tr>
-		  <td>posted</td>
-		  <td>date of the posting</td>
-		</tr>
-		<tr>
-		  <td>updated</td>
-		  <td>date of last update of the posting</td>
-		</tr>
-		<tr>
-		  <td>attr_VIN</td>
-		  <td>VIM of the car</td>
-		</tr>
-		<tr>
-		  <td>attr_condition</td>
-		  <td>car condition</td>
-		</tr>
-		<tr>
-		  <td>attr_cylinders</td>
-		  <td>number of cylinders in engine</td>
-		</tr>
-		<tr>
-		  <td>attr_drive</td>
-		  <td>drive type</td>
-		</tr>
-		<tr>
-		  <td>attr_fuel</td>
-		  <td>fuel type</td>
-		</tr>
-		<tr>
-		  <td>attr_odometer</td>
-		  <td>odometer reading</td>
-		</tr>
-		<tr>
-		  <td>attr_paint color</td>
-		  <td>color of the car</td>
-		</tr>
-		<tr>
-		  <td>attr_size</td>
-		  <td>engine size</td>
-		</tr>
-		<tr>
-		  <td>attr_size / dimensions</td>
-		  <td>car dimensions</td>
-		</tr>
-		<tr>
-		  <td>attr_title</td>
-		  <td>DMV title type</td>
-		</tr>
-		<tr>
-		  <td>attr_title status</td>
-		  <td>DMV title status</td>
-		</tr>
-		<tr>
-		  <td>attr_transmission</td>
-		  <td>transmission type</td>
-		</tr>
-		<tr>
-		  <td>attr_type</td>
-		  <td>car type</td>
-		</tr>
+            <tr>          
+               <th>Attribute</th>
+               <th>Description</th>
+            </tr>
+          </thead>
+          <tbody>
+            <?php
+                foreach($src1 as $key => $value){
+                    echo "<tr>";
+                    echo "<td><i>" . $key . '</i></td><td>' . $value . '</td>';
+                    echo "</tr>";
+                }
+            ?>  
 	      </tbody>
 	</table>
 	</p>
@@ -168,46 +84,13 @@
 		</tr>
 	      </thead>
 	      <tbody>
-		<tr>
-		  <td>id</td>
-		  <td>KBB vehicle id</td>
-		</tr>
-		<tr>
-		  <td>make</td>
-		  <td>make of the car</td>
-		</tr>
-		<tr>
-		  <td>category</td>
-		  <td>car category</td>
-		</tr>
-		<tr>
-		  <td>year</td>
-		  <td>year of the car</td>
-		</tr>
-		<tr>
-		  <td>model</td>
-		  <td>car model</td>
-		</tr>
-		<tr>
-		  <td>sub_cat</td>
-		  <td>sub category for the car</td>
-		</tr>
-		<tr>
-		  <td>attr_drivetrain</td>
-		  <td>drive train of the car</td>
-		</tr>
-		<tr>
-		  <td>attr_engine</td>
-		  <td>engine type</td>
-		</tr>
-		<tr>
-		  <td>attr_transmission</td>
-		  <td>transmission type.</td>
-		</tr>
-		<tr>
-		  <td>url</td>
-		  <td>url</td>
-		</tr>
+            <?php
+                foreach($src2 as $key => $value){
+                    echo "<tr>"; 
+                    echo "<td><i>" . $key . '</i></td><td>' . $value . '</td>';
+                    echo "</tr>"; 
+                }
+            ?>
 	      </tbody>
 	</table>
 	</p>
