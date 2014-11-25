@@ -49,44 +49,46 @@ function setup($conf_file) {
     file_put_contents($sample_f, $json_string);
     fclose($fp);
 }
-
-if ($_SERVER['REQUEST_METHOD'] == "GET" ) {
-    if ($_GET["setup"] == 1) {
-	# Setup the stuffs
-	# read conffile
-	setup($_GET["conffile"]);
+function sample($num_send=1) {
+    # API: /?num_send=1 
+    # read the sample file and pick one
+    $rand_sample = json_decode(file_get_contents($sample_f), true) or die("Unable to open conffile - ". $sample_f);
+    $cnt_a = Array();
+    foreach(file($result_f) as $l => $line) {
+	list($idb,$cnt) = split(',', $line);
+	$cnt_a[intval($idb)] += 1;
+    }
+    $arr = [];
+    foreach ($cnt_a as $id => $c) {
+	for ($i=0; $i<$conf["Overlap"]-$c+1; $i++) {
+	    array_push($arr, $id);
+	}
+    }
+    $res = [];
+    $rand_get = array_rand($arr, $num_send);
+    if ($num_send == 1) {
+	$res = $rand_sample[$arr[$rand_get]];
+	#print_r($res);
+	return json_encode([$res], JSON_PRETTY_PRINT);
     }
     else {
-	# API: /?num_send=1 
-	$num_send = $_GET["num_send"] or 1;
-	# read the sample file and pick one
-	$rand_sample = json_decode(file_get_contents($sample_f), true) or die("Unable to open conffile - ". $sample_f);
-	$cnt_a = Array();
-	foreach(file($result_f) as $l => $line) {
-	    list($idb,$cnt) = split(',', $line);
-	    $cnt_a[intval($idb)] += 1;
+	foreach($rand_get as $x => $n) {
+	    array_push($res, $rand_sample[$arr[$n]]);
 	}
-	$arr = [];
-	foreach ($cnt_a as $id => $c) {
-	    for ($i=0; $i<$conf["Overlap"]-$c+1; $i++) {
-		array_push($arr, $id);
-	    }
-	}
-	$res = [];
-	$rand_get = array_rand($arr, $num_send);
-	if ($num_send == 1) {
-	    $res = $rand_sample[$arr[$rand_get]];
-	    #print_r($res);
-	    echo json_encode([$res], JSON_PRETTY_PRINT);
-	}
-	else {
-	    foreach($rand_get as $x => $n) {
-		array_push($res, $rand_sample[$arr[$n]]);
-	    }
-	    echo json_encode($res, JSON_PRETTY_PRINT);
-	    #print_r ($res);
-	}
+	return json_encode($res, JSON_PRETTY_PRINT);
+	#print_r ($res);
     }
+}
+if ($_SERVER['REQUEST_METHOD'] == "GET" ) {
+    # if ($_GET["setup"] == 1) {
+    # 	# Setup the stuffs
+    # 	# read conffile
+    # 	setup($_GET["conffile"]);
+    # }
+    # else {
+    # 	#n$num_send = $_GET["num_send"] || 1;
+    # 	#sample($num_send);
+    # }
 }
 else if ($_SERVER['REQUEST_METHOD'] == "POST") {
     # API: 
