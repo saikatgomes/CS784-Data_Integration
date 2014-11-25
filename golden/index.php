@@ -27,7 +27,7 @@
     #$data = file_get_contents('test_tuples.json');
     $data = sample(1);
     $json_data = json_decode($data,true);
-#print_r($json_data);
+    #print_r($json_data);
 
     #just take the first row for now!
     $blocking_id = $json_data[0]['blockingid'];
@@ -39,17 +39,23 @@
 
 function send_result(aChoice){
     console.log("SRG the best! "+ aChoice);
-    $.post("mine_gold.php",
-    {
-        blockingid: <?php echo $blocking_id?>,
-        choice: aChoice
-    },
-    function(data){
-        alert("posted" + data + " ... reload!");
-        var div = document.getElementById('srg');
-        div.style.display = 'block';
-        location.reload();
-    });
+
+    $.ajax({
+      type: 'POST',
+	  url: "http://seclab6.cs.wisc.edu:5000/golden/mine_gold.php",
+	  crossDomain: true,
+	  data: { "blockingid": <?php echo $blocking_id?>, "choice": aChoice},
+	  //dataType: 'json',
+	  success: function(responseData, textStatus, jqXHR) {
+	  alert("posted" + responseData + " ... reload!");
+	  var div = document.getElementById('srg');
+	  div.style.display = 'block';
+	  location.reload();
+	},
+	  error: function (responseData, textStatus, errorThrown) {
+	  alert('POST failed.');
+	}
+      });
 };
 
 </script>
