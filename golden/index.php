@@ -22,6 +22,21 @@
     $HOME="";
     $ACTIVE="GOLD";
     include '../header.php';
+    include "mine_gold.php";
+   
+    
+    $data = file_get_contents('test_tuples.json');
+    $data2 = sample(1);
+    $json_data = json_decode($data2,true);
+    print_r($json_data);
+
+    echo "<br><br>";
+
+
+    foreach($json_data[0] as $key => $value){
+        echo $key . '=>' . $value . '<br/>';       
+    }
+
 ?>
 <div class="row">
     <div class="col-md-12">
