@@ -110,6 +110,7 @@ function order_attr( $json_obj ) {
     $r1["cylinders"]  = $t1["attr_cylinders"];
     $r1["transmission"]  = $t1["attr_transmission"];
     $r1["drive"]  = $t1["attr_drive"];
+    $r1["body"]  = $t1["body"];
 
     #T2
     $t2 = $json_obj["T2"];

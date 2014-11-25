@@ -44,8 +44,10 @@ function send_result(aChoice){
         blockingid: <?php echo $blocking_id?>,
         choice: aChoice
     },
-    function(d){
-	//alert("posted " + d + " ... reload!");
+    function(data){
+        //alert("posted" + data + " ... reload!");
+        var div = document.getElementById('srg');
+        [div].visible = true;
         location.reload();
     });
 };
@@ -55,13 +57,17 @@ function send_result(aChoice){
 <div class="row">
     <div class="col-md-12">
         <center>
-        <form action="mine_gold.php" method="POST">
         <button onclick="send_result(1)" type="button" class="btn btn-success">Is A Match</button>
         &nbsp;
         <button onclick="send_result(0)" type="button" class="btn btn-danger">Not A Match</button>
         &nbsp;
         <button onclick="send_result(-1)" type="button" class="btn btn-warning">Not Relevant</button>
-        </form>
+        <br>
+        <div id="srg" class="panel panel-default" style="display:none">
+          <div class="panel-body">
+              Loading new data ...
+          </div>
+        </div>
         </center>
     </div>
 </div>
