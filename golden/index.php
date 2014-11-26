@@ -47,7 +47,7 @@ function send_result(aChoice){
 	  data: { "blockingid": <?php echo $blocking_id?>, "choice": aChoice},
 	  //dataType: 'json',
 	  success: function(responseData, textStatus, jqXHR) {
-	  alert("posted" + responseData + " ... reload!");
+	  //alert("posted" + responseData + " ... reload!");
 	  var div = document.getElementById('srg');
 	  div.style.display = 'block';
 	  location.reload();
