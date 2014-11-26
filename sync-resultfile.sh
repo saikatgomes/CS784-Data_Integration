@@ -19,7 +19,7 @@ then
 	git commit -m "AUTO COMMIT: result.txt"
 	git pull
 	git push origin master
-	sleep 5;
+	sleep 15;
     done
 elif [ "$1" = "pull" ]
 then
