@@ -115,7 +115,7 @@ def final_blocking():
     # pairId:INTEGER,bowker.id:TEXT,walmart.id:TEXT,
     # 1,9780226156439,4086892,
 
-    with open('data/blocking_data/blocks.table', 'w') as f:
+    with open('data/blocking_data/blocks.csv', 'w') as f:
         f.write("pairID:INTEGER,craiglist.id:INTEGER,kbb.id:INTEGER\n")
         pairid = 1
         for k,v in tuple_pair.items():
@@ -132,8 +132,8 @@ def final_blocking():
 
 
 if __name__ == '__main__':
-    H = hash_kbb(sys.argv[1])
-    match_with_craiglist(sys.argv[2], H)
+    #H = hash_kbb(sys.argv[1])
+    #match_with_craiglist(sys.argv[2], H)
     final_blocking()
 
 
