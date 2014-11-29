@@ -282,9 +282,7 @@
     "make": [
       "gmc"
     ], 
-    "model": [
-      "c"
-    ], 
+    "model": [], 
     "year": [
       "1995"
     ]
@@ -653,8 +651,8 @@
       "pontiac"
     ], 
     "model": [
-      "prix", 
       "98", 
+      "prix", 
       "grand"
     ], 
     "year": [
@@ -3287,6 +3285,7 @@
       "ford"
     ], 
     "model": [
+      "s10", 
       "trans", 
       "convertible", 
       "mustang"
@@ -3661,7 +3660,6 @@
       "gmc"
     ], 
     "model": [
-      "c", 
       "sonoma"
     ], 
     "year": []
@@ -3976,8 +3974,8 @@
       "ram"
     ], 
     "model": [
-      "ram", 
-      "1500"
+      "1500", 
+      "ram"
     ], 
     "year": [
       "1999"
@@ -4801,7 +4799,6 @@
     ], 
     "model": [
       "ram", 
-      "m", 
       "2500"
     ], 
     "year": [
@@ -5329,10 +5326,10 @@
     ]
   }, 
   "4683284770": {
-    "make": [], 
-    "model": [
-      "c"
+    "make": [
+      "gmc"
     ], 
+    "model": [], 
     "year": []
   }, 
   "4683286450": {
@@ -7218,8 +7215,8 @@
       "toyota"
     ], 
     "model": [
-      "supra", 
-      "celica"
+      "celica", 
+      "supra"
     ], 
     "year": []
   }, 
@@ -9701,8 +9698,8 @@
     ], 
     "model": [
       "88", 
-      "mustang", 
       "convertible", 
+      "mustang", 
       "lx"
     ], 
     "year": []
@@ -13946,8 +13943,8 @@
       "ford"
     ], 
     "model": [
-      "gt", 
-      "probe"
+      "probe", 
+      "gt"
     ], 
     "year": [
       "1994"
@@ -13963,10 +13960,10 @@
     "year": []
   }, 
   "4700884956": {
-    "make": [], 
-    "model": [
-      "c"
+    "make": [
+      "gmc"
     ], 
+    "model": [], 
     "year": []
   }, 
   "4700909594": {
@@ -13981,7 +13978,6 @@
       "gmc"
     ], 
     "model": [
-      "c", 
       "sierra"
     ], 
     "year": [
@@ -14277,8 +14273,8 @@
       "mercury"
     ], 
     "model": [
-      "marquis", 
-      "grand"
+      "grand", 
+      "marquis"
     ], 
     "year": []
   }, 
@@ -14456,8 +14452,8 @@
     ], 
     "model": [
       "1500", 
-      "x", 
-      "cab"
+      "cab", 
+      "x"
     ], 
     "year": [
       "1999"
@@ -14775,7 +14771,6 @@
       "gmc"
     ], 
     "model": [
-      "c", 
       "1500", 
       "sierra", 
       "x"
@@ -15775,8 +15770,7 @@
   "4703346368": {
     "make": [], 
     "model": [
-      "car", 
-      "8"
+      "car"
     ], 
     "year": []
   }, 
@@ -16432,9 +16426,7 @@
     "make": [
       "gmc"
     ], 
-    "model": [
-      "c"
-    ], 
+    "model": [], 
     "year": []
   }, 
   "4704240574": {
@@ -17812,8 +17804,8 @@
       "ford"
     ], 
     "model": [
-      "gt", 
-      "probe"
+      "probe", 
+      "gt"
     ], 
     "year": [
       "1994"
@@ -18000,8 +17992,8 @@
       "chevrolet"
     ], 
     "model": [
-      "98", 
-      "blazer"
+      "blazer", 
+      "98"
     ], 
     "year": [
       "1998"
@@ -19320,8 +19312,8 @@
       "dodge"
     ], 
     "model": [
-      "98", 
-      "dakota"
+      "dakota", 
+      "98"
     ], 
     "year": [
       "1998"
@@ -20140,8 +20132,8 @@
       "ford"
     ], 
     "model": [
-      "gt", 
-      "mustang"
+      "mustang", 
+      "gt"
     ], 
     "year": [
       "1999"
@@ -21852,7 +21844,6 @@
       "gmc"
     ], 
     "model": [
-      "c", 
       "crew", 
       "1500", 
       "sierra", 
@@ -22129,9 +22120,9 @@
       "dodge"
     ], 
     "model": [
-      "98", 
       "dakota", 
-      "sport"
+      "sport", 
+      "98"
     ], 
     "year": [
       "1998"
@@ -24830,8 +24821,8 @@
       "toyota"
     ], 
     "model": [
-      "98", 
-      "camry"
+      "camry", 
+      "98"
     ], 
     "year": [
       "1998"
@@ -25869,6 +25860,7 @@
   }, 
   "4708529179": {
     "make": [
+      "jeep", 
       "chevrolet"
     ], 
     "model": [
@@ -26063,7 +26055,6 @@
     "model": [
       "extended", 
       "ram", 
-      "m", 
       "98", 
       "1500", 
       "cab"
@@ -26920,8 +26911,8 @@
       "mercury"
     ], 
     "model": [
-      "marquis", 
-      "grand"
+      "grand", 
+      "marquis"
     ], 
     "year": [
       "2003"
@@ -30521,7 +30512,6 @@
       "gmc"
     ], 
     "model": [
-      "c", 
       "sierra", 
       "2500"
     ], 
@@ -30833,8 +30823,8 @@
       "pontiac"
     ], 
     "model": [
-      "gt", 
-      "sunfire"
+      "sunfire", 
+      "gt"
     ], 
     "year": [
       "1997"
@@ -33040,9 +33030,9 @@
       "pontiac"
     ], 
     "model": [
-      "firebird", 
       "98", 
-      "t"
+      "t", 
+      "firebird"
     ], 
     "year": [
       "1998"
@@ -34149,7 +34139,8 @@
       "ford"
     ], 
     "model": [
-      "f250"
+      "f250", 
+      "grand"
     ], 
     "year": [
       "1997", 
@@ -35052,8 +35043,8 @@
       "pontiac"
     ], 
     "model": [
-      "montana", 
-      "sv6"
+      "sv6", 
+      "montana"
     ], 
     "year": [
       "2001"
@@ -35223,8 +35214,8 @@
     ], 
     "model": [
       "cherokee", 
-      "98", 
-      "grand"
+      "grand", 
+      "98"
     ], 
     "year": [
       "1998"
@@ -35994,9 +35985,7 @@
     "make": [
       "gmc"
     ], 
-    "model": [
-      "c"
-    ], 
+    "model": [], 
     "year": [
       "1996"
     ]
@@ -36220,8 +36209,8 @@
       "honda"
     ], 
     "model": [
-      "civic", 
-      "ex"
+      "ex", 
+      "civic"
     ], 
     "year": [
       "1997"
@@ -36971,9 +36960,8 @@
       "gmc"
     ], 
     "model": [
-      "c", 
-      "3500", 
-      "savana"
+      "savana", 
+      "3500"
     ], 
     "year": [
       "2002"
@@ -39003,8 +38991,8 @@
       "honda"
     ], 
     "model": [
-      "sol", 
-      "del"
+      "del", 
+      "sol"
     ], 
     "year": [
       "1994"
@@ -43030,9 +43018,9 @@
       "chevrolet"
     ], 
     "model": [
-      "cargo", 
       "extended", 
       "van", 
+      "cargo", 
       "astro", 
       "3"
     ], 
@@ -43479,8 +43467,8 @@
       "cadillac"
     ], 
     "model": [
-      "90", 
-      "fleetwood"
+      "fleetwood", 
+      "90"
     ], 
     "year": []
   }, 
@@ -44507,9 +44495,9 @@
       "ford"
     ], 
     "model": [
+      "mustang", 
       "88", 
-      "t", 
-      "mustang"
+      "t"
     ], 
     "year": []
   }, 
@@ -44931,8 +44919,8 @@
       "chevrolet"
     ], 
     "model": [
-      "impala", 
-      "lt"
+      "lt", 
+      "impala"
     ], 
     "year": [
       "2008"
@@ -48892,8 +48880,8 @@
       "chevrolet"
     ], 
     "model": [
-      "98", 
       "s10", 
+      "98", 
       "s"
     ], 
     "year": [
@@ -51791,9 +51779,9 @@
       "ford"
     ], 
     "model": [
+      "mustang", 
       "gt", 
-      "98", 
-      "mustang"
+      "98"
     ], 
     "year": [
       "1998"
@@ -54530,9 +54518,9 @@
       "ram"
     ], 
     "model": [
+      "1500", 
       "ram", 
-      "98", 
-      "1500"
+      "98"
     ], 
     "year": [
       "1998"

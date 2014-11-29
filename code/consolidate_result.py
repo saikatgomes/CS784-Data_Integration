@@ -48,6 +48,19 @@ def fuck(fname_blocking, fname_result):
         d = D_blocking[a[0]]
         print ','.join([a[0], d[0], d[1], a[1]])
 
+def fix_craiglist_year(fname):
+  col_num = 0
+  attr = ['title', 'make', 'attr_title', 'year']
+  with open(fname) as f:
+    for i,l in enumerate(f):
+      l = l.strip().split(',')
+      if i==0:
+        col_num = [l.index(x) for x in attr]
+      else:
+        if l[col_num[-1]]
+
+
+
 def remove_duplicate_id(fname):
   x = {}
   dup = 0

@@ -39,7 +39,7 @@ def hash_kbb( fname ):
     # for k in H:
     #     print len(H[k].keys())
     json.dump(H, 
-              open('blocking_data/kbb-model_make_year_to_id.json', 'w'),
+              open('data/blocking_data/kbb-model_make_year_to_id.json', 'w'),
               indent=2,
               sort_keys=True)
     
@@ -87,14 +87,14 @@ def match_with_craiglist(fname, H):
             X[t[0]].extend(t[1])
         Match_Craiglist_KBB[tp['id']] = X
     json.dump(Match_Craiglist_KBB, 
-              open('blocking_data/craiglist-kbb-keywords.json', 'w'),
+              open('data/blocking_data/craiglist-kbb-keywords.json', 'w'),
               indent=2,
               sort_keys=True)
 
 
 def final_blocking():
-    craig_kbb_list = json.load(open('blocking_data/craiglist-kbb-keywords.json'))
-    kbb_index = json.load(open('blocking_data/kbb-model_make_year_to_id.json'))
+    craig_kbb_list = json.load(open('data/blocking_data/craiglist-kbb-keywords.json'))
+    kbb_index = json.load(open('data/blocking_data/kbb-model_make_year_to_id.json'))
 
     # Play with this. Like a kid -- 6 year old
     weights = {'make': 3.0, 'model': 2.0, 'year': 6.0} 
@@ -115,11 +115,11 @@ def final_blocking():
     # pairId:INTEGER,bowker.id:TEXT,walmart.id:TEXT,
     # 1,9780226156439,4086892,
 
-    with open('blocking_data/blocks.table', 'w') as f:
+    with open('data/blocking_data/blocks.table', 'w') as f:
         f.write("pairID:INTEGER,craiglist.id:INTEGER,kbb.id:INTEGER\n")
         pairid = 1
         for k,v in tuple_pair.items():
-            f.write('\n'.join("%d,%d,%d" % (pairid+i, int(k), x)
+            f.write('\n'.join("%d,%d,%d" % (pairid+i, int(k), int(x))
                               for i,x in enumerate(v)))
             f.write('\n')
             pairid += len(v)
