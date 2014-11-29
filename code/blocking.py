@@ -65,7 +65,6 @@ def match_with_craiglist(fname, H):
         bag = get_uniq_w_list([tp['make'], 
                                tp['attr_title'],
                                tp['title'].split('-')[0]]
-                              
                               )
         # try:
         #     bag.remove('%s' % t['year'])
@@ -133,8 +132,8 @@ def final_blocking():
 
 
 if __name__ == '__main__':
-    #H = hash_kbb(sys.argv[1])
-    #match_with_craiglist(sys.argv[2], H)
+    H = hash_kbb(sys.argv[1])
+    match_with_craiglist(sys.argv[2], H)
     final_blocking()
 
 
