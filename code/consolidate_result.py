@@ -57,9 +57,23 @@ def fix_craiglist_year(fname):
       if i==0:
         col_num = [l.index(x) for x in attr]
       else:
-        if l[col_num[-1]]
+        pass
+        #if l[col_num[-1]]
 
-
+def fix_kbb_f150(fname):
+  import re
+  with open(fname) as f:
+    for i,l in enumerate(f):
+      l = l.strip().split(',')
+      new_col = l[5]
+      if re.match(r'F[0-9]+', l[5]):
+        m = l[5].split()[0]
+        if m != l[5]:
+          new_col = m
+      l.insert(5, new_col)
+      print ','.join(l)
+      
+  
 
 def remove_duplicate_id(fname):
   x = {}
@@ -80,4 +94,5 @@ def remove_duplicate_id(fname):
 if __name__ == "__main__":
   #consolidate(sys.argv[1])
   #fuck(*sys.argv[1:])
-  remove_duplicate_id(sys.argv[1])
+  #remove_duplicate_id(sys.argv[1])
+  fix_kbb_f150(sys.argv[1])
