@@ -1,3 +1,4 @@
+EMS/
 *~
 \#*
 *.pyc
@@ -7,3 +8,4 @@ webpages/
 img/
 *.class
 *.jar
+nohup.out
