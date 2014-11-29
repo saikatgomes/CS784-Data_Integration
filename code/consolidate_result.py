@@ -1,5 +1,5 @@
 
-import os, sys
+import os, sys, json
 from collections import defaultdict
 import itertools, operator
 
@@ -50,18 +50,19 @@ def fuck(fname_blocking, fname_result):
 
 def remove_duplicate_id(fname):
   x = {}
-  for i,l in enumerate(open(fname)):
-    if i==0: 
-      print l,
-      continue
-    a = l.split(',')
-    if a[0] in x:
-      x[a[0]] += 1
-      a[0] += "%d"%x[a[0]];
+  dup = 0
+  D = json.load(open(fname))
+  for v in D["table"]["tuples"]:
+    a = v["id"];
+    if a in x:
+      print "Duplicate:",v["id"]
+      dup = 1
+      x[a] += 1
+      v["id"] = "%s%s" %(a,x[a]);
     else:
-      x[a[0]] = 0
-    print ','.join(a),
-
+      x[a] = 0
+  if dup >0:
+    json.dump(D, open(fname,'w'), indent=2)
       
 if __name__ == "__main__":
   #consolidate(sys.argv[1])
