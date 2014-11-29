@@ -48,7 +48,22 @@ def fuck(fname_blocking, fname_result):
         d = D_blocking[a[0]]
         print ','.join([a[0], d[0], d[1], a[1]])
 
+def remove_duplicate_id(fname):
+  x = {}
+  for i,l in enumerate(open(fname)):
+    if i==0: 
+      print l,
+      continue
+    a = l.split(',')
+    if a[0] in x:
+      x[a[0]] += 1
+      a[0] += "%d"%x[a[0]];
+    else:
+      x[a[0]] = 0
+    print ','.join(a),
 
+      
 if __name__ == "__main__":
   #consolidate(sys.argv[1])
-  fuck(*sys.argv[1:])
+  #fuck(*sys.argv[1:])
+  remove_duplicate_id(sys.argv[1])
