@@ -1,6 +1,6 @@
 {
-	"NumGoldenSample": 100,
-	"Overlap": 4,
+	"NumGoldenSample": 500,
+	"Overlap": 3,
 	"TableInfo" : {
 		"BlockingTable": "../data/blocking_data/blocks.table",
 		"Table-1": "../data/all_makes_table_craiglist.json",

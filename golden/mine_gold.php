@@ -17,6 +17,7 @@ $sample_f = $conf["Outputdir"]."/sample_blocks.json";
 $result_f = $conf["Outputdir"]."/result.txt";
 
 function setup($conf_file) {
+    echo $conf_file;
     global $sample_f, $result_f;
     $conf = json_decode(file_get_contents($conf_file), true) or die("Unable to open conffile - ". $conf_file);
 
@@ -159,7 +160,7 @@ else if ($_SERVER['REQUEST_METHOD'] == "POST") {
 }
 
 #
-# parse_str(implode('&', array_slice($argv, 1)), $_GET);
+#setup($argv[1]);
 # save_res($_GET);
 #
 
