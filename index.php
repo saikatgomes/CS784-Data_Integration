@@ -54,6 +54,9 @@
 			<a class="btn btn-primary btn-lg" role="button" href="code.php">See Code</a>
 		    </p>
 		</div> 
+		<h3 style="color: #f00"> NEW </h3>
+		<a style="color: #3ff;" href="https://docs.google.com/document/d/1UrzwqCmSO5qoGM5CEcJro9lLc_QHC3aCYICA4e_ngVU/edit?usp=sharing" ><u>Final Document for the project</u>
+</a>
 	    </div>
 	    <div class="col-md-1"></div>
 	</div>
