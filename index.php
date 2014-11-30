@@ -24,45 +24,48 @@
 	include 'header.php';
 	?>
 
-
-	<br>
 	<br>
 
 	<div class="row">
 	    <div class="col-md-1"></div>
 	    <div class="col-md-5">
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<!--<img src="img/car.png" class="img-responsive" alt="Responsive image">-->
+			<div class="jumbotron">
+				<h1>Data Integration</h1>
+				<p><br></p>
+				<p>Buying and selling used cars is a huge industry. For this project we deccied to crawl
+				<b><a href='https://madison.craigslist.org/search/cta'>Craiglist</a></b> and
+				<b><a href="https://www.kbb.com">Kelly Blue Book</a></b> for used cars. Our goal is to extract
+				relavent information from the unstructed Craiglist post and match the post with a car
+				configuration on Kelly Blue Book website.<br><br>
+				We have crawled <u>4953</u> Craiglist postings and about <u>25412</u> Kelly Blue Book listings.</p>
+				<p><br></p>
+				<p>
+				<a class="btn btn-primary btn-lg" role="button" href="data.html">See Data</a>
+				<a class="btn btn-primary btn-lg" role="button" href="code.php">See Code</a>
+				<a class="btn btn-primary btn-lg" role="button" href="golden">Mine Gold</a>
+				<br><br>
+				<div class="panel panel-default">
+				  <div class="panel-body">
+					<center>
+						<h3>
+						<a style="color: #f00"><b><i>NEW: </i></b></a>
+						<a style="color: #3ff;" href="https://docs.google.com/document/d/1UrzwqCmSO5qoGM5CEcJro9lLc_QHC3aCYICA4e_ngVU/edit?usp=sharing" >Final document for the project.</a>
+						</h3>
+					</center>
+				  </div>
+				</div>
+				</p>
+			</div> 
+	    </div>
+	    <div class="col-md-5">
+		<br>
+        <!--<img src="img/car.png" class="img-responsive" alt="Responsive image">-->
 	    <img src="img/confusion_matrix.gif" class="img-responsive" alt="Responsive image">
         <br>
         <h4><b>Class 1 :</b> Matching Cars<br><b>Class 2 :</b> Different Cars</h4>
         <h6>1-See: J. Richard Landis and Gary G. Koch - The Measurement of Observer Agreement for Categorical Data, Biometrics, Vol. 33, No. 1 (Mar., 1977), pp. 159-174.<br>
         Source: <a href="http://www.marcovanetti.com/pages/cfmatrix/">http://www.marcovanetti.com/pages/cfmatrix/</a></h6>
         </div>
-	    <br>
-	    <div class="col-md-5">
-		<div class="jumbotron">
-		    <h1>Data Integration</h1>
-		    <p><br></p>
-		    <p>Buying and selling used cars is a huge industry. For this project we deccied to crawl
-			<b><a href='https://madison.craigslist.org/search/cta'>Craiglist</a></b> and
-			<b><a href="https://www.kbb.com">Kelly Blue Book</a></b> for used cars. Our goal is to extract
-			relavent information from the unstructed Craiglist post and match the post with a car
-			configuration on Kelly Blue Book website.<br><br>
-			We have crawled <u>4953</u> Craiglist postings and about <u>25412</u> Kelly Blue Book listings.</p>
-		    <p><br></p>
-		    <p>
-			<a class="btn btn-primary btn-lg" role="button" href="data.html">See Data</a>
-			<a class="btn btn-primary btn-lg" role="button" href="code.php">See Code</a>
-		    </p>
-		</div> 
-		<h3 style="color: #f00"> NEW </h3>
-		<h3><a style="color: #3ff;" href="https://docs.google.com/document/d/1UrzwqCmSO5qoGM5CEcJro9lLc_QHC3aCYICA4e_ngVU/edit?usp=sharing" ><u>Final Document for the project</u></h3>
-</a>
-	    </div>
 	    <div class="col-md-1"></div>
 	</div>
 	<script>
