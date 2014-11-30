@@ -46,12 +46,10 @@
 				<br><br>
 				<div class="panel panel-default">
 				  <div class="panel-body">
-					<center>
-						<h3>
-						<a style="color: #f00"><b><i>NEW: </i></b></a>
-						<a style="color: #3ff;" href="https://docs.google.com/document/d/1UrzwqCmSO5qoGM5CEcJro9lLc_QHC3aCYICA4e_ngVU/edit?usp=sharing" >Final document for the project.</a>
-						</h3>
-					</center>
+					<h3>
+					<a style="color: #f00"><b>NEW: </b></a>
+					<a href="https://docs.google.com/document/d/1UrzwqCmSO5qoGM5CEcJro9lLc_QHC3aCYICA4e_ngVU/edit?usp=sharing" >Final document for the project. [click here]</a>
+					</h3>
 				  </div>
 				</div>
 				</p>
