@@ -37,8 +37,10 @@
 		<br/>
 		<!--<img src="img/car.png" class="img-responsive" alt="Responsive image">-->
 	    <img src="img/confusion_matrix.gif" class="img-responsive" alt="Responsive image">
-        <br><br>
+        <br>
         <h4><b>Class 1 :</b> Matching Cars<br><b>Class 2 :</b> Different Cars</h4>
+        <h6>1-See: J. Richard Landis and Gary G. Koch - The Measurement of Observer Agreement for Categorical Data, Biometrics, Vol. 33, No. 1 (Mar., 1977), pp. 159-174.<br>
+        Source: <a href="http://www.marcovanetti.com/pages/cfmatrix/">http://www.marcovanetti.com/pages/cfmatrix/</a></h6>
         </div>
 	    <br>
 	    <div class="col-md-5">
