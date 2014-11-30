@@ -38,14 +38,13 @@
 				relavent information from the unstructed Craiglist post and match the post with a car
 				configuration on Kelly Blue Book website.<br><br>
 				We have crawled <u>4953</u> Craiglist postings and about <u>25412</u> Kelly Blue Book listings.</p>
-				<div class="panel panel-default">
-				  <div class="panel-body">
-					<h3>
-					<a style="color: #f00"><b>NEW: </b></a>
-					<a href="https://docs.google.com/document/d/1UrzwqCmSO5qoGM5CEcJro9lLc_QHC3aCYICA4e_ngVU/edit?usp=sharing" >Final document for the project. [click here]</a>
-					</h3>
+				  <div class="alert alert-success" role="alert">
+					<center>
+					<a href="https://docs.google.com/document/d/1UrzwqCmSO5qoGM5CEcJro9lLc_QHC3aCYICA4e_ngVU/edit?usp=sharing" class="alert-link">
+						Final document for the project
+					</a>
+					</center>	
 				  </div>
-				</div>
 				<p>
 				<a class="btn btn-primary btn-lg" role="button" href="data.html">See Data</a>
 				<a class="btn btn-primary btn-lg" role="button" href="code.php">See Code</a>
