@@ -35,8 +35,11 @@
 		<br/>
 		<br/>
 		<br/>
-		<img src="img/car.png" class="img-responsive" alt="Responsive image">
-	    </div>
+		<!--<img src="img/car.png" class="img-responsive" alt="Responsive image">-->
+	    <img src="img/confusion_matrix.gif" class="img-responsive" alt="Responsive image">
+        <br><br>
+        <h4><b>Class 1 :</b> Matching Cars<br><b>Class 2 :</b> Different Cars</h4>
+        </div>
 	    <br>
 	    <div class="col-md-5">
 		<div class="jumbotron">
