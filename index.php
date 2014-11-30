@@ -38,12 +38,6 @@
 				relavent information from the unstructed Craiglist post and match the post with a car
 				configuration on Kelly Blue Book website.<br><br>
 				We have crawled <u>4953</u> Craiglist postings and about <u>25412</u> Kelly Blue Book listings.</p>
-				<p><br></p>
-				<p>
-				<a class="btn btn-primary btn-lg" role="button" href="data.html">See Data</a>
-				<a class="btn btn-primary btn-lg" role="button" href="code.php">See Code</a>
-				<a class="btn btn-primary btn-lg" role="button" href="golden">Mine Gold</a>
-				<br><br>
 				<div class="panel panel-default">
 				  <div class="panel-body">
 					<h3>
@@ -52,17 +46,21 @@
 					</h3>
 				  </div>
 				</div>
+				<p>
+				<a class="btn btn-primary btn-lg" role="button" href="data.html">See Data</a>
+				<a class="btn btn-primary btn-lg" role="button" href="code.php">See Code</a>
+				<a class="btn btn-primary btn-lg" role="button" href="golden">Mine Gold</a>
 				</p>
 			</div> 
 	    </div>
 	    <div class="col-md-5">
-		<br>
-        <!--<img src="img/car.png" class="img-responsive" alt="Responsive image">-->
-	    <img src="img/confusion_matrix.gif" class="img-responsive" alt="Responsive image">
-        <br>
-        <h4><b>Class 1 :</b> Matching Cars<br><b>Class 2 :</b> Different Cars</h4>
-        <h6>1-See: J. Richard Landis and Gary G. Koch - The Measurement of Observer Agreement for Categorical Data, Biometrics, Vol. 33, No. 1 (Mar., 1977), pp. 159-174.<br>
-        Source: <a href="http://www.marcovanetti.com/pages/cfmatrix/">http://www.marcovanetti.com/pages/cfmatrix/</a></h6>
+			<br>
+		    <!--<img src="img/car.png" class="img-responsive" alt="Responsive image">-->
+			<img src="img/confusion_matrix.gif" class="img-responsive" alt="Responsive image">
+		    <br>
+		    <h4><b>Class 1 :</b> Matching Cars<br><b>Class 2 :</b> Different Cars</h4>
+		    <h6>1-See: J. Richard Landis and Gary G. Koch - The Measurement of Observer Agreement for Categorical Data, Biometrics, Vol. 33, No. 1 (Mar., 1977), pp. 159-174.<br>
+		    Source: <a href="http://www.marcovanetti.com/pages/cfmatrix/">http://www.marcovanetti.com/pages/cfmatrix/</a></h6>
         </div>
 	    <div class="col-md-1"></div>
 	</div>
