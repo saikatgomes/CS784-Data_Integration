@@ -11,3 +11,6 @@ http://pages.cs.wisc.edu/~anhai/courses/784-fall14/project.html
 
 Our Doc:
 https://docs.google.com/document/d/1UrzwqCmSO5qoGM5CEcJro9lLc_QHC3aCYICA4e_ngVU/edit
+
+Similarity measure site:
+http://asecuritysite.com/forensics/simstring
