@@ -9,3 +9,8 @@ img/
 *.class
 *.jar
 nohup.out
+*.pdf
+*.bbl
+*.blg
+*.aux
+*.log

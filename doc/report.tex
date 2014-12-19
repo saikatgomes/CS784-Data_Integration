@@ -1,0 +1,376 @@
+\documentclass[dvips,11pt]{article}
+
+\usepackage{color}
+\usepackage[pdftex]{graphicx}
+\usepackage{url,tikz,pgfplots}
+\usepackage{pstricks}
+\usepackage[margin=1in]{geometry}
+\input{rdefs}
+
+
+\title{Cars: Matching KBB with Craiglist}
+\author{Saikat R. Gomes \and Rahul Chatterjee}
+\date{}
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+Used vehicle market in United States is quite large and comparable to the new-car market. National
+Automobile Dealers Association (NADA) has reported that 17.4 million used vehicles were sold by
+franchised new-car dealers in 2013~\cite{nada2014}. And their 33.3\% revenue were from used
+cars. There is huge market outside of these franchises. We could not find any concrete report from
+DMV, but we believe huge number of cars are sold by individuals. Global Auto report has shown
+consumer index for used-cars often leads that of new-cars and heavily used in predicting stock price
+of CPI of new-cars~\cite{gar}. On account of this, used-cars market should be endowed with minimal
+skewed information for a better economy. Kelly Blue Book (\url{http://www.kbb.com/}) tries to
+provide best market value of a new or used car based real transactions.
+
+People, often for buying used cars, reconcile the posted price of a car in Craiglist with that on
+KBB (Please refer to Section~\ref{data-sources} for more information about these two sites). But the
+process of finding the price requires to traverse through 6-10 web pages in KBB with enough
+knowledge about cars. And doing that for many cars on Craiglist is quite cumbersome and tiring. We
+want to provide a automatic solution to this, by providing best match of a Craiglist car with KBB
+and retrieving the price in one go.
+ 
+
+\section{Data Sources}
+\label{data-sources}
+\par Craiglist is a free advertise posting website in United States very popular for buying and
+selling used things including Cars. Any individual (and dealer) can post their add on this with
+minimal effort which will be searchable by anyone who wishes to buy similar stuff. On search
+Craiglist shows items that are close to the buyer's location. It recently introduced a new feature
+of `nearby sellers', where it shows available items in nearby locations (also maximum distance set
+by the user). We used Craiglist car advertisements as our Source 1.
+
+Craiglist advertisement posting form for cars is very generic and allows lot of freedom to the user,
+making is easy to submit add, but the data is very unstructured. So, parsing and cleaning the data
+was a real challenge for us. Biggest problem was under specified car information, or information in
+body instead of structured columns, varying year formats. Add to that, we had to deal with short
+hands for car names, or even different naming (e.g. ``Chevy'' for ``Chevrolet'') etc.  We crawled
+car advertisements from both {\bf Madison} and {\bf Milwaukee} Craiglist in total 4953 pages.
+   
+Our second source is KBB or Kelly Blue Book. Kelly Blue Book tries to provide the market value of a
+car based on its make, model, age, odometer value, some more parameters and the region it is being
+sold.  This data is pretty structured. Though because the cars taxonomy it self is quite involved
+and deep, we had to crawl in depth first search manner, e.g. start with a make, find all the model
+of the cars, then for each model find all sub-models, followed by searching for all attributes and
+types etc.
+
+\begin{table}
+  \centering
+  \begin{tabular}{|p{0.5in}|p{2.8in}|p{2.2in}|}
+    \hline
+    & {\bf Source 1:} Craiglist & {\bf Source 2:} KBB\\\hline
+    Web Site & \url{http://madison.craigslist.org/cta}, \url{http://milwaukee.craigslist.org/cta} & \url{http://www.kbb.com/} \\\hline
+    Sample Page & \url{ http://pages.cs.wisc.edu/~saikat/projects/data_integration/webpages/craiglist/milwaukee_4713568034.html} & \url{http://pages.cs.wisc.edu/~saikat/projects/data_integration/webpages/kbb/page.html} \\\hline
+    Crawled Pages & 4953 & 25412\\\hline
+  \end{tabular}
+  \label{data-info}
+  \caption{Data Source Information}
+\end{table}
+%\rcnote{ Describe where you got the two tables (the URLs of the sources, the nature of the sources, etc.). Describe how you got the data (e.g., how many pages did you crawl, starting with which URLs, etc.). List a sample Web page. }
+
+\section{Extraction and Cleaning} 
+We collected as much information as we could extract from the data sources storing everything in json format. The schema of the sources are shown in Table~\ref{schema}.
+
+We used python BeautifulSoup and xml xpath to download and parse the data. The big challenge was to
+clean and make sure we are not missing any field. We used regular expression in many places but
+coming up with generic but meaningful regular expression for parsing was tough. Some of the
+challenges that we faced are --
+
+
+\begin{enumerate}
+\item More than 23\% of Craigslist postings do not contain ``year'' field. We parsed year from title
+  but parser failed in many cases because of wrong format and it is very hard to come up with a
+  universal parser for all year formats used in Craigslist. 
+\item Synonyms: Many advertisements contain ``Chevy'' instead of ``Chevrolet'', ``VW'' instead of
+  ``Volkswagen''. We cleaned the Craigslist data by replacing these synonyms with KBB standard names.
+
+  %We solved this by taking OR of year in
+  %attribute title, title or year. This was a problem because we want this compound rule to be in
+  %conjunction with all other rules, but EMS does not provide any clean way to represent that.
+
+\item Different ways of specifying cars. Some attribute of the cars that most of the people do not
+  bother to mention in Craigslist while those create different car in KBB. e.g. ``f150' Cab'' vs
+  ``F-150 Super Cab''. ``325ci'' verses ``3 series 325ci''. This problem was creating lot of false
+  negative and pushing down our recall statistic. We could not mitigate this problem completely and
+  dealt with it by small substitution in Craigslist data in cleaning step.
+\end{enumerate}
+
+Finally we merged the ``title'', ``attribute title'' (`atitle') and ``year'' field and created a combined column for extracting ``year information''. Same was used, in later section we shall describe, for make and model fuzzy match.
+
+\begin{table}[!ht]
+  \small
+  \parbox{.45\linewidth}{
+    \begin{tabular}{|p{0.75in}|c|p{1.4in}|}
+      \hline
+      {\bf Atribute} & {\bf Type} & {\bf Description}\\\hline
+      id    & integer & craiglist posting id\\
+      title & string & title of the posting\\
+      body  & string & body of the posting\\
+      price  & string & listed price\\
+      location & string & location of the posting\\
+      make  & string &  make of the car\\
+      year  & integer &year of the car\\
+      posted  & string &  date of the posting\\
+      % updated & string &  date of last update of the posting\\
+      VIN & string &  VIM of the car\\
+      condition & string &  car condition\\
+      cylinders & string &  \# of cylinders in engine\\
+      drive & string &  drive type\\
+      fuel & string &  fuel type\\
+      odometer & string &  odometer reading\\
+      paint color & string &  color of the car\\
+      size & string &  engine size\\
+      size & string &  car dimensions\\
+      atitle & string &  DMV title type\\
+      title-status & string &  DMV title status\\
+      transmission & string &  transmission type\\
+      type & string &  car type  \\\hline  
+    \end{tabular}
+  }
+  \hfill
+  \parbox{.45\linewidth}{
+    \begin{tabular}{|p{0.75in}|c|p{1.3in}|}
+      \hline
+      {\bf Atribute} & {\bf Type} & {\bf Description}\\\hline
+      id & integer & KBB vehicle id\\
+      make & string & make of the car\\
+      category & string & car category\\
+      year & integer &year of the car\\
+      model & string & car model\\
+      sub\_cat & string & sub-category\\
+      drive-train & string & drive train\\
+      engine & string & engine type\\
+      transmission & string & transmission type.\\
+      url & string & url of the car\\
+      \hline
+    \end{tabular}
+  }
+  \label{schema}
+  \caption{The schema of the de-normalized tables for Craiglist ({\bf left}) and KBB ({\bf right}).}
+\end{table}
+%\rcnote{the data: Describe the schema of the two tables. List some sample tuples. Describe how you extract the attributes. Did you run into any problems in extracting the attributes. Did you do any pre-processing of data, such as removing certain attribute values? }
+
+\newpage
+\section{Blocking}
+Complete cross product of matching tables can generate unrealistic number of tuples and makes the
+final complex matching procedure to be very inefficient. We have 4953 tuples in Craiglist 25412
+tuples in KBB table. Cross join will generate $125,865,636$ many tuple pairs. Clearly there is
+strictly less than 4953 matching tuples. To decrease the false matches, we do first level
+``mis-matching'' of the data and removed that are obvious mis-match.  The number of matching tuple,
+after completion of blocking was 295,502 (99.76\% decrease). 
+
+
+Our primary goal here is to find potential matches of the tuples that has higher probability of
+being matched in final step, removing obvious non-matches. But as Craiglist adds are manually
+posted, we had to take care of the typographical errors and small variation in the spelling.
+We took a fuzzy matching with voting approach from the words present in the add with a KBB 
+car description. The detailed methodology is described below.
+\\[10pt]
+\noindent {\bf Methodology}
+\begin{enumerate}
+\item {\bf Reverse Indexed KBB tuples} \\ We created a dictionary of {\em keywords} from KBB table using
+  only ``make'', ``model'' and ``year'' and then a reverse index from each keyword to the set of
+  {\tt kbb.ids} that contain that keyword. There are 62 keywords in ``make'', 717 keywords in ``model''
+  and 21 in ``year''. For few ``makes'' and ``model'' contain multiple words we split them into two
+  keywords.
+
+\item {\bf Bag of words for Craiglist tuples} \\For each tuple in Craiglist we built a bag of words (BoW)
+  containing the unique words from ``title'', ``atitle'' and ``year'' column.
+
+\item {\bf Voting} \\After creating BoW, we take majority weighted voting of the {\tt kbb.id}s for
+  each closest matched Keywords in KBB. A keyword in the dictionary (created in step 1) is called
+  closest match for a word in BoW if the edit distance between them is less than or equal to 2. We
+  wanted a hard reject on ``year'' mis-match. So gave highest weight of 10 for every year
+  match. While for rest of the types (make and model), the weight was 5. The threshold for matching
+  we set to $\ge 15$, making sure the year has to match and at least one make or model should match.
+  After weighted voting only ids of KBB are kept in final tuple pairs which are above a
+  certain threshold.
+
+\end{enumerate}
+
+For creating golden data we build a system to allow crowdsourcing. The system admin can specify
+number of golden data he wants, number of time a matched tuple should be picked and the input data
+file information in json format. The system will pick specified number of matched tuple from
+blocking data and store it. After that it picks one of theses sample and shows to the user, where
+user can cast his/her vote for ``Is a matching'' or ``Not a matching''. As the Craigslist data
+contain many spam ads (could be spam messages, ads for motor bike etc.) we kept a option ``Not
+relevant''. Finally we collected the data and take the majority of votes against every
+tuple. Definitely this system is no way close to publish in normal crowdsourcing as it has severe
+security flaws, but it provided us a good learning experience with crowdsourcing. We aimed of
+putting some more fine grained analysis of the voting results (taking user's experience and
+intention into consideration while weighing their votes). Due to lack of time we refrain ourselves
+from delving deep into that direction. But at the end we consolidated the result where voting was
+done by 4 friends including us. And in the during precision-recall optimization in the EMS, with the
+help of Google we figure out there were 6 wrong positives and 2 wrong negatives out of 592 golden
+data samples ($\sim 1.3\%$).
+
+The crowdsourcing page is still up if reader wants to visit. {\bf URL:}
+\url{http://pages.cs.wisc.edu/~saikat/projects/data_integration/golden/}
+
+%\rcnote{ How did you create the golden data. Did you have any problems deciding if a tuple pair match? }
+
+\section{Matching with EMS}
+\noindent{\bf\large  Features:}
+\begin{verbatim}
+  1. f_match_year_exact = 
+           EXACT_MATCH,crg_tab.year,kbb_tab.year
+
+  2. f_match_title-year_swg = 
+           SMITH_WATERMAN_GOTOH_SIMILARITY,crg_tab.title,kbb_tab.year
+
+  3. f_match_attTitle-year_swg = 
+           SMITH_WATERMAN_GOTOH_SIMILARITY,crg_tab.attr_title,kbb_tab.year
+
+  4. f_match_title-make_swg = 
+           SMITH_WATERMAN_GOTOH_SIMILARITY,crg_tab.title,kbb_tab.make
+
+  5. f_match_attTitle-make_swg = 
+           SMITH_WATERMAN_GOTOH_SIMILARITY,crg_tab.attr_title,kbb_tab.make
+
+  6. f_match_make-make_swg = 
+           SMITH_WATERMAN_GOTOH_SIMILARITY,crg_tab.make,kbb_tab.make
+
+  7. f_match_title-model_swg = 
+           SMITH_WATERMAN_GOTOH_SIMILARITY,crg_tab.title,kbb_tab.model
+
+  8. f_match_attTitle-model_swg = 
+           SMITH_WATERMAN_GOTOH_SIMILARITY,crg_tab.attr_title,kbb_tab.model
+
+  9. f_match_make-model_swg = 
+           SMITH_WATERMAN_GOTOH_SIMILARITY,crg_tab.make,kbb_tab.model
+\end{verbatim}
+
+\vspace{.2in}
+\noindent {\bf\large Rules:}
+\begin{enumerate}
+\item
+\begin{verbatim}
+f_match_year_exact == 1.0 AND f_match_title-model_swg >= 0.85 
+    AND f_match_title-make_swg >= 0.85 ;
+\end{verbatim}
+\item
+\begin{verbatim}
+f_match_year_exact == 1.0 AND f_match_attTitle-model_swg >= 0.85 
+    AND f_match_attTitle-make_swg >= 0.85 ;
+\end{verbatim}
+
+\item
+\begin{verbatim}
+f_match_title-year_swg >= 0.9 AND f_match_title-make_swg >= 0.85 
+    AND f_match_title-model_swg >= 0.85
+\end{verbatim}
+
+\item
+\begin{verbatim}
+f_match_attTitle-year_swg >= 0.9 AND f_match_attTitle-make_swg >= 0.85 
+    AND f_match_attTitle-model_swg >= 0.85
+\end{verbatim}
+
+\item
+\begin{verbatim}
+f_match_attTitle-year_swg >= 0.9 AND f_match_title-model_swg >= 0.85
+    AND f_match_title-make_swg >= 0.85
+\end{verbatim}
+
+\end{enumerate}
+% 
+
+\vspace{.3in}
+%\begin{centering}
+\parbox[t]{.45\linewidth}{
+\noindent{\bf\large Evaluation summary:}\\[3pt]
+\begin{tabular}{rl}
+ Precision & 0.97\\
+ Recall & 0.88\\
+ F1 score & 0.92\\
+ \# precision errors & 1\\
+ \# recall errors & 5\\
+\end{tabular}
+}
+\hfill
+\parbox[t]{0.45\linewidth}{
+\noindent{\bf\large Matching summary:}\\[3pt]
+\begin{tabular}{rl}
+candidate set size & 591\\
+Total matches & 37\\
+Total rules & 5\\
+Total Features & 9
+\end{tabular}
+}
+%\end{centering}
+\begin{table}
+  \small
+  \begin{tabular}{|r|c|c|c|c|}
+    \hline
+    & C1 & C2 & Classification Overall & Precision \\\hline
+    C1 & 36 & 1 & 37 & 97.3\%\\
+    C2 & 5  & 547 & 554 & 99.1\%\\\hline
+    Truth Overall & 41 & 550 & 591 & --\\
+    Recall & 87.8\% & 99.8\% & -- & -- \\\hline
+  \end{tabular}
+\end{table}
+
+%\rcnote{ Step: what were the matching rules you came up with? What precision and recall did you achieve. Any problems during this process? }
+
+\subsection{Feedback:} %\rcnote{any feedback in terms of using the tool? Anything you'd like to see? Any other issues that you want to mention? }
+We started the EMS as explained by this link. First try ended up in {\tt ``NullPointerException:
+  Null''}. Initial couple of hours we spent in figuring out what was wrong. In the process of
+debugging we figure out there are several issues e.g One cannot delete any of the tables, rules,
+matchers etc.  Even the row/column deletion method for tables will result in some Exception. Finally
+we figure out there was a problem in our KBB data, the id attribute was not unique. After gaining 2
+hours of familiarity with the system and fixing that error, our subsequent work with EMS was more or
+less smooth (No error throwing).  In first few iteration we figured out that the Craigslist data
+needs serious cleaning and noise reduction. The EMS system, though theoretically can handle that
+complexity, definitely not a handy/powerful tool to solve the data matching problem where data
+contain too much noise (due too much flexibility in advertisement posting form in Craigslist and
+human choice). We definitely felt a need of decision tree like system instead of a simple OR of AND
+of simple features.  In section challenges we have explained the approaches that we have taken to
+deal with most of these problems.
+
+To deal with the multiple column span matches we found that Craigslist title and attribute title
+(atitle) contains most of the information about the car, which can be obtained from KBB, make,
+model, sub\_cat attributes. We created Smith-Waterman-Gotoh similarity metric provided by EMS which
+is ideal for this scenario where one is super set of the other column. We started with simple rules
+and incrementally added more features and rules to boost the precision from $<70\%$ to $97.3\%$
+while also improving the recall from 49\% to 87.8\%.
+
+The Easy UI and very well descriptive debugging and refining rules interface is really good in
+EMS. It helped us a lot in finding expected precision-recall sweet point fast. Also we liked that
+all the result data are stored in standard and clear format, makes it easy to port to other system.
+ 
+Besides these good qualities, we felt the system quite still quite fragile and needs more
+testing. Error handling is to be done more conservative way. Also, the exceptions were not
+informative enough to hint the user about its mistake. The {\em matcher} is quite with very
+restrictive rules (with {\sc OR}s only). Will allowing ``AND'' operator in Rules make the system too
+much complex? Add to that, if in some way we can specify decision tree it will be way more powerful.
+Number of matchers are pretty limited (6 at this time).  We found the `delete' operation is not
+implemented in the view table tab.
+
+
+\section{Links} 
+% \rcnote{Pointers: list where we can find your raw data, two tables, golden data, matching rules,
+%   etc. This place should be online until at least Jan 1, 2015. }
+The project is at \url{http://pages.cs.wisc.edu/~saikat/projects/data_integration/}.
+{\bf Golden Data:}
+\url{http://pages.cs.wisc.edu/~saikat/projects/data_integration/data/golden_data.csv}\\
+{\bf Matches:}
+\url{http://pages.cs.wisc.edu/~saikat/projects/data_integration/data/final_matches.table}\\
+{\bf Evaluation:}
+\url{http://pages.cs.wisc.edu/~saikat/projects/data_integration/data/final_eval.evalsum}\\
+
+%The report doesn't have to be more than 8-10 pages. We will discuss this further in the class today. 
+\bibliographystyle{abbrv}
+%\bibliography{refs.bib}
+\begin{thebibliography}{1}
+
+\bibitem{gar} Carlos Gomes {\em Global Auto Report}  November 27, 2014, \url{http://www.gbm.scotiabank.com/English/bns_econ/bns_auto.pdf}.
+\bibitem{nada2014} Steven Szakaly {\em NADA Data Overview}  2014, \url{http://www.nada.org/NR/rdonlyres/DF6547D8-C037-4D2E-BD77-A730EBC830EB/0/NADA_Data_2014_05282014.pdf}.
+
+\end{thebibliography}
+
+\end{document}
+
+% LocalWords:  tuple

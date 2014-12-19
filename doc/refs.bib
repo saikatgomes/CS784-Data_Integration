@@ -1,0 +1,120 @@
+
+%
+% TREFFEN KADEMLIA AND RELATED TOPICS
+%
+
+@incollection{maymounkov2002kademlia,
+  title={Kademlia: A peer-to-peer information system based on the xor metric},
+  author={Maymounkov, Petar and Mazieres, David},
+  booktitle={Peer-to-Peer Systems},
+  pages={53--65},
+  year={2002},
+  publisher={Springer}
+}
+
+@article{stoica2001chord,
+  title={Chord: A scalable peer-to-peer lookup service for internet applications},
+  author={Stoica, Ion and Morris, Robert and Karger, David and Kaashoek, M Frans and Balakrishnan, Hari},
+  journal={ACM SIGCOMM Computer Communication Review},
+  volume={31},
+  number={4},
+  pages={149--160},
+  year={2001},
+  publisher={ACM}
+}
+
+@inproceedings{rowstron2001pastry,
+  title={Pastry: Scalable, decentralized object location, and routing for large-scale peer-to-peer systems},
+  author={Rowstron, Antony and Druschel, Peter},
+  booktitle={Middleware 2001},
+  pages={329--350},
+  year={2001},
+  organization={Springer}
+}
+
+@article{zhao2004tapestry,
+  title={Tapestry: A resilient global-scale overlay for service deployment},
+  author={Zhao, Ben Y and Huang, Ling and Stribling, Jeremy and Rhea, Sean C and Joseph, Anthony D and Kubiatowicz, John D},
+  journal={Selected Areas in Communications, IEEE Journal on},
+  volume={22},
+  number={1},
+  pages={41--53},
+  year={2004},
+  publisher={IEEE}
+}
+
+@incollection{schlosser2003hypercup,
+  title={HyperCuP—hypercubes, ontologies, and efficient search on peer-to-peer networks},
+  author={Schlosser, Mario and Sintek, Michael and Decker, Stefan and Nejdl, Wolfgang},
+  booktitle={Agents and Peer-to-Peer Computing},
+  pages={112--124},
+  year={2003},
+  publisher={Springer}
+}
+
+@article{el2004overview,
+  title={An overview of structured P2P overlay networks},
+  author={El-Ansary, Sameh and Haridi, Seif},
+  journal={Swedish Institute of Computer Science and Royal Institute of Technology},
+  year={2004}
+}
+
+@inproceedings{mazieres1999separating,
+  title={Separating key management from file system security},
+  author={Mazieres, David and Kaminsky, Michael and Kaashoek, M Frans and Witchel, Emmett},
+  booktitle={ACM SIGOPS Operating Systems Review},
+  volume={33},
+  number={5},
+  pages={124--139},
+  year={1999},
+  organization={ACM}
+}
+
+%
+% MESSAGE ORDERING / CHAT CONSISTENCY
+%
+
+@article{lamport1978time,
+  title={Time, clocks, and the ordering of events in a distributed system},
+  author={Lamport, Leslie},
+  journal={Communications of the ACM},
+  volume={21},
+  number={7},
+  pages={558--565},
+  year={1978},
+  publisher={ACM}
+}
+
+%(dynamo for the discussion of why vector clocks might be more difficult than
+% they are worth in our case (changing membership, clock having to change size
+% constantly)
+@inproceedings{decandia2007dynamo,
+  title={Dynamo: amazon's highly available key-value store},
+  author={DeCandia, Giuseppe and Hastorun, Deniz and Jampani, Madan and Kakulapati, Gunavardhan and Lakshman, Avinash and Pilchin, Alex and Sivasubramanian, Swaminathan and Vosshall, Peter and Vogels, Werner},
+  booktitle={ACM SIGOPS Operating Systems Review},
+  volume={41},
+  number={6},
+  pages={205--220},
+  year={2007},
+  organization={ACM}
+}
+
+%
+% CRYPTOGRAPHY
+%
+
+@inproceedings{steiner1996diffie,
+  title={Diffie-Hellman key distribution extended to group communication},
+  author={Steiner, Michael and Tsudik, Gene and Waidner, Michael},
+  booktitle={Proceedings of the 3rd ACM conference on Computer and communications security},
+  pages={31--37},
+  year={1996},
+  organization={ACM}
+}
+
+@manual{tls1.2,
+  title  = "The Transport Layer Security (TLS) Protocol Version 1.2",
+  author = "Dierks T.",
+  url    = "http://tools.ietf.org/html/rfc5246",
+  year   = "August 2008"
+}

@@ -40,7 +40,7 @@
 				We have crawled <u>4953</u> Craiglist postings and about <u>25412</u> Kelly Blue Book listings.</p>
 				  <div class="alert alert-success" role="alert">
 					<center>
-					<a href="https://docs.google.com/document/d/1UrzwqCmSO5qoGM5CEcJro9lLc_QHC3aCYICA4e_ngVU/edit?usp=sharing" class="alert-link">
+					<a href="final_doc.html" class="alert-link">
 						Final document for the project
 					</a>
 					</center>	

@@ -43,7 +43,7 @@
 	      nearly <b>4953</b> tuples in Craiglist <b>25412</b> tuples in KBB table. Cross join will 
 	      generate <b>125,865,636</b> many tuple pairs. Clearly there is strictly less than 4953 
 	      matching tuples. To decrease the false matches, we do first level "mis-matching" of the data
-	      and decrease the number to <b>863207</b> (99.31% decrease). <br/><br/>
+	      and decrease the number to <b>295,502</b> (99.31% decrease). <br/><br/>
 	    </p>
 	    <p>
 	      <h3>Methodology</h3>
